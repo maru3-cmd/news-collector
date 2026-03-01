@@ -1,0 +1,16 @@
+[
+  {
+    "source": "ITmedia",
+    "title": "日本の社長は「AI投資に慎重だけど責任感強い」　AI時代の競争力向上に必要な姿勢とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/01/news004.html",
+    "summary": "要約エラー: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "collected_at": "2026-03-01T15:07:33.585388"
+  },
+  {
+    "source": "ITmedia",
+    "title": "日立と塩野義、生成AIで規制文書作成を最大50％短縮　医薬品開発の効率化目指す",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/01/news003.html",
+    "summary": "要約エラー: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "collected_at": "2026-03-01T15:07:33.658787"
+  }
+]
