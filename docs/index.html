@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>技術ニュース</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f5f5f5; padding: 20px; }
+    h1 { text-align: center; margin-bottom: 20px; color: #333; }
+    .news-list { max-width: 800px; margin: 0 auto; }
+    .news-item { background: white; border-radius: 8px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+    .news-source { font-size: 12px; color: #666; margin-bottom: 4px; }
+    .news-title { font-size: 16px; font-weight: bold; color: #333; margin-bottom: 8px; }
+    .news-summary { font-size: 14px; color: #555; line-height: 1.6; }
+    .news-date { font-size: 11px; color: #999; margin-top: 8px; }
+    .loading { text-align: center; padding: 40px; color: #666; }
+    .error { text-align: center; padding: 40px; color: #c00; }
+  </style>
+</head>
+<body>
+  <h1>📰 技術ニュース</h1>
+  <div class="news-list" id="newsList">
+    <div class="loading">読み込み中...</div>
+  </div>
+
+  <script>
+    async function loadNews() {
+      try {
+        const response = await fetch('./news_data.json');
+        const articles = await response.json();
+        
+        const container = document.getElementById('newsList');
+        
+        if (articles.length === 0) {
+          container.innerHTML = '<div class="error">ニュースがありません</div>';
+          return;
+        }
+        
+        container.innerHTML = articles.map(article => `
+          <div class="news-item">
+            <div class="news-source">${article.source}</div>
+            <div class="news-title">${article.title}</div>
+            <div class="news-summary">${article.summary}</div>
+            <div class="news-date">${new Date(article.collected_at).toLocaleString('ja-JP')}</div>
+          </div>
+        `).join('');
+        
+      } catch (error) {
+        document.getElementById('newsList').innerHTML = 
+          '<div class="error">読み込みエラー: ' + error.message + '</div>';
+      }
+    }
+    
+    loadNews();
+  </script>
+</body>
+</html>
