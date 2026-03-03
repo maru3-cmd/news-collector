@@ -17,7 +17,7 @@ RSS_FEEDS = [
 def summarize_in_japanese(title, description):
     """記事を日本語で要約する"""
     prompt = f"""
-以下の記事を日本語で2-3文で要約してください。
+以下の記事を日本語で5-6文で詳しく要約してください。重要なポイントや数字があれば含めてください。
 タイトル: {title}
 内容: {description}
 """
