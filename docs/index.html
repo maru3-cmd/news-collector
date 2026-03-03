@@ -40,7 +40,7 @@
         container.innerHTML = articles.map(article => `
           <div class="news-item">
             <div class="news-source">${article.source}</div>
-            <div class="news-title">${article.title}</div>
+            <div class="news-title"><a href="${article.link}" target="_blank" style="color: #333; text-decoration: none;">${article.title}</a></div>
             <div class="news-summary">${article.summary}</div>
             <div class="news-date">${new Date(article.collected_at).toLocaleString('ja-JP')}</div>
           </div>
