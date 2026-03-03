@@ -3,6 +3,20 @@
     "source": "ITmedia",
     "title": "NTTドコモ、AIエージェントで障害対応時間50％削減見込む　100万台超のネットワーク機器をリアルタイム分析",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news040.html",
+    "summary": "NTTドコモは、100万台以上のネットワーク機器データをリアルタイムで分析するAIエージェントシステムを商用化しました。このシステムにより、複雑な故障への対応時間を50％以上削減し、ネットワーク保守の自律運用と品質向上を目指します。",
+    "collected_at": "2026-03-03T14:43:36.973776"
+  },
+  {
+    "source": "ITmedia",
+    "title": "Web閲覧だけでAIエージェントを乗っ取り？　OpenClawに重大な欠陥",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news039.html",
+    "summary": "Oasis Securityは、OpenClawのゲートウェイに、Web閲覧だけでAIエージェントが乗っ取られる可能性のある重大な欠陥を発見したと発表しました。開発側はこの脆弱性を高深刻度と判断し、既に24時間以内に修正版を公開しています。",
+    "collected_at": "2026-03-03T14:43:40.496904"
+  },
+  {
+    "source": "ITmedia",
+    "title": "NTTドコモ、AIエージェントで障害対応時間50％削減見込む　100万台超のネットワーク機器をリアルタイム分析",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news040.html",
     "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3-flash\nPlease retry in 4.098734258s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 4\n}\n]",
     "collected_at": "2026-03-03T14:17:55.909497"
   },
