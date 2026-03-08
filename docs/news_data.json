@@ -3,6 +3,20 @@
     "source": "ITmedia",
     "title": "Cisco FMCにCVSS10.0の脆弱性　回避策はないため迅速なアップデートを推奨",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news024.html",
+    "summary": "Ciscoは、自社のSecure FMCのWebインターフェースに認証回避の深刻な脆弱性を公表しました。この脆弱性を悪用すると、未認証の攻撃者がシステム上でroot権限を取得できてしまいます。その危険性から、CVSS v3.1スコアは最高の10.0と評価され、深刻度も「緊急」（Critical）に分類されています。現在、この脆弱性に対する回避策は提供されていません。そのため、Ciscoはユーザーに対し、影響を受けるSecure FMCを修正版へ速やかにアップデートするよう強く推奨しています。",
+    "collected_at": "2026-03-08T05:01:29.591992"
+  },
+  {
+    "source": "ITmedia",
+    "title": "AIの常時稼働によるトラフィック激増にどう対応するか　NEC・東大・NTTが技術を結集",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html",
+    "summary": "NEC、東京大学、NTTの3者は、AIの常時稼働によって引き起こされるトラフィックの激増に対応するため、6G/IOWN基盤にAIエージェント向けの技術を統合したと発表しました。この技術統合の目的は、大容量データの通信と計算を効率化することです。特に、常時稼働するAIエージェントが生成する膨大なデータを円滑に処理することを目指しています。\n\n実証実験では、リアルタイムAR支援のシナリオが用いられました。この実証を通じて、データ伝送における遅延の抑制と、高精度な処理の維持が確認されたとのことです。これにより、将来のAI活用を見据えた基盤技術の確立が進んでいます。",
+    "collected_at": "2026-03-08T05:01:35.213795"
+  },
+  {
+    "source": "ITmedia",
+    "title": "Cisco FMCにCVSS10.0の脆弱性　回避策はないため迅速なアップデートを推奨",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news024.html",
     "summary": "Ciscoは、同社のSecure FMC (Firepower Management Center) のWebインタフェースに極めて重大な認証回避の脆弱性があることを発表しました。これは、未認証の攻撃者がシステム上でroot権限を取得することを可能にするものです。この脆弱性はCVSS v3.1スコアで最大の10.0を記録し、「緊急」（Critical）と評価されています。\n\n記事によると、この脆弱性に対する回避策は存在しません。したがって、Ciscoは影響を受けるSecure FMCの利用者に対し、修正版への速やかなアップデートを強く推奨しています。",
     "collected_at": "2026-03-07T04:46:48.859934"
   },
