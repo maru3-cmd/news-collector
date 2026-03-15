@@ -1,5 +1,6 @@
 import json
 import os
+import time
 import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta
@@ -11,6 +12,9 @@ model = genai.GenerativeModel('gemini-2.5-flash')
 
 YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '')
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
+
+# Gemini API呼び出し間隔（秒）レート制限対策
+API_WAIT_SECONDS = 4
 
 # ========================================
 # ウォッチするチャンネル（追加・削除はここで）
@@ -47,9 +51,9 @@ SEARCH_KEYWORDS = [
 # 各キーワードで取得する動画数
 SEARCH_COUNT = 2
 # 各チャンネルから取得する動画数
-CHANNEL_COUNT = 2
+CHANNEL_COUNT = 1
 # 何日以内の動画を対象とするか
-DAYS_BACK = 7
+DAYS_BACK = 14
 
 
 def youtube_api_get(endpoint, params):
@@ -73,6 +77,7 @@ def summarize_video(title, description):
 タイトル: {title}
 説明文: {desc_short}"""
     try:
+        time.sleep(API_WAIT_SECONDS)  # レート制限対策
         response = model.generate_content(prompt)
         return response.text.strip()
     except Exception as e:
