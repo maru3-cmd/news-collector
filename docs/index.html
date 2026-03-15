@@ -37,6 +37,7 @@
       color: var(--text);
       line-height: 1.6;
       min-height: 100vh;
+      overflow-x: hidden;
     }
 
     /* ヘッダー */
@@ -133,7 +134,7 @@
       margin: 12px auto 40px;
       padding: 0 16px;
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
       gap: 14px;
     }
 
@@ -312,10 +313,25 @@
 
     /* レスポンシブ */
     @media (max-width: 640px) {
-      .card-grid { grid-template-columns: 1fr; }
-      .controls { flex-direction: column; }
+      .card-grid {
+        grid-template-columns: 1fr;
+        padding: 0 12px;
+      }
+      .controls {
+        flex-direction: column;
+        padding: 0 12px;
+      }
       .search-box { min-width: 100%; }
+      .filter-select, .sort-select { width: 100%; }
       .tab-btn { padding: 10px 20px; font-size: 13px; }
+      .header { padding: 20px 12px 12px; }
+      .header h1 { font-size: 20px; }
+      .card { padding: 14px; }
+      .card-title { font-size: 14px; }
+      .card-summary { font-size: 12px; -webkit-line-clamp: 3; }
+      .yt-body { padding: 12px 14px 14px; }
+      .yt-title { font-size: 14px; }
+      .yt-summary { font-size: 12px; }
     }
   </style>
 </head>
