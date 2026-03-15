@@ -1,6 +1,159 @@
 [
   {
     "source": "ITmedia",
+    "title": "Active Directory到達まで約3.4時間　サイバー攻撃の調査で分かった厳しい実態",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news010.html",
+    "summary": "Sophosの最新のサイバー攻撃分析報告によると、調査されたインシデントの67%が認証情報侵害などのID関連の問題を侵入の起点としていました。攻撃者はシステム侵入後、平均約3.4時間という短時間でActive Directory（AD）に到達します。さらに、ランサムウェア攻撃やデータ窃取といった攻撃は、業務時間外に集中して実行される傾向が確認されました。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:26.350141"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "世界100以上の言語のあらゆる報道やSNSを収集・分析している「GDELTプロジェクト」、AIで25年分のテレビニュース翻訳などの実験も公開",
+    "link": "https://gigazine.net/news/20260315-gdelt-project/",
+    "summary": "「GDELTプロジェクト」は、世界中の100以上の言語で発信される放送、新聞、ウェブニュース、SNSを常に収集・アーカイブしています。地球上のあらゆる人々、組織、場所、テーマ、イベント、そしてそれに対する人々の感情までを記録し、巨大なデータベースとして提供しています。\n\nこのプロジェクトは、世界で何が起こっているのか、その背景や関係者を多角的に理解するための分析結果も公開しています。さらに、AIを活用して25年分のテレビニュースを翻訳するなどの実験も行っており、先進的なデータ分析に取り組んでいます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:29.645579"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料でYouTubeなどから動画・音楽をダウンロードできるyt-dlpを簡単に使える「ytdlp-interface」、オープンソースで開発され広告やユーザー登録なしで利用可能",
+    "link": "https://gigazine.net/news/20260315-ytdlp-interface/",
+    "summary": "YouTubeやニコニコ動画などから動画や音楽をダウンロードできるツール「yt-dlp」を、Windowsで簡単に利用できるグラフィカルインターフェース「ytdlp-interface」が公開されました。このツールはMITライセンスのオープンソースで開発されており、広告やユーザー登録なしで完全に無料で利用可能です。これにより、技術的な知識がなくてもストリーミングコンテンツのダウンロードが可能になります。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:32.207822"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Metaは従業員の最大20％の解雇を計画、AIコスト増大を受け",
+    "link": "https://gigazine.net/news/20260315-meta-plan-sweeping-layoffs-ai-costs-mount/",
+    "summary": "FacebookやInstagramを運営するMetaは、AIへの投資拡大に伴うコスト増大を受け、全従業員の最大20％にあたる1万5800人の解雇を計画していると報じられました。同社はAI技術への戦略的な注力を強化するため、大規模な人員削減に踏み切る見込みです。この措置は、急増するAI関連費用に対応し、リソースを最適化することを目的としています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:36.739229"
+  },
+  {
+    "source": "Zenn",
+    "title": "忍者の末裔に教わった「網膜瞬間記憶術」をAIでトレーニングする本を書いた",
+    "link": "https://zenn.dev/idev/articles/article-20260315-legacy-dx-ninja-intro",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 22.640727686s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:37.415665"
+  },
+  {
+    "source": "Zenn",
+    "title": "速さは設計を代替しない — cekernel Reviewer の試行錯誤から",
+    "link": "https://zenn.dev/r_kawaiimura/articles/3aecdd424788ce",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 22.555715953s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:37.493983"
+  },
+  {
+    "source": "Zenn",
+    "title": "生成AIが魅せる「同相の幻惑」 〜決定論的写像の錯覚、その位相幾何学的深淵〜",
+    "link": "https://zenn.dev/albatrosary/articles/eccb6241433ef7",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 22.045346524s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:38.009184"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Keras実験】学習率スケジューラ5種を比較｜ReduceLROnplateau・CosineDecay・OneCycleなど",
+    "link": "https://zenn.dev/wasurenamemo/articles/30c30a03c138f5",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.959136005s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:38.090703"
+  },
+  {
+    "source": "Zenn",
+    "title": "DXを必ず成功させる方法があった！",
+    "link": "https://zenn.dev/ogiki/articles/44a3fb342db1d0",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.387903574s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:38.737120"
+  },
+  {
+    "source": "Zenn",
+    "title": "なぜDXは失敗するのか？失敗の構造を解剖し、成功を作る",
+    "link": "https://zenn.dev/ogiki/articles/cbab6558ffaf03",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.229253784s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:38.821240"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude CodeをWindowsにインストールする手順まとめ（初心者向けセットアップガイド）",
+    "link": "https://qiita.com/kuririrn/items/7a44f6c80cc4ec87aff3",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.757256356s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:39.298639"
+  },
+  {
+    "source": "Qiita",
+    "title": "2026/03/15 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "link": "https://qiita.com/ennagara128/items/afc04f2a5a1f1880236e",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.672482189s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:39.382350"
+  },
+  {
+    "source": "Qiita",
+    "title": "【G検定対策】教師あり学習・教師なし学習・強化学習をやさしく整理してみる",
+    "link": "https://qiita.com/ura_taka/items/e8252d5fc17ff4e7c429",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.203678631s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-15T04:30:39.843604"
+  },
+  {
+    "source": "はてなブックマーク",
+    "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください - Qiita",
+    "link": "https://qiita.com/K5K/items/72cc4282819ace823524",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.151115895s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:40.897009"
+  },
+  {
+    "source": "はてなブックマーク",
+    "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選 - Qiita",
+    "link": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.067150705s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:40.984510"
+  },
+  {
+    "source": "はてなブックマーク",
+    "title": "「いずれAIに使い潰される人」のためのAI批判ガイド » p2ptk[.]org",
+    "link": "https://p2ptk.org/ai/5439",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 18.982326175s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:41.063572"
+  },
+  {
+    "source": "はてなブックマーク",
+    "title": "MacBookで動くし、ぶっ壊れ性能。いま最強のローカルLLM｢Qwen3.5｣を解説しちゃう",
+    "link": "https://www.gizmodo.jp/2026/03/qwen_3_5_9b_4b.html",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 18.894418266s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-15T04:30:41.151730"
+  },
+  {
+    "source": "ITmedia",
     "title": "IPA、サプライチェーンの企業間データ連携に関する共通指針を公開　「データスペース」で信頼性のあるデータ流通目指す",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news017.html",
     "summary": "情報処理推進機構（IPA）は、サプライチェーンにおける企業間のデータ連携を円滑に進めるため、共通要件を整理したガイドラインを公開しました。このガイドラインは、具体的な業務要件や設計方針を提示することで、各分野での詳細なガイドライン策定を効率化することを目的としています。これにより、企業間のデータ連携が円滑になり、サプライチェーン全体の効率化が期待されます。さらに、炭素排出管理や製品履歴管理といった重要な社会課題への対応も促します。IPAは、この取り組みを通じて「データスペース」の構築を目指しており、企業間で信頼性のあるデータ流通を実現することで、持続可能なサプライチェーンの実現に貢献しようとしています。",
