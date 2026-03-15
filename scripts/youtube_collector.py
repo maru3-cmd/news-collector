@@ -23,16 +23,15 @@ API_WAIT_SECONDS = 4
 #   → "channelId" で検索、または youtube.com/channel/XXXX のXXXX部分
 # ========================================
 CHANNELS = [
-    # AI系
-    {"name": "マジAI", "id": "UCkHF7L3ZCq8HsFZMgCNkNjQ"},
-    {"name": "ハック大学", "id": "UCZsIJbKQMqoKbreM5a00Gmg"},
-    {"name": "AIニュースラボ", "id": "UCpXAS-M6RxbHbVPn5gNkUfg"},
-    {"name": "AI仙人", "id": "UCnPHUjuDDVFi5ITwnqP87uw"},
-    # ビジネス×テクノロジー
-    {"name": "PIVOT", "id": "UCMlbH3wnmUwLxBMkXGBbGBw"},
-    # 製造業DX系
-    {"name": "ものづくり太郎", "id": "UCMlKwbkOSFSTKaGo2OAMV6A"},
-    {"name": "日経クロステック", "id": "UCkBOCUsFTjPbOjNPNqFaN4A"},
+    # 確認済みチャンネル
+    {"name": "マジAI", "id": "UCFy2R0BE58JGfJuM5jUd4Yg"},
+    {"name": "ハック大学", "id": "UCU0JjQr0I0DIRwV8joRIIBA"},
+    # 以下は確認後に追加（IDを調べてコメントを外す）
+    # {"name": "AIニュースラボ", "id": "ここにIDを入れる"},
+    # {"name": "AI仙人", "id": "ここにIDを入れる"},
+    # {"name": "PIVOT", "id": "ここにIDを入れる"},
+    # {"name": "ものづくり太郎", "id": "ここにIDを入れる"},
+    # {"name": "日経クロステック", "id": "ここにIDを入れる"},
 ]
 
 # ========================================
