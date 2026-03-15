@@ -2,7 +2,7 @@ name: ニュース収集
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # 毎日 09:00 JST
   workflow_dispatch:
 
 jobs:
@@ -10,20 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Pythonをセットアップ
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: ライブラリをインストール
         run: pip install -r requirements.txt
-      
+
       - name: ニュースを収集
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/collect_news.py
-      
+
+      - name: YouTube動画を収集
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/youtube_collector.py
+
       - name: 結果を保存
         run: |
           git config user.name "github-actions[bot]"
