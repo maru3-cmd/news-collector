@@ -2,6 +2,7 @@ import feedparser
 import json
 import os
 import re
+import time
 import urllib.request
 import urllib.parse
 from datetime import datetime
@@ -15,9 +16,9 @@ model = genai.GenerativeModel('gemini-2.5-flash')
 # RSSフィード設定（追加・削除はここで）
 # ========================================
 RSS_FEEDS = [
-    {"name": "ITmedia", "url": "https://rss.itmedia.co.jp/rss/2.0/enterprise.xml", "count": 3},
-    {"name": "GIGAZINE", "url": "https://gigazine.net/news/rss_2.0/", "count": 3},
-    {"name": "TechCrunch Japan", "url": "https://jp.techcrunch.com/feed/", "count": 2},
+    {"name": "ITmedia", "url": "https://rss.itmedia.co.jp/rss/2.0/enterprise.xml", "count": 1},
+    {"name": "GIGAZINE", "url": "https://gigazine.net/news/rss_2.0/", "count": 1},
+    {"name": "TechCrunch Japan", "url": "https://jp.techcrunch.com/feed/", "count": 1},
 ]
 
 # ========================================
@@ -26,6 +27,15 @@ RSS_FEEDS = [
 ZENN_TOPICS = ["ai", "machinelearning", "dx", "iot", "chatgpt", "claude"]
 QIITA_TAGS = ["AI", "機械学習", "DX", "生成AI", "ChatGPT", "Claude"]
 HATENA_CATEGORY = "it"  # テクノロジーカテゴリ
+
+# はてなブックマークで除外するドメイン
+HATENA_BLOCKED_DOMAINS = ["nhk.or.jp", "nhk.jp"]
+
+# Gemini API呼び出し間隔（秒）レート制限対策
+API_WAIT_SECONDS = 4
+
+# 1回の実行で作る記事の上限
+MAX_ARTICLES_PER_RUN = 4
 
 # ========================================
 # カテゴリ定義
@@ -59,6 +69,7 @@ def summarize_in_japanese(title, description):
 タイトル: {title}
 内容: {description}"""
     try:
+        time.sleep(API_WAIT_SECONDS)  # レート制限対策
         response = model.generate_content(prompt)
         return response.text.strip()
     except Exception as e:
@@ -106,15 +117,14 @@ def collect_zenn():
     """Zennのトレンド記事を収集"""
     articles = []
     print("  Zenn取得中...")
-    for topic in ZENN_TOPICS[:3]:  # API負荷軽減のため3トピックまで
-        url = f"https://zenn.dev/api/articles?topicname={topic}&order=latest&count=2"
+    for topic in ZENN_TOPICS[:1]:  # 1トピックのみ
+        url = f"https://zenn.dev/api/articles?topicname={topic}&order=latest&count=1"
         data = fetch_json(url)
         if not data or "articles" not in data:
             continue
-        for item in data["articles"][:2]:
+        for item in data["articles"][:1]:
             title = item.get("title", "タイトルなし")
             link = f"https://zenn.dev{item.get('path', '')}"
-            # Zennは本文がAPIで取れないのでタイトルから要約
             summary = summarize_in_japanese(title, title)
             articles.append({
                 "source": "Zenn",
@@ -132,16 +142,16 @@ def collect_qiita():
     """Qiitaの最新記事を収集"""
     articles = []
     print("  Qiita取得中...")
-    for tag in QIITA_TAGS[:3]:  # API負荷軽減
+    for tag in QIITA_TAGS[:1]:  # 1タグのみ
         encoded_tag = urllib.parse.quote(tag)
-        url = f"https://qiita.com/api/v2/tags/{encoded_tag}/items?per_page=2"
+        url = f"https://qiita.com/api/v2/tags/{encoded_tag}/items?per_page=1"
         data = fetch_json(url)
         if not data:
             continue
-        for item in data[:2]:
+        for item in data[:1]:
             title = item.get("title", "タイトルなし")
             link = item.get("url", "")
-            body = item.get("body", "")[:500]  # 先頭500文字
+            body = item.get("body", "")[:500]
             summary = summarize_in_japanese(title, body)
             articles.append({
                 "source": "Qiita",
@@ -162,9 +172,23 @@ def collect_hatena():
     url = "https://b.hatena.ne.jp/hotentry/it.rss"
     try:
         feed = feedparser.parse(url)
-        for entry in feed.entries[:4]:
+        count = 0
+        for entry in feed.entries:
+            if count >= 1:  # 1件まで
+                break
             title = entry.get("title", "タイトルなし")
             link = entry.get("link", "")
+
+            # ブロックドメインのチェック
+            is_blocked = False
+            for domain in HATENA_BLOCKED_DOMAINS:
+                if domain in link:
+                    print(f"  除外（NHK）: {title[:40]}...")
+                    is_blocked = True
+                    break
+            if is_blocked:
+                continue
+
             description = entry.get("summary", entry.get("description", ""))
             summary = summarize_in_japanese(title, description)
             articles.append({
@@ -176,6 +200,7 @@ def collect_hatena():
                 "content_type": "news",
                 "collected_at": datetime.now().isoformat()
             })
+            count += 1
     except Exception as e:
         print(f"  はてなブックマーク取得エラー: {e}")
     return articles
@@ -228,6 +253,7 @@ def save_articles(articles):
 if __name__ == "__main__":
     print("=" * 50)
     print("ニュース収集を開始...")
+    print(f"1回あたりの上限: {MAX_ARTICLES_PER_RUN}件")
     print("=" * 50)
 
     all_articles = []
@@ -236,17 +262,29 @@ if __name__ == "__main__":
     print("\n[1/4] RSSフィード収集")
     all_articles.extend(collect_rss())
 
-    # Zenn収集
-    print("\n[2/4] Zenn収集")
-    all_articles.extend(collect_zenn())
+    # Zenn収集（上限チェック）
+    if len(all_articles) < MAX_ARTICLES_PER_RUN:
+        print("\n[2/4] Zenn収集")
+        all_articles.extend(collect_zenn())
+    else:
+        print("\n[2/4] Zenn収集: 上限到達のためスキップ")
 
-    # Qiita収集
-    print("\n[3/4] Qiita収集")
-    all_articles.extend(collect_qiita())
+    # Qiita収集（上限チェック）
+    if len(all_articles) < MAX_ARTICLES_PER_RUN:
+        print("\n[3/4] Qiita収集")
+        all_articles.extend(collect_qiita())
+    else:
+        print("\n[3/4] Qiita収集: 上限到達のためスキップ")
 
-    # はてなブックマーク収集
-    print("\n[4/4] はてなブックマーク収集")
-    all_articles.extend(collect_hatena())
+    # はてなブックマーク収集（上限チェック）
+    if len(all_articles) < MAX_ARTICLES_PER_RUN:
+        print("\n[4/4] はてなブックマーク収集")
+        all_articles.extend(collect_hatena())
+    else:
+        print("\n[4/4] はてなブックマーク収集: 上限到達のためスキップ")
+
+    # 上限でカット
+    all_articles = all_articles[:MAX_ARTICLES_PER_RUN]
 
     print(f"\n収集完了: 合計{len(all_articles)}件")
 
