@@ -32,19 +32,22 @@ CHANNELS = [
 ]
 
 # ========================================
-# 検索キーワード（追加・削除はここで）
+# 検索キーワード（現在は無効化中）
+# 有効にしたい場合は ENABLE_KEYWORD_SEARCH = True に変更
 # ========================================
+ENABLE_KEYWORD_SEARCH = False
+
 SEARCH_KEYWORDS = [
-    "AI 最新 2026",
+    "AI 最新",
     "DX 製造業",
     "生成AI 活用",
-    "最先端技術 2026",
+    "最先端技術",
 ]
 
 # 各キーワードで取得する動画数
 SEARCH_COUNT = 2
 # 各チャンネルから取得する動画数
-CHANNEL_COUNT = 1
+CHANNEL_COUNT = 2
 # 何日以内の動画を対象とするか
 DAYS_BACK = 7
 
@@ -219,9 +222,12 @@ if __name__ == "__main__":
     print("\n[1/2] チャンネル新着動画の取得")
     all_videos.extend(collect_from_channels())
 
-    # キーワード検索
-    print("\n[2/2] キーワード検索")
-    all_videos.extend(collect_from_keywords())
+    # キーワード検索（有効時のみ）
+    if ENABLE_KEYWORD_SEARCH:
+        print("\n[2/2] キーワード検索")
+        all_videos.extend(collect_from_keywords())
+    else:
+        print("\n[2/2] キーワード検索: 無効（固定チャンネルのみ）")
 
     print(f"\n収集完了: 合計{len(all_videos)}件")
 
