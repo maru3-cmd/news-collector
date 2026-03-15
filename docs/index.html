@@ -3,56 +3,579 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>技術ニュース</title>
+  <title>テックニュースハブ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f5f5f5; padding: 20px; }
-    h1 { text-align: center; margin-bottom: 20px; color: #333; }
-    .news-list { max-width: 800px; margin: 0 auto; }
-    .news-item { background: white; border-radius: 8px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-    .news-source { font-size: 12px; color: #666; margin-bottom: 4px; }
-    .news-title { font-size: 16px; font-weight: bold; color: #333; margin-bottom: 8px; }
-    .news-summary { font-size: 14px; color: #555; line-height: 1.6; }
-    .news-date { font-size: 11px; color: #999; margin-top: 8px; }
-    .loading { text-align: center; padding: 40px; color: #666; }
-    .error { text-align: center; padding: 40px; color: #c00; }
+
+    :root {
+      --bg: #f0f2f5;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --text-secondary: #555;
+      --text-muted: #888;
+      --accent: #2563eb;
+      --accent-light: #dbeafe;
+      --border: #e2e8f0;
+      --tag-ai: #7c3aed;
+      --tag-dx: #0891b2;
+      --tag-sec: #dc2626;
+      --tag-cloud: #2563eb;
+      --tag-dev: #059669;
+      --tag-biz: #d97706;
+      --tag-other: #6b7280;
+      --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+      --shadow-hover: 0 4px 12px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06);
+      --radius: 12px;
+      --yt-red: #ff0000;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ヘッダー */
+    .header {
+      background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%);
+      color: white;
+      padding: 24px 20px 16px;
+      text-align: center;
+    }
+    .header h1 {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+    .header p {
+      font-size: 13px;
+      opacity: 0.8;
+      margin-top: 4px;
+    }
+
+    /* タブ */
+    .tabs {
+      display: flex;
+      justify-content: center;
+      gap: 0;
+      background: #1e3a5f;
+      padding: 0 20px 0;
+    }
+    .tab-btn {
+      padding: 10px 28px;
+      font-size: 14px;
+      font-weight: 500;
+      color: rgba(255,255,255,0.6);
+      background: transparent;
+      border: none;
+      border-bottom: 3px solid transparent;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+    .tab-btn:hover { color: rgba(255,255,255,0.9); }
+    .tab-btn.active {
+      color: white;
+      border-bottom-color: white;
+    }
+
+    /* コントロールバー */
+    .controls {
+      max-width: 960px;
+      margin: 16px auto 0;
+      padding: 0 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      padding: 10px 14px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: inherit;
+      background: var(--card-bg);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--accent); }
+    .search-box::placeholder { color: #aaa; }
+
+    .filter-select, .sort-select {
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 13px;
+      font-family: inherit;
+      background: var(--card-bg);
+      cursor: pointer;
+      outline: none;
+    }
+    .filter-select:focus, .sort-select:focus { border-color: var(--accent); }
+
+    .result-count {
+      font-size: 13px;
+      color: var(--text-muted);
+      width: 100%;
+      padding-top: 4px;
+    }
+
+    /* カードグリッド */
+    .card-grid {
+      max-width: 960px;
+      margin: 12px auto 40px;
+      padding: 0 16px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 14px;
+    }
+
+    /* ニュースカード */
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.2s, transform 0.15s;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      border: 1px solid var(--border);
+    }
+    .card:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-2px);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .card-source {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+    .card-category {
+      font-size: 11px;
+      font-weight: 500;
+      padding: 2px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+    .cat-ai { background: #ede9fe; color: var(--tag-ai); }
+    .cat-dx { background: #ecfeff; color: var(--tag-dx); }
+    .cat-sec { background: #fef2f2; color: var(--tag-sec); }
+    .cat-cloud { background: var(--accent-light); color: var(--tag-cloud); }
+    .cat-dev { background: #ecfdf5; color: var(--tag-dev); }
+    .cat-biz { background: #fffbeb; color: var(--tag-biz); }
+    .cat-other { background: #f3f4f6; color: var(--tag-other); }
+
+    .card-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.4;
+    }
+    .card-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .card-title a:hover { color: var(--accent); }
+
+    .card-summary {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.65;
+      flex-grow: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      font-size: 11px;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 4px;
+      border-top: 1px solid var(--border);
+    }
+    .card-type {
+      font-size: 11px;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: #f3f4f6;
+      color: #6b7280;
+    }
+
+    /* YouTube カード */
+    .yt-card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.2s, transform 0.15s;
+      border: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .yt-card:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-2px);
+    }
+    .yt-thumb {
+      width: 100%;
+      aspect-ratio: 16/9;
+      object-fit: cover;
+      display: block;
+      background: #e2e8f0;
+    }
+    .yt-body {
+      padding: 14px 16px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .yt-channel {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--yt-red);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .yt-channel::before {
+      content: "▶";
+      font-size: 9px;
+    }
+    .yt-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.4;
+    }
+    .yt-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .yt-title a:hover { color: var(--yt-red); }
+    .yt-summary {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.65;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .yt-meta {
+      font-size: 11px;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 6px;
+      border-top: 1px solid var(--border);
+    }
+    .yt-badge {
+      font-size: 10px;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: #fef2f2;
+      color: var(--yt-red);
+    }
+
+    /* ステート表示 */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .empty-state .emoji { font-size: 40px; margin-bottom: 12px; }
+    .loading {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      font-size: 15px;
+    }
+
+    /* レスポンシブ */
+    @media (max-width: 640px) {
+      .card-grid { grid-template-columns: 1fr; }
+      .controls { flex-direction: column; }
+      .search-box { min-width: 100%; }
+      .tab-btn { padding: 10px 20px; font-size: 13px; }
+    }
   </style>
 </head>
 <body>
-  <h1>📰 技術ニュース</h1>
-  <div class="news-list" id="newsList">
-    <div class="loading">読み込み中...</div>
-  </div>
 
-  <script>
-    async function loadNews() {
-      try {
-        const response = await fetch('./news_data.json');
-        const articles = await response.json();
-        
-        const container = document.getElementById('newsList');
-        
-        if (articles.length === 0) {
-          container.innerHTML = '<div class="error">ニュースがありません</div>';
-          return;
-        }
-        
-        container.innerHTML = articles.map(article => `
-          <div class="news-item">
-            <div class="news-source">${article.source}</div>
-            <div class="news-title"><a href="${article.link}" target="_blank" style="color: #333; text-decoration: none;">${article.title}</a></div>
-            <div class="news-summary">${article.summary}</div>
-            <div class="news-date">${new Date(article.collected_at).toLocaleString('ja-JP')}</div>
-          </div>
-        `).join('');
-        
-      } catch (error) {
-        document.getElementById('newsList').innerHTML = 
-          '<div class="error">読み込みエラー: ' + error.message + '</div>';
+<div class="header">
+  <h1>テックニュースハブ</h1>
+  <p>AI・DX・セキュリティの最新情報を毎日自動収集</p>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="switchTab('news')">ニュース</button>
+  <button class="tab-btn" onclick="switchTab('youtube')">YouTube</button>
+</div>
+
+<div class="controls" id="controls">
+  <!-- ニュースタブのコントロール -->
+  <input type="text" class="search-box" id="searchBox" placeholder="キーワードで検索..." oninput="applyFilters()">
+  <select class="filter-select" id="sourceFilter" onchange="applyFilters()">
+    <option value="">すべてのソース</option>
+  </select>
+  <select class="filter-select" id="categoryFilter" onchange="applyFilters()">
+    <option value="">すべてのカテゴリ</option>
+  </select>
+  <select class="sort-select" id="sortOrder" onchange="applyFilters()">
+    <option value="new">新しい順</option>
+    <option value="old">古い順</option>
+  </select>
+  <div class="result-count" id="resultCount"></div>
+</div>
+
+<!-- YouTube用コントロール（非表示で初期化） -->
+<div class="controls" id="ytControls" style="display:none;">
+  <input type="text" class="search-box" id="ytSearchBox" placeholder="動画をキーワードで検索..." oninput="applyYtFilters()">
+  <select class="filter-select" id="ytSourceFilter" onchange="applyYtFilters()">
+    <option value="">すべてのチャンネル</option>
+  </select>
+  <select class="sort-select" id="ytSortOrder" onchange="applyYtFilters()">
+    <option value="new">新しい順</option>
+    <option value="old">古い順</option>
+  </select>
+  <div class="result-count" id="ytResultCount"></div>
+</div>
+
+<div class="card-grid" id="newsGrid">
+  <div class="loading">読み込み中...</div>
+</div>
+
+<div class="card-grid" id="youtubeGrid" style="display:none;">
+  <div class="loading">読み込み中...</div>
+</div>
+
+<script>
+  let allNews = [];
+  let allVideos = [];
+  let currentTab = 'news';
+
+  // カテゴリ→CSSクラスのマップ
+  const catClass = {
+    'AI・生成AI': 'cat-ai',
+    'DX・業務改善': 'cat-dx',
+    'セキュリティ': 'cat-sec',
+    'クラウド・インフラ': 'cat-cloud',
+    '開発・プログラミング': 'cat-dev',
+    'ビジネス・戦略': 'cat-biz',
+    'その他': 'cat-other',
+  };
+
+  function formatDate(dateStr) {
+    try {
+      const d = new Date(dateStr);
+      return d.toLocaleDateString('ja-JP', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+    } catch { return ''; }
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  // ========================================
+  // タブ切り替え
+  // ========================================
+  function switchTab(tab) {
+    currentTab = tab;
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    event.target.classList.add('active');
+
+    document.getElementById('controls').style.display = tab === 'news' ? 'flex' : 'none';
+    document.getElementById('ytControls').style.display = tab === 'youtube' ? 'flex' : 'none';
+    document.getElementById('newsGrid').style.display = tab === 'news' ? 'grid' : 'none';
+    document.getElementById('youtubeGrid').style.display = tab === 'youtube' ? 'grid' : 'none';
+  }
+
+  // ========================================
+  // ニュース関連
+  // ========================================
+  function renderNewsCard(article) {
+    const cat = article.category || 'その他';
+    const cls = catClass[cat] || 'cat-other';
+    const typeLabel = article.content_type === 'article' ? '記事' : 'ニュース';
+    return `
+      <div class="card">
+        <div class="card-header">
+          <span class="card-source">${escapeHtml(article.source)}</span>
+          <span class="card-category ${cls}">${escapeHtml(cat)}</span>
+        </div>
+        <div class="card-title">
+          <a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a>
+        </div>
+        <div class="card-summary">${escapeHtml(article.summary)}</div>
+        <div class="card-footer">
+          <span>${formatDate(article.collected_at)}</span>
+          <span class="card-type">${typeLabel}</span>
+        </div>
+      </div>`;
+  }
+
+  function populateNewsFilters() {
+    const sources = [...new Set(allNews.map(a => a.source))].sort();
+    const categories = [...new Set(allNews.map(a => a.category || 'その他'))].sort();
+
+    const sf = document.getElementById('sourceFilter');
+    sources.forEach(s => {
+      const opt = document.createElement('option');
+      opt.value = s; opt.textContent = s;
+      sf.appendChild(opt);
+    });
+
+    const cf = document.getElementById('categoryFilter');
+    categories.forEach(c => {
+      const opt = document.createElement('option');
+      opt.value = c; opt.textContent = c;
+      cf.appendChild(opt);
+    });
+  }
+
+  function applyFilters() {
+    const query = document.getElementById('searchBox').value.toLowerCase();
+    const source = document.getElementById('sourceFilter').value;
+    const category = document.getElementById('categoryFilter').value;
+    const sort = document.getElementById('sortOrder').value;
+
+    let filtered = allNews.filter(a => {
+      if (source && a.source !== source) return false;
+      if (category && (a.category || 'その他') !== category) return false;
+      if (query) {
+        const text = `${a.title} ${a.summary} ${a.source}`.toLowerCase();
+        if (!text.includes(query)) return false;
       }
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      const da = new Date(a.collected_at);
+      const db = new Date(b.collected_at);
+      return sort === 'new' ? db - da : da - db;
+    });
+
+    const grid = document.getElementById('newsGrid');
+    if (filtered.length === 0) {
+      grid.innerHTML = '<div class="empty-state"><div class="emoji">🔍</div>該当する記事が見つかりません</div>';
+    } else {
+      grid.innerHTML = filtered.map(renderNewsCard).join('');
     }
-    
-    loadNews();
-  </script>
+    document.getElementById('resultCount').textContent = `${filtered.length}件の記事`;
+  }
+
+  // ========================================
+  // YouTube関連
+  // ========================================
+  function renderYoutubeCard(video) {
+    const badge = video.search_type === 'channel' ? 'チャンネル' : video.search_keyword || 'キーワード';
+    return `
+      <div class="yt-card">
+        <a href="${escapeHtml(video.link)}" target="_blank" rel="noopener">
+          <img class="yt-thumb" src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" onerror="this.style.background='#cbd5e1'">
+        </a>
+        <div class="yt-body">
+          <div class="yt-channel">${escapeHtml(video.source)}</div>
+          <div class="yt-title">
+            <a href="${escapeHtml(video.link)}" target="_blank" rel="noopener">${escapeHtml(video.title)}</a>
+          </div>
+          <div class="yt-summary">${escapeHtml(video.summary)}</div>
+          <div class="yt-meta">
+            <span>${formatDate(video.published_at || video.collected_at)}</span>
+            <span class="yt-badge">${escapeHtml(badge)}</span>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  function populateYtFilters() {
+    const sources = [...new Set(allVideos.map(v => v.source))].sort();
+    const sf = document.getElementById('ytSourceFilter');
+    sources.forEach(s => {
+      const opt = document.createElement('option');
+      opt.value = s; opt.textContent = s;
+      sf.appendChild(opt);
+    });
+  }
+
+  function applyYtFilters() {
+    const query = document.getElementById('ytSearchBox').value.toLowerCase();
+    const source = document.getElementById('ytSourceFilter').value;
+    const sort = document.getElementById('ytSortOrder').value;
+
+    let filtered = allVideos.filter(v => {
+      if (source && v.source !== source) return false;
+      if (query) {
+        const text = `${v.title} ${v.summary} ${v.source}`.toLowerCase();
+        if (!text.includes(query)) return false;
+      }
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      const da = new Date(a.published_at || a.collected_at);
+      const db = new Date(b.published_at || b.collected_at);
+      return sort === 'new' ? db - da : da - db;
+    });
+
+    const grid = document.getElementById('youtubeGrid');
+    if (filtered.length === 0) {
+      grid.innerHTML = '<div class="empty-state"><div class="emoji">📺</div>該当する動画が見つかりません</div>';
+    } else {
+      grid.innerHTML = filtered.map(renderYoutubeCard).join('');
+    }
+    document.getElementById('ytResultCount').textContent = `${filtered.length}件の動画`;
+  }
+
+  // ========================================
+  // データ読み込み
+  // ========================================
+  async function loadData() {
+    // ニュース読み込み
+    try {
+      const res = await fetch('./news_data.json');
+      allNews = await res.json();
+      populateNewsFilters();
+      applyFilters();
+    } catch (e) {
+      document.getElementById('newsGrid').innerHTML =
+        '<div class="empty-state"><div class="emoji">📡</div>ニュースデータの読み込みに失敗しました</div>';
+    }
+
+    // YouTube読み込み
+    try {
+      const res = await fetch('./youtube_data.json');
+      allVideos = await res.json();
+      populateYtFilters();
+      applyYtFilters();
+    } catch (e) {
+      document.getElementById('youtubeGrid').innerHTML =
+        '<div class="empty-state"><div class="emoji">📺</div>YouTube データはまだありません<br><small>次回の自動収集後に表示されます</small></div>';
+    }
+  }
+
+  loadData();
+</script>
 </body>
 </html>
