@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "高市政権、AIロボットで「世界シェア3割」目指す　関連技術への投資を本格化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/16/news036.html",
+    "summary": "高市政権は、AIロボットを中心とするフィジカルAI分野において、2040年までに世界シェア3割超と20兆円市場の獲得を目指す方針を示しました。内閣官房が官民投資ロードマップ素案を提示しており、その達成に向けて関連技術への投資を本格化する計画です。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-03-16T09:17:39.531009"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "自分のPCで実行可能なローカルAIが一発で分かる便利サイト「CanIRun.ai」、比較機能もあってグラボの買い替え検討にも有用",
+    "link": "https://gigazine.net/news/20260316-pc-ai-run/",
+    "summary": "ChatGPTなどのクラウドAIが主流ながら、利用制限やオフラインでのAI利用ニーズから、ローカルAIモデルを実行するユーザーが増加しています。しかし、PCのスペックによって実行可能なモデルが異なるため、自分のPCで何が動くか分かりにくいという課題がありました。\n\nこの問題を解決するのがウェブサイト「CanIRun.ai」です。アクセスするだけでPCの構成を自動検出し、実行可能なAIモデルをユーザーに提示します。さらに、比較機能も備わっているため、グラフィックボードの買い替え検討にも有用なツールとなっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-16T09:17:48.540320"
+  },
+  {
+    "source": "Zenn",
+    "title": "本当のプログラミングの英雄は、コードを減らす人だ",
+    "link": "https://zenn.dev/hirayuki/articles/12e002a638093f",
+    "summary": "この記事は、真のプログラミングの「英雄」とは、多くのコードを書く人ではなく、むしろコードを削減する努力をする人であると主張しています。これは、不必要な複雑さを排除し、より簡潔で効率的なソリューションを構築することが、ソフトウェア開発において最も価値のある貢献であることを示唆しています。結果として、コードを減らすことは、システムの保守性向上、バグの減少、および長期的なプロジェクトの成功に繋がる重要な行動であると位置づけられています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-03-16T09:18:00.725275"
+  },
+  {
+    "source": "Qiita",
+    "title": "Docker Swarm + GPU + GlusterFS で AI推論クラスタを構築する",
+    "link": "https://qiita.com/non-k/items/536baefe80d7567516c7",
+    "summary": "本記事では、GPU搭載物理サーバー3台でAI推論クラスタを構築した事例を紹介しています。運用コストを考慮し、オーケストレーションにはKubernetesではなくDocker Swarmを採用しました。\n\nこのクラスタは、複数のAI推論サービスをコンテナで動かし、GPUリソースを効率的に利用するため、GlusterFSでストレージを共有し、Traefikをリバースプロキシ、ModSecurityをWAFとして構成しています。ノード間でのモデルや設定の共有、ロードバランサーによる冗長化と自動復旧、そしてアプリケーション層のセキュリティ確保を実現しています。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-03-16T09:18:09.306458"
+  },
+  {
+    "source": "ITmedia",
     "title": "SlackはAIがSalesforceを動かす「入り口」へ　新GMが語る、人間とAIの主役交代",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/13/news097.html",
     "summary": "Slackの新GMであるロブ・シーマン氏は、同サービスをAIがSalesforceなどのデータを動かす基盤「Agentic OS」へと再定義しました。AIによるメッセージ数が過去最高を更新するなど、業務における人間とAIの役割交代が進んでおり、新Slackbotがもたらす業務革命に注目が集まっています。これは、AIを主役とするSalesforceとの統合戦略の核となる動きです。",
