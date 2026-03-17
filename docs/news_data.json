@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoft、WDSの脆弱性対策を発表　2026年4月に既定で無効化へ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news039.html",
+    "summary": "Microsoftは、WDSの自動展開機能における脆弱性対策を発表しました。応答ファイルの傍受を防ぐため、この機能は2026年4月から既定で無効化されます。管理者は、段階的な仕様変更への早期対応や代替手法への移行が求められます。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-03-17T23:05:39.969830"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Starlink Miniを自宅インターネットの予備回線として使う",
+    "link": "https://gigazine.net/news/20260318-starlink-mini-failover/",
+    "summary": "愛好家のジャック・ピアース氏が、衛星通信ネットワークStarlinkの小型モデル「Starlink Mini」を導入しました。彼はこれを自宅インターネットの予備回線として活用し、メイン回線がダウンした際のバックアップとして利用していると報告しています。Starlink Miniは、緊急時やメイン回線不調時に安定した通信を確保する手段として注目されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-17T23:05:48.029845"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Agent SDK を OpenAI Agents SDK / ADK と比較して整理する",
+    "link": "https://zenn.dev/peintangos/articles/7ee437f485e73d",
+    "summary": "この記事は、Anthropicの「Claude Agent SDK」とOpenAIの「Agents SDK / ADK」という二つの主要なAIエージェント開発キットを比較し、その違いと共通点を整理することを目的としています。\n\n具体的には、両SDKが提供する機能、設計思想、エージェント構築のアプローチを対比することで、開発者がそれぞれのツールの特性を深く理解できるよう構成されていると考えられます。これにより、読者は自身のプロジェクトに最適なAIエージェント開発環境を選択するための具体的な指針を得られるでしょう。\n\n記事内では、それぞれのSDKがどのようなユースケースに適しているか、また技術的な差異や実装上のポイントが詳述されていると推測されますが、具体的な数値データはタイトルからは読み取れません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-17T23:05:58.903138"
+  },
+  {
+    "source": "Qiita",
+    "title": "GPTのReact習熟度も測る",
+    "link": "https://qiita.com/ymaeda_it/items/ab937585d0697d0d822e",
+    "summary": "この記事は、GPTモデル（GPT-4.1とGPT-5.4）がReact開発においてどれほどの習熟度を持つかを測るベンチマーク評価について報告しています。前回実施されたClaude Codeの3モデル（Sonnet, Opus, Haiku）に対する評価に続き、今回はGitHub Copilot CLIを介してGPTモデルが同様の基準でテストされました。\n\nAI/LLM技術の急速な進歩が開発ワークフローに与える影響を背景に、これらのモデルの具体的なコーディング能力を検証することが目的です。提供された情報からは具体的な数値結果は確認できませんが、各モデルのパフォーマンスが比較評価されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-17T23:06:08.141098"
+  },
+  {
+    "source": "ITmedia",
     "title": "ゆうちょ銀行がVDIのバックアップ先にバッファロー製NASを選んだのはなぜ？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/17/news041.html",
     "summary": "ゆうちょ銀行は、事務業務向けに運用する1300台の仮想デスクトップ（VDI）のバックアップ先として、バッファロー製NASを採用しました。この記事は、同銀行がこの製品を選択した具体的な理由について深掘りしています。",
