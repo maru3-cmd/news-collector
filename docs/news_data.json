@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "OpenClaw狙う攻撃集団を特定　偽装導入で機密情報を窃取",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news048.html",
+    "summary": "中国のセキュリティ企業ThreatBookは、AIアプリを悪用する攻撃集団「OpenClaw」の活動を特定したと報告しました。\nOpenClawは、偽装したWebサイトや技術記事、拡張機能を用いて利用者を欺き、不正な操作を促します。\nその手口により端末に侵入し、機密情報を窃取しているとのことです。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-03-18T08:03:57.036325"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「アイスクリーム食べた」が「セルフケアの大切さを実感しました」とインフルエンサーっぽい大げさな言い回しに変換される「LinkedIn Speak」が翻訳サービスのKagi Translateに登場",
+    "link": "https://gigazine.net/news/20260318-linkedin-speak/",
+    "summary": "2024年に登場した無料の翻訳サービス「Kagi Translate」は、高い精度での言語翻訳に加え、「シェイクスピア風」などの多様なスタイル変換機能を備えています。今回、ビジネス特化型SNSのLinkedInで使われるような、インフルエンサー風の誇張表現に変換する新機能「LinkedIn Speak」が追加されました。この機能は、「アイスクリームを食べた」という日常的な出来事を「セルフケアの大切さを実感しました」のように、大げさな言葉遣いに変換するものです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-18T08:04:06.133261"
+  },
+  {
+    "source": "Zenn",
+    "title": "Anthropic社員のClaude Code活用術8選 — 公式情報から読み解く実践テクニック",
+    "link": "https://zenn.dev/happy_elements/articles/046faa4f61d98f",
+    "summary": "この記事では、Anthropicの社員が自社のAIモデル「Claude」をコード生成にどのように活用しているかを紹介しています。具体的には、公式情報に基づいた8つの実践的な活用テクニックが解説されており、開発者向けに具体的な応用例が提示されています。これにより、Claudeをコーディング作業に効果的に組み込み、その能力を最大限に引き出すためのヒントが得られるでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-18T08:04:20.303124"
+  },
+  {
+    "source": "Qiita",
+    "title": "【神機能】Claude Codeの/loopで「放置プレイ開発」が可能に！5分で設定できる自動監視システム",
+    "link": "https://qiita.com/emi_ndk/items/325125d1078805859ba1",
+    "summary": "Claude Code v2.1.71に新機能`/loop`が追加され、デプロイ後の面倒な監視をAIが自動化します。この機能を使うと、「/loop 5m check the deploy status and alert if any errors」のように自然言語で指示するだけで、AIが5分ごとにデプロイ状況を監視・分析し、エラーがあれば自動で報告してくれます。`/loop`はセッション内で動く軽量なcronジョブでサーバーレスで稼働しますが、2026年3月現在、Max、Team、Enterpriseプランでのみ利用可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-18T08:04:32.001820"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoft、WDSの脆弱性対策を発表　2026年4月に既定で無効化へ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news039.html",
     "summary": "Microsoftは、WDSの自動展開機能における脆弱性対策を発表しました。応答ファイルの傍受を防ぐため、この機能は2026年4月から既定で無効化されます。管理者は、段階的な仕様変更への早期対応や代替手法への移行が求められます。",

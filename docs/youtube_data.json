@@ -1,6 +1,30 @@
 [
   {
     "source": "ハック大学",
+    "title": "【コピペで3秒】優等生すぎるGeminiを「最強の相棒」に変える4つの神モード",
+    "link": "https://www.youtube.com/watch?v=XYO4VscUIJE",
+    "video_id": "XYO4VscUIJE",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 11.249406932s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 11\n}\n]",
+    "thumbnail": "https://i.ytimg.com/vi/XYO4VscUIJE/mqdefault.jpg",
+    "published_at": "2026-03-08T03:00:40Z",
+    "content_type": "youtube",
+    "search_type": "channel",
+    "collected_at": "2026-03-18T08:04:48.843266"
+  },
+  {
+    "source": "ハック大学",
+    "title": "【令和の忍法】AIで“自分のクローン”を作り生産性を10倍にする究極のハック術を公開します。",
+    "link": "https://www.youtube.com/watch?v=Orsel_0_-v8",
+    "video_id": "Orsel_0_-v8",
+    "summary": "この動画は、AIを活用して「自分のクローン」を作り、生産性を劇的に向上させる究極のハック術を紹介しています。これは「令和の忍法」とも称され、自身の知識やスキルをAIに学習させることで、生産性を10倍に高めることを目指すものです。\n\n動画は、AI時代に乗り遅れないための画期的な手段として、個人の能力を拡張し、作業効率を飛躍的に高める方法を提唱しています。この技術は、まるでもう一人の自分がいるかのように業務を遂行させ、個人の働き方を変革する可能性を秘めていると結論付けています。",
+    "thumbnail": "https://i.ytimg.com/vi/Orsel_0_-v8/mqdefault.jpg",
+    "published_at": "2026-03-06T09:44:11Z",
+    "content_type": "youtube",
+    "search_type": "channel",
+    "collected_at": "2026-03-18T08:05:00.244991"
+  },
+  {
+    "source": "ハック大学",
     "title": "AIのIQを自ら下げる。無意識にやってる「NGな命令」3選",
     "link": "https://www.youtube.com/watch?v=Gv1PlU4gwLw",
     "video_id": "Gv1PlU4gwLw",
