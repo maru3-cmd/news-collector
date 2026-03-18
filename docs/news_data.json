@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "95％が攻撃検知に自信も、約半数が阻止に苦戦　企業を苦しめる防御のギャップ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news050.html",
+    "summary": "Illumioの調査によると、企業のセキュリティ対策において攻撃の「検知」と「封じ込め」の間に大きなギャップが存在することが明らかになりました。回答企業の95%が攻撃検知に自信を持っている一方で、約半数の企業が実際に攻撃を阻止することに苦戦しています。これは、多くの企業が侵入を把握する能力は高いものの、それを効果的に阻止する防御能力には課題を抱えている現状を示しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-03-18T23:01:26.492430"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "チェスや囲碁で有効だったAIの強化学習が単純なゲームで失敗してしまう理由とは？",
+    "link": "https://gigazine.net/news/20260319-ai-fails-simple-games/",
+    "summary": "AIはチェスや囲碁といったボードゲームで人間を凌駕する強さを発揮していますが、2023年には特定の戦術を用いることで囲碁AIに勝利する方法が見つかるなど、弱点も露呈しています。新たに発表された論文では、AlphaZeroなどで採用されている強化学習が、一部のシンプルなゲームでは通用しないことが報告されました。これは、高度なゲームで成功したAI技術が、必ずしも全ての状況で万能ではないことを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-18T23:01:34.057092"
+  },
+  {
+    "source": "Zenn",
+    "title": "建設現場の人手不足を解決！AIセコカン「Arch Intelligence」で生産性2倍を目指す3つの革新",
+    "link": "https://zenn.dev/headwaters/articles/7796e83ac7a068",
+    "summary": "建設現場の深刻な人手不足という課題に対し、AIセコカン「Arch Intelligence」が解決策として注目されています。このAIツールは、現場の生産性を従来の2倍にまで高めることを目標としています。特に、「3つの革新」を通じて、建設現場の効率化と課題解決に貢献することが期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-18T23:01:41.092401"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年3月19日",
+    "link": "https://qiita.com/ishisaka/items/198a69e57f4bee422cfc",
+    "summary": "2026年3月19日のプログラミング雑記記事は、主にTypeScriptの最新動向について報告しています。TypeScript 7.0は3月にリリース予定で、2025年3月11日にはコンパイラのGoへの移植が決定されました。\n\nこの移植により、5月のプレビュー版では10倍の高速化を実現し、実導入環境での型チェック時間は55秒から14.5秒へと約3～4倍短縮されました。しかし、その一方でメモリ使用量は2倍に増加するという課題も指摘されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-03-18T23:01:49.415329"
+  },
+  {
+    "source": "ITmedia",
     "title": "OpenClaw狙う攻撃集団を特定　偽装導入で機密情報を窃取",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news048.html",
     "summary": "中国のセキュリティ企業ThreatBookは、AIアプリを悪用する攻撃集団「OpenClaw」の活動を特定したと報告しました。\nOpenClawは、偽装したWebサイトや技術記事、拡張機能を用いて利用者を欺き、不正な操作を促します。\nその手口により端末に侵入し、機密情報を窃取しているとのことです。",
