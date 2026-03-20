@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Linuxから産業機器まで　GNU Inetutils telnetdに深刻な脆弱性",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/21/news011.html",
+    "summary": "GNU Inetutilsの`telnetd`に、未認証の遠隔攻撃者が任意のコードを実行できる深刻な脆弱性が発見されました。TELNETは通信内容が平文で送信される古いプロトコルであり、現代のセキュリティ基準には適しません。しかし、産業分野や政府系システムでいまだに利用されているため、広範なシステムに影響を及ぼす可能性があります。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-03-20T23:00:03.511873"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "コーディングAIエージェントの支援を受けてソフトウェアを開発する手法「エージェントエンジニアリング」とは？",
+    "link": "https://gigazine.net/news/20260320-agentic-engineering/",
+    "summary": "エージェントエンジニアリングとは、AIがコード生成だけでなく、自分でコードを実行し結果を見て修正まで行うことでソフトウェア開発を支援する新しい手法です。ウェブ開発者のサイモン・ウィリソン氏が提唱しており、Claude Code、OpenAI Codex、Gemini CLIといったコーディングAIエージェントが活用されます。この手法により、人間は「何を作るかを決める」「必要な道具を整える」「出てきた結果を検証する」といった、より戦略的な役割に注力できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-20T23:00:10.304678"
+  },
+  {
+    "source": "Zenn",
+    "title": "GPT-5.4 Computer Use を実際に動かしてわかったこと ── API設計・実装パターン・セキュリティの勘所",
+    "link": "https://zenn.dev/754736277842632/articles/2026031822-gpt-54-computer-use-api",
+    "summary": "「GPT-5.4 Computer Use を実際に動かしてわかったこと ── API設計・実装パターン・セキュリティの勘所」という記事は、GPT-5.4 Computer Useの実際の運用経験から得られた知見をまとめたものです。\n具体的には、システムへ組み込む際のAPI設計や実装パターン、そしてセキュリティ面での重要な考慮点が深く考察されています。\nこの内容は、大規模言語モデルを実システムで安全かつ効果的に活用するための実践的な指針を提供するものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-20T23:00:21.294829"
+  },
+  {
+    "source": "Qiita",
+    "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
+    "link": "https://qiita.com/ymaeda_it/items/cda5df3909979f9c4609",
+    "summary": "本記事は、2026年最新版として、Ollamaを活用して完全オフラインで動作するAI開発環境を構築するガイドです。ChatGPTなどのクラウド型AIが抱えるプライバシーやコストといった課題を解決し、セキュアなローカル環境でのAI開発を可能にします。急速に発展するAI/LLM分野に対応するため、AIコーディング支援ツールによる開発効率向上や、RAG・エージェント基盤のアーキテクチャ設計といった技術的ポイントに焦点を当てています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-20T23:00:29.696093"
+  },
+  {
+    "source": "ITmedia",
     "title": "楽天、AIモデル「Rakuten AI 3.0」を無償提供　「オープンソースコミュニティ上の最良なモデル」を基に日本語能力を強化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/20/news011.html",
     "summary": "楽天は、国内のAI開発加速と技術支援を目指し、日本語特化型AIモデル「Rakuten AI 3.0」の無償提供を開始しました。このモデルは、約7000億パラメーターのMoEアーキテクチャを採用しており、日本語性能で高い評価を得ています。オープンソースコミュニティ上の最良なモデルを基盤に日本語能力を強化しており、国内有数のAIモデルとして期待されます。",
