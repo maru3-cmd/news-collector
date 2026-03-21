@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "Excelが「1900年はうるう年」として誤って扱う理由とは？",
+    "link": "https://gigazine.net/news/20260321-excel-1900-leap-year/",
+    "summary": "Microsoft Excelでは、実際にはうるう年ではない1900年を誤ってうるう年として扱っています。Microsoftはその理由を、過去の表計算ソフトとの互換性を保つためだと説明しています。この日付処理の背景については、1991年にExcelチームに加わったJoel Spolsky氏が、2006年に自身のブログで当時の経緯を記録しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-21T22:55:08.136076"
+  },
+  {
+    "source": "Zenn",
+    "title": "いっぱいあるね、バイブコーディングツール！料金つきで整理してみた",
+    "link": "https://zenn.dev/harunamix/articles/vibe-coding-tools-guide-20260322",
+    "summary": "この日本語の記事は、プログラミング開発を支援する「バイブコーディングツール」に焦点を当てています。\n記事によると、市場には多数のバイブコーディングツールが存在しており、その現状が紹介されています。\n特に、それぞれのツールの「料金」情報に注目し、それらを整理して提供している点が主な内容です。\nこれにより、ユーザーは多様なツールの中から、料金体系を考慮して適切な選択をする手助けとなるでしょう。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-03-21T22:55:16.949498"
+  },
+  {
+    "source": "Qiita",
+    "title": "GeminiCLIを複数同時実行！Dockerで作るAI並行開発環境",
+    "link": "https://qiita.com/ho-rai/items/a5fd9a111a348526ce6d",
+    "summary": "GeminiCLIなどのコンソールAIツールは、ローカルファイルを直接変更するため、AIが作業中に別の修正ができないなど、並行作業が困難という課題があります。これによりファイル競合のリスクが生じ、「自分とAI」または「AIとAI」の同時並行作業ができません。この問題を解決するため、Dockerを活用してコンテナを「使い捨ての作業場」として利用し、複数のAI作業や自身の修正を同時に行えるAI並行開発環境を構築しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-21T22:55:24.786012"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "【訃報】俳優で空手チャンピオンのチャック・ノリスさん死去",
     "link": "https://gigazine.net/news/20260321-chuck-norris-passed-away/",
     "summary": "俳優で空手チャンピオンのチャック・ノリスさん（本名：カルロス・レイ・ノリス）が86歳で亡くなりました。彼は伝説的なアクションスターとして広く知られていました。また、その並外れた強さをネタにした多数のジョークでも有名でした。",
