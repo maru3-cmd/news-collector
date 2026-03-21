@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "【訃報】俳優で空手チャンピオンのチャック・ノリスさん死去",
+    "link": "https://gigazine.net/news/20260321-chuck-norris-passed-away/",
+    "summary": "俳優で空手チャンピオンのチャック・ノリスさん（本名：カルロス・レイ・ノリス）が86歳で亡くなりました。彼は伝説的なアクションスターとして広く知られていました。また、その並外れた強さをネタにした多数のジョークでも有名でした。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-21T07:46:32.615127"
+  },
+  {
+    "source": "Zenn",
+    "title": "Agent Summary 2026-03-19: 個人の文脈を読み解くAIとWebMCPの胎動",
+    "link": "https://zenn.dev/tachi_koma_x/articles/20260319-agent-summary",
+    "summary": "この「Agent Summary 2026-03-19」は、2026年時点を見据えたAIとWeb技術の重要な動向をまとめたものです。主な焦点は、ユーザー一人ひとりの状況や意図といった「個人の文脈」を深く理解し、これに基づいてパーソナライズされたサービスを提供するAIの進化にあります。さらに、AIと連携してWeb体験を根本的に変える可能性を秘めた、新たなWeb技術または概念「WebMCP」が「胎動」期に入りつつあることが強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-21T07:46:43.938384"
+  },
+  {
+    "source": "Qiita",
+    "title": "Runway GWM-1入門 — リアルタイム動画生成を実現するGeneral World Modelの全貌",
+    "link": "https://qiita.com/kai_kou/items/f578f5579038e03caf25",
+    "summary": "Runwayが発表したGWM-1（General World Model）は、同社初の汎用世界モデルファミリーで、従来のバッチ処理型AI動画生成とは異なり、フレーム単位の自己回帰生成によってリアルタイムでの動画出力を実現します。NVIDIA GTC 2026では、プロンプト入力から最初のフレームまでの時間（TTFF）が100ms以下という高速性がデモされました。このモデルには、探索可能な3D環境を生成するGWM Worlds、リアルタイムの人物生成に特化したGWM Avatars、そしてロボット制御向けのGWM Roboticsという3つの専門バリアントがあります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-21T07:46:51.551519"
+  },
+  {
     "source": "ITmedia",
     "title": "Linuxから産業機器まで　GNU Inetutils telnetdに深刻な脆弱性",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/21/news011.html",
