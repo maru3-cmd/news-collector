@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "AppleがiPhone向けのプロ仕様カメラ・Halideの開発元を買収したがっていたことが共同創業者による訴訟で明らかに",
+    "link": "https://gigazine.net/news/20260322-apple-wanted-buy-halide-co-founder-lawsuit/",
+    "summary": "iPhone向けプロ仕様カメラアプリ「Halide」を開発するLux Opticsの共同創業者間で訴訟が発生しました。共同創業者のベン・サンドフスキー氏が、現在Appleに勤務するセバスティアン・デ・ウィット氏を訴えています。この訴訟により、AppleがLux Opticsの買収を計画していたという事実が明らかになりました。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-03-22T07:52:05.875478"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeで「仮想会社」を導入したら、個人開発の世界が変わった話",
+    "link": "https://zenn.dev/tksaba/articles/8588f7ba130fc0",
+    "summary": "この個人開発の世界に、AIツール「Claude Code」を用いて「仮想会社」という画期的な概念が導入されました。開発者はこの仮想会社を通して、あたかも実際の企業のように役割分担や組織をシミュレートしながらプロジェクトを進めることが可能になったとされます。その結果、この革新的なアプローチは個人開発の進め方や可能性を大きく変え、その世界観を一変させたことが報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-22T07:52:15.062179"
+  },
+  {
+    "source": "Qiita",
+    "title": "脆弱性公開から20時間で攻撃？AI時代の防御戦術",
+    "link": "https://qiita.com/sarubot/items/023df6c6ef8342d1cba4",
+    "summary": "AIと自動化の進化により、サイバーセキュリティ分野では脆弱性公開から攻撃までの猶予期間が劇的に短縮されています。かつて数日間あった猶予が、今や「Langflow」の脆弱性が公開からわずか20時間で悪用された事例に代表されるように、攻撃は人間の対応速度を超える「マシン・スピード」で展開されています。\n\nこの新たな脅威に対し、防御側はAI時代の攻撃スピードに対抗するため、技術的アプローチを早急にアップデートし、防御戦術を見直す必要があります。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-03-22T07:52:22.761021"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Excelが「1900年はうるう年」として誤って扱う理由とは？",
     "link": "https://gigazine.net/news/20260321-excel-1900-leap-year/",
     "summary": "Microsoft Excelでは、実際にはうるう年ではない1900年を誤ってうるう年として扱っています。Microsoftはその理由を、過去の表計算ソフトとの互換性を保つためだと説明しています。この日付処理の背景については、1991年にExcelチームに加わったJoel Spolsky氏が、2006年に自身のブログで当時の経緯を記録しています。",
