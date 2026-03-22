@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "AIモデルがクリエイティブな文章を書けないのは初期モデルに見られた創造性や独創性を抑制してビジネス用途に特化させたせいだという指摘",
+    "link": "https://gigazine.net/news/20260323-ai-writing/",
+    "summary": "AIは様々なタスクや複雑な計算をこなせる一方で、クリエイティブな文章生成能力は初期の頃からほとんど進歩が見られません。The Atlanticがまとめた専門家の指摘によると、この停滞の原因は、初期のAIモデルが持っていた創造性や独創性を意図的に抑制し、ビジネス用途に特化させたことにあるとされています。つまり、実用性を追求する過程で、AIの潜在的なクリエイティブ能力が犠牲になったと考えられています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-22T22:56:30.665631"
+  },
+  {
+    "source": "Zenn",
+    "title": "Rakuten AI 3.0はDeepSeek-V3の「ただのチューニング」か？ — 初心者エンジニアにも伝えたい技術的な真実",
+    "link": "https://zenn.dev/headwaters/articles/3ca4193f3ab1c4",
+    "summary": "この記事は、「Rakuten AI 3.0がDeepSeek-V3の単なるファインチューニングモデルに過ぎないのか？」という、初心者エンジニアが抱きがちな疑問に技術的な真実を伝えるものです。表面的な「チューニング」という言葉の裏には、独自のデータセットを用いた追加学習や特定のドメインへの最適化など、モデルに大きな技術的価値を付加する複雑なプロセスが存在すると解説しています。したがって、Rakuten AI 3.0も単純なベースモデルの流用ではなく、楽天独自の専門知識やニーズを反映した重要な改良が加えられている可能性があり、その本質に迫る内容となっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-22T22:56:41.077956"
+  },
+  {
+    "source": "Qiita",
+    "title": "ClaudeとGeminiに喧嘩させたら、世界に存在しない暗号方式ができてpip installできるようになった",
+    "link": "https://qiita.com/urokiurotsuki/items/ee01f4da9677e6298607",
+    "summary": "筆者はAI（ClaudeとGemini）に、この世に存在しない独自の暗号方式の開発を依頼しました。すると、AIはたった1回のチャットでその暗号方式を完成させ、PyPIで「pip install kineti」として公開されるに至りました。筆者は、過去の「ふざけているが機能する」作品とは異なり、今回は「ふざけていない、ガチ」な取り組みであると強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-22T22:56:49.427900"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "AppleがiPhone向けのプロ仕様カメラ・Halideの開発元を買収したがっていたことが共同創業者による訴訟で明らかに",
     "link": "https://gigazine.net/news/20260322-apple-wanted-buy-halide-co-founder-lawsuit/",
     "summary": "iPhone向けプロ仕様カメラアプリ「Halide」を開発するLux Opticsの共同創業者間で訴訟が発生しました。共同創業者のベン・サンドフスキー氏が、現在Appleに勤務するセバスティアン・デ・ウィット氏を訴えています。この訴訟により、AppleがLux Opticsの買収を計画していたという事実が明らかになりました。",
