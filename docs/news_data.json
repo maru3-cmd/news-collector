@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「人材ゼロ！？」「謎の高額請求？」 データ分析担当者が経験した“大変だったこと”事例集",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/23/news030.html",
+    "summary": "このブックレットは、データ分析業務で直面する「人材ゼロ」や「謎の高額請求」といった具体的な困難に焦点を当てています。データ分析担当者が経験する様々な課題を提示し、それらの解決策を探るヒントを提供することが目的です。事例に基づいて、困難を乗り越えるための実践的なアプローチが示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-23T08:38:09.845997"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "U.F.O.に和牛のうまみが加わって箸が進みまくる「WAGYUMAFIA ULTRA U.F.O. WAGYU UMAMI FLAVOR」試食レビュー",
+    "link": "https://gigazine.net/news/20260323-wagyumafia-ufo/",
+    "summary": "日清のカップ焼そば「U.F.O.」と和牛専門店のWAGYUMAFIAがコラボし、「WAGYUMAFIA ULTRA U.F.O. WAGYU UMAMI FLAVOR」が2026年3月23日に新登場しました。この商品は、和牛エキスを加えたソースで和牛の豊かな味と香りが広がる焼そばです。記事では、編集部に届いた商品を実際に試食し、その風味をレビューしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-23T08:38:21.866588"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code Review より\"自作 Skill\"の方がレビュー精度が高かった件",
+    "link": "https://zenn.dev/penpeen/articles/93d318a99d329e",
+    "summary": "この記事は、AIによるコードレビューツール「Claude Code Review」と、ユーザーが独自に開発した「自作 Skill」のレビュー精度を比較検証した結果を報告しています。その結果、汎用的なAIツールであるClaude Code Reviewよりも「自作 Skill」の方が高いレビュー精度を示したことが明らかになりました。この事実は、特定のニーズや文脈に合わせてカスタマイズされたスキルやツールが、一般的なAIソリューションよりも優れた実用性や性能を発揮する可能性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-23T08:38:30.610950"
+  },
+  {
+    "source": "Qiita",
+    "title": "【実践ガイド】DifyワークフローをLangfuseで可観測化する方法",
+    "link": "https://qiita.com/oroii/items/2ae21f40c1953981b67e",
+    "summary": "LLMアプリケーションの普及に伴い、モデルのコストやレスポンス品質の把握が重要となる中、専用の監視基盤（可観測性ツール）が必要とされています。本記事は、ノーコードLLMプラットフォーム「Dify」で構築したワークフローを「Langfuse」で可観測化する実践ガイドです。LangfuseはLLMアプリの可観測性ツールとして機能し、Difyのワークフローにおけるパフォーマンスやコストなどの指標を監視・分析することで、開発者が効率的に改善できるよう支援します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-23T08:38:39.700529"
+  },
+  {
     "source": "GIGAZINE",
     "title": "AIモデルがクリエイティブな文章を書けないのは初期モデルに見られた創造性や独創性を抑制してビジネス用途に特化させたせいだという指摘",
     "link": "https://gigazine.net/news/20260323-ai-writing/",
