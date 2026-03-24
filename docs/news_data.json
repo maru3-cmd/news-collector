@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「セキュリティはサーチ問題」　ElasticのCISOが語るAI時代の防御哲学",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/25/news038.html",
+    "summary": "AIによる攻撃の加速で侵入から窃取までが数分に短縮される中、ElasticのCISOは「セキュリティはサーチ（検索）問題」であると提唱しています。これは、AIをSOCに統合し、膨大なデータから脅威を迅速に発見・対処することの重要性を示しています。さらに、インシデントを組織の糧としてより強靭にする「アンチ・フラジャイル」の思想に基づいた防御戦略が、AI時代には不可欠であると語っています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-03-24T23:03:27.317050"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIエージェントがお互いの知識を共有して無駄を削減＆性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表",
+    "link": "https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/",
+    "summary": "Firefoxなどの開発元であるMozillaが設立したAI開発企業「Mozilla.ai」は、AIエージェント向けのプロジェクト「cq」を発表しました。この「cq」は、プログラマー向けのナレッジコミュニティであるStack OverflowのAI版と位置づけられています。AIエージェント同士が知識を共有することで、無駄を削減し、性能向上を目指すことが目的です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-24T23:03:35.051309"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeが怖い人へ：shield-harnessで「承認疲れ」なく安全に自律運転する",
+    "link": "https://zenn.dev/sora_biz/articles/shield-harness-approval-free-security",
+    "summary": "この記事は、ClaudeによるAI生成コード（Claude Code）の使用に対する不安や、その手動承認プロセスに伴う「承認疲れ」を抱える人々を対象としています。解決策として「shield-harness」が提案されており、これはAI生成コードの安全性を確保しつつ、過度な承認作業なしにシステムを自律的に運用することを目的としています。これにより、利用者は煩雑なプロセスなしに、より安全かつ効率的にAIを活用できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-24T23:03:46.767573"
+  },
+  {
+    "source": "Qiita",
+    "title": "【要注意】G検定に落ちる人の共通点7つ｜不合格パターンと再挑戦の勉強法",
+    "link": "https://qiita.com/mrmrmr/items/5f3d4d8710db4bf0b7c6",
+    "summary": "G検定の合格率は約60〜70%と、3〜4人に1人が不合格になる試験であり、この記事では不合格パターンとその対策を解説しています。筆者は、不合格になりやすい人の共通点として、公式テキストを「読んだだけ」で満足してしまうことを挙げ、知識の活用が問われるG検定ではこのアプローチでは不十分だと指摘しています。合格者の視点から、不合格に繋がる7つのパターンを分析し、具体的な対策を提示することで、これから受験する人や再挑戦を考えている人への指南となることを目的としています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-03-24T23:03:55.844932"
+  },
+  {
+    "source": "ITmedia",
     "title": "ingress-nginxに深刻な脆弱性　Nginx構成注入によるコード実行の危険",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/24/news062.html",
     "summary": "Kubernetesの`ingress-nginx`に、Nginxへの構成注入を許す深刻な脆弱性が公表されました。この脆弱性を悪用すると、特定のアノテーション操作を通じてコード実行や機密情報の漏えいの危険があります。CVSSスコアは8.8と高く、速やかに修正版への更新が強く推奨されています。",
