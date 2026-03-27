@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "アライグマは楽しみのためにパズルを解くと研究で判明",
+    "link": "https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/",
+    "summary": "アライグマは留め具付きのゴミ箱を開けることで知られていますが、学術誌「Animal Behaviour」に掲載された研究で、その行動が餌を探すためだけではないことが判明しました。この研究は、アライグマが知的好奇心を満たすため、つまり楽しみのためにパズルを解くようにゴミ箱を開けることを示唆しています。これにより、アライグマがより複雑な動機を持っていることが明らかになりました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-27T23:05:54.467012"
+  },
+  {
+    "source": "Zenn",
+    "title": "TAKT 始めました",
+    "link": "https://zenn.dev/moshjp/articles/ba44861ddad466",
+    "summary": "この記事は、「TAKT 始めました」というタイトルと内容で、TAKTと呼ばれる何らかの活動やプロジェクトが開始されたことを簡潔に報告しています。\n\nしかし、TAKTが具体的に何を指すのか、その目的や背景については一切触れられていません。非常に短い記述であり、記事中に重要なポイントや具体的な数字は含まれていません。この内容からは、TAKTが始まったという事実以外に詳細な情報は得られません。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-03-27T23:06:04.732421"
+  },
+  {
+    "source": "Qiita",
+    "title": "2026/03/28 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "link": "https://qiita.com/ennagara128/items/cb52975dfa257dd55930",
+    "summary": "この投稿は、Qiitaの最新トレンド記事をAIポッドキャストとして毎日朝7時に配信していることを紹介しています。前日夜に公開された記事を音声で「ながら聴き」できるため、通勤中などに効率よく情報収集するのに役立ちます。具体的には、月間9500万ダウンロードのLiteLLMが乗っ取られた緊急事態や、Claude Codeのエージェントに入れるべきスキルについての記事などが取り上げられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-27T23:06:13.647409"
+  },
+  {
     "source": "ITmedia",
     "title": "コスト最優先じゃ乗り切れない　中東情勢緊迫化に耐えるための「IT調達戦略」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news035.html",
