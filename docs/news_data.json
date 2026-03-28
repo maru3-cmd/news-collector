@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Notion、日本と韓国でデータ保管可能に　26年5月から提供開始",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news017.html",
+    "summary": "Notion Labsは、2026年5月から新たに日本と韓国をデータ保管地域として指定すると発表しました。これにより、AWSを活用して、両国のユーザーはデータを国内で保存することを選択できるようになります。このサービスは、企業の内部統制の強化や各国の法規制への対応を支援することを目的としています。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-03-28T07:57:08.753009"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "『ドッジ弾平』の娘が闘球に挑むアニメ『炎の闘球女 ドッジ弾子』ティザーPV公開",
+    "link": "https://gigazine.net/news/20260328-dodge-danko-clip/",
+    "summary": "人気漫画『ドッジ弾平』の娘が闘球に挑むアニメ『炎の闘球女 ドッジ弾子』のティザーPVが公開されました。この作品は漫画配信サイト『週刊コロコロコミック』で連載中であり、既にアニメ化が決定しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-28T07:57:15.678332"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code のスキルからセッション ID を取得する — ${CLAUDE_SESSION_ID} と変数展開の仕組み",
+    "link": "https://zenn.dev/lud/articles/claude-code-session-id-in-skills",
+    "summary": "この内容は、Claude CodeのスキルからセッションIDを取得する方法について解説しています。具体的には、`${CLAUDE_SESSION_ID}`という組み込み変数を利用することで、現在のセッションIDにアクセスすることが可能です。これは、Claude Codeが提供する強力な変数展開メカニズムを活用したものであり、開発者がスキル内でセッション固有の情報を扱う際に非常に役立ちます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-28T07:57:23.065876"
+  },
+  {
+    "source": "Qiita",
+    "title": "Cursor Bugbot Autofix入門 — 自動PR修正とCloud Agentsで開発を加速する",
+    "link": "https://qiita.com/kai_kou/items/d25d2208fba27d85aa72",
+    "summary": "2026年2月、CursorはAIによるコード修正機能を強化し、Bugbot Autofixの一般提供を開始しました。これは、AIがバグを指摘するだけでなく、プルリクエストに対して自動で修正提案を行う機能です。\n\nさらに、同時に導入されたCloud Agentsにより、1つのプロンプトから最大8つのエージェントがそれぞれ独立したクラウドVM上で並列動作し、開発プロセスを大幅に加速します。この記事では、これらの仕組み、設定方法、料金体系について解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-28T07:57:32.647293"
+  },
+  {
     "source": "GIGAZINE",
     "title": "アライグマは楽しみのためにパズルを解くと研究で判明",
     "link": "https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/",
