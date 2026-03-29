@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "「最適化の最高峰」と名高い遊園地経営シミュレーションゲーム「ローラーコースタータイクーン」は何がスゴいのか？",
+    "link": "https://gigazine.net/news/20260329-rollercoaster-tycoon/",
+    "summary": "「最適化の最高峰」として名高い遊園地経営シミュレーションゲーム「ローラーコースタータイクーン」は、1999年に初代が登場したシリーズです。特に初代は「史上最高レベルに最適化されたゲーム」の一例とされており、その秘密はシニアゲームプレイプログラマーのラース・ティーセン氏による詳細なコード解析で明らかにされました。シリーズは継続しており、2019年にはNintendo Switch/Windows版「ローラーコースタータイクーン・アドベンチャー」もリリースされています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-03-29T08:02:11.512617"
+  },
+  {
+    "source": "Zenn",
+    "title": "OpenClaw × OllamaをMacBook 16GBで動かす - ローカルLLM入門",
+    "link": "https://zenn.dev/komlock_lab/articles/openclaw-local-llm",
+    "summary": "この記事は、MacBook 16GB環境でローカルLLM（大規模言語モデル）を動かすための入門ガイドです。具体的には、OpenClawとOllamaというツールを組み合わせて、Appleシリコン搭載MacBook上でLLMを構築・運用する手順が解説されています。これにより、クラウドに依存せず、プライバシーを保護しながら高性能な言語モデルを自分のデバイスで手軽に利用開始できます。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-03-29T08:02:19.852907"
+  },
+  {
+    "source": "Qiita",
+    "title": "【完全解説】AIが自分のクレカを持つ時代。Visa・Mastercard・Rampが本気で作る「エージェント決済」の全貌",
+    "link": "https://qiita.com/emi_ndk/items/d7d29324ee1ff064f038",
+    "summary": "2026年には、AIが専用のクレジットカードを持ち、人間の確認なしで自律的に買い物を行う「エージェント決済」が現実化しつつあります。Visa、Mastercard、Rampなどの決済業界大手は、すでにこの仕組みを本番稼働させており、Mastercardは「Mastercard Agent Suite」のリリースも予定しています。McKinseyの試算では、このエージェンティック・コマース市場は2030年までに3〜5兆ドル（約450〜750兆円）規模に成長すると見込まれています。これにより、AIアシスタントが自律的に商品やサービスを購入する未来が目前に迫っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-29T08:02:27.824784"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明",
     "link": "https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/",
     "summary": "アメリカで、家庭用コンセントに挿すだけで使える小型の「プラグイン式ソーラーパネル」が普及しつつあります。これにより、屋根に大がかりな設備を設置することなく電気代を抑えられる可能性があります。しかし、電力会社は停電時の電力逆流や家庭内配線への負荷を懸念しており、この懸念が各州の法整備にも影響を与えています。",
