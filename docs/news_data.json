@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "M365利用中の京都市が職員7000人に「NotebookLM」を配ったワケ　利用者の8割が「業務の質向上」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/31/news058.html",
+    "summary": "京都市は、既存のMicrosoft 365環境がありながらも、7000人の職員向けにNotebookLM Enterpriseを導入しました。この導入により、利用者の8割が業務の質の向上を実感していると報告されています。京都市は、Gemini Enterpriseを基盤とした「全庁統合AIアシスタント」を通じて、自治体DXの推進と未来を描いています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-30T23:52:25.245047"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "女性器の神経ネットワークを世界で初めて完全にマッピング、「陰核」の解剖学的構造が明らかになり骨盤手術を受ける女性の治療成績向上に期待大",
+    "link": "https://gigazine.net/news/20260331-clitocal-nerves-network-mapped/",
+    "summary": "オランダ・アムステルダム大学医療センターの研究チームが、高エネルギーX線を用いたシンクロトロン放射光により、女性器の陰核（クリトリス）における神経ネットワークを世界で初めて完全に3Dマッピングすることに成功しました。これにより、社会的なタブーや技術的制約で研究が進んでいなかった陰核の解剖学的構造が、マイクロメートル単位の解像度で詳細に明らかになりました。この画期的な成果は、骨盤手術を受ける女性の治療成績向上に大きく貢献すると期待されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-03-30T23:52:33.675543"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeのメモリ機能完全解説──47体のAIエージェントが「昨日の続き」から働ける理由",
+    "link": "https://zenn.dev/ti_ai/articles/20260329-2ltro",
+    "summary": "Claude Codeは、AIエージェントが過去の作業内容や対話履歴を記憶し、永続的に保持する「メモリ機能」を搭載しています。この機能により、各AIエージェントは中断後も前回の作業の続きから効率的にタスクを再開することが可能です。結果として、47体ものAIエージェントが連携して長期プロジェクトに取り組み、「昨日の続き」からスムーズに作業を続けられるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-30T23:52:41.625780"
+  },
+  {
+    "source": "Qiita",
+    "title": "動画を無料で文字起こしする方法｜Whisper設定ガイド",
+    "link": "https://qiita.com/yoy119/items/82498224cb2b1fc25f90",
+    "summary": "この記事は、OpenAIが開発した無料の音声認識AI「Whisper」を使って、動画を文字起こしする方法をMacユーザー向けに解説しています。Whisperは日本語を含む多言語に対応し、専門用語も高精度で認識できるため、動画内容の自動ノート化に非常に有効です。\n\nローカルPCで動作するためAPI料金は発生せず、完全に無料で利用できます。記事では、動画から音声を抽出するための「ffmpeg」の導入手順や、文字起こし結果をChatGPTで要約する活用法も紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-30T23:52:48.606748"
+  },
+  {
+    "source": "ITmedia",
     "title": "「万年3位」を挽回できるか？　国内ITサービス4社が力を入れるGoogle Cloudのポテンシャル",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news097.html",
     "summary": "国内ITサービス大手4社（富士通、NEC、日立製作所、NTTデータ）が、Google Cloudとのパートナーシップに注力し始めています。この動きは、Google Cloudのエンタープライズ向け事業を勢いづかせ、「万年3位」とされる同社の市場における存在感挽回を狙うものです。これにより、Google Cloudのポテンシャルが改めて注目されています。",
