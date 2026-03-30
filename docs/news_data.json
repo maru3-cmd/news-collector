@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「万年3位」を挽回できるか？　国内ITサービス4社が力を入れるGoogle Cloudのポテンシャル",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news097.html",
+    "summary": "国内ITサービス大手4社（富士通、NEC、日立製作所、NTTデータ）が、Google Cloudとのパートナーシップに注力し始めています。この動きは、Google Cloudのエンタープライズ向け事業を勢いづかせ、「万年3位」とされる同社の市場における存在感挽回を狙うものです。これにより、Google Cloudのポテンシャルが改めて注目されています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-03-30T10:43:15.574990"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "人間の脳からヒントを得た新しいチップはAIのエネルギー消費量を大幅に削減できる可能性",
+    "link": "https://gigazine.net/news/20260330-human-brain-inspired-chip-slash-ai-energy/",
+    "summary": "ケンブリッジ大学の研究チームが、人間の脳にヒントを得た新しいチップを開発しました。このチップは、従来のデバイスと比べてスイッチング電流を約100万分の1にまで抑えることが可能です。これにより、実現すればAIのエネルギー消費量を大幅に削減できると期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-30T10:43:22.488326"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code開発者が明かす15の隠れ機能 -- Boris Chernyのスレッドまとめ",
+    "link": "https://zenn.dev/yuche/articles/668241718e24e4",
+    "summary": "この記事は、Claude Codeの開発者であるBoris Cherny氏が明かした**15の隠れ機能**についてまとめています。\n\nこれらの機能は通常は見過ごされがちですが、Claude Codeの能力を最大限に引き出すための重要な情報を含んでいます。開発者や高度な利用者は、これらのヒントを活用することで、より効率的で高度なコード開発や問題解決が可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-30T10:43:30.249062"
+  },
+  {
+    "source": "Qiita",
+    "title": "Mastra × Claude × Slack で作る勤怠×サーベイ クロス分析 & 名刺スキャナーBot",
+    "link": "https://qiita.com/lafool-ogushi/items/f7108955c4554439ba78",
+    "summary": "社内ハッカソンで、AIエージェントオーケストレーションフレームワークMastraとClaudeを中心に2つの業務効率化ツールが開発されました。一つは、勤怠データとストレスチェック結果をマルチAIエージェントパイプラインで相関分析する「勤怠×サーベイ クロス分析」です。もう一つは、Slackに名刺画像を投稿してリアクションするだけでAIが読み取り、Google Sheetsに自動登録する「名刺スキャナーSlack Bot」です。これらのツールは、Mastra v0.18.6をフレームワークに、Claude Sonnet 4.5やClaude Haiku、Amazon Nova Pro、Llama 3.2 90B（AWS Bedrock経由）といった多様なLLMを活用しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-30T10:43:40.184087"
+  },
+  {
+    "source": "ITmedia",
     "title": "リソースの制約をどう克服するか？ SCS評価制度に見る「持続可能なセキュリティ」の形",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news011.html",
     "summary": "サプライチェーン全体のセキュリティ対策が重要性を増す中、専門人材の不足や実施コストの増大が課題となっています。SCS評価制度は、こうしたリソース制約を克服し「持続可能なセキュリティ」を実現するために開発されました。この制度は、単なる評価に留まらず、セキュリティを取り巻く現実的な課題に対処するための戦略的な意図を持つとされています。",
