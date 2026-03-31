@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Claude拡張機能に深刻な脆弱性　閲覧だけでWebブラウザ乗っ取りの恐れ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news014.html",
+    "summary": "ClaudeのChrome拡張機能に、「ShadowPrompt」という深刻な脆弱性が発見されました。この脆弱性により、ユーザーがWebページを閲覧するだけで、AIが不正に操作される恐れがあります。これは、設計上の不備と外部部品のクロスサイトスクリプティング（XSS）を悪用したものとされています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-31T23:05:16.106136"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ComfyUIにメモリ最適化技術「Dynamic VRAM」が追加されてRAM容量の少ないPCでも高速生成が可能に",
+    "link": "https://gigazine.net/news/20260401-comfyui-dynamic-vram/",
+    "summary": "ノードベースの生成AIツールComfyUIは、ローカルでの画像・動画生成AIにおけるVRAMやRAM容量不足の課題を解消するため、2026年3月にメモリ最適化技術「Dynamic VRAM」をデフォルトで有効化しました。この新機能により、RAM容量の少ないPCでも高速な生成が可能になります。その仕組みについて解説するブログ記事が2026年3月25日に公開されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-03-31T23:05:25.087863"
+  },
+  {
+    "source": "Zenn",
+    "title": "ドコモのAIが通信障害を3つの技術で自動解決！熟練エンジニアの知恵を宿したシステムをわかりやすく解説",
+    "link": "https://zenn.dev/headwaters/articles/1b04f66e7276ec",
+    "summary": "ドコモは、AIを活用して通信障害を自動解決するシステムを開発しました。このシステムは、熟練エンジニアの知見が組み込まれており、「3つの技術」を用いて障害の原因特定から復旧までを一貫して自動化します。これにより、迅速な障害対応と通信サービスの安定性向上に貢献します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-03-31T23:05:33.496887"
+  },
+  {
+    "source": "Qiita",
+    "title": "【文系合格者が本音レビュー】G検定おすすめ参考書・問題集5選｜結局どれを買えばいい？",
+    "link": "https://qiita.com/mrmrmr/items/984f06d14ce5fc2c07be",
+    "summary": "本記事は、文系出身のG検定合格者が自身の経験に基づき、G検定の参考書・問題集選びについて本音でレビューしています。筆者はテキスト1冊と問題集1冊、Web学習サイトの併用で約3週間でG検定に合格しており、この組み合わせで十分だと結論付けています。G検定対策の定番テキストとしては、白本（公式テキスト）、黒本、赤本の3冊が挙げられています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-03-31T23:05:41.413182"
+  },
+  {
+    "source": "ITmedia",
     "title": "「2025年の崖」は終わらない　IT部門が再レガシー化を食い止めるための「3つの処方箋」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2603/31/news023.html",
     "summary": "「2025年の崖」問題は、レガシーシステムを刷新してもシステムの構造や組織のあり方を変えなければ「再レガシー化」が避けられないため、終わらないと指摘されています。\nこの記事では、大型案件の失敗事例を分析してきたSCSK顧問の室脇慶彦氏や日立製作所の有識者とともに、この「再レガシー化」を食い止める方法が議論されます。\nユーザー企業がデジタル主権を取り戻すことを目指し、そのための「3つの処方箋」が具体的に提示・検討されています。",
