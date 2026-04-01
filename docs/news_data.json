@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "NotebookLMで作業時間95％削減　自治体も企業も「Google回帰」が止まらない理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/02/news053.html",
+    "summary": "GoogleのAIツール「NotebookLM」は、自治体や企業の業務効率を飛躍的に向上させています。実際に、作業時間を最大95%削減した事例も報告されており、その具体的な導入メリットと効果が実例とデータに基づいて示されています。こうした顕著な成果が、多くの組織においてGoogleのAIツールへの「Google回帰」とも称されるシフトを加速させています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-01T22:27:44.116180"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "予測市場KalshiとPolymarketがサークルや学生インフルエンサーを通じて大学生を積極的にターゲットとしている、噂や内部情報を利用して学生らが利益を得ようと試みる",
+    "link": "https://gigazine.net/news/20260402-kalshi-polymarket/",
+    "summary": "予測市場プラットフォームのKalshiとPolymarketは、ニュースやスポーツなどを題材にユーザー間で賭け事を提供しています。これらプラットフォームは、サークルや学生インフルエンサーを通じて大学生を積極的に勧誘し、学生たちは噂や内部情報を利用して利益を得ようと試みています。ウォール・ストリート・ジャーナルは、このような予測市場が大学生に与える危険性について警鐘を鳴らしています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-04-01T22:27:51.921550"
+  },
+  {
+    "source": "Zenn",
+    "title": "ハーネスエンジニアリングとしてのFSD構造化のすゝめ ── 厳しい構造の制約でAIの出力が必然的に整う",
+    "link": "https://zenn.dev/kinosh/articles/harness-engineering-by-frontend-fsd",
+    "summary": "この文書は、FSD（Full Self-Driving）システムの構造化において「ハーネスエンジニアリング」の思想を取り入れることを提唱しています。具体的には、ハーネス設計のように厳格な構造的制約をAIシステムに課すことで、その出力が必然的に整理され、予測可能なものになると説明しています。このアプローチは、AIの自由な振る舞いを安全な範囲に収め、特に自動運転技術のような高い信頼性が求められる分野での安定性と安全性の向上を目指すものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-01T22:28:01.407472"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeのトークン消費が突然10倍になる原因と、hookで防ぐ実践的な方法",
+    "link": "https://qiita.com/yurukusa/items/49f1fa305522368d7e7a",
+    "summary": "Claude Codeユーザーの間で、トークン消費が突然10倍以上に急増する問題が多発しており、GitHub Issueには195件以上のリアクションが寄せられています。これは、通常89〜99%のキャッシュヒット率を誇るプロンプトキャッシュが無効化されることで、会話履歴が毎ターン再送信され、結果としてトークン消費が10〜20倍に膨れ上がるためです。この記事では、この爆発的なトークン消費をClaude Codeのhook機能を用いて事前に検知し、防止する実践的な方法が解説されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-01T22:28:09.736151"
+  },
+  {
+    "source": "ITmedia",
     "title": "「説明可能なAI」が鍵に　2028年、生成AI導入企業の半数でLLMオブザーバビリティー投資――Gartner予測",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news045.html",
     "summary": "Gartnerの予測によると、2028年までに生成AIを導入する企業の半数（50%）が、LLMオブザーバビリティー（大規模言語モデルの可観測性）への投資を開始します。これは、AIの出力プロセスを理解し、信頼性と安全性を確保するための「説明可能なAI」の重要性が増しているためです。企業は、生成AIの透明性を高め、その運用を監視することで、リスク管理と効果的な活用を目指すと考えられます。",
