@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ChatGPTでDNSを介したデータ流出の脆弱性、Check Pointが指摘",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news076.html",
+    "summary": "Check Pointは、ChatGPTのコード実行環境にDNSを介したデータ流出の脆弱性があることを報告しました。この脆弱性により、単一の不正プロンプトを入力するだけで、ユーザーの会話内容や生成結果が外部へ送信されるリスクがあります。同社は、これにより機密情報が意図せず流出する可能性があると指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-02T06:57:55.666764"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "EUは職員がAI生成画像を使うことを禁止している、AI生成コンテンツを投稿しまくるアメリカのトランプ大統領とは対照的",
+    "link": "https://gigazine.net/news/20260402-eu-ban-deepfakes-ai-generation-official/",
+    "summary": "欧州連合(EU)の主要組織である欧州委員会、欧州議会、欧州連合理事会は、職員が公式の文書や発信でAI生成画像やAI生成動画を使用することを禁止しました。この禁止措置はニュースメディアPOLITICOによって報じられています。AI生成コンテンツを頻繁に投稿するアメリカのトランプ大統領の姿勢とは対照的に、EUは情報発信の信頼性を確保する方針を示した形です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-02T06:58:08.353577"
+  },
+  {
+    "source": "Zenn",
+    "title": "【徹底解説】クロスエージェントメモリとは？AIがツールとセッションを超えて文脈を共有する仕組み",
+    "link": "https://zenn.dev/memorylakeai/articles/de1deffa7716e2",
+    "summary": "クロスエージェントメモリとは、AIが異なるツールやセッション間をまたいで文脈（コンテキスト）を継続的に共有するための革新的な仕組みです。これまでのAIは、セッションごとに情報がリセットされるため、一貫した対話やタスクの連携が困難でした。本技術は、この断絶を解消し、AIがユーザーとのやり取りやタスクの進行状況を記憶し続けることで、より高度で連続的なAI活用を可能にします。これにより、AIは状況に応じた的確な支援を提供し、よりスムーズな協調作業を実現することが期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-02T06:58:17.320668"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeを使った開発ワークフロー設計",
+    "link": "https://qiita.com/kanaamin/items/7b6cf3013efc396c7aaa",
+    "summary": "この記事は、Claude Codeを用いた開発ワークフローを効率化する方法を紹介しています。毎回指示を手打ちする手間を省くため、`CLAUDE.md`ファイルとPRテンプレートを活用することが中心です。これにより、Claudeが生成した実装計画やPR説明を特定のフォルダ（例: `.claude/plan/`、`.claude/pr/`）に保存し、作業の定型化と効率化が図れます。記事では、`CLAUDE.md`、`.claude`ディレクトリ、`project/PR_template.md`を含む具体的なフォルダ構成例を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-02T06:58:25.022405"
+  },
+  {
+    "source": "ITmedia",
     "title": "NotebookLMで作業時間95％削減　自治体も企業も「Google回帰」が止まらない理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/02/news053.html",
     "summary": "GoogleのAIツール「NotebookLM」は、自治体や企業の業務効率を飛躍的に向上させています。実際に、作業時間を最大95%削減した事例も報告されており、その具体的な導入メリットと効果が実例とデータに基づいて示されています。こうした顕著な成果が、多くの組織においてGoogleのAIツールへの「Google回帰」とも称されるシフトを加速させています。",
