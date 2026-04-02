@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "現代まで強い影響を残す19世紀中国とイギリスの「アヘン戦争」について解説したムービー",
+    "link": "https://gigazine.net/news/20260403-opium-wars/",
+    "summary": "19世紀に清(中国)とイギリスの間で2年間にわたり繰り広げられた「アヘン戦争」は、現代まで強い影響を残す歴史的な出来事です。この記事では、教育系YouTubeチャンネルNightshiftが公開したアニメーション動画「アヘン戦争の狂気の物語」が紹介されています。この動画は、アヘン戦争の経緯とその裏側にあった背景を分かりやすく解説しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-02T22:23:43.944663"
+  },
+  {
+    "source": "Zenn",
+    "title": "「安全構造は最初から─Anthropicコード流出事件が示す設計原則」",
+    "link": "https://zenn.dev/tokuni/articles/06b137f714f964",
+    "summary": "申し訳ありません。記事のタイトル「安全構造は最初から─Anthropicコード流出事件が示す設計原則」は提示されていますが、**記事の本文が提供されていない**ため、内容を要約することができません。\n\n記事の本文をご提供いただければ、要約を作成いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-04-02T22:23:49.688727"
+  },
+  {
+    "source": "Qiita",
+    "title": "AWSで生成AIを触り始めたい人へ。サービス選定から実装の入口までつながる公式テキスト",
+    "link": "https://qiita.com/yzak/items/c45f472bd52dae1b36cd",
+    "summary": "AWSで生成AIの実装や検証を始めたいエンジニア向けに、サービス選定から実装の入口までを解説する「公式テキスト」が紹介されています。この書籍は、BedrockをはじめとするAWSの生成AIサービスを、サービス理解と実装の両面から整理し、実務への適用を支援します。読者は、個別のツール知識に留まらず、モデル利用、周辺サービス、運用観点を含めた全体像を把握し、生成AIをクラウド設計の一部として扱う視点を得られるでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-02T22:24:00.031717"
+  },
+  {
     "source": "ITmedia",
     "title": "ChatGPTでDNSを介したデータ流出の脆弱性、Check Pointが指摘",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news076.html",
