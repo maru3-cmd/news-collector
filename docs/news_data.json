@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Gmailアドレスが変更可能に――組織アカウントへの影響は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/03/news035.html",
+    "summary": "Googleは、Gmailアドレスのユーザー名を変更できる新機能を導入しました。利用者は既存のデータを維持したまま新しいアドレスに更新でき、変更前の旧アドレスは予備として保持されます。この機能は米国から展開が始まり、今後全ての利用者へ段階的に提供される予定です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-03T06:54:59.962328"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "LinkedInへアクセスする度にPC内が違法に検索されてしまうと主張する調査プロジェクト「BrowserGate」",
+    "link": "https://gigazine.net/news/20260403-linkedin-browsergate/",
+    "summary": "調査プロジェクト「BrowserGate」は、ビジネス特化型SNSのLinkedInがユーザーのPCにインストールされているソフトウェアを違法に検索し、情報を収集していると指摘しました。BrowserGateによると、この収集されたデータはLinkedInのサーバーに加え、アメリカとイスラエルのサイバーセキュリティ企業を含む第三者企業にも送信されているとのことです。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-03T06:55:07.240485"
+  },
+  {
+    "source": "Zenn",
+    "title": "TDD agent 1つからbackend開発パイプラインができるまで",
+    "link": "https://zenn.dev/techtrain_blog/articles/b75e5f9d0e840c",
+    "summary": "このタイトルの記事は、単一のTDD（テスト駆動開発）エージェントの導入から、バックエンド開発全体のパイプラインを構築するまでの道のりを解説しています。\n\nこのTDDエージェントは、テスト駆動開発の原則に基づいてコードの生成、テスト、修正といった一連の作業を自動化し、開発効率の向上を目指します。最初はシンプルなタスクから始まり、段階的に機能を拡張することで、最終的には実装からデプロイまでを網羅する包括的な開発パイプラインへと発展させた経緯が詳述されていると考えられます。これにより、開発期間の短縮やコード品質の安定化といった具体的なメリットを実現したと推測されます。",
+    "category": "DX・業務改善",
+    "content_type": "article",
+    "collected_at": "2026-04-03T06:55:20.618567"
+  },
+  {
+    "source": "Qiita",
+    "title": "量子機械学習が変える金融リスク管理：2026年最新動向と実装ガイド",
+    "link": "https://qiita.com/AIRoboticsQuantumLab/items/105ac18194f24ad02230",
+    "summary": "2026年現在、量子機械学習（QML）は、従来の古典的なモンテカルロシミュレーションなどが抱える「計算時間の壁」を劇的に突破することで、金融リスク管理に革命をもたらしつつあります。特に、ポートフォリオのバリュー・アット・リスク（VaR）算出やデリバティブ価格計算に必要とされる膨大な確率的シミュレーションにおいて、その能力が期待されています。例えば、10,000資産と100,000シナリオのVaR計算が古典CPUで数時間かかる問題を、QMLが解決しようとしています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-03T06:55:31.456692"
+  },
+  {
     "source": "GIGAZINE",
     "title": "現代まで強い影響を残す19世紀中国とイギリスの「アヘン戦争」について解説したムービー",
     "link": "https://gigazine.net/news/20260403-opium-wars/",
