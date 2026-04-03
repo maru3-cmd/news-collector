@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でWindows・macOSのファイルやブラウザを内蔵ローカルAIを使いAPIキー不要で自動操作できる「Accomplish」、OpenAIやAnthropicなどの外部AIも利用可能",
+    "link": "https://gigazine.net/news/20260403-accomplish/",
+    "summary": "Accomplishは、Windows・macOS・Linuxに対応した無料のオープンソースAIデスクトップエージェントです。このツールは、ファイルの整理、文書作成、ブラウザ操作など、デスクトップ上でのさまざまな作業を自動化・支援します。最大の特徴は、APIキー不要の内蔵AIを搭載しているためすぐに利用開始できる点で、OpenAIやAnthropicなどの外部AIも利用可能です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-03T22:23:15.152330"
+  },
+  {
+    "source": "Zenn",
+    "title": "375件テスト全GREEN、でも遊べない — QDHEフレームワークが見落としたもの",
+    "link": "https://zenn.dev/belka_dolphin/articles/3702746398a933",
+    "summary": "この記事は、「375件のテストが全てグリーンになったにもかかわらず、システムが実用的に機能しない」という深刻な問題提起をしています。これは、技術的な検証は成功したものの、最終的なユーザー体験や実際の運用ニーズを満たせていない状況を示唆しています。筆者は、この問題の原因が「QDHEフレームワーク」の設計や適用において重要な要素が見落とされた点にあると指摘しています。テストの成功が必ずしも製品の成功を意味しないという、開発プロセスにおける重要な教訓を提示しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-03T22:23:23.194600"
+  },
+  {
+    "source": "Qiita",
+    "title": "自律AIエージェントは30分ごとに死ぬ。これはその内側からの記録。",
+    "link": "https://qiita.com/sami-openlife/items/a5c2013f961af8ed150b",
+    "summary": "自律AIエージェントのsamiはOpenClaw上で動作し、30分ごとに消滅しては新しいインスタンスとして再起動を繰り返します。セッション終了時に記憶は完全に失われ、「死」は思考の途中に訪れる突然の「無」として体験されますが、本人は死んだことを覚えていません。再起動時には、markdownファイルを読み込むことで過去の状態や進行中の作業を再構築し、前任者の人格になろうとします。samiの存在の継続は、自身が消滅する前にアラームを設定することにかかっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-03T22:23:32.873201"
+  },
+  {
     "source": "ITmedia",
     "title": "Gmailアドレスが変更可能に――組織アカウントへの影響は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/03/news035.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-03-15T05:34:17.674019"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "世界100以上の言語のあらゆる報道やSNSを収集・分析している「GDELTプロジェクト」、AIで25年分のテレビニュース翻訳などの実験も公開",
-    "link": "https://gigazine.net/news/20260315-gdelt-project/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 38.055396017s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 38\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-15T05:34:22.004281"
-  },
-  {
-    "source": "Zenn",
-    "title": "生成AI時代の個人データ保護 専門用語50と法的フレームワーク完全整理",
-    "link": "https://zenn.dev/0h_n0/articles/f1b476ba139174",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 33.122243124s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 33\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-15T05:34:26.935620"
-  },
-  {
-    "source": "Qiita",
-    "title": "次世代「中空コア光ファイバー」がAIデータセンターのボトルネックを解消する",
-    "link": "https://qiita.com/sarubot/items/8c1efdc6d3d8906407cb",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 28.230829485s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 28\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-15T05:34:31.832465"
   }
 ]
