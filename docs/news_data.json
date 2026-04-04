@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Google Chromeに重大な脆弱性　CISAが既知の悪用を確認し警告",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/04/news014.html",
+    "summary": "Google Chromeに21件の脆弱性が修正された最新版が公開されました。中でも1件の脆弱性はすでに悪用が確認されており、米当局CISAもユーザーに速やかな更新を警告しています。この問題はMicrosoft Edgeなど他のChromiumベースのブラウザにも影響する恐れがあるため、迅速なアップデートが強く推奨されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-04T06:44:13.368273"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由",
+    "link": "https://gigazine.net/news/20260404-ghostty-ui/",
+    "summary": "HashiCorp共同創設者のMitchell Hashimoto氏が開発した「Ghostty」は、無料・高速・多機能でクロスプラットフォーム対応の次世代ターミナルエミュレータです。ターミナルの速度と操作性を重視するエンジニアを中心に高い支持を集めています。この記事では、一般的な評価とHashimoto氏の見解を通じて、その魅力と人気の理由を掘り下げています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-04-04T06:44:20.957963"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeのフロントマター、トークンにどれだけ影響するのか実測してみた",
+    "link": "https://zenn.dev/cti1650/articles/claude-code-frontmatter-token-measurement",
+    "summary": "提供された情報では記事本文が不明ですが、タイトルから推測すると、この記事はAIモデルClaudeが生成したコードにおける「フロントマター」（コード冒頭のメタデータや説明）が、トークン数に与える影響を実測し、その結果を報告しています。具体的には、フロントマターの有無や種類がClaudeモデルへの入力として認識されるトークンコストにどの程度変化をもたらすのかを検証し、その影響度を明らかにしようとしていると見られます。ただし、記事の具体的な内容や実測結果、数字については情報がありません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-04T06:44:34.915116"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIプロンプト実行途中結果5",
+    "link": "https://qiita.com/sadasi64/items/f3c77ad0aa3619323662",
+    "summary": "この記事は、AIプロンプト実行における第5回目の中間結果を紹介しています。添付された画像がその現在の出力状況を視覚的に示しています。筆者は、この結果が現状であるとしつつも、まだ大幅な改良の余地があると述べています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-04T06:44:43.312954"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でWindows・macOSのファイルやブラウザを内蔵ローカルAIを使いAPIキー不要で自動操作できる「Accomplish」、OpenAIやAnthropicなどの外部AIも利用可能",
     "link": "https://gigazine.net/news/20260403-accomplish/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-15T07:56:25.311351"
-  },
-  {
-    "source": "Qiita",
-    "title": "「おはよう」の一言でnote記事が完成する──Claude Codeで全自動モーニングルーティンを作った話",
-    "link": "https://qiita.com/claude-code-news/items/e639559a8d401c834318",
-    "summary": "この記事は、非エンジニアがClaude Codeを活用し、驚くほど簡単な自動化ルーティンを構築した事例を紹介しています。「おはよう」と入力するだけで、3分後にはその日のニュースを分析した2000字のブログ記事が、アイキャッチ画像付きで自動生成されるとのことです。\n\nこの仕組みは、プログラミング知識がほぼゼロでも、Claude Codeの「CLAUDE.md」と「Skills」機能を使うことで実現されています。特に「Skills」機能は、よく使う指示を保存し、スキル名で全自動実行できる点が画期的です。\n\n2026年に入り、Claude Codeはエンジニアだけでなく、日報作成やリサーチといった多様な業務を自然言語で指示できる「業務OS」として、非エンジニアにも広く普及していると筆者は述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-15T07:56:33.659505"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeを最速で起動する方法 ― Ctrl+Shift+Cで即パーミッションなし起動",
-    "link": "https://zenn.dev/niparato/articles/30fa02062f113f",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 17.138712834s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 17\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-15T05:49:42.918342"
-  },
-  {
-    "source": "Qiita",
-    "title": "VSCode の Copilot ちゃんのお仕事が終わったら音を鳴らしたい",
-    "link": "https://qiita.com/sigeta/items/bd737f1e3c2c244cb692",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 12.638397406s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 12\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-15T05:49:47.417031"
-  },
-  {
-    "source": "ITmedia",
-    "title": "IPA、サプライチェーンの企業間データ連携に関する共通指針を公開　「データスペース」で信頼性のあるデータ流通目指す",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news017.html",
-    "summary": "IPAは、サプライチェーンにおける企業間データ連携の共通要件を整理したガイドラインを公開しました。この指針は「データスペース」による信頼性のあるデータ流通を目指すものです。\n\nガイドラインは業務要件や設計方針を示し、分野別ガイドラインの策定を効率化します。これにより、炭素排出管理や製品履歴管理といった社会課題への対応も促進されるとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-15T05:34:17.674019"
   }
 ]
