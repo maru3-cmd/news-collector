@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "中学教師の3分の2がAIの使用により生徒の思考力が低下していると回答",
+    "link": "https://gigazine.net/news/20260406-losing-thinking-skills-ai/",
+    "summary": "イギリスの教育組合が中学校教師を対象に行った調査によると、回答者の3分の2が、AIの利用により生徒の思考力が低下していると感じています。具体的には、AIが生徒の作文能力や問題解決能力にも悪影響を与えていると彼らは指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-05T22:20:51.788074"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIは嘘をついた。でもその嘘が“防御エンジン”になった— それはハルシネーションから生まれた、AspidosAIという盾",
+    "link": "https://zenn.dev/panchan1/articles/6da4496169677d",
+    "summary": "AIが事実と異なる情報を生成する「ハルシネーション」（嘘をつくこと）は問題とされてきました。しかし、この記事はAIが生成する偽情報を逆手に取り、サイバーセキュリティの「防御エンジン」として活用する革新的なアプローチを紹介しています。このハルシネーションから生まれたシステムは「AspidosAI」と名付けられ、AIの弱点を盾として利用する新たな防御の形を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-05T22:20:59.995623"
+  },
+  {
+    "source": "Qiita",
+    "title": "Gemma 4をOllamaで動かしたら、Qwen 3.5が思考ダダ漏れで自滅した：ローカルLLM日本語対決",
+    "link": "https://qiita.com/kenimo49/items/700ebefb8dd89cccf42c",
+    "summary": "Google DeepMindが2026年4月2日にリリースしたGemma 4（4Bクラス、マルチモーダル対応）がOllama環境で検証されました。\nこの検証では、同クラスのAlibaba製Qwen 3.5とのローカルLLM日本語対決（4本勝負）が実施されました。\nその結果、Qwen 3.5が内部思考をダダ漏れにしながら自滅するという予想外の展開を見せました。\n記事では、RTX 4070搭載ワークステーションで両モデルを動かし、推論速度、出力品質、トークン効率を定量的に比較しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-05T22:21:10.805448"
+  },
+  {
     "source": "ITmedia",
     "title": "OpenAI、チーム開発向けにCodexの「従量課金制」を導入　ChatGPT Businessの値下げも",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/05/news009.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-16T23:01:36.185553"
-  },
-  {
-    "source": "ITmedia",
-    "title": "高市政権、AIロボットで「世界シェア3割」目指す　関連技術への投資を本格化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/16/news036.html",
-    "summary": "高市政権は、AIロボットを中心とするフィジカルAI分野において、2040年までに世界シェア3割超と20兆円市場の獲得を目指す方針を示しました。内閣官房が官民投資ロードマップ素案を提示しており、その達成に向けて関連技術への投資を本格化する計画です。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-03-16T09:17:39.531009"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "自分のPCで実行可能なローカルAIが一発で分かる便利サイト「CanIRun.ai」、比較機能もあってグラボの買い替え検討にも有用",
-    "link": "https://gigazine.net/news/20260316-pc-ai-run/",
-    "summary": "ChatGPTなどのクラウドAIが主流ながら、利用制限やオフラインでのAI利用ニーズから、ローカルAIモデルを実行するユーザーが増加しています。しかし、PCのスペックによって実行可能なモデルが異なるため、自分のPCで何が動くか分かりにくいという課題がありました。\n\nこの問題を解決するのがウェブサイト「CanIRun.ai」です。アクセスするだけでPCの構成を自動検出し、実行可能なAIモデルをユーザーに提示します。さらに、比較機能も備わっているため、グラフィックボードの買い替え検討にも有用なツールとなっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-16T09:17:48.540320"
-  },
-  {
-    "source": "Zenn",
-    "title": "本当のプログラミングの英雄は、コードを減らす人だ",
-    "link": "https://zenn.dev/hirayuki/articles/12e002a638093f",
-    "summary": "この記事は、真のプログラミングの「英雄」とは、多くのコードを書く人ではなく、むしろコードを削減する努力をする人であると主張しています。これは、不必要な複雑さを排除し、より簡潔で効率的なソリューションを構築することが、ソフトウェア開発において最も価値のある貢献であることを示唆しています。結果として、コードを減らすことは、システムの保守性向上、バグの減少、および長期的なプロジェクトの成功に繋がる重要な行動であると位置づけられています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-03-16T09:18:00.725275"
   }
 ]
