@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "OpenAI、チーム開発向けにCodexの「従量課金制」を導入　ChatGPT Businessの値下げも",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/05/news009.html",
+    "summary": "OpenAIは、コード生成AI「Codex」にチーム開発向けの従量課金制を導入しました。これにより、「ChatGPT Business」および「Enterprise」のユーザーは、固定費のかからない「Codex-only seats」を通じてCodexの全機能にアクセスできるようになります。この変更は、チームがCodexをより柔軟かつ効率的に利用できるようにすることを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-05T06:52:13.830521"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AnthropicがClaude Code利用者にOpenClawなどのサードパーティーツールを利用する場合は追加料金が必要になると通知",
+    "link": "https://gigazine.net/news/20260405-anthropic-claude-code-need-pay-extra-openclaw/",
+    "summary": "Anthropicは、有料会員向けのAIコーディングアシスタント「Claude Code」を提供しています。同社は、ユーザーがClaude CodeをOpenClawのようなサードパーティー製ツールと併用する場合、追加料金が発生することを通知したと報じられています。この変更は、外部ツール連携による利便性に対する新たなコスト負担をユーザーに求めるものとなります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-05T06:52:20.924005"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude で生成したサイトのプレビューを信用せず、MinTo にデプロイして確認するのがベストだった",
+    "link": "https://zenn.dev/nozomi720/articles/aaec2ec9cda609",
+    "summary": "Claudeで生成されたウェブサイトのプレビューは、その内容を完全に信用すべきではないという教訓が示されています。代わりに、サイトをMinToに実際にデプロイして確認することが、最も確実な検証方法であるとされています。これは、プレビュー環境と実際のデプロイ環境で表示や動作に差異が生じる可能性があるため、最終的な確認の重要性を強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-05T06:52:28.452666"
+  },
+  {
+    "source": "Qiita",
+    "title": "CLAUDE.mdのアンチパターン5選 — やってはいけない設計ミスと対策",
+    "link": "https://qiita.com/joinclass/items/29538162bfb52b94be23",
+    "summary": "この記事では、Claude Codeの「永続的な指示書」であるCLAUDE.mdの設計における失敗例（アンチパターン）と対策が紹介されています。主なアンチパターンは、1,000行を超える記述によるAIの混乱、曖昧な指示による意図しない動作、そして権限レベル未定義による危険な操作です。\n\n対策として、CLAUDE.mdを200行以内に抑え、詳細は別のファイルに分離すること（例: 11個のエージェント定義ファイル）、指示を「関数は30行以内」「ネストは3段まで」のように具体化すること、そしてAIの権限をread-only / draftを含む3段階で定義することが重要だと指摘されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-05T06:52:37.043240"
+  },
+  {
     "source": "GIGAZINE",
     "title": "パイプカット手術を受ける男性が大学バスケの全米トーナメントに合わせて増加する理由とは？",
     "link": "https://gigazine.net/news/20260404-vasectomies-spike-during-major-basketball-event/",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-03-16T09:18:00.725275"
-  },
-  {
-    "source": "Qiita",
-    "title": "Docker Swarm + GPU + GlusterFS で AI推論クラスタを構築する",
-    "link": "https://qiita.com/non-k/items/536baefe80d7567516c7",
-    "summary": "本記事では、GPU搭載物理サーバー3台でAI推論クラスタを構築した事例を紹介しています。運用コストを考慮し、オーケストレーションにはKubernetesではなくDocker Swarmを採用しました。\n\nこのクラスタは、複数のAI推論サービスをコンテナで動かし、GPUリソースを効率的に利用するため、GlusterFSでストレージを共有し、Traefikをリバースプロキシ、ModSecurityをWAFとして構成しています。ノード間でのモデルや設定の共有、ロードバランサーによる冗長化と自動復旧、そしてアプリケーション層のセキュリティ確保を実現しています。",
-    "category": "クラウド・インフラ",
-    "content_type": "article",
-    "collected_at": "2026-03-16T09:18:09.306458"
-  },
-  {
-    "source": "ITmedia",
-    "title": "SlackはAIがSalesforceを動かす「入り口」へ　新GMが語る、人間とAIの主役交代",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/13/news097.html",
-    "summary": "Slackの新GMであるロブ・シーマン氏は、同サービスをAIがSalesforceなどのデータを動かす基盤「Agentic OS」へと再定義しました。AIによるメッセージ数が過去最高を更新するなど、業務における人間とAIの役割交代が進んでおり、新Slackbotがもたらす業務革命に注目が集まっています。これは、AIを主役とするSalesforceとの統合戦略の核となる動きです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-15T23:00:14.439354"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "インターネット以前の巨大ネットワーク「BBS」はこんな機械で動いていた",
-    "link": "https://gigazine.net/news/20260316-bbs-photo/",
-    "summary": "インターネットが普及する以前、人々はBBS（Bulletin Board System：電子掲示板）というオンラインサービスに接続していました。これは、現在の巨大なインターネットネットワークが登場する前の、重要なコミュニケーション手段でした。あるブログには、BBSがどのように機能していたかを示す機械や、当時の時代を象徴する写真が掲載されています。これらの写真は、インターネット以前のオンライン文化を伝えています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-15T23:00:23.004106"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIF-C01 学習メモ ドメイン1: AI・MLの基礎",
-    "link": "https://zenn.dev/y16ra/articles/cd543fb061b6a3",
-    "summary": "提供された情報には記事の具体的な本文が含まれていないため、「AIF-C01 学習メモ ドメイン1: AI・MLの基礎」というタイトルのみから要約を作成することはできません。\n\nもし記事本文を提供していただければ、その内容に基づいて、重要なポイントや数字を含めながら3〜4文で簡潔に要約いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-15T23:00:32.714103"
   }
 ]
