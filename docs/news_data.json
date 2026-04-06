@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AI時代に改めて問う「DX人材育成の勘所」　デルの取り組みから考察",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/06/news051.html",
+    "summary": "この記事は、AI時代における企業のDX人材育成の重要性を問い直しています。デジタル技術の習得はもちろんのこと、それを実務に活かせる人材の確保が鍵であると指摘。デルの新たな取り組みを事例に挙げながら、これからの時代に求められるDX人材育成の「勘所」を探ることを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-06T22:26:08.974245"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "iPhone 17 Proでパラメーター数80億のAIモデル「1-bit Bonsai 8B」をローカル実行してみたよレビュー、無料アプリのLocally AIで簡単に実行できる",
+    "link": "https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/",
+    "summary": "AI開発企業PrismMLが2026年3月31日に公開した「1-bit Bonsai 8B」は、80億パラメーター規模ながらメモリ使用量をわずか1.15GBに抑えた省メモリAIモデルです。このモデルの大きな特徴は、iPhone 17 Proでローカル実行できること。レビューでは、無料アプリ「Locally AI」を使うことで、iPhone 17 Pro上でこの高機能AIモデルを簡単に実行できることが示されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-06T22:26:16.728751"
+  },
+  {
+    "source": "Zenn",
+    "title": "​【4/8】Google Cloud × Gemini 3 の最前線へ。Japan IT Week 春 2026",
+    "link": "https://zenn.dev/hokanco28/articles/9e2db83abf9482",
+    "summary": "2026年4月8日に開催されるJapan IT Week 春 2026において、Google Cloudと次世代AIモデルGemini 3の最先端技術が紹介されます。\nこのイベントでは、両プラットフォームの「最前線」を探求し、最新の技術動向や革新的な応用事例に焦点が当てられる予定です。\n参加者は、Google CloudとGemini 3が提供するソリューションや将来の展望について深く学ぶ機会を得るでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-06T22:26:27.488226"
+  },
+  {
+    "source": "Qiita",
+    "title": "SaaSは死んだ：なぜあなたのAIエージェントは本番環境で失敗するのか（ハーネスエンジニアリング）",
+    "link": "https://qiita.com/mguozhen/items/a2b6e51466699fc8e7f8",
+    "summary": "「SaaSは死んだ：なぜあなたのAIエージェントは本番環境で失敗するのか」と題された記事は、AIエージェントが本番環境で失敗する主な理由は、AIに「話し方」を教えるプロンプトエンジニアリングだけでは不十分であり、AIがデータベースを破壊せずに安全にタスクを完遂するための「ハーネスエンジニアリング」が不可欠であると指摘します。\n\nハーネスエンジニアリングは、産業レベルのシステムを構築することで、主に以下の3つの要素で構成されます。これらには、1. タスク状態を構造化された状態（保留、実行中、完了）に永続化しチェックポイントを保存すること、2. 複雑なワークフローを厳格なサンドボックス内で動作する分離されたサブエージェントに分解すること、そして3. API呼び出しが3回失敗した場合に実行を停止する確定的なフォールバックが含まれます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-06T22:26:37.486153"
+  },
+  {
+    "source": "ITmedia",
     "title": "Google、「Gemma 4」を発表――高度な推論とエージェント機能を備える4種のモデル",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/06/news032.html",
     "summary": "Googleは、高度な推論とエージェント機能を備えた生成AIモデル「Gemma 4」を発表しました。このモデルは4つの異なるサイズで提供され、推論、コード生成、画像理解といった幅広い機能に対応しています。小型モデルは端末での動作を想定し、大型モデルは高性能を発揮する設計となっています。少ない計算資源で高い性能を実現することを目指し開発されました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-17T23:06:08.141098"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ゆうちょ銀行がVDIのバックアップ先にバッファロー製NASを選んだのはなぜ？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/17/news041.html",
-    "summary": "ゆうちょ銀行は、事務業務向けに運用する1300台の仮想デスクトップ（VDI）のバックアップ先として、バッファロー製NASを採用しました。この記事は、同銀行がこの製品を選択した具体的な理由について深掘りしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-17T08:06:25.627780"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "脳にガツンとくる豚と魚介の濃厚スープがもっちり太麺に絡んで食べ応え抜群な「スーパーカップ超大盛り 魚介豚骨醤油ラーメン」食べてみた",
-    "link": "https://gigazine.net/news/20260317-acecook-super-cup-gyokai-tonkotsu/",
-    "summary": "エースコックは、新商品「スーパーカップ超大盛り 魚介豚骨醤油ラーメン」を2026年3月23日(月)に発売します。このカップ麺は、豚と魚介の濃厚なスープが特徴で、もっちりとした太麺が絡み、「脳にガツンとくる」ような食べ応えを実現しています。記事では、発売に先駆けて編集部がこの一杯を先行試食し、その味の仕上がりをレビューしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-17T08:06:33.193287"
-  },
-  {
-    "source": "Zenn",
-    "title": "43サイトの専用パーサーを実装して分かった、日本のWebサイトの「闇」と「光」",
-    "link": "https://zenn.dev/bitsap/articles/e3701908b475f1",
-    "summary": "この記事は、43もの日本のWebサイトに専用のパーサーを実装した経験に基づき、日本のWebサイトが持つ「闇」と「光」を分析しています。この経験を通じて、「闇」としてはデータの取得を困難にする技術的な課題や非標準的な構造が、「光」としては独自の工夫やユーザーにとって価値ある情報提供などが浮き彫りになったと考えられます。この分析は、日本のWebサイトの特性と、データ収集における課題や利点を深く理解する貴重な洞察を提供しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-03-17T08:06:44.742045"
-  },
-  {
-    "source": "Qiita",
-    "title": "Firecrawlの1/4の価格で、日本語サイトに最強のAI Web Reader APIを作った",
-    "link": "https://qiita.com/bit-sap/items/675b65ac517a73ed0e85",
-    "summary": "日本の開発者が、URLを投げるとAIが要約付きのMarkdownを返すWeb Reader APIを開発しました。\nこのAPIはFirecrawl v1互換でLangChainから容易に導入でき、SUUMOや食べログなど43の日本語サイトに対応する専用パーサーを搭載している点が特徴です。\nRAGパイプライン構築時のWebページからのテキスト抽出問題を解決し、月額$10から利用可能で、Firecrawlの約1/4の価格で提供されます。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-03-17T08:06:52.409002"
   }
 ]
