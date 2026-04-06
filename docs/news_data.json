@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Google、「Gemma 4」を発表――高度な推論とエージェント機能を備える4種のモデル",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/06/news032.html",
+    "summary": "Googleは、高度な推論とエージェント機能を備えた生成AIモデル「Gemma 4」を発表しました。このモデルは4つの異なるサイズで提供され、推論、コード生成、画像理解といった幅広い機能に対応しています。小型モデルは端末での動作を想定し、大型モデルは高性能を発揮する設計となっています。少ない計算資源で高い性能を実現することを目指し開発されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-06T07:14:56.440817"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Facebook創業者マーク・ザッカーバーグCEOが20年にわたるプログラミングのブランクを経て再びコードを書き始めた、使っているのはAIコーディング支援ツール",
+    "link": "https://gigazine.net/news/20260406-mark-zuckerberg-return-coding/",
+    "summary": "Facebook創業者であるマーク・ザッカーバーグCEOが、20年間のブランクを経てプログラミングを再開したと報じられました。彼はAIコーディング支援ツールを活用して再びコードを書き始めています。このニュースは「The Pragmatic Engineer」が伝え、業界の著名人からさまざまなコメントが寄せられるなど、大きな注目を集めています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-04-06T07:15:03.283164"
+  },
+  {
+    "source": "Zenn",
+    "title": "MCP サーバーのツールを7個から3個に統合した設計判断と手順",
+    "link": "https://zenn.dev/wireharbor/articles/mcp-tool-consolidation",
+    "summary": "この記事は、MCPサーバーの管理ツールの効率化に関するものです。従来7個存在していたツールが、設計判断と具体的な手順を経て3個に統合されました。この統合は、ツールの管理負担軽減と運用効率の向上を目的としており、記事ではその判断基準と実施方法が詳細に解説されています。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-04-06T07:15:11.680736"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIエージェントを社内展開する前に整理しておきたいガバナンスの基本",
+    "link": "https://qiita.com/engchina/items/c164930266c1e85d4830",
+    "summary": "AIエージェントは単なる情報提供ではなく業務を実行できるため、社内導入時には「どこまで任せてよいか」を明確にすることが不可欠です。ガバナンスは活用を制限するものではなく、安全な活用拡大の前提条件となります。\n\n導入に際しては、まず「何をさせるか」を整理し、検索や要約といった低リスク業務から始めることが推奨されます。一方で、外部送信や支払い、データ更新といった高リスク業務は慎重に扱い、「どこで人が確認するか」を明確にする必要があります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-06T07:15:21.071811"
+  },
+  {
     "source": "GIGAZINE",
     "title": "中学教師の3分の2がAIの使用により生徒の思考力が低下していると回答",
     "link": "https://gigazine.net/news/20260406-losing-thinking-skills-ai/",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-03-17T08:06:52.409002"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェントは情報漏えいの温床　ガートナーが指摘する「管理不能リスク」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/17/news029.html",
-    "summary": "ガートナーは、セキュリティ対策が不十分なAIエージェントが情報漏えいの温床となり、「管理不能リスク」をもたらすと指摘しています。これらのエージェントは攻撃者に悪用され、社内データ侵害の経路となる恐れがあるとのことです。同社は、この問題が「数年以内」に企業の情報漏えい問題として顕在化すると予測しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-16T23:01:07.715771"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GPT・Llama・Grokなどさまざまな大規模言語モデルのアーキテクチャを図示した「LLM Architecture Gallery」",
-    "link": "https://gigazine.net/news/20260317-llm-architecture-gallery/",
-    "summary": "さまざまな大規模言語モデル（LLM）の構造を図示した「LLM Architecture Gallery」がオンラインで公開されました。\n\nこのギャラリーは、OpenAIのGPTシリーズ、xAIのGrok、MetaのLlamaといった主要なLLMのアーキテクチャを視覚的に解説しています。これにより、多様なLLMの複雑な内部構造を比較し、理解を深めることができます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-16T23:01:17.814808"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeのfeature-devプラグインが「動くは動くんだけど...」を解決してくれた話",
-    "link": "https://zenn.dev/atamaplus/articles/claude-feature-dev",
-    "summary": "「Claude Codeのfeature-devプラグイン」は、開発現場で頻繁に遭遇する「動くには動くが、期待通りではない」という曖昧な課題を解決するために開発されました。このプラグインは、特定しにくいバグや改善点を効率的に特定・解消する機能を提供します。その結果、開発者のフラストレーションを軽減し、開発プロセスの効率化とコード品質の向上に大きく貢献しました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-16T23:01:27.404718"
-  },
-  {
-    "source": "Qiita",
-    "title": "【初心者向け】OpenClaw v2026.3.8 基本操作ハンドブック — AIエージェントと最初の一歩",
-    "link": "https://qiita.com/akkiy6577/items/69ec77edea58c7da7a17",
-    "summary": "この記事は、Windows環境で動作するAIエージェントツール「OpenClaw v2026.3.8」の初心者向けインストールおよび初期設定方法を解説しています。OpenClawはPC上で自律的にファイル操作、コード実行、Web検索、Discord連携など多岐にわたる複雑なタスクをローカル環境で解決できるのが特徴です。導入にはNode.js 18.x以降とPython 3.10.xの事前準備が必須で、GitHubからのダウンロード、VS Codeでの設定、コマンドプロンプトでの実行を通じて利用を開始できます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-16T23:01:36.185553"
   }
 ]
