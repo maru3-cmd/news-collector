@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「ERP導入はイジりすぎると失敗する」ガートナー調査で明らかに　失敗しないラインは？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/07/news043.html",
+    "summary": "ガートナーの調査によると、ERP導入プロジェクトでは、システムに対する過度なカスタマイズが失敗の主要因となることが明らかになりました。特定の「カスタマイズ率」の閾値を超えてしまうと、プロジェクトの納期や予算が大幅に超過するリスクが顕著に高まります。この調査は、ERP導入の成功と失敗を分ける明確な「境界線」が存在することを示しており、企業はカスタマイズの範囲を慎重に検討する必要があることを示唆しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-07T07:01:38.364576"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "たった5分でゼロから言語モデルを自作できる「GuppyLM」、Google Colabを使って無料でトレーニング可能",
+    "link": "https://gigazine.net/news/20260407-guppylm-tiny-llm-built-from-scratch/",
+    "summary": "「GuppyLM」は、大規模言語モデル（LLM）の仕組みを体感的に理解したい人向けに開発されたツールです。Google Colaboratory（Google Colab）を使い、たった5分でゼロから独自の言語モデルを無料で構築できます。これにより、複雑なLLMの構築プロセスを手軽に体験し、その動作原理を深く理解することが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-07T07:01:45.207257"
+  },
+  {
+    "source": "Zenn",
+    "title": "Googleが「Gemma 4」と「Veo 3.1 Lite」を公開——「エッジAI」って何？スマホの中でAIが動く時代が来た",
+    "link": "https://zenn.dev/ai_tech_memo/articles/20260407-1556",
+    "summary": "Googleは、新たなAIモデル「Gemma 4」と「Veo 3.1 Lite」を公開しました。これらは「エッジAI」を実現するためのもので、AIがクラウドではなくスマートフォンなどのデバイス上で直接動作することを意味します。これにより、AIが端末内で機能する時代が到来し、より高速かつプライベートなAI体験が可能になるとされています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-07T07:01:54.874199"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIコードレビューツールが変える、ベトナムオフショア開発の新時代【2026年最新事例】",
+    "link": "https://qiita.com/NKKTechGlobal/items/5a32883d5c2bd573a186",
+    "summary": "2026年現在、ベトナムのオフショア開発においてAIコードレビューツールが導入され、品質管理に革命的な変化をもたらしています。これにより、従来の品質のばらつきやコミュニケーションロスの課題が大幅に改善されています。\n\n特にNKKTech Softwareでは、AIシステムの導入によりバグ検出率を87%向上させ、リリース後の不具合を92%削減する成果を上げています。このツールは、従来のコードレビューにおける属人化問題を解決し、開発品質の一貫性とスケーラビリティの向上に貢献しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-07T07:02:02.317550"
+  },
+  {
+    "source": "ITmedia",
     "title": "AI時代に改めて問う「DX人材育成の勘所」　デルの取り組みから考察",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/06/news051.html",
     "summary": "この記事は、AI時代における企業のDX人材育成の重要性を問い直しています。デジタル技術の習得はもちろんのこと、それを実務に活かせる人材の確保が鍵であると指摘。デルの新たな取り組みを事例に挙げながら、これからの時代に求められるDX人材育成の「勘所」を探ることを目的としています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-18T08:04:32.001820"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft、WDSの脆弱性対策を発表　2026年4月に既定で無効化へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news039.html",
-    "summary": "Microsoftは、WDSの自動展開機能における脆弱性対策を発表しました。応答ファイルの傍受を防ぐため、この機能は2026年4月から既定で無効化されます。管理者は、段階的な仕様変更への早期対応や代替手法への移行が求められます。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-17T23:05:39.969830"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Starlink Miniを自宅インターネットの予備回線として使う",
-    "link": "https://gigazine.net/news/20260318-starlink-mini-failover/",
-    "summary": "愛好家のジャック・ピアース氏が、衛星通信ネットワークStarlinkの小型モデル「Starlink Mini」を導入しました。彼はこれを自宅インターネットの予備回線として活用し、メイン回線がダウンした際のバックアップとして利用していると報告しています。Starlink Miniは、緊急時やメイン回線不調時に安定した通信を確保する手段として注目されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-17T23:05:48.029845"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Agent SDK を OpenAI Agents SDK / ADK と比較して整理する",
-    "link": "https://zenn.dev/peintangos/articles/7ee437f485e73d",
-    "summary": "この記事は、Anthropicの「Claude Agent SDK」とOpenAIの「Agents SDK / ADK」という二つの主要なAIエージェント開発キットを比較し、その違いと共通点を整理することを目的としています。\n\n具体的には、両SDKが提供する機能、設計思想、エージェント構築のアプローチを対比することで、開発者がそれぞれのツールの特性を深く理解できるよう構成されていると考えられます。これにより、読者は自身のプロジェクトに最適なAIエージェント開発環境を選択するための具体的な指針を得られるでしょう。\n\n記事内では、それぞれのSDKがどのようなユースケースに適しているか、また技術的な差異や実装上のポイントが詳述されていると推測されますが、具体的な数値データはタイトルからは読み取れません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-17T23:05:58.903138"
-  },
-  {
-    "source": "Qiita",
-    "title": "GPTのReact習熟度も測る",
-    "link": "https://qiita.com/ymaeda_it/items/ab937585d0697d0d822e",
-    "summary": "この記事は、GPTモデル（GPT-4.1とGPT-5.4）がReact開発においてどれほどの習熟度を持つかを測るベンチマーク評価について報告しています。前回実施されたClaude Codeの3モデル（Sonnet, Opus, Haiku）に対する評価に続き、今回はGitHub Copilot CLIを介してGPTモデルが同様の基準でテストされました。\n\nAI/LLM技術の急速な進歩が開発ワークフローに与える影響を背景に、これらのモデルの具体的なコーディング能力を検証することが目的です。提供された情報からは具体的な数値結果は確認できませんが、各モデルのパフォーマンスが比較評価されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-17T23:06:08.141098"
   }
 ]
