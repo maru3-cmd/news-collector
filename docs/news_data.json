@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Windows 11、「再起動なし」の更新が標準に　月次アップデートまとめ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/08/news026.html",
+    "summary": "MicrosoftはWindowsの品質向上に向けた取り組みとして、Windows 11の月次アップデートで「再起動なし」の更新を標準化すると発表しました。2026年4月には新たな機能更新が予定されており、Autopatchの一般提供も開始されます。これにより、セキュリティの強化やユーザーエクスペリエンスの細かな改善が図られ、旧OSからの移行が促されます。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-07T22:29:08.046658"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "人類の数はすでに地球の持続可能な収容限界を超えてしまったとの研究結果",
+    "link": "https://gigazine.net/news/20260408-earths-population-surpassed-sustainable-capacity/",
+    "summary": "日本では少子高齢化が問題視される一方、世界人口は増加を続け、2025年には82億3200万人に達したと報告されています。この現状に対し、2026年3月に学術誌Environmental Research Lettersで発表された論文は、すでに人類の数が地球が持続的に支えられる収容限界を超えていると指摘しました。これにより、地球全体の持続可能性が深刻な課題に直面していることが浮き彫りになっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-07T22:29:18.920430"
+  },
+  {
+    "source": "Zenn",
+    "title": "1人開発×AI全振り — 2ヶ月で68ページの業務システムを作って、AIに経営分析までさせた話",
+    "link": "https://zenn.dev/lehti/articles/607424957ff38f",
+    "summary": "1人の開発者がAIを「全振り」で活用し、わずか2ヶ月で68ページにも及ぶ業務システムを構築した事例が紹介されています。\nこのプロジェクトでは、AIがシステム開発のコーディングやテストコード生成だけでなく、データ分析から経営状況の可視化、予測といった経営分析まで多岐にわたる業務を遂行しました。\n開発者はAIを単なるツールではなく、まるでビジネスパートナーのように活用することで、短期間で広範な機能を実装することに成功。\nこの事例は、AIが個人の生産性を劇的に高め、従来の開発者が手を出せなかった領域にまで業務範囲を拡大できる可能性を示唆しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-07T22:29:27.110091"
+  },
+  {
+    "source": "Qiita",
+    "title": "国産LLM「LLM-jp-4」をRTX 4070で動かしたら、意外な壁にぶつかった：Gemma 4との日本語対決",
+    "link": "https://qiita.com/kenimo49/items/f7de2c47177986273494",
+    "summary": "2026年4月3日に公開された国産LLM「LLM-jp-4」は、日本語MT-Benchで7.82とGPT-4o（7.29）を上回る性能を示し、大きな注目を集めました。筆者がGeForce RTX 4070（VRAM 12GB）環境でこのモデルを試したところ、日本語の品質は非常に高いと評価されました。しかし、実際にローカル環境で「動かす」段階で予期せぬ技術的な壁に直面したといいます。この記事は、ベンチマークの数値だけでは見えない、ローカルLLM運用のリアルな体験を検証した記録です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-07T22:29:36.277130"
+  },
+  {
+    "source": "ITmedia",
     "title": "「ERP導入はイジりすぎると失敗する」ガートナー調査で明らかに　失敗しないラインは？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/07/news043.html",
     "summary": "ガートナーの調査によると、ERP導入プロジェクトでは、システムに対する過度なカスタマイズが失敗の主要因となることが明らかになりました。特定の「カスタマイズ率」の閾値を超えてしまうと、プロジェクトの納期や予算が大幅に超過するリスクが顕著に高まります。この調査は、ERP導入の成功と失敗を分ける明確な「境界線」が存在することを示しており、企業はカスタマイズの範囲を慎重に検討する必要があることを示唆しています。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-03-18T23:01:49.415329"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenClaw狙う攻撃集団を特定　偽装導入で機密情報を窃取",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news048.html",
-    "summary": "中国のセキュリティ企業ThreatBookは、AIアプリを悪用する攻撃集団「OpenClaw」の活動を特定したと報告しました。\nOpenClawは、偽装したWebサイトや技術記事、拡張機能を用いて利用者を欺き、不正な操作を促します。\nその手口により端末に侵入し、機密情報を窃取しているとのことです。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-18T08:03:57.036325"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「アイスクリーム食べた」が「セルフケアの大切さを実感しました」とインフルエンサーっぽい大げさな言い回しに変換される「LinkedIn Speak」が翻訳サービスのKagi Translateに登場",
-    "link": "https://gigazine.net/news/20260318-linkedin-speak/",
-    "summary": "2024年に登場した無料の翻訳サービス「Kagi Translate」は、高い精度での言語翻訳に加え、「シェイクスピア風」などの多様なスタイル変換機能を備えています。今回、ビジネス特化型SNSのLinkedInで使われるような、インフルエンサー風の誇張表現に変換する新機能「LinkedIn Speak」が追加されました。この機能は、「アイスクリームを食べた」という日常的な出来事を「セルフケアの大切さを実感しました」のように、大げさな言葉遣いに変換するものです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-18T08:04:06.133261"
-  },
-  {
-    "source": "Zenn",
-    "title": "Anthropic社員のClaude Code活用術8選 — 公式情報から読み解く実践テクニック",
-    "link": "https://zenn.dev/happy_elements/articles/046faa4f61d98f",
-    "summary": "この記事では、Anthropicの社員が自社のAIモデル「Claude」をコード生成にどのように活用しているかを紹介しています。具体的には、公式情報に基づいた8つの実践的な活用テクニックが解説されており、開発者向けに具体的な応用例が提示されています。これにより、Claudeをコーディング作業に効果的に組み込み、その能力を最大限に引き出すためのヒントが得られるでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-18T08:04:20.303124"
-  },
-  {
-    "source": "Qiita",
-    "title": "【神機能】Claude Codeの/loopで「放置プレイ開発」が可能に！5分で設定できる自動監視システム",
-    "link": "https://qiita.com/emi_ndk/items/325125d1078805859ba1",
-    "summary": "Claude Code v2.1.71に新機能`/loop`が追加され、デプロイ後の面倒な監視をAIが自動化します。この機能を使うと、「/loop 5m check the deploy status and alert if any errors」のように自然言語で指示するだけで、AIが5分ごとにデプロイ状況を監視・分析し、エラーがあれば自動で報告してくれます。`/loop`はセッション内で動く軽量なcronジョブでサーバーレスで稼働しますが、2026年3月現在、Max、Team、Enterpriseプランでのみ利用可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-18T08:04:32.001820"
   }
 ]
