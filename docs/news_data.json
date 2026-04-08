@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "さらば“名ばかり業務委託”　2026年IT組織サバイバルガイド",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/08/news031.html",
+    "summary": "IT業界は、40年ぶりの労働基準法改正や政府のAI基本計画により、商習慣の大きな転換期を迎えています。\n本記事は、特に「名ばかり業務委託」が経営上重大なリスクとなることを強く警告しています。\n2026年の施政方針を見据え、IT組織が法順守とDX推進を両立させることが、今後のサバイバルに不可欠であると詳述されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-08T07:04:06.673282"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "廃虚や衰退都市を思わせる「コンクリート製ノートPCスタンド」を自作した猛者が登場",
+    "link": "https://gigazine.net/news/20260408-concrete-laptop-stand/",
+    "summary": "ソフトウェア開発者で物作りの趣味を持つサム・バーンズ氏が、コンクリート製のノートPCスタンドを自作しました。このスタンドは、コンクリート打ちっぱなしの武骨な建物や廃虚、衰退都市を思わせる独特のデザインが特徴です。彼は、廃虚の持つ美学に魅力を感じる人々に向けて、そのインスピレーションを具現化した作品として報告しています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-04-08T07:04:16.179809"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIで影響範囲などの調査をする時にやってる方法",
+    "link": "https://zenn.dev/levtech/articles/246d5dbb0be828",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 36.95492208s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 36\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-08T07:04:23.097591"
+  },
+  {
+    "source": "Qiita",
+    "title": "無料Nano Bananaプロンプト生成器：HeyDream AIでプロ級のAI画像作成を実現",
+    "link": "https://qiita.com/HeyDream_AI/items/4f915b659b0dcce3a83c",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 32.469582759s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 32\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-08T07:04:27.588847"
+  },
+  {
+    "source": "ITmedia",
     "title": "Windows 11、「再起動なし」の更新が標準に　月次アップデートまとめ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/08/news026.html",
     "summary": "MicrosoftはWindowsの品質向上に向けた取り組みとして、Windows 11の月次アップデートで「再起動なし」の更新を標準化すると発表しました。2026年4月には新たな機能更新が予定されており、Autopatchの一般提供も開始されます。これにより、セキュリティの強化やユーザーエクスペリエンスの細かな改善が図られ、旧OSからの移行が促されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-19T08:00:53.277515"
-  },
-  {
-    "source": "ITmedia",
-    "title": "95％が攻撃検知に自信も、約半数が阻止に苦戦　企業を苦しめる防御のギャップ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news050.html",
-    "summary": "Illumioの調査によると、企業のセキュリティ対策において攻撃の「検知」と「封じ込め」の間に大きなギャップが存在することが明らかになりました。回答企業の95%が攻撃検知に自信を持っている一方で、約半数の企業が実際に攻撃を阻止することに苦戦しています。これは、多くの企業が侵入を把握する能力は高いものの、それを効果的に阻止する防御能力には課題を抱えている現状を示しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-18T23:01:26.492430"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "チェスや囲碁で有効だったAIの強化学習が単純なゲームで失敗してしまう理由とは？",
-    "link": "https://gigazine.net/news/20260319-ai-fails-simple-games/",
-    "summary": "AIはチェスや囲碁といったボードゲームで人間を凌駕する強さを発揮していますが、2023年には特定の戦術を用いることで囲碁AIに勝利する方法が見つかるなど、弱点も露呈しています。新たに発表された論文では、AlphaZeroなどで採用されている強化学習が、一部のシンプルなゲームでは通用しないことが報告されました。これは、高度なゲームで成功したAI技術が、必ずしも全ての状況で万能ではないことを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-18T23:01:34.057092"
-  },
-  {
-    "source": "Zenn",
-    "title": "建設現場の人手不足を解決！AIセコカン「Arch Intelligence」で生産性2倍を目指す3つの革新",
-    "link": "https://zenn.dev/headwaters/articles/7796e83ac7a068",
-    "summary": "建設現場の深刻な人手不足という課題に対し、AIセコカン「Arch Intelligence」が解決策として注目されています。このAIツールは、現場の生産性を従来の2倍にまで高めることを目標としています。特に、「3つの革新」を通じて、建設現場の効率化と課題解決に貢献することが期待されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-18T23:01:41.092401"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年3月19日",
-    "link": "https://qiita.com/ishisaka/items/198a69e57f4bee422cfc",
-    "summary": "2026年3月19日のプログラミング雑記記事は、主にTypeScriptの最新動向について報告しています。TypeScript 7.0は3月にリリース予定で、2025年3月11日にはコンパイラのGoへの移植が決定されました。\n\nこの移植により、5月のプレビュー版では10倍の高速化を実現し、実導入環境での型チェック時間は55秒から14.5秒へと約3～4倍短縮されました。しかし、その一方でメモリ使用量は2倍に増加するという課題も指摘されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-03-18T23:01:49.415329"
   }
 ]
