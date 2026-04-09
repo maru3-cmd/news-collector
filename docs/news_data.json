@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ネットワーク自動化はなぜ“PoC止まり”になりがちなのか？　課題と成功の条件",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/09/news025.html",
+    "summary": "ネットワーク自動化は、その有効性が広く認識されているにもかかわらず、多くの企業で概念実証（PoC）段階で止まり、本格導入が進まない現状があります。本記事は、この課題の背景にある要因を深掘りし、導入を妨げる具体的な問題点を解説しています。そして、本格的な自動化導入を成功させるための重要な条件と、実践的な進め方について詳しく説明しています。",
+    "category": "DX・業務改善",
+    "content_type": "news",
+    "collected_at": "2026-04-09T07:08:00.229985"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "約2万5000人のTelegramユーザーが児童性的虐待画像の共有やスパイウェアの取引などに関わっているとの調査結果",
+    "link": "https://gigazine.net/news/20260409-nude-images-hacking-tools-trade-telegram/",
+    "summary": "高い匿名性を特徴とするTelegramが、児童性的虐待画像(CSAM)の共有やスパイウェアの取引といった犯罪に悪用されている実態が指摘されています。デジタル権利侵害の調査団体AI Forensicsは、イタリアとスペインの16のTelegramグループやチャンネルを分析。その結果、約2万5000人のユーザーがCSAMや女性の性的画像の入手・拡散・収益化に関わっていることを発見しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-09T07:08:10.255834"
+  },
+  {
+    "source": "Zenn",
+    "title": "キーボードのいらない開発環境を考えた — iPad mini × AI × 円形メニュー",
+    "link": "https://zenn.dev/sika7/articles/f200b47bfaf7e5",
+    "summary": "この記事は、iPad miniを主要デバイスとして活用し、キーボードを使わずに開発作業を行える新しい環境を提案しています。その実現のために、AI技術と直感的な円形メニューインターフェースを組み合わせる構想です。これにより、モバイルデバイスでの開発効率を向上させ、場所を選ばない新しいコーディング体験を目指しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-09T07:08:24.331129"
+  },
+  {
+    "source": "Qiita",
+    "title": "【神ツール】MicrosoftがAIエージェントの「暴走防止装置」を無料公開！OWASP 10大リスクを全部防ぐ方法",
+    "link": "https://qiita.com/emi_ndk/items/a4e86ffe49a1f44a3819",
+    "summary": "Microsoftは、AIエージェントのセキュリティ問題を根本から解決するオープンソースツールキットを無料公開しました。このツールは、「目標乗っ取り」や「メモリ汚染」、「暴走エージェント」など、OWASPが定義するAIに特化した10大リスク全てを防ぐことを目指しています。実際に、AIエージェントが$500万を不正承認したり、毒入りメール1通でGPT-4oから80%の確率でSSH鍵が抜き出されたりする事例が発生しており、AIの安全確保が急務とされていました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-09T07:08:32.658001"
+  },
+  {
+    "source": "ITmedia",
     "title": "生成AI導入企業の8割が「ガバナンス不足」　安全なAI活用の4要素とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/09/news041.html",
     "summary": "OpenTextの調査によると、企業の生成AI導入が進む一方、そのガバナンス体制には大きな課題があることが判明しました。導入企業の8割がガバナンス不足を感じており、セキュリティなどが整った「AI成熟度」の高い企業はわずか2割にとどまっています。この現状は、安全なAI活用のためにはガバナンス構築が急務であることを示唆しており、記事ではその鍵となる4つの要素の重要性を指摘しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-20T07:59:32.685484"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Ubuntuに深刻な権限昇格問題　root取得の恐れ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/20/news019.html",
-    "summary": "Ubuntuの標準環境で、深刻な権限昇格の脆弱性「CVE-2026-3888」が発見されました。この脆弱性は、通常の権限を持つ利用者がシステム内部の仕組みを悪用することで、最終的に最高管理者権限であるroot権限を取得してしまう恐れがあります。これにより、システムが完全に制御される可能性があり、早急な対応が求められます。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-19T23:00:58.823258"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "犬は物探しを助けるときに人間の幼児のような反応を示す、一方で猫は非協力的",
-    "link": "https://gigazine.net/news/20260320-dog-find-thing-children/",
-    "summary": "犬は人間が失くした物を探す際に協力的な行動を示し、手伝おうと駆け寄ってくることが研究で明らかになりました。この行動は、生後2年程度の人間の子どもが示す反応と類似しているとされています。一方で、猫はこうした状況で非協力的な態度を取ることが示されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-19T23:01:05.123139"
-  },
-  {
-    "source": "Zenn",
-    "title": "RAGの検索精度を爆上げする「インデックス最適化」3選：MultiVector, RAPTOR, ColBERTを徹底比較",
-    "link": "https://zenn.dev/headwaters/articles/c8c88d40e0495b",
-    "summary": "この記事は、RAG (Retrieval-Augmented Generation) の検索精度を飛躍的に向上させるための「インデックス最適化」に焦点を当てています。具体的には、MultiVector、RAPTOR、ColBERTという3つの主要な手法を取り上げ、それぞれの特性を徹底比較しています。この比較を通じて、各手法のメリット・デメリットを明らかにし、RAGシステム構築における最適な選択肢を見つける手助けとなることを目的としています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-03-19T23:01:15.429505"
-  },
-  {
-    "source": "Qiita",
-    "title": "【徹底比較】G検定2026 会場受験vsオンライン受験｜どちらを選ぶべき？",
-    "link": "https://qiita.com/mrmrmr/items/f302cdecafc107116564",
-    "summary": "G検定では、2025年から導入された会場受験（オンサイト試験）が2026年もオンライン受験と並行して実施されます。主な違いとして、オンライン受験は自宅など好きな場所で可能ですが、会場受験は指定のテストセンターで行われます。試験スケジュールを見ると、オンラインが年6回開催されるのに対し、会場受験は年3回と、オンラインの方が開催頻度が高く受験タイミングの自由度が高いのが特徴です。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-03-19T23:01:24.702914"
   }
 ]
