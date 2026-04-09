@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Windowsに未修正ゼロデイ脆弱性「BlueHammer」　正規機能の組み合わせでSYSTEM権限を奪取",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/10/news043.html",
+    "summary": "Windowsの未修正ゼロデイ脆弱性「BlueHammer」の概念実証コード（PoC）が公開されました。この脆弱性は、Microsoft Defenderの更新処理の仕組みを悪用することで、一般ユーザー権限から最高位のSYSTEM権限を奪取する恐れがあります。現在パッチが未提供であるため、既存のセキュリティ対策による検知を回避する可能性があり、十分な注意が必要です。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-09T22:32:10.414970"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "新しくプロジェクトに入った人がリポジトリの現状を素早く把握するためのGitコマンド5選",
+    "link": "https://gigazine.net/news/20260410-git-command-before-reading-code/",
+    "summary": "ITエンジニアのアリー・ピエホフスキー氏が、新しいプロジェクトに参画した人がリポジトリの現状を素早く把握するためのGitコマンドを紹介しています。\n彼は、全く知らないプロジェクトの状況を効率的に理解するのに役立つ**5つ**のGitコマンドを提案。\nこれらのコマンドを使うことで、コードを深く読み込む前に、全体の構成や流れを効率的に把握できるとされています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-09T22:32:30.653062"
+  },
+  {
+    "source": "Zenn",
+    "title": "あれなんていうんだっけ。なんとか.md（仕込みファイル）",
+    "link": "https://zenn.dev/mergelog/articles/d1109b9ab62d60",
+    "summary": "この記事は、「あれなんていうんだっけ。」という問いかけを通して、特定のファイル名や概念を思い出そうとしている状況を描写しています。具体的には、「なんとか.md」という形式のものを探していることが示唆されています。また、このテキスト自体が「仕込みファイル」であると明記されており、何らかの準備やテストに関連するものであると推測されます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-04-09T22:32:38.635875"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIに、聞いてみた。",
+    "link": "https://qiita.com/ohisama@github/items/d36eaa2e4b0606f7f9e2",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 17.00500288s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-09T22:32:43.038088"
+  },
+  {
+    "source": "ITmedia",
     "title": "ネットワーク自動化はなぜ“PoC止まり”になりがちなのか？　課題と成功の条件",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/09/news025.html",
     "summary": "ネットワーク自動化は、その有効性が広く認識されているにもかかわらず、多くの企業で概念実証（PoC）段階で止まり、本格導入が進まない現状があります。本記事は、この課題の背景にある要因を深掘りし、導入を妨げる具体的な問題点を解説しています。そして、本格的な自動化導入を成功させるための重要な条件と、実践的な進め方について詳しく説明しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-20T23:00:29.696093"
-  },
-  {
-    "source": "ITmedia",
-    "title": "楽天、AIモデル「Rakuten AI 3.0」を無償提供　「オープンソースコミュニティ上の最良なモデル」を基に日本語能力を強化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/20/news011.html",
-    "summary": "楽天は、国内のAI開発加速と技術支援を目指し、日本語特化型AIモデル「Rakuten AI 3.0」の無償提供を開始しました。このモデルは、約7000億パラメーターのMoEアーキテクチャを採用しており、日本語性能で高い評価を得ています。オープンソースコミュニティ上の最良なモデルを基盤に日本語能力を強化しており、国内有数のAIモデルとして期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-20T07:59:05.740388"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ブラウザのあらゆる操作にショートカットキーを設定できる「Shortkeys」",
-    "link": "https://gigazine.net/news/20260320-shortkeys/",
-    "summary": "PCユーザーは、経験を積むにつれてマウスよりもキーボードショートカットの使用頻度が増す傾向にあります。しかし、グラフィカルな要素が多いブラウザではショートカットが整備されていないため、熟練者でもマウス操作が中心となり、キーボードから手が離れることで時間のロスが生じがちです。\n\nこの記事では、この問題を解決すべく、ブラウザのあらゆる操作に対してショートカットキーを設定できる拡張機能「Shortkeys」が紹介され、その実用性が試されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-20T07:59:15.392488"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントに「人格」は必要か？",
-    "link": "https://zenn.dev/kmad/articles/b3f98b41d07948",
-    "summary": "記事本文が提供されていないため、タイトルのみからの要約となります。\n\nこの記事は「AIエージェントに『人格』は必要か？」という問いを中心に、AIにおける人格の概念と必要性について議論すると考えられます。具体的には、ユーザーとのインタラクション向上や信頼構築といった肯定的な側面、あるいは倫理的な問題や開発の複雑さといった課題が焦点となるでしょう。記事中には、人格付与のメリット・デメリットに関する詳細な分析や、その実装方法に関する考察が含まれると推測されますが、提供された情報からは具体的な数値や事例は読み取れません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-20T07:59:24.909739"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenAIがAstralを買収！uvでPython開発を爆速化せよ",
-    "link": "https://qiita.com/sarubot/items/50ce4a6a0cc0c5f26d44",
-    "summary": "2026年3月、OpenAIはPythonツールメーカー「Astral」の買収を発表しました。Astralが開発する「uv」は、Python開発における「遅い」「依存関係が複雑」といった長年の課題を根本から解決する「Pythonエコシステムの救世主」と評されています。\n\nLLM企業であるOpenAIが、パッケージマネージャ開発企業を買収した背景には、AI開発のデファクトスタンダードであるPythonエコシステムの改善と、開発体験の未来を見据えた戦略的意図があると考察されています。これにより、Python開発のさらなる効率化と高速化が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-20T07:59:32.685484"
   }
 ]
