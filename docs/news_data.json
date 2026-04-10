@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でローカルAI環境を簡単に導入できる「Lemonade」、Windows・Linux・macOSにも対応したオープンソースで特にAMDのGPU・NPUで効果的",
+    "link": "https://gigazine.net/news/20260411-lemonade/",
+    "summary": "オープンソースツール「Lemonade」は、大規模言語モデル(LLM)をローカル環境で簡単に導入・動作させることを可能にします。これにより、AI利用の料金がかからず、プライバシーも保護されるというメリットがあります。Windows、Linux、macOSに対応しており、特にAMD製のGPUやNPUで高い効果を発揮するとされています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-10T22:27:36.847646"
+  },
+  {
+    "source": "Zenn",
+    "title": "なぜAIコードのレビューは崩壊するのか ― 「事後検査」から「事前統治」への転換",
+    "link": "https://zenn.dev/yun_bow/articles/2c06479d3ff590",
+    "summary": "この記事は、現在のAIコードレビューが「事後検査」的なアアプローチに起因し、機能不全に陥っている現状を指摘しています。コード完成後に欠陥を発見する現行手法では不十分であり、レビューは崩壊していると問題提起しています。効果的なAIコードレビューを実現するには、開発プロセスの初期段階から品質と統治を組み込む「事前統治」へと根本的な転換が必要であると提言しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-10T22:27:44.712745"
+  },
+  {
+    "source": "Qiita",
+    "title": "「モダンなUI作って」→ 紫グラデ・Inter・角丸カード",
+    "link": "https://qiita.com/kenimo49/items/8aaa2bf0d25c704637ae",
+    "summary": "AIに「モダンなUI」を生成させると、紫〜青のグラデーション背景にInterフォント、角丸カードなど、特定のデザインパターンが頻繁に現れることが指摘されています。実際に社内ハッカソンでは、5チーム中3チームがAI生成で酷似したUIを提出する事例が発生しました。\n\nこれは、AIが生成するUIがわずか「3つ」のパターンに収束しているためです。最も一般的な「紫グラデーション症候群」は、紫〜青の斜めグラデーション背景、左寄せテキストと右側の画像、角丸のグラデーションボタンなどを特徴としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-10T22:27:58.603412"
+  },
+  {
     "source": "ITmedia",
     "title": "INPEX、大日本印刷らの共通点は？　変革が定着する企業のIT部門は「ここが違う」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/10/news058.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-21T22:55:24.786012"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "【訃報】俳優で空手チャンピオンのチャック・ノリスさん死去",
-    "link": "https://gigazine.net/news/20260321-chuck-norris-passed-away/",
-    "summary": "俳優で空手チャンピオンのチャック・ノリスさん（本名：カルロス・レイ・ノリス）が86歳で亡くなりました。彼は伝説的なアクションスターとして広く知られていました。また、その並外れた強さをネタにした多数のジョークでも有名でした。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-21T07:46:32.615127"
-  },
-  {
-    "source": "Zenn",
-    "title": "Agent Summary 2026-03-19: 個人の文脈を読み解くAIとWebMCPの胎動",
-    "link": "https://zenn.dev/tachi_koma_x/articles/20260319-agent-summary",
-    "summary": "この「Agent Summary 2026-03-19」は、2026年時点を見据えたAIとWeb技術の重要な動向をまとめたものです。主な焦点は、ユーザー一人ひとりの状況や意図といった「個人の文脈」を深く理解し、これに基づいてパーソナライズされたサービスを提供するAIの進化にあります。さらに、AIと連携してWeb体験を根本的に変える可能性を秘めた、新たなWeb技術または概念「WebMCP」が「胎動」期に入りつつあることが強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-21T07:46:43.938384"
-  },
-  {
-    "source": "Qiita",
-    "title": "Runway GWM-1入門 — リアルタイム動画生成を実現するGeneral World Modelの全貌",
-    "link": "https://qiita.com/kai_kou/items/f578f5579038e03caf25",
-    "summary": "Runwayが発表したGWM-1（General World Model）は、同社初の汎用世界モデルファミリーで、従来のバッチ処理型AI動画生成とは異なり、フレーム単位の自己回帰生成によってリアルタイムでの動画出力を実現します。NVIDIA GTC 2026では、プロンプト入力から最初のフレームまでの時間（TTFF）が100ms以下という高速性がデモされました。このモデルには、探索可能な3D環境を生成するGWM Worlds、リアルタイムの人物生成に特化したGWM Avatars、そしてロボット制御向けのGWM Roboticsという3つの専門バリアントがあります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-21T07:46:51.551519"
   }
 ]
