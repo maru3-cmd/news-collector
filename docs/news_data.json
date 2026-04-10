@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "INPEX、大日本印刷らの共通点は？　変革が定着する企業のIT部門は「ここが違う」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/10/news058.html",
+    "summary": "IDCはINPEX、大日本印刷など先進企業3社の取り組みを分析し、DXやAI活用が現場に定着する企業とそうでない企業の違いを明らかにしました。これらの企業では、デジタル施策を組織に根付かせる企業風土や具体的なデジタル施策に加え、特にCIOやIT部門のあり方に変革を定着させる共通点があることが示されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-10T07:13:08.739101"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "海底ケーブルは破壊工作の脅威にさらされており、ケーブルを保護するため新技術や新たなルートの開拓が必要な事態に突入",
+    "link": "https://gigazine.net/news/20260410-protect-submarine-cable/",
+    "summary": "世界中の通信を支える海底ケーブルは現代社会の生命線ですが、意図的な破壊工作の脅威に直面しています。長距離にわたるケーブルの一部が切断されるだけで機能が停止するため、その防止は困難を極めます。ウォールストリートジャーナルは、この脅威に対し、新技術の導入や新たなルートの開拓といった対策が喫緊の課題となっていると報じています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-10T07:13:17.524808"
+  },
+  {
+    "source": "Zenn",
+    "title": "音声がキーボードを置き換える日は来るのか — VoiceOS Hackathonから考える開発体験の未来",
+    "link": "https://zenn.dev/lily_tech/articles/3d1291c1cc723c",
+    "summary": "本記事は、「音声がキーボードを置き換える日は来るのか」という問いを提起し、その可能性について考察しています。\n\n特に、VoiceOS Hackathonでの経験を通じて、開発体験の未来に焦点を当てています。音声入力が開発者の作業フローや体験をどのように進化させるかを探っているようです。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-10T07:13:28.035429"
+  },
+  {
+    "source": "Qiita",
+    "title": "【学習記録 #3】専門特化型AIチャットボットを作りたい",
+    "link": "https://qiita.com/sky_stone/items/f4075b603276b6e6eb7a",
+    "summary": "本記事は、【学習記録 #3】として専門特化型AIチャットボットをDifyとReactのハイブリッド構成で構築する、構想・設計フェーズの最終段階を記録しています。\n\n記事の核となるRAG内蔵のAIアプリ開発プラットフォーム「Dify」を解説すると共に、2026年3月リリース予定のマルチモーダル埋め込みモデル「Gemini Embedding 2」の可能性も検討しています。\n\nこれらの検討を経て、最終的なアーキテクチャと構築ロードマップが示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-10T07:13:43.879458"
+  },
+  {
+    "source": "ITmedia",
     "title": "Windowsに未修正ゼロデイ脆弱性「BlueHammer」　正規機能の組み合わせでSYSTEM権限を奪取",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/10/news043.html",
     "summary": "Windowsの未修正ゼロデイ脆弱性「BlueHammer」の概念実証コード（PoC）が公開されました。この脆弱性は、Microsoft Defenderの更新処理の仕組みを悪用することで、一般ユーザー権限から最高位のSYSTEM権限を奪取する恐れがあります。現在パッチが未提供であるため、既存のセキュリティ対策による検知を回避する可能性があり、十分な注意が必要です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-21T07:46:51.551519"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Linuxから産業機器まで　GNU Inetutils telnetdに深刻な脆弱性",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/21/news011.html",
-    "summary": "GNU Inetutilsの`telnetd`に、未認証の遠隔攻撃者が任意のコードを実行できる深刻な脆弱性が発見されました。TELNETは通信内容が平文で送信される古いプロトコルであり、現代のセキュリティ基準には適しません。しかし、産業分野や政府系システムでいまだに利用されているため、広範なシステムに影響を及ぼす可能性があります。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-20T23:00:03.511873"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コーディングAIエージェントの支援を受けてソフトウェアを開発する手法「エージェントエンジニアリング」とは？",
-    "link": "https://gigazine.net/news/20260320-agentic-engineering/",
-    "summary": "エージェントエンジニアリングとは、AIがコード生成だけでなく、自分でコードを実行し結果を見て修正まで行うことでソフトウェア開発を支援する新しい手法です。ウェブ開発者のサイモン・ウィリソン氏が提唱しており、Claude Code、OpenAI Codex、Gemini CLIといったコーディングAIエージェントが活用されます。この手法により、人間は「何を作るかを決める」「必要な道具を整える」「出てきた結果を検証する」といった、より戦略的な役割に注力できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-20T23:00:10.304678"
-  },
-  {
-    "source": "Zenn",
-    "title": "GPT-5.4 Computer Use を実際に動かしてわかったこと ── API設計・実装パターン・セキュリティの勘所",
-    "link": "https://zenn.dev/754736277842632/articles/2026031822-gpt-54-computer-use-api",
-    "summary": "「GPT-5.4 Computer Use を実際に動かしてわかったこと ── API設計・実装パターン・セキュリティの勘所」という記事は、GPT-5.4 Computer Useの実際の運用経験から得られた知見をまとめたものです。\n具体的には、システムへ組み込む際のAPI設計や実装パターン、そしてセキュリティ面での重要な考慮点が深く考察されています。\nこの内容は、大規模言語モデルを実システムで安全かつ効果的に活用するための実践的な指針を提供するものです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-20T23:00:21.294829"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
-    "link": "https://qiita.com/ymaeda_it/items/cda5df3909979f9c4609",
-    "summary": "本記事は、2026年最新版として、Ollamaを活用して完全オフラインで動作するAI開発環境を構築するガイドです。ChatGPTなどのクラウド型AIが抱えるプライバシーやコストといった課題を解決し、セキュアなローカル環境でのAI開発を可能にします。急速に発展するAI/LLM分野に対応するため、AIコーディング支援ツールによる開発効率向上や、RAG・エージェント基盤のアーキテクチャ設計といった技術的ポイントに焦点を当てています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-20T23:00:29.696093"
   }
 ]
