@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Salesforce、中小・スタートアップ向け全プランに「Agentforce」を統合",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/11/news014.html",
+    "summary": "Salesforceは中小・スタートアップ向け製品を刷新し、CRMの全プランに「Agentforce」を統合しました。\nさらに、Slack CRMの提供やTableauの無料版を導入しています。\nこれにより、低コストでAIとデータ活用を可能にし、業務効率化と意思決定の高度化を支援する狙いです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-11T06:45:19.253613"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「CPU-Z」と「HWMonitor」にマルウェアが混入、配布サイトのCPUIDがハッキング被害を表明",
+    "link": "https://gigazine.net/news/20260411-cpuid-flagged-for-malware/",
+    "summary": "ベンチマーク・モニタリングソフトウェアを提供するCPUIDがハッキング被害に遭い、同社が配布する「CPU-Z」（CPU情報取得）や「HWMonitor」（ハードウェア監視）にマルウェアが混入していたことが判明しました。これらのソフトウェアはWindowsやAndroid端末向けです。CPUIDは約6時間にわたる侵害があったことを認め、現在は問題が修正済みであると報告しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-11T06:45:26.240087"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Claude Code】コーディングアシスタントの正体：思考する「脳」と実行する「体」の協調システム",
+    "link": "https://zenn.dev/nabecoach/articles/cffbd29792aa28",
+    "summary": "申し訳ありませんが、ご提示いただいたのは記事のタイトルのみで、具体的な本文内容が提供されておりません。そのため、記事を要約することができません。\n\n要約を作成するためには、記事の本文情報が必要です。もし記事の内容をご提供いただければ、改めて3-4文で簡潔に要約いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-11T06:45:34.190327"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code Hooksで自動フォーマット環境を構築する完全ガイド",
+    "link": "https://qiita.com/masa_ClaudeCodeLab/items/0bc57fc3e44003b181b9",
+    "summary": "このガイドは、Claude CodeユーザーがAI生成コードの手動フォーマットに感じる手間を解消するため、**Hooks機能**を用いた自動フォーマット環境の構築方法を紹介しています。Hooksは、Claude Codeのツール実行ライフサイクル中に任意のシェルコマンドを実行できる仕組みです。これにより、AIがファイルを編集した直後にPrettier、ESLint、Blackなどのフォーマッターを自動で実行できるようになります。特に**PostToolUse**イベントが、コード書き込み後の自動フォーマットに活用されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-11T06:45:45.831265"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でローカルAI環境を簡単に導入できる「Lemonade」、Windows・Linux・macOSにも対応したオープンソースで特にAMDのGPU・NPUで効果的",
     "link": "https://gigazine.net/news/20260411-lemonade/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-22T07:52:15.062179"
-  },
-  {
-    "source": "Qiita",
-    "title": "脆弱性公開から20時間で攻撃？AI時代の防御戦術",
-    "link": "https://qiita.com/sarubot/items/023df6c6ef8342d1cba4",
-    "summary": "AIと自動化の進化により、サイバーセキュリティ分野では脆弱性公開から攻撃までの猶予期間が劇的に短縮されています。かつて数日間あった猶予が、今や「Langflow」の脆弱性が公開からわずか20時間で悪用された事例に代表されるように、攻撃は人間の対応速度を超える「マシン・スピード」で展開されています。\n\nこの新たな脅威に対し、防御側はAI時代の攻撃スピードに対抗するため、技術的アプローチを早急にアップデートし、防御戦術を見直す必要があります。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-03-22T07:52:22.761021"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Excelが「1900年はうるう年」として誤って扱う理由とは？",
-    "link": "https://gigazine.net/news/20260321-excel-1900-leap-year/",
-    "summary": "Microsoft Excelでは、実際にはうるう年ではない1900年を誤ってうるう年として扱っています。Microsoftはその理由を、過去の表計算ソフトとの互換性を保つためだと説明しています。この日付処理の背景については、1991年にExcelチームに加わったJoel Spolsky氏が、2006年に自身のブログで当時の経緯を記録しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-21T22:55:08.136076"
-  },
-  {
-    "source": "Zenn",
-    "title": "いっぱいあるね、バイブコーディングツール！料金つきで整理してみた",
-    "link": "https://zenn.dev/harunamix/articles/vibe-coding-tools-guide-20260322",
-    "summary": "この日本語の記事は、プログラミング開発を支援する「バイブコーディングツール」に焦点を当てています。\n記事によると、市場には多数のバイブコーディングツールが存在しており、その現状が紹介されています。\n特に、それぞれのツールの「料金」情報に注目し、それらを整理して提供している点が主な内容です。\nこれにより、ユーザーは多様なツールの中から、料金体系を考慮して適切な選択をする手助けとなるでしょう。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-03-21T22:55:16.949498"
-  },
-  {
-    "source": "Qiita",
-    "title": "GeminiCLIを複数同時実行！Dockerで作るAI並行開発環境",
-    "link": "https://qiita.com/ho-rai/items/a5fd9a111a348526ce6d",
-    "summary": "GeminiCLIなどのコンソールAIツールは、ローカルファイルを直接変更するため、AIが作業中に別の修正ができないなど、並行作業が困難という課題があります。これによりファイル競合のリスクが生じ、「自分とAI」または「AIとAI」の同時並行作業ができません。この問題を解決するため、Dockerを活用してコンテナを「使い捨ての作業場」として利用し、複数のAI作業や自身の修正を同時に行えるAI並行開発環境を構築しました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-21T22:55:24.786012"
   }
 ]
