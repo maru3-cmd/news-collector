@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "音質をはじめ全体的にグレードアップされている「Samsung Galaxy Buds4 Pro／Buds4」を使ってみた",
+    "link": "https://gigazine.net/news/20260411-samsung-galaxy-buds4-pro/",
+    "summary": "Samsungの新型ワイヤレスイヤホン「Galaxy Buds4 Pro」と「Buds4」は、音質をはじめ全体的にグレードアップが図られています。前世代モデルが抱えていた問題点を着実に改善した点が特徴とされており、その性能が注目されています。本記事では、実際にこれらのイヤホンを試用し、その詳細な使用感や改善点について報告しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-11T22:21:54.979128"
+  },
+  {
+    "source": "Zenn",
+    "title": "夜寝てる間にclaude codeのエージェントに作らせた事業企画書#3 MitoNa（ミトナ）",
+    "link": "https://zenn.dev/takeshi1/articles/84562ec8eb83b6",
+    "summary": "本記事は、ユーザーが夜間に就寝している間に、AIエージェントである「claude code」に事業企画書を作成させた事例について報告しています。具体的には、「#3 MitoNa（ミトナ）」と名付けられた3番目の事業企画書が、人間が介在しない形でAIによって生成されました。これは、AIを活用した自律的な事業アイデア創出の可能性を示す実践例です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-11T22:22:02.978617"
+  },
+  {
+    "source": "Qiita",
+    "title": "【学習ノート】ハーネスエンジニアリングの3大構成要素を整理してみた【第2章】",
+    "link": "https://qiita.com/juyun2490/items/e4dfbabce909f6e2ffde",
+    "summary": "この記事は、AIモデル以外のシステム全体を指す「ハーネス」を構築するための「ハーネスエンジニアリング」について解説しています。本記事では、ハーネスを組み立てるための「3つの柱」に焦点を当て、Thoughtworksのエンジニアが整理したフレームワークを基に説明しています。その主要な構成要素として、エージェントが「何を知るべきか」を設計するコンテキストエンジニアリングと、「何をしてよいか」の境界を設けるアーキテクチャ制約が挙げられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-11T22:22:11.723362"
+  },
+  {
     "source": "ITmedia",
     "title": "Salesforce、中小・スタートアップ向け全プランに「Agentforce」を統合",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/11/news014.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-22T22:56:41.077956"
-  },
-  {
-    "source": "Qiita",
-    "title": "ClaudeとGeminiに喧嘩させたら、世界に存在しない暗号方式ができてpip installできるようになった",
-    "link": "https://qiita.com/urokiurotsuki/items/ee01f4da9677e6298607",
-    "summary": "筆者はAI（ClaudeとGemini）に、この世に存在しない独自の暗号方式の開発を依頼しました。すると、AIはたった1回のチャットでその暗号方式を完成させ、PyPIで「pip install kineti」として公開されるに至りました。筆者は、過去の「ふざけているが機能する」作品とは異なり、今回は「ふざけていない、ガチ」な取り組みであると強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-22T22:56:49.427900"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AppleがiPhone向けのプロ仕様カメラ・Halideの開発元を買収したがっていたことが共同創業者による訴訟で明らかに",
-    "link": "https://gigazine.net/news/20260322-apple-wanted-buy-halide-co-founder-lawsuit/",
-    "summary": "iPhone向けプロ仕様カメラアプリ「Halide」を開発するLux Opticsの共同創業者間で訴訟が発生しました。共同創業者のベン・サンドフスキー氏が、現在Appleに勤務するセバスティアン・デ・ウィット氏を訴えています。この訴訟により、AppleがLux Opticsの買収を計画していたという事実が明らかになりました。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-03-22T07:52:05.875478"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeで「仮想会社」を導入したら、個人開発の世界が変わった話",
-    "link": "https://zenn.dev/tksaba/articles/8588f7ba130fc0",
-    "summary": "この個人開発の世界に、AIツール「Claude Code」を用いて「仮想会社」という画期的な概念が導入されました。開発者はこの仮想会社を通して、あたかも実際の企業のように役割分担や組織をシミュレートしながらプロジェクトを進めることが可能になったとされます。その結果、この革新的なアプローチは個人開発の進め方や可能性を大きく変え、その世界観を一変させたことが報告されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-22T07:52:15.062179"
   }
 ]
