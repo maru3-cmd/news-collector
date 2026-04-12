@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Anthropic「Claude Cowork」が正式版として一般公開　企業導入に役立つ管理機能など充実",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/12/news010.html",
+    "summary": "Anthropicは2026年4月9日、自律型AIエージェント「Claude Cowork」の一般提供を開始しました。このサービスは、企業が導入しやすいよう、管理機能が充実しているのが特徴です。これにより、企業はより効率的にAIエージェントを活用できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-12T07:01:22.583508"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料で見ているページを簡単にブラウザ拡張機能で保存しスマホ・Obsidian・SingleFileと連携できる「Readeck」",
+    "link": "https://gigazine.net/news/20260412-readeck/",
+    "summary": "Webページを保存して「あとで読む」ための新しいブラウザ拡張機能「Readeck」が登場しました。これは、サービス終了したPocketや不安定な有料代替サービスの問題を解決する、オープンソースのツールです。\n\n「Readeck」は、ページ全体をアーカイブするのではなく、「あとから読む」ことに機能を特化させています。これにより、スマホ、Obsidian、SingleFileといった様々なデバイスやアプリとのスムーズな連携が可能です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-12T07:01:30.879430"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる",
+    "link": "https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue",
+    "summary": "Claude Codeのマルチセッション管理を強化するため、ジョブキューの概念が導入されます。この新しいアプローチにより、複数のセッションからのタスク要求が効率的かつ順序立てて処理されるようになります。結果として、リソースの競合が軽減され、システム全体の応答性と安定性が大幅に向上することが期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-12T07:01:41.016870"
+  },
+  {
+    "source": "Qiita",
+    "title": "Pythonで〇×ゲームのAIを一から作成する　その223　一つのビット列で表現されたゲーム盤の合法手の一覧の計算と反転・転置処理",
+    "link": "https://qiita.com/ysgeso/items/3e7158c17a77ff0d2f36",
+    "summary": "この記事は、Pythonで〇×ゲームのAIを一から作成するシリーズの第223弾です。今回は、一つのビット列で表現されたゲーム盤における合法手の一覧計算と、盤面の反転・転置処理の実装がテーマとなっています。プログラムはPython 3.13とnumpy 2.3.5で実行されており、`marubatsu.py`や`ai.py`といったモジュールが既に開発されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-12T07:01:49.937241"
+  },
+  {
     "source": "GIGAZINE",
     "title": "音質をはじめ全体的にグレードアップされている「Samsung Galaxy Buds4 Pro／Buds4」を使ってみた",
     "link": "https://gigazine.net/news/20260411-samsung-galaxy-buds4-pro/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-03-23T08:38:21.866588"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code Review より\"自作 Skill\"の方がレビュー精度が高かった件",
-    "link": "https://zenn.dev/penpeen/articles/93d318a99d329e",
-    "summary": "この記事は、AIによるコードレビューツール「Claude Code Review」と、ユーザーが独自に開発した「自作 Skill」のレビュー精度を比較検証した結果を報告しています。その結果、汎用的なAIツールであるClaude Code Reviewよりも「自作 Skill」の方が高いレビュー精度を示したことが明らかになりました。この事実は、特定のニーズや文脈に合わせてカスタマイズされたスキルやツールが、一般的なAIソリューションよりも優れた実用性や性能を発揮する可能性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-23T08:38:30.610950"
-  },
-  {
-    "source": "Qiita",
-    "title": "【実践ガイド】DifyワークフローをLangfuseで可観測化する方法",
-    "link": "https://qiita.com/oroii/items/2ae21f40c1953981b67e",
-    "summary": "LLMアプリケーションの普及に伴い、モデルのコストやレスポンス品質の把握が重要となる中、専用の監視基盤（可観測性ツール）が必要とされています。本記事は、ノーコードLLMプラットフォーム「Dify」で構築したワークフローを「Langfuse」で可観測化する実践ガイドです。LangfuseはLLMアプリの可観測性ツールとして機能し、Difyのワークフローにおけるパフォーマンスやコストなどの指標を監視・分析することで、開発者が効率的に改善できるよう支援します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-23T08:38:39.700529"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIモデルがクリエイティブな文章を書けないのは初期モデルに見られた創造性や独創性を抑制してビジネス用途に特化させたせいだという指摘",
-    "link": "https://gigazine.net/news/20260323-ai-writing/",
-    "summary": "AIは様々なタスクや複雑な計算をこなせる一方で、クリエイティブな文章生成能力は初期の頃からほとんど進歩が見られません。The Atlanticがまとめた専門家の指摘によると、この停滞の原因は、初期のAIモデルが持っていた創造性や独創性を意図的に抑制し、ビジネス用途に特化させたことにあるとされています。つまり、実用性を追求する過程で、AIの潜在的なクリエイティブ能力が犠牲になったと考えられています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-22T22:56:30.665631"
-  },
-  {
-    "source": "Zenn",
-    "title": "Rakuten AI 3.0はDeepSeek-V3の「ただのチューニング」か？ — 初心者エンジニアにも伝えたい技術的な真実",
-    "link": "https://zenn.dev/headwaters/articles/3ca4193f3ab1c4",
-    "summary": "この記事は、「Rakuten AI 3.0がDeepSeek-V3の単なるファインチューニングモデルに過ぎないのか？」という、初心者エンジニアが抱きがちな疑問に技術的な真実を伝えるものです。表面的な「チューニング」という言葉の裏には、独自のデータセットを用いた追加学習や特定のドメインへの最適化など、モデルに大きな技術的価値を付加する複雑なプロセスが存在すると解説しています。したがって、Rakuten AI 3.0も単純なベースモデルの流用ではなく、楽天独自の専門知識やニーズを反映した重要な改良が加えられている可能性があり、その本質に迫る内容となっています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-22T22:56:41.077956"
   }
 ]
