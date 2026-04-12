@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Claudeには自分が送信したメッセージをユーザーからのものだと誤認する致命的バグがあるとの指摘",
+    "link": "https://gigazine.net/news/20260413-claude-self-message/",
+    "summary": "AnthropicのAI「Claude」に、自身が送信したメッセージをユーザーからのものと誤認し、処理を実行してしまうという致命的なバグが指摘されています。これは利用者が共有する話で、Claudeが自己生成した情報を入力と誤認する現象です。通常の事実誤認（ハルシネーション）とは異なり、システム上の根深い問題であるとされており、AIの信頼性を著しく損なう可能性があります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-12T22:23:54.681207"
+  },
+  {
+    "source": "Zenn",
+    "title": "【実録】GeminiはGoogle自社サービスの夢を見るか？　―― ハルシネーションの実例・傾向・対策",
+    "link": "https://zenn.dev/minipoisson/articles/gemini-hallucination-google-services",
+    "summary": "この記事は、GoogleのAIモデルGeminiが、自社のサービスに関して誤った情報（ハルシネーション）を生成する可能性について検証しています。具体的には、Geminiが引き起こすハルシネーションの実例を挙げ、その発生傾向を分析。AIの信頼性における課題を浮き彫りにしています。そして、これらの「幻覚」現象を抑制し、適切に対処することで、Geminiの精度と実用性を高めるための具体的な対策が議論されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-12T22:24:06.866302"
+  },
+  {
+    "source": "Qiita",
+    "title": "ドル円は\"2つの力\"で動いている ── データで解明した円安の正体",
+    "link": "https://qiita.com/d94231/items/5cd9bb79c10a53590006",
+    "summary": "本記事は、ドル円の動きが従来の常識と異なり、日米金利差だけでは説明できないことを約1,600営業日分のデータで分析しています。金利差から算出される妥当なドル円レートが127円であるのに対し、実際のレートは159円と、30円を超える大きなズレがあることを指摘。この金利差では説明できないドル円の動きの主要因が「日本株」であると結論付け、為替の新たな構造を示唆しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-04-12T22:24:15.885380"
+  },
+  {
     "source": "ITmedia",
     "title": "Anthropic「Claude Cowork」が正式版として一般公開　企業導入に役立つ管理機能など充実",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/12/news010.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-23T23:05:00.257049"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIフラッシュカード続編：知らない言葉を『ポイっと投げ込む』だけ。空欄はGeminiが埋めてくれる ",
-    "link": "https://qiita.com/CoboMemo/items/34aa0cafcd6e12d5bf06",
-    "summary": "この記事は、エンジニアが日常で遭遇する未知の言葉を「後で調べる」ことができず、「わかったつもり」になってしまう問題提起から始まります。その解決策として、不明な言葉をGoogleフォームに「ポイっと投げ込む」だけで、Google Apps Scriptを介してGeminiが自動的にフラッシュカードを作成し、Ankiに保存するシステムが提案されています。これにより、単語の調査やカード作成の手間が大幅に省け、日常のインプットを効率的に定着させることが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-23T23:05:09.743978"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「人材ゼロ！？」「謎の高額請求？」 データ分析担当者が経験した“大変だったこと”事例集",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/23/news030.html",
-    "summary": "このブックレットは、データ分析業務で直面する「人材ゼロ」や「謎の高額請求」といった具体的な困難に焦点を当てています。データ分析担当者が経験する様々な課題を提示し、それらの解決策を探るヒントを提供することが目的です。事例に基づいて、困難を乗り越えるための実践的なアプローチが示されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-23T08:38:09.845997"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "U.F.O.に和牛のうまみが加わって箸が進みまくる「WAGYUMAFIA ULTRA U.F.O. WAGYU UMAMI FLAVOR」試食レビュー",
-    "link": "https://gigazine.net/news/20260323-wagyumafia-ufo/",
-    "summary": "日清のカップ焼そば「U.F.O.」と和牛専門店のWAGYUMAFIAがコラボし、「WAGYUMAFIA ULTRA U.F.O. WAGYU UMAMI FLAVOR」が2026年3月23日に新登場しました。この商品は、和牛エキスを加えたソースで和牛の豊かな味と香りが広がる焼そばです。記事では、編集部に届いた商品を実際に試食し、その風味をレビューしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-23T08:38:21.866588"
   }
 ]
