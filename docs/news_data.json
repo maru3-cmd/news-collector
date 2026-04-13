@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Google、セッション乗っ取りを根絶する新技術「DBSC」を一般公開 ―― クッキー盗難をデバイス単位で無効化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/13/news043.html",
+    "summary": "Googleは、セッション乗っ取りやクッキー盗難を根絶するための新技術「DBSC」（Device-Bound Session Credentials）の一般公開を開始しました。この技術は、認証情報を端末にひも付けることで、デバイス単位で攻撃を無効化します。現在、Chrome 146でWindowsに対応しており、今後はmacOSにも対応を拡大する予定です。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-13T07:44:57.927037"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Anthropicがキリスト教指導者たちや哲学者とサミットを開催、AI「Claude」は「神の子」になり得るのか？",
+    "link": "https://gigazine.net/news/20260413-anthropic-asked-christian-leaders/",
+    "summary": "AI企業のAnthropicは、自社のチャットボット「Claude」の道徳的および精神的な成長に関する助言を得るため、2026年3月下旬に本社でキリスト教指導者らとのサミットを開催しました。\n\nこの2日間の会合には、カトリックやプロテスタントの聖職者、学者、実業家など約15名が参加しました。参加者たちは、AIの倫理的側面や精神的側面に関して研究者と意見交換を行ったと報じられています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-13T07:45:10.117448"
+  },
+  {
+    "source": "Zenn",
+    "title": "Gensparkによるショート動画生成マニュアル",
+    "link": "https://zenn.dev/interpark/articles/ec0207f6aa2ecb",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 38.376388105s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 38\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-13T07:45:21.687999"
+  },
+  {
+    "source": "Qiita",
+    "title": "多様化する AI 開発ツールの中で、自分だけの「開発プロセス」をオーケストレートする",
+    "link": "https://qiita.com/mametech/items/a84775c0d4c46deb8a0a",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 33.878643674s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 33\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-13T07:45:26.197055"
+  },
+  {
     "source": "GIGAZINE",
     "title": "Claudeには自分が送信したメッセージをユーザーからのものだと誤認する致命的バグがあるとの指摘",
     "link": "https://gigazine.net/news/20260413-claude-self-message/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-03-24T08:06:48.887275"
-  },
-  {
-    "source": "Zenn",
-    "title": "実務で使えるRAGシステム構成【完全ガイド】",
-    "link": "https://zenn.dev/nkktech_global/articles/9e7f0558491b23",
-    "summary": "「実務で使えるRAGシステム構成【完全ガイド】」は、RAG（Retrieval-Augmented Generation）システムを実用的なアプリケーションとして構築するための包括的なガイドです。\nこの記事では、データの取り込み、チャンク化、埋め込みモデルによるベクトル化、効率的な検索を実現するベクトルデータベースの活用、そして大規模言語モデル（LLM）との連携といった主要な構成要素を詳述していると考えられます。\n実務での運用に不可欠な高い性能、スケーラビリティ、そして回答の精度を確保するためのアーキテクチャ設計に焦点を当てているでしょう。\nこれにより、ユーザーは信頼性と堅牢性を備えたRAGシステムを効果的に設計・構築するための知識を得ることができます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-24T08:07:02.267130"
-  },
-  {
-    "source": "ITmedia",
-    "title": "とうとう筆者のところにも……　最近流行中の偽社長詐欺メールにどう対処する？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/24/news020.html",
-    "summary": "筆者の元に、現在流行中の「CEO詐欺（偽社長詐欺）」メールが届きました。フリーランスのライターである筆者はすぐに看破したものの、その手口は非常に巧妙だといいます。この記事では、最新の詐欺手口とその具体的な対策について考察します。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-23T23:04:40.788622"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "腸に穴が開いた時に内臓脂肪が炎症を抑える役割を果たしていたことがマウス研究で判明",
-    "link": "https://gigazine.net/news/20260324-visceral-fat-peritonitis-ilc1/",
-    "summary": "理化学研究所などの国際共同研究グループは、腸に穴が開くことなどで発症する腹膜炎において、内臓脂肪組織が免疫器官のように働き、過剰な炎症を抑える役割を果たす可能性をマウス研究で示しました。この炎症抑制には「1型自然リンパ球(ILC1)」という免疫細胞が関与していることを突き止めました。この発見は、炎症が全身に広がり敗血症に進行するリスクのある腹膜炎の新たな治療戦略につながるもので、研究論文は2026年3月12日付でNature Communicationsに掲載されています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-03-23T23:04:48.786251"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIは察しすぎる：ツールではなく同僚と思った方がうまくいく",
-    "link": "https://zenn.dev/alpine/articles/c6cb5d860deb19",
-    "summary": "この記事のタイトルからは、AIが非常に高い理解力や察知能力を持つため、単なる「ツール」としてではなく、「同僚」として接する方がより良い結果を生むという主張が読み取れます。\n\nこれは、AIを指示を待つ存在ではなく、自律的に状況を判断し、協働するパートナーと捉えることの重要性を示唆しています。この新たな視点を取り入れることで、AIの潜在能力を最大限に引き出し、より効率的で創造的な働き方が可能になると考えられます。\n\nただし、この要約は記事の内容ではなく、与えられたタイトルのみに基づいています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-23T23:05:00.257049"
   }
 ]
