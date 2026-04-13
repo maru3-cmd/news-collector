@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「.NEXT 26」に見るNutanixのAI戦略と日本市場の現在地　顧客数17％増の背景を探る",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/14/news018.html",
+    "summary": "Nutanixは、米シカゴで開催された「.NEXT 26」にて、AI時代に対応するためHCIベンダーからプラットフォーム企業への転換戦略とAI戦略の全貌を発表しました。特に日本市場では顧客数が前年比17%増と大きく成長しており、その背景には同社の新たな戦略が影響しているとみられます。この記事では、現地取材に基づきNutanixのAI戦略、それが日本市場に与える影響、そして今後の展望について解説しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-04-13T22:35:42.809719"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "フランス政府がWindows搭載の政府用コンピュータをLinuxに移行する計画を発表、アメリカ製技術への依存をさらに軽減するため",
+    "link": "https://gigazine.net/news/20260414-france-windows-linux/",
+    "summary": "フランス政府は、デジタル主権を確立し、アメリカ製技術への依存を軽減するため、政府用コンピューターのOSをWindowsからLinuxへ移行する計画を発表しました。この目標は、自国のデジタルインフラを強化し、他国からの技術的影響を減らすことを目指しています。これは、政府のデジタル戦略において、自立性を重視する動きの一環です。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-04-13T22:35:52.303253"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントのブラックボックスは二層ある — 技術の限界とビジネスの都合",
+    "link": "https://zenn.dev/shimo4228/articles/agent-blackbox-capitalism-timescale",
+    "summary": "提供された記事タイトル「AIエージェントのブラックボックスは二層ある — 技術の限界とビジネスの都合」に基づくと、AIエージェントの意思決定プロセスが不透明な「ブラックボックス」問題には、大きく分けて二つの側面があることが示唆されています。\n\n第一層は、特に深層学習モデルなどの複雑性に起因する「技術的な限界」であり、内部の推論ロジックを人間が完全に理解することが困難である現状を指します。第二層は、企業が競争優位性の確保や知的財産保護のため、意図的にモデルの詳細や学習データを非公開にする「ビジネス的な都合」を意味します。この二層構造が、AIエージェントの透明性や説明責任の確保をより一層複雑にしていると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-13T22:36:01.580067"
+  },
+  {
+    "source": "Qiita",
+    "title": "2026/04/14 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "link": "https://qiita.com/ennagara128/items/cb0d3730b9c8bbe2b4ca",
+    "summary": "この投稿では、Qiitaの最新トレンド記事をAIが読み上げるポッドキャストサービスが紹介されています。毎日朝7時に更新され、前日夜のトレンド記事を通勤中などにながら聴きで手軽に情報収集できるようになっています。サービス向上のため、利用者からのフィードバックも募っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-13T22:36:08.848555"
+  },
+  {
+    "source": "ITmedia",
     "title": "Google、セッション乗っ取りを根絶する新技術「DBSC」を一般公開 ―― クッキー盗難をデバイス単位で無効化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/13/news043.html",
     "summary": "Googleは、セッション乗っ取りやクッキー盗難を根絶するための新技術「DBSC」（Device-Bound Session Credentials）の一般公開を開始しました。この技術は、認証情報を端末にひも付けることで、デバイス単位で攻撃を無効化します。現在、Chrome 146でWindowsに対応しており、今後はmacOSにも対応を拡大する予定です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-03-24T23:03:35.051309"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeが怖い人へ：shield-harnessで「承認疲れ」なく安全に自律運転する",
-    "link": "https://zenn.dev/sora_biz/articles/shield-harness-approval-free-security",
-    "summary": "この記事は、ClaudeによるAI生成コード（Claude Code）の使用に対する不安や、その手動承認プロセスに伴う「承認疲れ」を抱える人々を対象としています。解決策として「shield-harness」が提案されており、これはAI生成コードの安全性を確保しつつ、過度な承認作業なしにシステムを自律的に運用することを目的としています。これにより、利用者は煩雑なプロセスなしに、より安全かつ効率的にAIを活用できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-24T23:03:46.767573"
-  },
-  {
-    "source": "Qiita",
-    "title": "【要注意】G検定に落ちる人の共通点7つ｜不合格パターンと再挑戦の勉強法",
-    "link": "https://qiita.com/mrmrmr/items/5f3d4d8710db4bf0b7c6",
-    "summary": "G検定の合格率は約60〜70%と、3〜4人に1人が不合格になる試験であり、この記事では不合格パターンとその対策を解説しています。筆者は、不合格になりやすい人の共通点として、公式テキストを「読んだだけ」で満足してしまうことを挙げ、知識の活用が問われるG検定ではこのアプローチでは不十分だと指摘しています。合格者の視点から、不合格に繋がる7つのパターンを分析し、具体的な対策を提示することで、これから受験する人や再挑戦を考えている人への指南となることを目的としています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-03-24T23:03:55.844932"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ingress-nginxに深刻な脆弱性　Nginx構成注入によるコード実行の危険",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/24/news062.html",
-    "summary": "Kubernetesの`ingress-nginx`に、Nginxへの構成注入を許す深刻な脆弱性が公表されました。この脆弱性を悪用すると、特定のアノテーション操作を通じてコード実行や機密情報の漏えいの危険があります。CVSSスコアは8.8と高く、速やかに修正版への更新が強く推奨されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-24T08:06:44.478945"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AI生成で児童性的虐待をリアルに描写した画像・動画は前年比14％増の8029件確認されたという報告、特に動画件数は1年で260倍以上も増加",
-    "link": "https://gigazine.net/news/20260324-ai-child-abuse-increased/",
-    "summary": "要約エラー: Invalid operation: The `response.parts` quick accessor requires a single candidate, but but `response.candidates` is empty.\nThis appears to be caused by a blocked prompt, see `response.prompt_feedback`: block_reason: PROHIBITED_CONTENT\n",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-24T08:06:48.887275"
   }
 ]
