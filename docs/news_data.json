@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "SaaS、SIer、SESはAI時代に不要になるのか？　AIには代替できない境界線を整理",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news006.html",
+    "summary": "AIの急速な普及により、SaaS、SIer、SESといった外部ITパートナーが不要になるという見方があるが、この記事はその単純な見方を否定します。筆者は、AI時代において重要なのは、AIには代替できない外部パートナーの真の役割と境界線を明確にすることだと指摘。IT部門の視点から、彼らの真価と、これからの最適な協力関係を整理・再定義することの重要性を解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-14T22:37:15.815645"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "MicrosoftはWindows 11からCopilotを削除したのではなく単に名前を変更しただけだったと判明して一部ユーザーから不満の声",
+    "link": "https://gigazine.net/news/20260415-microsoft-copilot-renaming/",
+    "summary": "Microsoftは2026年3月後半頃から、Windows 11の一部アプリでAI機能「Copilot」のボタンを削除していました。同社はAI機能を最も効果的な場所に統合するためと説明していましたが、実際にはAI機能自体は削除されず、単に名称が変更されただけだったと報じられています。この情報に、一部のユーザーからは不満の声が上がっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-14T22:37:23.938479"
+  },
+  {
+    "source": "Zenn",
+    "title": "一人で書いたコード、誰かに「大丈夫」と言ってほしかった",
+    "link": "https://zenn.dev/naoto24kawa/articles/manako-solo-code-review",
+    "summary": "この記事は、プログラミングにおいて一人でコードを書くことの孤独感と、それによって生じる不安について述べています。開発者は、自分の書いたコードが適切であるか、品質に問題がないかといった客観的な評価や、精神的な支えを求めていました。具体的には、誰かから「これで大丈夫だ」という確認や、安心できる一言を切望していたことが示唆されます。これは、フィードバックや承認が得られない環境での開発者の心理状態を端的に表しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-14T22:37:34.709296"
+  },
+  {
+    "source": "Qiita",
+    "title": "CLAUDE.mdを「とりあえず」で済ませてる人に知ってほしい、指示精度が上がる7つの書き方",
+    "link": "https://qiita.com/moha0918_/items/72d4d32fce1b585ddbad",
+    "summary": "CLAUDE.mdは書き方によって指示精度が大きく変わるため、応答精度を向上させる「7つの書き方」が提案されています。その最初の方法が、Claude Codeセッションで`/init`コマンドを実行し、リポジトリを解析してCLAUDE.mdのベース（ビルドコマンド、テスト手順、規約など）を自動生成することです。`/init`は既存のCLAUDE.mdがある場合でも上書きせず改善提案として機能するため安全です。さらに、特定の環境変数を設定すると、CLAUDE.md、Skills、Hooksの中から対話形式で選んで生成することも可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-14T22:37:45.115608"
+  },
+  {
+    "source": "ITmedia",
     "title": "「PDFを開くだけで情報が盗まれる」　Adobe Acrobat／Readerにゼロデイ脆弱性",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/14/news039.html",
     "summary": "アドビは、「Adobe Acrobat」と「Adobe Acrobat Reader」にゼロデイの重大な脆弱性が存在することを公表しました。\nこの脆弱性は、細工されたPDFを開くだけで任意コードが実行される恐れがあり、実際に悪用が確認されています。\n情報窃取のリスクを避けるため、ユーザーには最新版への速やかな更新が強く求められています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-03-25T23:52:43.734304"
-  },
-  {
-    "source": "Zenn",
-    "title": "【消費トークン1/12】コーディングエージェントにRAGは罠だった。「検索」ではなく「コンパイル」するDAGツールを作った話",
-    "link": "https://zenn.dev/yumemi_inc/articles/a61de3467bc182",
-    "summary": "この記事は、コーディングエージェントにおいて、従来のRAG (Retrieval Augmented Generation) 手法が効果的ではなく「罠」であったことを指摘しています。コード生成には単なる「検索」ではなく、より構造的な「コンパイル」のアプローチが求められると筆者は結論付けました。そのため、筆者は「検索」の限界を克服し、コードやタスクをコンパイルする機能を持つDAG (Directed Acyclic Graph) ツールを開発したと述べています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-03-25T23:52:53.832245"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代の建設業に必要なERPとは何か ー 工事別採算、内部統制、SaaS連携で考える",
-    "link": "https://qiita.com/Fukumiya/items/6d58bb8b777c57fcd6af",
-    "summary": "建設業ではAI技術の導入が進む一方で、見積もりや原価管理、請求といった基幹業務に非効率が残り、工事ごとの採算が不透明で経営判断が遅れるという課題があります。AIを導入しても、これらの業務が整理されていないと補助機能に留まり、真の生産性向上にはつながりません。\n\nAI時代の建設業がまず問うべきは、工事ごとの数字と証憑が経営判断に使える形で連携しているかという点です。これは、国土交通省が2040年度までに建設現場の省人化3割（生産性1.5倍向上）を目標とする中で、AIの真価を発揮するための基盤となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-25T23:53:03.217315"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「全部やり直し」が最適解？　ランサムウェア被害で突き付けられる3つの地獄",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/24/news013.html",
-    "summary": "ランサムウェア攻撃を受けた企業は、業務の突然の停止という深刻な事態に直面します。彼らは「身代金を支払う」「システムを復旧する」「全てを再構築する」という3つの困難な選択肢、いわゆる「3つの地獄」のいずれかを選ばざるを得ません。どの選択も正解とは言えず、判断が遅れるほど損失は膨大になるため、サイバーセキュリティの現場は極めて過酷な「板挟み」に陥っています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-25T08:05:40.453936"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "99種類以上のフルーツやスパイスフレーバーをブレンドした「ギルティ炭酸 NOPE(ノープ)」は一体どんな味なのか？",
-    "link": "https://gigazine.net/news/20260325-guilty-nope/",
-    "summary": "サントリーは、99種類以上のフルーツやスパイスをブレンドし、基本五味を刺激する新感覚の炭酸飲料「ギルティ炭酸 NOPE(ノープ)」を2026年3月24日に発売します。このドリンクは、複雑な風味を持つとされており、一体どのような味なのかが注目されています。記事では、実際に「NOPE」を試飲し、そのユニークな味わいを検証しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-25T08:05:49.764231"
   }
 ]
