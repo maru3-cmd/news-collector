@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「PDFを開くだけで情報が盗まれる」　Adobe Acrobat／Readerにゼロデイ脆弱性",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/14/news039.html",
+    "summary": "アドビは、「Adobe Acrobat」と「Adobe Acrobat Reader」にゼロデイの重大な脆弱性が存在することを公表しました。\nこの脆弱性は、細工されたPDFを開くだけで任意コードが実行される恐れがあり、実際に悪用が確認されています。\n情報窃取のリスクを避けるため、ユーザーには最新版への速やかな更新が強く求められています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-14T07:14:54.956928"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "自作コーラのレシピがGitHubで公開中",
+    "link": "https://gigazine.net/news/20260414-cola-diy-recipe/",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 38.797172884s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 38\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-14T07:15:21.255567"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code実践テクニック10選｜現役エンジニアが教える効率化Tips",
+    "link": "https://zenn.dev/rcn_article/articles/rc-claude-code-tips",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 34.05156392s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 34\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-14T07:15:26.003848"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIセキュリティについて",
+    "link": "https://qiita.com/nozomi2025/items/0fdb537f61a2d76bdcda",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.516657097s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 29\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-14T07:15:30.542256"
+  },
+  {
+    "source": "ITmedia",
     "title": "「.NEXT 26」に見るNutanixのAI戦略と日本市場の現在地　顧客数17％増の背景を探る",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/14/news018.html",
     "summary": "Nutanixは、米シカゴで開催された「.NEXT 26」にて、AI時代に対応するためHCIベンダーからプラットフォーム企業への転換戦略とAI戦略の全貌を発表しました。特に日本市場では顧客数が前年比17%増と大きく成長しており、その背景には同社の新たな戦略が影響しているとみられます。この記事では、現地取材に基づきNutanixのAI戦略、それが日本市場に与える影響、そして今後の展望について解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-03-25T08:05:49.764231"
-  },
-  {
-    "source": "Zenn",
-    "title": "LLMの認知構造論——人間チャンクと構造的天井",
-    "link": "https://zenn.dev/takawasi/articles/2016a945eb2d52",
-    "summary": "「LLMの認知構造論——人間チャンクと構造的天井」と題されたこの記事は、大規模言語モデル（LLM）の認知能力を、人間が情報を処理する際の「チャンク」という概念と比較して論じています。人間が意味のあるまとまり（チャンク）で情報を構造化するのに対し、LLMの処理構造が異なる点を指摘。この構造的な差異こそが、LLMが特定のタスクで直面する性能上の限界、すなわち「構造的天井」の根本原因であると考察しています。記事は、LLMの真の能力と限界を理解するための、新たな理論的枠組みを提示していると推測されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-25T08:06:01.132415"
-  },
-  {
-    "source": "Qiita",
-    "title": "ハーネスエンジニアリングは本当に「新しい」のか？ — Martin Fowlerの批評から再考する",
-    "link": "https://qiita.com/Aochan0604/items/306bde3e138ce071f7b2",
-    "summary": "2026年に「ハーネスエンジニアリング」という言葉が注目されており、OpenAIが「3人で5ヶ月、100万行」のプロジェクトで発表したり、LangChainが「ハーネス改善だけでベンチマーク30位から5位」に向上したりといった成功事例が紹介されています。しかし筆者は、AIを日常的に利用する中で行っているリンター設定やCIテストといった工夫と共通すると感じ、「本当に新しい概念なのか？」という疑問を抱いています。この記事では、この疑問を、著名なソフトウェア開発者であるMartin Fowlerの批評を軸に再考しようとしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-25T08:06:09.166733"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「セキュリティはサーチ問題」　ElasticのCISOが語るAI時代の防御哲学",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/25/news038.html",
-    "summary": "AIによる攻撃の加速で侵入から窃取までが数分に短縮される中、ElasticのCISOは「セキュリティはサーチ（検索）問題」であると提唱しています。これは、AIをSOCに統合し、膨大なデータから脅威を迅速に発見・対処することの重要性を示しています。さらに、インシデントを組織の糧としてより強靭にする「アンチ・フラジャイル」の思想に基づいた防御戦略が、AI時代には不可欠であると語っています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-03-24T23:03:27.317050"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIエージェントがお互いの知識を共有して無駄を削減＆性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表",
-    "link": "https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/",
-    "summary": "Firefoxなどの開発元であるMozillaが設立したAI開発企業「Mozilla.ai」は、AIエージェント向けのプロジェクト「cq」を発表しました。この「cq」は、プログラマー向けのナレッジコミュニティであるStack OverflowのAI版と位置づけられています。AIエージェント同士が知識を共有することで、無駄を削減し、性能向上を目指すことが目的です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-24T23:03:35.051309"
   }
 ]
