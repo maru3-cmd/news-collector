@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「技術だけでは防げない」　Gartnerが示す、日本国内の最新インシデント傾向",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news036.html",
+    "summary": "Gartnerは、日本の主要なセキュリティ事故と日々発生する事案を整理し、その全体像を把握しました。同社は、これらを「技術だけでは防げない」ものとして捉え、多様なリスクへの備えが不可欠であると指摘しています。これにより、単なる技術的対策を超えた包括的なアプローチの重要性が強調されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-15T07:15:10.438916"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "NVIDIAが量子コンピューターを開発するためのAI「NVIDIA Ising」を発表",
+    "link": "https://gigazine.net/news/20260415-nvidia-ising/",
+    "summary": "NVIDIAは、研究者や企業が実用的な量子プロセッサを構築するのを支援するため、世界初のオープンソース量子AIモデルファミリー「NVIDIA Ising」を発表しました。このAIモデルは、量子コンピューター開発を加速させることを目的としています。NVIDIA Isingのリリースは、量子コンピューティングの進歩において重要な一歩となります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-15T07:15:18.300396"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeでコンサルタントを呼ぶ方法｜エージェント機能で事業分析させる",
+    "link": "https://zenn.dev/rcn_article/articles/rc-claude-code-consultant-agent",
+    "summary": "この記事では、AIツール「Claude Code」のエージェント機能を利用して、事業分析を自動化する方法が解説されています。これは、AIをあたかもコンサルタントのように活用し、ビジネス課題の分析や解決を支援する新しいアプローチを提案するものです。記事では、AIが提供する効率的かつコスト効果の高い分析手法を通じて、従来のコンサルティングに代わる可能性について探求しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-15T07:15:26.681656"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIモデル圧縮（Pruning/Quantisation）がセキュリティ・ガードレールを破壊する仕組みと対策",
+    "link": "https://qiita.com/nozomi2025/items/61839c8a6539d34045cf",
+    "summary": "AIモデルのPruning（枝刈り）やQuantisation（量子化）といった圧縮技術は、エッジデバイスでの高速実行に不可欠ですが、フル精度モデルで防御できていたセキュリティ上の「沈黙の脆弱性」を生み出します。具体的には、Pruningはモデルの冗長性を削ぎ敵対的堅牢性（Adversarial Robustness）を低下させ、Quantisationは決定境界を歪ませ情報損失により、画像認識モデルへの敵対的攻撃やLLMへのプロンプトインジェクションなどを容易にします。対策として、最適化後のモデルに対する「攻撃前提テスト」の義務化に加え、Adversarial Training PruningやQuantisation-Aware Trainingなど、堅牢性を保持する事後学習最適化（Robust PTO）の採用が重要です。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-04-15T07:15:38.829017"
+  },
+  {
+    "source": "ITmedia",
     "title": "SaaS、SIer、SESはAI時代に不要になるのか？　AIには代替できない境界線を整理",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news006.html",
     "summary": "AIの急速な普及により、SaaS、SIer、SESといった外部ITパートナーが不要になるという見方があるが、この記事はその単純な見方を否定します。筆者は、AI時代において重要なのは、AIには代替できない外部パートナーの真の役割と境界線を明確にすることだと指摘。IT部門の視点から、彼らの真価と、これからの最適な協力関係を整理・再定義することの重要性を解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-03-26T08:36:14.566527"
-  },
-  {
-    "source": "Zenn",
-    "title": "人間よ大志を抱け",
-    "link": "https://zenn.dev/taroosg/articles/20260326163859-5cc501bf1557d3",
-    "summary": "「人間よ大志を抱け」というタイトルのこの記事は、その内容もまた「人間よ大志を抱け」という、非常に簡潔かつ力強い一文のみで構成されています。\n\nこれは、人々に大きな目標や夢を持つよう直接的に促す、極めてストレートな呼びかけです。記事自体がこの言葉以外に何も含んでいないため、そのメッセージの純粋さと重要性が際立っています。具体的な説明や数字は一切なく、ひたすら読者に大志を抱くことの意義を問いかける内容となっています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-03-26T08:36:27.567219"
-  },
-  {
-    "source": "Qiita",
-    "title": "【衝撃】Google研究「AIエージェントは増やすほど性能が下がる」という残酷な真実",
-    "link": "https://qiita.com/emi_ndk/items/239637b37cba6d458d8c",
-    "summary": "GoogleとMITの研究チームが180パターンのAIエージェント構成を検証した結果、「エージェントを増やすほど性能が最大70%低下するケースがある」という衝撃的な真実が判明しました。これは「エージェントを増やせば賢くなる」という幻想を否定し、単一エージェントの精度が45%を超えるとマルチエージェントは逆効果になると指摘しています。特に、タスクの種類によって効果が真逆で、財務分析のような並列処理可能なタスクでは最大80.9%の性能向上が見られる一方、計画立案などの逐次処理タスクでは最大70%の性能低下が確認されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-26T08:36:38.665806"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「Claude Cowork」とRPAの根本的な違い　AIが“ソフトウェアを殺す”メカニズム",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news007.html",
-    "summary": "Anthropicの自律型AI「Claude Cowork」は、従来のRPAやGUI操作AIとは根本的に異なるメカニズムを持ち、SaaS業界に「Anthropicショック」と呼ばれる大きな影響を与えています。このAIは、単なる自動化を超え、既存のソフトウェアが担う機能を代替・不要にする可能性を秘めています。その結果、特定のソフトウェアが「殺される」メカニズムが働き、AIがソフトウェアの未来を再定義する動きとして注目されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-25T23:52:35.582665"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "交流から直流へデータセンターは移行中、800ボルトの直流電力供給で次世代AIデータセンターが実現可能に",
-    "link": "https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/",
-    "summary": "次世代のAIデータセンターでは、電力供給の主流が従来の交流（AC）から直流（DC）へと移行する可能性が高いと、世界有数のエンジニアリング誌であるIEEE Spectrumが報じています。この移行は、特に800ボルトの直流電力供給によって、次世代AIデータセンターの実現を可能にするとされています。データセンターは、より効率的で高性能な運用を目指し、ACからDC電力方式への転換を進めているとのことです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-25T23:52:43.734304"
   }
 ]
