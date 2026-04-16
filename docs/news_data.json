@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Gemini CLIに「サブエージェント」機能登場　専門AIへのタスク委任で複雑・大量処理を高速化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/17/news046.html",
+    "summary": "Googleは開発者ツール「Gemini CLI」に新機能「サブエージェント」を導入しました。この機能は、複雑で大量のタスクを専門AIであるサブエージェントに並列で委任することで、システム負荷を抑えつつ処理を高速化することを目的としています。サブエージェントは自作や配布が可能で、チーム開発における効率向上にも貢献します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-16T22:30:58.515616"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「女性の服を脱がせるAIアプリ」がAppleやGoogleの公式アプリストアで配布されているとの報告",
+    "link": "https://gigazine.net/news/20260417-apple-google-store-nudify-apps/",
+    "summary": "IT業界の監視団体Tech Transparency Project(TTP)の報告によると、AIを利用して写真中の女性の服を脱がせる「Nudify」アプリが問題視されています。これらの有害なアプリは、AppleやGoogleの公式アプリストアで配布されており、検索システムや広告を通じてユーザーを誘導しているとのことです。女性の顔をポルノ動画に合成する機能も持ち合わせており、倫理的な懸念が高まっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-16T22:31:06.931416"
+  },
+  {
+    "source": "Zenn",
+    "title": "Mythosが一般公開されたらいろいろ見つかるだろうから、IPAへのセキュリティ通報方法をSkillにしておくよ",
+    "link": "https://zenn.dev/rgbkids/articles/0bbbe253af30ab",
+    "summary": "Mythosの一般公開後には、多くのセキュリティ上の問題が発見されると予測されています。これに備え、筆者はIPA（情報処理推進機構）へのセキュリティ通報方法を「Skill」として確立する意向です。これは、発見された脆弱性や問題点を効率的かつ迅速に報告するための準備です。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-04-16T22:31:17.350509"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeのコスト最適化、/costだけで終わる話じゃない。Opus 4.7時代の完全チートシート",
+    "link": "https://qiita.com/moha0918_/items/b004c2f6070ee1c34d85",
+    "summary": "Claude CodeのOpus 4.7では、デフォルトの`effort level`が`xhigh`に変更されたため、気づかずに使用するとOpus 4.6時代よりもトークン消費量が増加し、コストが高くなる可能性があります。\n\nこの記事は、このコスト増を最適化するための設定組み合わせを提示するチートシートとして機能します。まずコストを把握するために、`/cost`、`/stats`、`/context`、`/status`という4つのコマンドが重要です。ただし、`/cost`で表示される金額はローカル推定値であり、正確な請求額はClaude Consoleの`Usage`ページで確認する必要があります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-16T22:31:27.259881"
+  },
+  {
+    "source": "ITmedia",
     "title": "「EDRがあれば安心」ではない　被害額120億円「アスクルの報告書」から学ぶ教訓",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/16/news039.html",
     "summary": "2025年10月、アスクルはランサムウェア被害により74万件の個人情報が流出し、商品の受注・発注が停止する事態に陥り、被害額は120億円に達しました。\nこの甚大な被害は、「EDRがあれば安心」という従来のセキュリティ対策だけでは不十分であることを示唆しています。\n記事は、アスクルの調査報告書から得られる教訓を基に、組織がランサムウェア攻撃から身を守るために設けるべき「もう一つの壁」の重要性を説いています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-28T07:57:23.065876"
-  },
-  {
-    "source": "Qiita",
-    "title": "Cursor Bugbot Autofix入門 — 自動PR修正とCloud Agentsで開発を加速する",
-    "link": "https://qiita.com/kai_kou/items/d25d2208fba27d85aa72",
-    "summary": "2026年2月、CursorはAIによるコード修正機能を強化し、Bugbot Autofixの一般提供を開始しました。これは、AIがバグを指摘するだけでなく、プルリクエストに対して自動で修正提案を行う機能です。\n\nさらに、同時に導入されたCloud Agentsにより、1つのプロンプトから最大8つのエージェントがそれぞれ独立したクラウドVM上で並列動作し、開発プロセスを大幅に加速します。この記事では、これらの仕組み、設定方法、料金体系について解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-28T07:57:32.647293"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アライグマは楽しみのためにパズルを解くと研究で判明",
-    "link": "https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/",
-    "summary": "アライグマは留め具付きのゴミ箱を開けることで知られていますが、学術誌「Animal Behaviour」に掲載された研究で、その行動が餌を探すためだけではないことが判明しました。この研究は、アライグマが知的好奇心を満たすため、つまり楽しみのためにパズルを解くようにゴミ箱を開けることを示唆しています。これにより、アライグマがより複雑な動機を持っていることが明らかになりました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-27T23:05:54.467012"
-  },
-  {
-    "source": "Zenn",
-    "title": "TAKT 始めました",
-    "link": "https://zenn.dev/moshjp/articles/ba44861ddad466",
-    "summary": "この記事は、「TAKT 始めました」というタイトルと内容で、TAKTと呼ばれる何らかの活動やプロジェクトが開始されたことを簡潔に報告しています。\n\nしかし、TAKTが具体的に何を指すのか、その目的や背景については一切触れられていません。非常に短い記述であり、記事中に重要なポイントや具体的な数字は含まれていません。この内容からは、TAKTが始まったという事実以外に詳細な情報は得られません。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-03-27T23:06:04.732421"
-  },
-  {
-    "source": "Qiita",
-    "title": "2026/03/28 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "link": "https://qiita.com/ennagara128/items/cb52975dfa257dd55930",
-    "summary": "この投稿は、Qiitaの最新トレンド記事をAIポッドキャストとして毎日朝7時に配信していることを紹介しています。前日夜に公開された記事を音声で「ながら聴き」できるため、通勤中などに効率よく情報収集するのに役立ちます。具体的には、月間9500万ダウンロードのLiteLLMが乗っ取られた緊急事態や、Claude Codeのエージェントに入れるべきスキルについての記事などが取り上げられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-27T23:06:13.647409"
   }
 ]
