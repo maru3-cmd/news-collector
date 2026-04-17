@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "ビジネス書は「読むだけ時間の無駄」・レトロな動画を記録・マングローブ倒産騒動のあれこれインタビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年3月版はコレ！",
+    "link": "https://gigazine.net/news/20260418-gigazine-kindle-ranking-2026-03/",
+    "summary": "GIGAZINEは、2026年3月に出版された記事を電子書籍化したものの中から、Amazonで最も読まれたランキングを発表しました。このランキングは、通常のGoogle検索によるアクセス解析とは異なる、Amazon独自の売上トップ10を示すものです。上位記事には、「ビジネス書は『読むだけ時間の無駄』」や「レトロな動画を記録」、そして「マングローブ倒産騒動のあれこれインタビュー」などが挙げられています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-17T22:29:10.299784"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code Learning Mode 完全ガイド — /output-style と TODO(human) の実務運用",
+    "link": "https://zenn.dev/amu_lab/articles/claude-code-learning-mode",
+    "summary": "「Claude Code Learning Mode 完全ガイド」は、AIによるコード生成・学習を最適化するための実務運用法を解説しています。\n\n特に、`/output-style` コマンドを活用することで、`full_code`や`diff`といった多様な出力形式を制御し、開発におけるAIの応答を効率化します。\n\nまた、`TODO(human)` タグは、AIが解決できない複雑な問題や設計判断を明確に人間へ指示し、AIと人間の協調作業を円滑に進める役割を果たします。\n\nこれらの機能により、開発プロセスにおけるAIの活用と人間の介入が効率的に連携し、全体的な生産性向上に貢献します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-17T22:29:19.646598"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代、ソフトウェア会社は何を売るのか",
+    "link": "https://qiita.com/engchina/items/d7a8418c7046128acc10",
+    "summary": "AI時代において、ソフトウェアの価値はコードの速さだけでなく、提供する価値の置き場所自体が「機能」から「仕事の結果」へと大きく変化しています。これからの強いソフトウェア会社は、機能を羅列するのではなく、ユーザーの仕事の成果までを届け、McKinseyもソフトウェアが「仕事を支える道具」から「仕事を実行する仕組み」へ移行すると指摘しています。\n\nそのため、売るものはソフトウェアそのものではなく「仕事の成果」となり、課金モデルも月額課金やログイン数から、仕事の進捗度合いや時間・コスト削減効果に基づいた「利用量に応じた課金」や「成果に近い価格設計」へと移行すると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-17T22:29:28.243102"
+  },
+  {
     "source": "ITmedia",
     "title": "OpenAI、Codexに「自律型UI操作」機能など追加　PC画面の直接操作で定型業務と開発フローを高速化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/17/news094.html",
@@ -1321,32 +1348,5 @@
     "category": "クラウド・インフラ",
     "content_type": "article",
     "collected_at": "2026-03-29T08:02:19.852907"
-  },
-  {
-    "source": "Qiita",
-    "title": "【完全解説】AIが自分のクレカを持つ時代。Visa・Mastercard・Rampが本気で作る「エージェント決済」の全貌",
-    "link": "https://qiita.com/emi_ndk/items/d7d29324ee1ff064f038",
-    "summary": "2026年には、AIが専用のクレジットカードを持ち、人間の確認なしで自律的に買い物を行う「エージェント決済」が現実化しつつあります。Visa、Mastercard、Rampなどの決済業界大手は、すでにこの仕組みを本番稼働させており、Mastercardは「Mastercard Agent Suite」のリリースも予定しています。McKinseyの試算では、このエージェンティック・コマース市場は2030年までに3〜5兆ドル（約450〜750兆円）規模に成長すると見込まれています。これにより、AIアシスタントが自律的に商品やサービスを購入する未来が目前に迫っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-29T08:02:27.824784"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明",
-    "link": "https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/",
-    "summary": "アメリカで、家庭用コンセントに挿すだけで使える小型の「プラグイン式ソーラーパネル」が普及しつつあります。これにより、屋根に大がかりな設備を設置することなく電気代を抑えられる可能性があります。しかし、電力会社は停電時の電力逆流や家庭内配線への負荷を懸念しており、この懸念が各州の法整備にも影響を与えています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-28T23:00:42.609336"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェント経営でやってはいけない10のこと — 実体験から学ぶ失敗パターン",
-    "link": "https://zenn.dev/joinclass/articles/ai-agent-failures-10-mistakes",
-    "summary": "この記事は、AIエージェントをビジネスに導入・運用する際に陥りがちな「やってはいけない10のこと」を、実体験に基づいた失敗パターンとして解説しています。主な失敗例として、過度な期待、目的の不明確さ、データ品質の軽視、そして人間の役割の誤解などが挙げられています。これらの落とし穴を避けることで、企業はAIエージェントを効果的に活用し、持続的なビジネス成果へと繋げることができると指摘しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-28T23:00:51.694885"
   }
 ]
