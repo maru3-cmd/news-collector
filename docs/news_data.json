@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "OracleとAWSがマルチクラウド接続で協業　OCIとAWS間の連携を強化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/19/news009.html",
+    "summary": "OracleはAWSと協業し、OCIとAWS間の専用接続を拡張することで、マルチクラウド接続を強化すると発表しました。この連携により、顧客は両クラウド間でより高速かつ安全にアプリケーションを実行し、データを移動できるようになります。これにより、AI活用と全体的な運用効率の向上を促進することを目的としています。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-04-19T07:04:23.311588"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "アニメ『Re:ゼロから始める異世界生活 4th season』と鳥取県が砂丘同盟を締結、キャストらと平井知事による調印を見届けてきた",
+    "link": "https://gigazine.net/news/20260419-rezero-tottori/",
+    "summary": "アニメ『Re:ゼロから始める異世界生活 4th season』と鳥取県が「砂丘同盟」を締結し、2026年4月19日からコラボスタンプラリーを開始すると発表しました。鳥取砂丘ビジターセンターで開催されたプレス発表会には、平井伸治鳥取県知事、ナツキ・スバル役の小林裕介さん、エミリア役の高橋李依さんら主要キャスト、そしてオープニングテーマ担当の鈴木このみさんが登壇しました。登壇者は、好評放送中のアニメと鳥取県のコラボキャンペーンや地域の魅力について語り合いました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-19T07:04:31.471649"
+  },
+  {
+    "source": "Zenn",
+    "title": "ChatGPTが自信満々に嘘をつく\"本当の理由\" — OpenAIの論文でわかってました",
+    "link": "https://zenn.dev/koji_ai_lab/articles/5e0182282a8546",
+    "summary": "提供された記事の内容はタイトルのみであるため、タイトルから推測される内容を要約します。\n\nこのタイトルは、ChatGPTが自信満々に誤った情報（嘘）を生成する現象の「本当の理由」を解明する記事であることを示唆しています。その理由が、OpenAIの発表した論文によって既に明らかにされている、と強調されています。記事では、AIが誤情報をあたかも事実であるかのように提示するメカニズムや背景について深く掘り下げていると考えられます。具体的な数字はタイトルからは読み取れませんでした。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-19T07:04:43.435463"
+  },
+  {
+    "source": "Qiita",
+    "title": "【衝撃】49体のAIが同時にゲームを作る時代が来た！Claude Code Game Studiosで個人開発者がAAAスタジオに勝てる理由",
+    "link": "https://qiita.com/emi_ndk/items/e4c1fbad2bf2f73c5091",
+    "summary": "「Claude Code Game Studios」は、個人開発者が数百人規模のAAAゲームスタジオに匹敵するゲームを一人で制作することを可能にする画期的なオープンソースプロジェクトです。2026年4月18日にGitHubで公開されたこのプロジェクトは、**49体の専門AIエージェント**と**72種類のワークフロースキル**を用いて、本物のスタジオのような組織構造でゲーム開発をシミュレートします。\n\nこのAIスタジオシミュレーターは、ディレクターからスペシャリストまでAIが連携することで、従来のゲーム開発の常識を覆します。すでにGitHubコミットの**4%**をClaude Code製が占めるなど、AIエージェント群による開発が急速に拡大しており、年末には20%超に達すると予測されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-19T07:04:51.940158"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能",
     "link": "https://gigazine.net/news/20260418-nocodb/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-03-30T23:52:48.606748"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「万年3位」を挽回できるか？　国内ITサービス4社が力を入れるGoogle Cloudのポテンシャル",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news097.html",
-    "summary": "国内ITサービス大手4社（富士通、NEC、日立製作所、NTTデータ）が、Google Cloudとのパートナーシップに注力し始めています。この動きは、Google Cloudのエンタープライズ向け事業を勢いづかせ、「万年3位」とされる同社の市場における存在感挽回を狙うものです。これにより、Google Cloudのポテンシャルが改めて注目されています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-03-30T10:43:15.574990"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "人間の脳からヒントを得た新しいチップはAIのエネルギー消費量を大幅に削減できる可能性",
-    "link": "https://gigazine.net/news/20260330-human-brain-inspired-chip-slash-ai-energy/",
-    "summary": "ケンブリッジ大学の研究チームが、人間の脳にヒントを得た新しいチップを開発しました。このチップは、従来のデバイスと比べてスイッチング電流を約100万分の1にまで抑えることが可能です。これにより、実現すればAIのエネルギー消費量を大幅に削減できると期待されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-30T10:43:22.488326"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code開発者が明かす15の隠れ機能 -- Boris Chernyのスレッドまとめ",
-    "link": "https://zenn.dev/yuche/articles/668241718e24e4",
-    "summary": "この記事は、Claude Codeの開発者であるBoris Cherny氏が明かした**15の隠れ機能**についてまとめています。\n\nこれらの機能は通常は見過ごされがちですが、Claude Codeの能力を最大限に引き出すための重要な情報を含んでいます。開発者や高度な利用者は、これらのヒントを活用することで、より効率的で高度なコード開発や問題解決が可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-30T10:43:30.249062"
-  },
-  {
-    "source": "Qiita",
-    "title": "Mastra × Claude × Slack で作る勤怠×サーベイ クロス分析 & 名刺スキャナーBot",
-    "link": "https://qiita.com/lafool-ogushi/items/f7108955c4554439ba78",
-    "summary": "社内ハッカソンで、AIエージェントオーケストレーションフレームワークMastraとClaudeを中心に2つの業務効率化ツールが開発されました。一つは、勤怠データとストレスチェック結果をマルチAIエージェントパイプラインで相関分析する「勤怠×サーベイ クロス分析」です。もう一つは、Slackに名刺画像を投稿してリアクションするだけでAIが読み取り、Google Sheetsに自動登録する「名刺スキャナーSlack Bot」です。これらのツールは、Mastra v0.18.6をフレームワークに、Claude Sonnet 4.5やClaude Haiku、Amazon Nova Pro、Llama 3.2 90B（AWS Bedrock経由）といった多様なLLMを活用しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-30T10:43:40.184087"
   }
 ]
