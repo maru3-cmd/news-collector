@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "音楽聴き放題サービス「Spotify」は著作権侵害から始まった",
+    "link": "https://gigazine.net/news/20260420-spotifys-beta/",
+    "summary": "海賊版ライブラリAnna's Archiveが音楽ストリーミングサービスSpotifyのコンテンツを無断収集したことで、Spotifyと大手レコード会社3社から提訴されました。その結果、Anna's Archiveには3億2220万ドル（約510億円）もの賠償命令が下されています。この一件が話題となったことで、Spotify自体もかつて著作権侵害の状態からサービスを開始したという過去が改めて注目を集めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-19T22:25:12.151015"
+  },
+  {
+    "source": "Zenn",
+    "title": "Copilot CLI の reasoning effort xhighが使えない時に試した手順メモ",
+    "link": "https://zenn.dev/wcd/articles/145b4804e25e7e",
+    "summary": "提供された記事は「Copilot CLI の `reasoning effort xhigh` が使えない時に試した手順メモ」というタイトルで、Copilot CLIの特定の推論オプションが機能しない場合の対処法をまとめたものです。\n\nこの`reasoning effort xhigh`は通常、Copilot CLIの応答の質を高めるためにより高度な推論処理を適用する設定を指します。しかし、提示された情報には、具体的な手順、試された解決策、または関連する数値などの詳細な内容は含まれていません。そのため、現状では記事の具体的な要約はできません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-19T22:25:24.474160"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIエージェント時代の「ファイルシステム終焉」論——Oracle AI Database 26ai",
+    "link": "https://qiita.com/Tadashi_Kudo/items/27872b7e46362edb433a",
+    "summary": "Oracle Database 26aiは、AIエージェント時代のデータ管理における「ファイルシステム終焉」論を提示し、従来のファイル保存方法が2026年以降も最適かという問いに答えます。2025〜2026年にリリースされるこの新バージョンは、ドキュメント、画像、音声、テキストといった多様なデータをデータベースに直接格納することを可能にします。\n\nさらに、LLM、ベクトル検索、SQLを同一トランザクション内で扱い、AI機能を「ファーストクラスの市民」として統合することで、AIが主役となる未来のデータ管理の効率性と統合性を大幅に向上させることを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-19T22:25:34.388284"
+  },
+  {
     "source": "ITmedia",
     "title": "OracleとAWSがマルチクラウド接続で協業　OCIとAWS間の連携を強化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/19/news009.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-03-30T23:52:25.245047"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "女性器の神経ネットワークを世界で初めて完全にマッピング、「陰核」の解剖学的構造が明らかになり骨盤手術を受ける女性の治療成績向上に期待大",
-    "link": "https://gigazine.net/news/20260331-clitocal-nerves-network-mapped/",
-    "summary": "オランダ・アムステルダム大学医療センターの研究チームが、高エネルギーX線を用いたシンクロトロン放射光により、女性器の陰核（クリトリス）における神経ネットワークを世界で初めて完全に3Dマッピングすることに成功しました。これにより、社会的なタブーや技術的制約で研究が進んでいなかった陰核の解剖学的構造が、マイクロメートル単位の解像度で詳細に明らかになりました。この画期的な成果は、骨盤手術を受ける女性の治療成績向上に大きく貢献すると期待されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-30T23:52:33.675543"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeのメモリ機能完全解説──47体のAIエージェントが「昨日の続き」から働ける理由",
-    "link": "https://zenn.dev/ti_ai/articles/20260329-2ltro",
-    "summary": "Claude Codeは、AIエージェントが過去の作業内容や対話履歴を記憶し、永続的に保持する「メモリ機能」を搭載しています。この機能により、各AIエージェントは中断後も前回の作業の続きから効率的にタスクを再開することが可能です。結果として、47体ものAIエージェントが連携して長期プロジェクトに取り組み、「昨日の続き」からスムーズに作業を続けられるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-30T23:52:41.625780"
-  },
-  {
-    "source": "Qiita",
-    "title": "動画を無料で文字起こしする方法｜Whisper設定ガイド",
-    "link": "https://qiita.com/yoy119/items/82498224cb2b1fc25f90",
-    "summary": "この記事は、OpenAIが開発した無料の音声認識AI「Whisper」を使って、動画を文字起こしする方法をMacユーザー向けに解説しています。Whisperは日本語を含む多言語に対応し、専門用語も高精度で認識できるため、動画内容の自動ノート化に非常に有効です。\n\nローカルPCで動作するためAPI料金は発生せず、完全に無料で利用できます。記事では、動画から音声を抽出するための「ffmpeg」の導入手順や、文字起こし結果をChatGPTで要約する活用法も紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-30T23:52:48.606748"
   }
 ]
