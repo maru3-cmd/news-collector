@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Anthropicの新指標　AIの影響を受けにくい「3割の人々」の共通点は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/20/news037.html",
+    "summary": "AI開発企業Anthropicは、AIの影響を受けにくい人々に関する新たな指標を公表しました。この指標によると、全人口の約3割がAIによる仕事の変化から比較的保護された層であることが明らかになっています。Anthropicは、これら「3割の人々」が持つ共通点や具体的な職種に注目しており、今後の分析が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-20T07:46:40.772739"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Claude Opus 4.7でトークン消費量がどれだけ増えたか可視化するサイトが登場、同じ入力で4.6の2倍消費する実例も",
+    "link": "https://gigazine.net/news/20260420-claude-opus-4-7-token-cost/",
+    "summary": "2026年4月16日に登場した「Claude Opus 4.7」ではトークナイザーに変更があり、前世代モデルに比べてトークン消費量が増加したという報告が相次いでいます。\nこのトークン消費量の変化を可視化し、Claude Opus 4.6と比較できるウェブサイト「Tokenomics」が登場しました。\n同サイトでは、同じプロンプトを入力した場合にOpus 4.7がOpus 4.6の2倍のトークンを消費する実例なども確認できます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-20T07:46:51.341861"
+  },
+  {
+    "source": "Zenn",
+    "title": "『AI補助金・助成金ファインダー』政府AI補助金7制度・採択率推移・予算1兆2,390億円をインタラクティブ可視化した設計メモ",
+    "link": "https://zenn.dev/ai_japan_index/articles/cdf0b317e97894",
+    "summary": "「AI補助金・助成金ファインダー」は、政府が提供するAI関連の補助金・助成金に関する情報をインタラクティブに可視化したツールです。\nこのツールは、現在利用可能な7つの制度を対象とし、総額1兆2,390億円に及ぶ予算や各制度の採択率の推移をデータとして提供しています。\nこれにより、利用者は複雑な補助金情報を効率的に把握し、最適な制度を見つけられるよう設計されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-20T07:47:00.373156"
+  },
+  {
+    "source": "Qiita",
+    "title": "『『AI補助金・助成金ファインダー』』政府AI補助金データ（7制度・採択率推移）をWordPressで可視化してみた",
+    "link": "https://qiita.com/AI-Japan-Index/items/015740a9a56eb6d656d6",
+    "summary": "本記事は、政府のAI関連補助金7制度について、補助額比較、採択率推移、政府予算推移のデータをWordPress上でD3.js v7を用いて可視化する手法を解説しています。D3.jsを使った描画手順に加え、WordPressにD3.jsを組み込む際のCDNタグ禁止などの3つの必須対応や、異なる出典のデータを統合する際の注意点が示されています。実際に動作する「AI補助金・助成金ファインダー」で、その可視化ツールを確認できます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-20T07:47:08.512302"
+  },
+  {
     "source": "GIGAZINE",
     "title": "音楽聴き放題サービス「Spotify」は著作権侵害から始まった",
     "link": "https://gigazine.net/news/20260420-spotifys-beta/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-03-31T09:44:57.051733"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年3月31日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20260331-headline/",
-    "summary": "明星食品は、人気シリーズ「明星 一平ちゃん夜店の焼そば」から、わさびの刺激が特徴の「わさびマヨ醤油味」を発売します。このカップ焼きそばは、従来のからしマヨネーズの代わりにわさびマヨネーズを使用し、ツーンとした刺激的な味わいが楽しめます。\n\n通常サイズの「明星 一平ちゃん夜店の焼そば わさびマヨ醤油味」は4月13日に、大盛りサイズの「明星 一平ちゃん夜店の焼そば 大盛 わさびマヨ醤油味」は4月27日に全国で登場します。この「わさびマヨ醤油味」は、過去にも何度も復刻されている人気商品です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-03-31T09:45:08.238293"
-  },
-  {
-    "source": "Zenn",
-    "title": "#47 Session Manager の内部構造（実装編）",
-    "link": "https://zenn.dev/corone/articles/5d3b2b712cc608",
-    "summary": "要約エラー: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-31T09:45:16.411040"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI3",
-    "link": "https://qiita.com/nagisawa_mamoru/items/1aa12883d24c6a911a67",
-    "summary": "GitHub Copilotは、従来の数行補完から進化し、IDE内でのコード補完、チャットでの質問回答、PR上でのコードレビューに加え、IssueからPR作成までを自動で行うコーディングエージェントとして機能します。関数生成、バグ修正案の提示、レビューコメント自動生成など多岐にわたる能力を持ち、GitHubとの深い統合が最大の強みで、GitHub中心のワークフローで真価を発揮します。一方、OpenAI Codexはクラウド上のソフトウェアエンジニアリング・エージェントとして位置づけられ、機能追加、バグ修正、PR提案などを並列で実行可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-03-31T09:45:26.370148"
-  },
-  {
-    "source": "ITmedia",
-    "title": "M365利用中の京都市が職員7000人に「NotebookLM」を配ったワケ　利用者の8割が「業務の質向上」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/31/news058.html",
-    "summary": "京都市は、既存のMicrosoft 365環境がありながらも、7000人の職員向けにNotebookLM Enterpriseを導入しました。この導入により、利用者の8割が業務の質の向上を実感していると報告されています。京都市は、Gemini Enterpriseを基盤とした「全庁統合AIアシスタント」を通じて、自治体DXの推進と未来を描いています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-30T23:52:25.245047"
   }
 ]
