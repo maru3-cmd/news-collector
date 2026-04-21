@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "インシデント発生時、1時間当たりの損失額は？　日本企業の損害が大きい背景【調査】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/21/news050.html",
+    "summary": "ある調査によると、インシデント発生時に1時間あたり50万ドル以上の損失を被る日本企業の割合は43%に達します。これは米国企業の31%や世界全体の34%を大きく上回る突出した数値です。\n\nこの結果から、日本企業が他国と比較してサイバーインシデントによる損害が大きい実態が明らかになりました。現在、なぜこれほどの差が生じているのか、その背景にある要因に注目が集まっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-21T07:18:41.238505"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "OpenAIのパートナーがChatGPT内広告の掲載枠の販売を開始",
+    "link": "https://gigazine.net/news/20260421-stackadapt-playbook-chatgpt-ads/",
+    "summary": "OpenAIは2026年1月にChatGPT内での広告表示を発表し、同年2月には広告のテストを開始しました。広告関連メディアのADWEEKは、広告主向けにChatGPT内広告を提供する広告企業のプレゼンテーション資料を独自に入手。これは、パートナー企業を通じてChatGPTのプラットフォーム内で広告枠が販売され始めていることを示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-21T07:18:49.129721"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI が設計して、AI が強度検証する — Kiro × FreeCAD FEM でロボットアームCAE構造解析",
+    "link": "https://zenn.dev/aws_japan/articles/a5cd987ecb59ff",
+    "summary": "この取り組みでは、AIがロボットアームの設計を行い、さらにその強度検証もAI自身が行う革新的なCAE構造解析が実施されました。具体的には、設計にAIツール「Kiro」が、強度検証にはオープンソースの「FreeCAD FEM」が活用されています。これにより、設計から検証までの一連のプロセスをAIが自動化し、効率的かつ高精度なロボットアーム開発への貢献が示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-21T07:18:56.977224"
+  },
+  {
+    "source": "Qiita",
+    "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
+    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
+    "summary": "この記事は、2025年3月にベータ公開が始まったばかりのClaude Codeの入門ガイドです。\n\n「乗り遅れたかも」と感じているエンジニアを対象に、今から始めても最前線を体験できるほど活発に機能が追加されている本ツールの魅力を解説します。インストールと基本操作から、CLAUDE.md、Plan Mode、Skill、Hooks、MCPといった主要機能、さらに最近の追加機能まで網羅的に紹介しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-21T07:19:05.347004"
+  },
+  {
+    "source": "ITmedia",
     "title": "VMware移行市場に起きた“変化”　大手3社の事例から見るインフラ刷新の実態",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/21/news020.html",
     "summary": "BroadcomによるVMware買収後のライセンス体系変更を受け、多くの企業が仮想化基盤の再検討を始めています。この動きを背景に、Nutanixの自社イベントでは、VMwareからの移行を実際に進めた業種の異なる大手3社の事例が紹介されました。これらの企業は、インフラ刷新の具体的な背景と実態を共有し、市場で起きている変化を示しました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-01T09:52:15.999553"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アメリカのUMA「ビッグフット」のドキュメンタリーが陰謀論がまん延する現代社会の理解に役立つかもしれない",
-    "link": "https://gigazine.net/news/20260401-bigfoot-documentary-explain-conspiracy-minded/",
-    "summary": "アメリカの未確認動物(UMA)であるビッグフットは、身長約2mで二足歩行する大型類人猿のような存在とされます。最近、1967年に撮影されたとされる「ビッグフットの証拠映像」を巡る新たなドキュメンタリーが公開されました。このドキュメンタリーを機に、ウォール・ストリート・ジャーナル紙は、このビッグフット騒動を現代社会にまん延する陰謀論と関連付けて論じています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-01T09:52:26.443949"
-  },
-  {
-    "source": "Zenn",
-    "title": "明らかなプロンプト インジェクションを成功させたい (もちろんテスト目的で）",
-    "link": "https://zenn.dev/microsoft/articles/36d7de6814f003",
-    "summary": "この短い記事は、「明らかなプロンプト インジェクション」を「テスト目的」で成功させたいという著者の意図を表明しています。\n記事の内容はタイトルと同一であり、プロンプトインジェクションの具体的な方法論や、それによって達成したい結果、関連する数値などの詳細については触れられていません。\nそのため、現時点では、この意図表明以上の詳しいポイントや数字を要約に含めることは困難です。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-04-01T09:52:37.732935"
-  },
-  {
-    "source": "Qiita",
-    "title": "LLMでトークンを無駄にしないための「軽い文章」の書き方",
-    "link": "https://qiita.com/K_san0219/items/d1fb4d7a0aba55d968da",
-    "summary": "LLMとの対話型開発でトークンを使い果たす主な原因は「文章の重さ」にあり、この記事はLLMにとって軽い文章の書き方を提示します。\n\nLLMの負荷は、文字数だけでなく、内部的なトークン数、全体の依存関係、推論の複雑さで決まり、「賢く圧縮された文章」ほど処理が重くなる傾向があります。例えば、前後を参照しないと理解できない文章や、条件・例外が1文に詰まった文章は重くなります。\n\nトークン消費を抑えるには、参照を減らして内容をその場で完結させることが重要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-01T09:52:48.370474"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Claude拡張機能に深刻な脆弱性　閲覧だけでWebブラウザ乗っ取りの恐れ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news014.html",
-    "summary": "ClaudeのChrome拡張機能に、「ShadowPrompt」という深刻な脆弱性が発見されました。この脆弱性により、ユーザーがWebページを閲覧するだけで、AIが不正に操作される恐れがあります。これは、設計上の不備と外部部品のクロスサイトスクリプティング（XSS）を悪用したものとされています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-03-31T23:05:16.106136"
   }
 ]
