@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "入力ミスによる情報流出を未然防止　Microsoft、Copilot入力文の保護機能を提供開始",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/23/news027.html",
+    "summary": "Microsoftは、「Microsoft 365 Copilot」のプロンプト入力時に機密情報のリアルタイム検知と処理停止を行う保護機能の一般提供を開始しました。この機能は、入力ミスなどによる情報流出を未然に防ぐことを目的としています。社内情報の利便性を維持しつつ、外部検索やAI処理による意図しない情報漏えいを防ぎます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-22T22:38:39.757846"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "コーヒーメーカーとレゴを3Dプリンターで組み合わせて全自動コーヒーマシンを自作",
+    "link": "https://gigazine.net/news/20260423-building-a-lego-coffee-factory/",
+    "summary": "YouTubeチャンネル「Brick Machines」が、カプセル式コーヒーメーカーとレゴを3Dプリンターで組み合わせた全自動コーヒーマシンを公開しました。このマシンはマイコンと自作のスマートフォンアプリで制御され、完全に自動で動作します。さまざまなものをレゴで発明する同チャンネルならではの、創造的なプロジェクトとして注目を集めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-22T22:38:46.284184"
+  },
+  {
+    "source": "Zenn",
+    "title": "t_wada さんに直接聞く Q&A セッションが面白かったのでまとめた（TechLead Conf 2026）",
+    "link": "https://zenn.dev/nishiken_zenn/articles/t-wada-qa-at-techlead-conf",
+    "summary": "TechLead Conf 2026で開催されたt_wadaさんのQ&Aセッションについてまとめた記事です。\n筆者はこのセッションを非常に面白いと感じ、その内容を詳細に記しています。\n提供された情報からは具体的なQ&Aの内容や数値は読み取れませんが、セッションの魅力や要点がまとめられていると推測されます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-04-22T22:38:55.708201"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeのセッション使用率をターミナルに常時表示するstatusLineスクリプトの作り方",
+    "link": "https://qiita.com/hiranuma/items/793b49360d5d814a686f",
+    "summary": "この記事では、Claude Codeのセッション使用率をターミナルに常時表示する`statusLine`スクリプトの作成方法を解説しています。通常`/config`メニューの奥にある5時間枠と7日枠の使用率確認を簡素化するため、`statusLine`機能がJSON形式のセッション情報を約300msごとにイベント駆動で更新・表示します。このスクリプトはAPIトークンを消費せず、セッションと週間使用率をカラー付きプログレスバーで示すもので、WezTermをはじめとするANSIカラー対応ターミナルで動作します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-22T22:39:04.577511"
+  },
+  {
+    "source": "ITmedia",
     "title": "OpenAI「ChatGPT Images 2.0」発表　日本語の高度なタイポグラフィが可能に",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/22/news095.html",
     "summary": "OpenAIは、日本語の高度なタイポグラフィに対応した次世代画像生成モデル「ChatGPT Images 2.0」を発表しました。このモデルは、日本語を含むあらゆる言語において、これまで困難だったテキスト描写の精度を飛躍的に向上させます。さらに、複雑なレイアウトの再現や柔軟な編集機能も備えており、画像生成ツールの実用性を大幅に高めることが期待されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-03T06:55:31.456692"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "現代まで強い影響を残す19世紀中国とイギリスの「アヘン戦争」について解説したムービー",
-    "link": "https://gigazine.net/news/20260403-opium-wars/",
-    "summary": "19世紀に清(中国)とイギリスの間で2年間にわたり繰り広げられた「アヘン戦争」は、現代まで強い影響を残す歴史的な出来事です。この記事では、教育系YouTubeチャンネルNightshiftが公開したアニメーション動画「アヘン戦争の狂気の物語」が紹介されています。この動画は、アヘン戦争の経緯とその裏側にあった背景を分かりやすく解説しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-02T22:23:43.944663"
-  },
-  {
-    "source": "Zenn",
-    "title": "「安全構造は最初から─Anthropicコード流出事件が示す設計原則」",
-    "link": "https://zenn.dev/tokuni/articles/06b137f714f964",
-    "summary": "申し訳ありません。記事のタイトル「安全構造は最初から─Anthropicコード流出事件が示す設計原則」は提示されていますが、**記事の本文が提供されていない**ため、内容を要約することができません。\n\n記事の本文をご提供いただければ、要約を作成いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-04-02T22:23:49.688727"
-  },
-  {
-    "source": "Qiita",
-    "title": "AWSで生成AIを触り始めたい人へ。サービス選定から実装の入口までつながる公式テキスト",
-    "link": "https://qiita.com/yzak/items/c45f472bd52dae1b36cd",
-    "summary": "AWSで生成AIの実装や検証を始めたいエンジニア向けに、サービス選定から実装の入口までを解説する「公式テキスト」が紹介されています。この書籍は、BedrockをはじめとするAWSの生成AIサービスを、サービス理解と実装の両面から整理し、実務への適用を支援します。読者は、個別のツール知識に留まらず、モデル利用、周辺サービス、運用観点を含めた全体像を把握し、生成AIをクラウド設計の一部として扱う視点を得られるでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-02T22:24:00.031717"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ChatGPTでDNSを介したデータ流出の脆弱性、Check Pointが指摘",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news076.html",
-    "summary": "Check Pointは、ChatGPTのコード実行環境にDNSを介したデータ流出の脆弱性があることを報告しました。この脆弱性により、単一の不正プロンプトを入力するだけで、ユーザーの会話内容や生成結果が外部へ送信されるリスクがあります。同社は、これにより機密情報が意図せず流出する可能性があると指摘しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-02T06:57:55.666764"
   }
 ]
