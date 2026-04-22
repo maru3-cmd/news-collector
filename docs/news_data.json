@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "OpenAI「ChatGPT Images 2.0」発表　日本語の高度なタイポグラフィが可能に",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/22/news095.html",
+    "summary": "OpenAIは、日本語の高度なタイポグラフィに対応した次世代画像生成モデル「ChatGPT Images 2.0」を発表しました。このモデルは、日本語を含むあらゆる言語において、これまで困難だったテキスト描写の精度を飛躍的に向上させます。さらに、複雑なレイアウトの再現や柔軟な編集機能も備えており、画像生成ツールの実用性を大幅に高めることが期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-22T07:17:01.036849"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「CAP定理」や「マーフィーの法則」などソフトウェア開発におけるさまざまな法則をまとめたサイト「Laws of Software Engineering」",
+    "link": "https://gigazine.net/news/20260422-law-of-software-engineering/",
+    "summary": "「Laws of Software Engineering」は、ソフトウェア開発に関わる様々な法則を集約したウェブサイトです。このサイトでは、「CAP定理」や「マーフィーの法則」といった、開発者が直面する課題や概念を理解する上で重要な原則がまとめられています。これにより、ソフトウェアエンジニアは多岐にわたる法則を一覧で確認し、実務に役立てることが可能です。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-04-22T07:17:11.477915"
+  },
+  {
+    "source": "Zenn",
+    "title": "Opus 4.7 に移行するなら \"effort\" を理解してからにしよう",
+    "link": "https://zenn.dev/purpom/articles/claude-opus-4-7-effort-guide",
+    "summary": "この記事は、バージョン「Opus 4.7」への移行を検討している読者に対し、重要なアドバイスを提供しています。移行作業に取り掛かる前に、「effort」（努力や手間といった概念）を十分に理解しておくことの必要性を強調しています。これは、「effort」の理解が不足していると、移行プロセスで予期せぬ困難や問題が生じる可能性を示唆しています。したがって、スムーズな移行のためには事前の概念理解が鍵となると述べています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-04-22T07:17:21.350855"
+  },
+  {
+    "source": "Qiita",
+    "title": "【革命】AIが6時間自律コーディング！Anthropicの3エージェントHarnessが「放置開発」を実現した",
+    "link": "https://qiita.com/emi_ndk/items/facb4cecfd145f6d6c1a",
+    "summary": "Anthropicが「3-Agent Harness」アーキテクチャ（Planner、Generator、Evaluator）を開発し、AIによる長時間自律コーディングと「放置開発」を実現しました。従来の単一エージェントが20分で9ドル相当の「動かないゲーム」しか作れなかったのに対し、この3エージェント構成は6時間で200ドル相当の「完全に遊べるゲーム」を完成させることが可能になりました。これは、単一AIエージェントが長時間作業で直面するコンテキストの膨張や自己評価の甘さといった課題を、エージェントを分割し役割分担させることで解決した成果です。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-22T07:17:30.499392"
+  },
+  {
+    "source": "ITmedia",
     "title": "自社のAIが攻撃者のアシスタントに？　「LLM Jacking」の深刻なリスク",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/22/news011.html",
     "summary": "攻撃トレンドが「侵入からログイン」へ移行する中、「LLM Jacking」という、企業のAIリソースを乗っ取って悪用する新たな脅威が拡大しています。この攻撃は、単に高額な利用料を発生させるだけでなく、侵入先のRAG環境などを悪用することが特徴です。これにより、攻撃者は企業の機密情報を効率的に分析・奪取することが可能となり、AI時代の深刻なリスクとして注目されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-02T06:57:55.666764"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "EUは職員がAI生成画像を使うことを禁止している、AI生成コンテンツを投稿しまくるアメリカのトランプ大統領とは対照的",
-    "link": "https://gigazine.net/news/20260402-eu-ban-deepfakes-ai-generation-official/",
-    "summary": "欧州連合(EU)の主要組織である欧州委員会、欧州議会、欧州連合理事会は、職員が公式の文書や発信でAI生成画像やAI生成動画を使用することを禁止しました。この禁止措置はニュースメディアPOLITICOによって報じられています。AI生成コンテンツを頻繁に投稿するアメリカのトランプ大統領の姿勢とは対照的に、EUは情報発信の信頼性を確保する方針を示した形です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-02T06:58:08.353577"
-  },
-  {
-    "source": "Zenn",
-    "title": "【徹底解説】クロスエージェントメモリとは？AIがツールとセッションを超えて文脈を共有する仕組み",
-    "link": "https://zenn.dev/memorylakeai/articles/de1deffa7716e2",
-    "summary": "クロスエージェントメモリとは、AIが異なるツールやセッション間をまたいで文脈（コンテキスト）を継続的に共有するための革新的な仕組みです。これまでのAIは、セッションごとに情報がリセットされるため、一貫した対話やタスクの連携が困難でした。本技術は、この断絶を解消し、AIがユーザーとのやり取りやタスクの進行状況を記憶し続けることで、より高度で連続的なAI活用を可能にします。これにより、AIは状況に応じた的確な支援を提供し、よりスムーズな協調作業を実現することが期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-02T06:58:17.320668"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Codeを使った開発ワークフロー設計",
-    "link": "https://qiita.com/kanaamin/items/7b6cf3013efc396c7aaa",
-    "summary": "この記事は、Claude Codeを用いた開発ワークフローを効率化する方法を紹介しています。毎回指示を手打ちする手間を省くため、`CLAUDE.md`ファイルとPRテンプレートを活用することが中心です。これにより、Claudeが生成した実装計画やPR説明を特定のフォルダ（例: `.claude/plan/`、`.claude/pr/`）に保存し、作業の定型化と効率化が図れます。記事では、`CLAUDE.md`、`.claude`ディレクトリ、`project/PR_template.md`を含む具体的なフォルダ構成例を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-02T06:58:25.022405"
-  },
-  {
-    "source": "ITmedia",
-    "title": "NotebookLMで作業時間95％削減　自治体も企業も「Google回帰」が止まらない理由",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/02/news053.html",
-    "summary": "GoogleのAIツール「NotebookLM」は、自治体や企業の業務効率を飛躍的に向上させています。実際に、作業時間を最大95%削減した事例も報告されており、その具体的な導入メリットと効果が実例とデータに基づいて示されています。こうした顕著な成果が、多くの組織においてGoogleのAIツールへの「Google回帰」とも称されるシフトを加速させています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-01T22:27:44.116180"
   }
 ]
