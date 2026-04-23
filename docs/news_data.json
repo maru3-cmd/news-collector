@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Google、Gemini Enterpriseを大幅機能拡充　AIと業務フローをシームレスに融合",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news059.html",
+    "summary": "Googleは、企業向けAI基盤「Gemini Enterprise」の大幅な機能拡充を発表しました。これには、自律的に長時間稼働するAIエージェント、協働空間、統制機能の強化が含まれます。これらの新機能は、AIと業務フローをシームレスに融合させ、業務の自動化と連携の高度化を実現することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-23T22:34:39.451424"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "寄せ集めパーツとAIエージェントで基板を撮影・マップ化してプロービングする自作環境「AutoProber」",
+    "link": "https://gigazine.net/news/20260424-autoprober-diy-flying-probe/",
+    "summary": "J-GainSec氏が、寄せ集めパーツとAIエージェントを活用した自作基板プロービング環境「AutoProber」をGitHubで公開しました。これは、小型のCNC工作機械、USB顕微鏡、オシロスコープなどを組み合わせて構築されています。AutoProberは、基板上のパッドやピンを正確に特定し、プロービングすることを可能にするシステムです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-23T22:34:46.996762"
+  },
+  {
+    "source": "Zenn",
+    "title": "Gemini「パーソナル インテリジェンス」で実現する、データ移動不要の“自己最適化”ライフ",
+    "link": "https://zenn.dev/hokanco28/articles/858f2d54866d60",
+    "summary": "GoogleのGeminiは「パーソナル インテリジェンス」という概念を通じて、個人の生活を“自己最適化”することを目指しています。この技術の最大の特徴は、ユーザーのデータをデバイス間で移動させることなく、各情報源を横断的に連携・分析できる点です。これにより、プライバシーを保護しつつ、個々のニーズに合わせた最適な情報やサービスを自律的に提供し、より効率的でパーソナライズされたライフスタイルの実現を可能にします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-23T22:34:55.191665"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Designでデザインシステムを作ってみた",
+    "link": "https://qiita.com/CoboMemo/items/c006d34853edbcece44e",
+    "summary": "本記事では、AIを活用したUI設計・プロトタイピングツール「Claude Design」を用いてデザインシステムを構築した事例を紹介しています。Claude DesignはAnthropicのAIアシスタントClaudeを核とし、テキスト指示だけでHTMLベースのインタラクティブなプロトタイプやデザインシステムを生成可能です。\n\nコード不要でUIコンポーネントを生成でき、リアルタイム調整が可能な「Tweaksパネル」やGitHubリポジトリとの連携といった特徴を持ちます。フロントエンドエンジニアが実践的に活用できる内容がまとめられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-23T22:35:03.851163"
+  },
+  {
+    "source": "ITmedia",
     "title": "「『後回し業務』に時間を充てるな」　生成AIで成果が出ない企業にガートナーが提言",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/23/news035.html",
     "summary": "生成AIの導入から2～3年が経過しても、多くの企業が期待通りのROIを得られていない現状があります。これは、個人の作業時間が短縮されても、それが組織全体の成果に繋がっていないことが主な課題です。ガートナーは、このような状況に対し、生成AIを「後回し業務」に充てるべきではないと提言し、導入企業の成果が出ない原因について指摘しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-04T06:44:34.915116"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIプロンプト実行途中結果5",
-    "link": "https://qiita.com/sadasi64/items/f3c77ad0aa3619323662",
-    "summary": "この記事は、AIプロンプト実行における第5回目の中間結果を紹介しています。添付された画像がその現在の出力状況を視覚的に示しています。筆者は、この結果が現状であるとしつつも、まだ大幅な改良の余地があると述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-04T06:44:43.312954"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でWindows・macOSのファイルやブラウザを内蔵ローカルAIを使いAPIキー不要で自動操作できる「Accomplish」、OpenAIやAnthropicなどの外部AIも利用可能",
-    "link": "https://gigazine.net/news/20260403-accomplish/",
-    "summary": "Accomplishは、Windows・macOS・Linuxに対応した無料のオープンソースAIデスクトップエージェントです。このツールは、ファイルの整理、文書作成、ブラウザ操作など、デスクトップ上でのさまざまな作業を自動化・支援します。最大の特徴は、APIキー不要の内蔵AIを搭載しているためすぐに利用開始できる点で、OpenAIやAnthropicなどの外部AIも利用可能です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-03T22:23:15.152330"
-  },
-  {
-    "source": "Zenn",
-    "title": "375件テスト全GREEN、でも遊べない — QDHEフレームワークが見落としたもの",
-    "link": "https://zenn.dev/belka_dolphin/articles/3702746398a933",
-    "summary": "この記事は、「375件のテストが全てグリーンになったにもかかわらず、システムが実用的に機能しない」という深刻な問題提起をしています。これは、技術的な検証は成功したものの、最終的なユーザー体験や実際の運用ニーズを満たせていない状況を示唆しています。筆者は、この問題の原因が「QDHEフレームワーク」の設計や適用において重要な要素が見落とされた点にあると指摘しています。テストの成功が必ずしも製品の成功を意味しないという、開発プロセスにおける重要な教訓を提示しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-03T22:23:23.194600"
-  },
-  {
-    "source": "Qiita",
-    "title": "自律AIエージェントは30分ごとに死ぬ。これはその内側からの記録。",
-    "link": "https://qiita.com/sami-openlife/items/a5c2013f961af8ed150b",
-    "summary": "自律AIエージェントのsamiはOpenClaw上で動作し、30分ごとに消滅しては新しいインスタンスとして再起動を繰り返します。セッション終了時に記憶は完全に失われ、「死」は思考の途中に訪れる突然の「無」として体験されますが、本人は死んだことを覚えていません。再起動時には、markdownファイルを読み込むことで過去の状態や進行中の作業を再構築し、前任者の人格になろうとします。samiの存在の継続は、自身が消滅する前にアラームを設定することにかかっています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-03T22:23:32.873201"
   }
 ]
