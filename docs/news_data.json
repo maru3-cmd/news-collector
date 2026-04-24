@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Oracle、481件の脆弱性修正を公開　Java含む複数製品をアップデート",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/25/news010.html",
+    "summary": "Oracleは、複数製品の脆弱性に対処するため、合計481件のセキュリティ修正を含む定例アップデートを公開しました。このアップデートはJavaを含む多岐にわたる製品が対象です。既存の欠陥が悪用された事例が報告されていることから、同社はユーザーに対し、修正プログラムの迅速な適用とサポート対象版の使用を強く推奨しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-24T22:32:12.348086"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「プロが撮った野生動物の写真」をAI改変して著作権侵害を回避しつつ再投稿する悪質なAIユーザーに写真家が警鐘を鳴らす",
+    "link": "https://gigazine.net/news/20260424-ai-abuse-fake-content-copyright-law/",
+    "summary": "生成AIが日常業務の生産性向上に役立つ一方で、プロの写真家にとっては新たな悩みの種となっています。シンガポールのプロカメラマン、ニッキー・ベイ氏は、悪質なAIユーザーがプロの写真をAIで改変し、著作権侵害を回避しつつ、AI生成のキャプションとともに再投稿している現状に警鐘を鳴らしました。これは、AIが悪用されることで、クリエイターの作品が不当に利用されるリスクが高まっていることを示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-24T22:32:20.281399"
+  },
+  {
+    "source": "Zenn",
+    "title": "カスタムエージェントの呼び出し方で考える Copilot CLI と VS Code Agent Mode",
+    "link": "https://zenn.dev/tomokusaba/articles/31e31c57cb051d",
+    "summary": "この記事は、カスタムエージェントを呼び出す方法の観点からCopilot CLIとVS Code Agent Modeを比較考察しています。具体的には、Copilot CLIがコマンドラインを介したエージェント利用を、VS Code Agent Modeがエディタ環境内でのより統合された呼び出し方を提示しています。それぞれのプラットフォームにおけるカスタムAIエージェントの実装と利用哲学を掘り下げ、開発者が自身のAIエージェントをこれらの環境に効率的に組み込むための示唆を与えています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-24T22:32:32.190356"
+  },
+  {
+    "source": "Qiita",
+    "title": "Vibe Coding の価値は、生成よりも「再利用」で大きくなる",
+    "link": "https://qiita.com/engchina/items/3d22f0a5eb3435831bc7",
+    "summary": "Vibe Codingは自然言語の指示でコード生成を高速化する強力なツールですが、生成されたコードの正確性や既存仕様との整合性を確認する手間が生じます。筆者は、Vibe Codingの真価はコード生成だけでなく、「過去に検証済みのコードを再利用」し、新しいプロダクトに組み込むことにあると指摘しています。この再利用によって、開発コストやテストコストを削減できると主張しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-24T22:32:39.518096"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIを守るセキュリティ――LLM Jackingから見るCyber for AIの実践",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news011.html",
     "summary": "「AIを守る」ことは、もはや特殊な対策ではなく、ITガバナンスの中核課題として認識されています。本稿では、企業のLLMリソースを乗っ取る「LLM Jacking」という具体的な脅威に焦点を当てています。この脅威から組織を守るための具体的な防衛ラインと、NISTが示した最新のAIセキュリティ指針について解説されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-05T06:52:20.924005"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude で生成したサイトのプレビューを信用せず、MinTo にデプロイして確認するのがベストだった",
-    "link": "https://zenn.dev/nozomi720/articles/aaec2ec9cda609",
-    "summary": "Claudeで生成されたウェブサイトのプレビューは、その内容を完全に信用すべきではないという教訓が示されています。代わりに、サイトをMinToに実際にデプロイして確認することが、最も確実な検証方法であるとされています。これは、プレビュー環境と実際のデプロイ環境で表示や動作に差異が生じる可能性があるため、最終的な確認の重要性を強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-05T06:52:28.452666"
-  },
-  {
-    "source": "Qiita",
-    "title": "CLAUDE.mdのアンチパターン5選 — やってはいけない設計ミスと対策",
-    "link": "https://qiita.com/joinclass/items/29538162bfb52b94be23",
-    "summary": "この記事では、Claude Codeの「永続的な指示書」であるCLAUDE.mdの設計における失敗例（アンチパターン）と対策が紹介されています。主なアンチパターンは、1,000行を超える記述によるAIの混乱、曖昧な指示による意図しない動作、そして権限レベル未定義による危険な操作です。\n\n対策として、CLAUDE.mdを200行以内に抑え、詳細は別のファイルに分離すること（例: 11個のエージェント定義ファイル）、指示を「関数は30行以内」「ネストは3段まで」のように具体化すること、そしてAIの権限をread-only / draftを含む3段階で定義することが重要だと指摘されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-05T06:52:37.043240"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "パイプカット手術を受ける男性が大学バスケの全米トーナメントに合わせて増加する理由とは？",
-    "link": "https://gigazine.net/news/20260404-vasectomies-spike-during-major-basketball-event/",
-    "summary": "パイプカットは、精子を運ぶ精管を切除する男性向けの避妊手術である精管結紮を指します。アメリカでは、毎年3月から4月にかけて開催される大学バスケットボールの全米トーナメントに合わせて、このパイプカット手術を受ける男性が急増する傾向が見られます。科学系メディアのScience Alertは、このユニークな現象の理由として、手術後の自宅での安静期間をスポーツ観戦に充てたいという男性の思惑があると解説しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-04T22:19:42.023684"
-  },
-  {
-    "source": "Zenn",
-    "title": "「コピペが面倒くさい」を10分で解決したら、AI駆動開発の入口が見えた話　AI業務効率化の第一歩は、小さなツールを自分で作ることだった",
-    "link": "https://zenn.dev/ryuseiueda/articles/10ai-ai-a-dsf-fa-f",
-    "summary": "「コピペが面倒くさい」という日常的な課題に対し、筆者はわずか10分で自作の小さなツールを開発し、その問題を解決しました。この経験を通じて、AI駆動開発への入口が開かれ、AIによる業務効率化の重要な第一歩を実感しました。記事は、AI活用はまず身近な不便を解消する小さなツール作りから始めるのが有効だと示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-04T22:19:49.083179"
   }
 ]
