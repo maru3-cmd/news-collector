@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIを守るセキュリティ――LLM Jackingから見るCyber for AIの実践",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news011.html",
+    "summary": "「AIを守る」ことは、もはや特殊な対策ではなく、ITガバナンスの中核課題として認識されています。本稿では、企業のLLMリソースを乗っ取る「LLM Jacking」という具体的な脅威に焦点を当てています。この脅威から組織を守るための具体的な防衛ラインと、NISTが示した最新のAIセキュリティ指針について解説されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-24T07:45:27.114269"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "IP65の防水・防塵性能を備えたDIYスマートウォッチ「T-Watch Ultra」",
+    "link": "https://gigazine.net/news/20260424-t-watch-ultra/",
+    "summary": "LILYGOが設計したDIYスマートウォッチ「T-Watch Ultra」は、ユーザーが自由にカスタマイズできるオープンソースデバイスです。このスマートウォッチの大きな特徴は、IP65の防水・防塵性能を備えている点です。これにより、ユーザーは高い自由度で自分だけのスマートウォッチを構築しながら、日常的な使用における耐久性も確保できます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-24T07:45:35.700169"
+  },
+  {
+    "source": "Zenn",
+    "title": "【GitHub日報】GPT-Image-2プロンプト集が初登場、AIエージェント系が席巻 — 2026-04-24",
+    "link": "https://zenn.dev/gitken/articles/20260424_github_trend_report",
+    "summary": "2026年4月24日のGitHub日報によると、AI開発の最新トレンドが紹介されました。特に、画像生成AI「GPT-Image-2」のプロンプト集が新たに登場し、注目を集めています。さらに、GitHub全体ではAIエージェント関連のプロジェクトが市場を席巻しており、その強い存在感が際立っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-24T07:45:43.439643"
+  },
+  {
+    "source": "Qiita",
+    "title": "Vibe Coding はもう古い。2026年4月の現場は Agentic Engineering へ",
+    "link": "https://qiita.com/heftykoo/items/297f3e363c119d08419c",
+    "summary": "この記事は、雰囲気でAIにコードを生成させる「Vibe Coding」が2026年4月には時代遅れになると提言しています。これは、AIへのプロンプト技術ではなく、AIエージェントが自律的に作業できる環境を設計する「Agentic Engineering」への移行を意味します。筆者は、この変化をアセンブリから高級言語、フレームワーク、CI/IaCへと人間が触れる抽象度が上がってきたプログラミングの歴史の自然な延長線上にあると見ています。重要なのは、AIに何を言うかではなく、AIが迷わず作業できる現場を作ることだと強調されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-24T07:45:54.457202"
+  },
+  {
+    "source": "ITmedia",
     "title": "Google、Gemini Enterpriseを大幅機能拡充　AIと業務フローをシームレスに融合",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news059.html",
     "summary": "Googleは、企業向けAI基盤「Gemini Enterprise」の大幅な機能拡充を発表しました。これには、自律的に長時間稼働するAIエージェント、協働空間、統制機能の強化が含まれます。これらの新機能は、AIと業務フローをシームレスに融合させ、業務の自動化と連携の高度化を実現することを目的としています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-04T22:19:49.083179"
-  },
-  {
-    "source": "Qiita",
-    "title": "ハーネス設計のブログを見てコードレビューを工夫したら、単独エージェントが見逃したバグを拾えた話",
-    "link": "https://qiita.com/naokami/items/b2cd50956ebfe4a05f4a",
-    "summary": "本記事は、Anthropicのハーネス設計に関するブログを参考に、AIエージェントを用いたコードレビューの改善策を論じています。単独エージェントでは見逃しがちな問題に対し、複数のエージェントに役割を分担させることで対処できると提言。\n\n特に、エージェントが自己評価に甘くなるという問題に注目し、生成（Generator）と評価（Evaluator）のエージェントを分離するアプローチを提案しています。Evaluatorを懐疑的に調整することで、単独エージェントでは発見できないバグを効果的に検出できると指摘。\n\nこの工夫により、従来の単独エージェントが見逃したバグを拾い上げることが可能になったと結んでいます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-04T22:19:58.100007"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google Chromeに重大な脆弱性　CISAが既知の悪用を確認し警告",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/04/news014.html",
-    "summary": "Google Chromeに21件の脆弱性が修正された最新版が公開されました。中でも1件の脆弱性はすでに悪用が確認されており、米当局CISAもユーザーに速やかな更新を警告しています。この問題はMicrosoft Edgeなど他のChromiumベースのブラウザにも影響する恐れがあるため、迅速なアップデートが強く推奨されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-04T06:44:13.368273"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由",
-    "link": "https://gigazine.net/news/20260404-ghostty-ui/",
-    "summary": "HashiCorp共同創設者のMitchell Hashimoto氏が開発した「Ghostty」は、無料・高速・多機能でクロスプラットフォーム対応の次世代ターミナルエミュレータです。ターミナルの速度と操作性を重視するエンジニアを中心に高い支持を集めています。この記事では、一般的な評価とHashimoto氏の見解を通じて、その魅力と人気の理由を掘り下げています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-04T06:44:20.957963"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeのフロントマター、トークンにどれだけ影響するのか実測してみた",
-    "link": "https://zenn.dev/cti1650/articles/claude-code-frontmatter-token-measurement",
-    "summary": "提供された情報では記事本文が不明ですが、タイトルから推測すると、この記事はAIモデルClaudeが生成したコードにおける「フロントマター」（コード冒頭のメタデータや説明）が、トークン数に与える影響を実測し、その結果を報告しています。具体的には、フロントマターの有無や種類がClaudeモデルへの入力として認識されるトークンコストにどの程度変化をもたらすのかを検証し、その影響度を明らかにしようとしていると見られます。ただし、記事の具体的な内容や実測結果、数字については情報がありません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-04T06:44:34.915116"
   }
 ]
