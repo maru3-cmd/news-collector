@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "フランス政府機関がサイバー攻撃を受けて1100万件超の個人情報を盗まれる事態が発生、犯人はダークウェブで情報を販売開始",
+    "link": "https://gigazine.net/news/20260425-france-government-cyber-attack/",
+    "summary": "フランスの運転免許証や身分証明証の発行を担う政府機関「Agence Nationale des Titres Sécurisés (ANTS)」がサイバー攻撃を受けました。この攻撃により、1170万件もの個人情報が盗み出されたことが明らかになっています。盗まれた情報はすでにダークウェブで販売されているとのことです。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-25T07:00:13.419808"
+  },
+  {
+    "source": "Zenn",
+    "title": "【AI感情実装】LLMに「直観」と「感情」を持たせる8×8実数行列アルゴリズム（幾何代数Matsの提案）",
+    "link": "https://zenn.dev/kiichi34578/articles/ddb7fc8df90ba9",
+    "summary": "この記事は、大規模言語モデル（LLM）に「直観」と「感情」を実装するための新たなアルゴリズムを提案しています。具体的には、「8×8実数行列アルゴリズム」を用いることで、これら人間的な要素をAIに付与することを目指しています。これは「幾何代数Mats」という概念に基づいた提案であり、AIの感情実装における進歩を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-25T07:00:20.815857"
+  },
+  {
+    "source": "Qiita",
+    "title": "資料テンプレートにengineer/executive分離を組み込む - 密度ルールとfrontmatter規約で品質を揃える",
+    "link": "https://qiita.com/imp555sti/items/7c8e49f403590c305518",
+    "summary": "この記事は、資料テンプレートが単に見た目を揃えるだけでなく、説明の粒度を統一し、品質の下限を保証することを目指しています。具体的には、背景・判断基準・決定事項などの必須項目を資料のページ構造に埋め込み、章ごとに書く順番と上限（密度ルール）を固定します。これにより、作成者が変わっても資料の品質を均一に保ち、「1ページ1メッセージ」の運用基準を確立します。また、エンジニア向けと経営層向けで情報の密度を変える「engineer/executive分離」も可能になります。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-04-25T07:00:30.833108"
+  },
+  {
     "source": "ITmedia",
     "title": "Oracle、481件の脆弱性修正を公開　Java含む複数製品をアップデート",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/25/news010.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-05T22:20:59.995623"
-  },
-  {
-    "source": "Qiita",
-    "title": "Gemma 4をOllamaで動かしたら、Qwen 3.5が思考ダダ漏れで自滅した：ローカルLLM日本語対決",
-    "link": "https://qiita.com/kenimo49/items/700ebefb8dd89cccf42c",
-    "summary": "Google DeepMindが2026年4月2日にリリースしたGemma 4（4Bクラス、マルチモーダル対応）がOllama環境で検証されました。\nこの検証では、同クラスのAlibaba製Qwen 3.5とのローカルLLM日本語対決（4本勝負）が実施されました。\nその結果、Qwen 3.5が内部思考をダダ漏れにしながら自滅するという予想外の展開を見せました。\n記事では、RTX 4070搭載ワークステーションで両モデルを動かし、推論速度、出力品質、トークン効率を定量的に比較しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-05T22:21:10.805448"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAI、チーム開発向けにCodexの「従量課金制」を導入　ChatGPT Businessの値下げも",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/05/news009.html",
-    "summary": "OpenAIは、コード生成AI「Codex」にチーム開発向けの従量課金制を導入しました。これにより、「ChatGPT Business」および「Enterprise」のユーザーは、固定費のかからない「Codex-only seats」を通じてCodexの全機能にアクセスできるようになります。この変更は、チームがCodexをより柔軟かつ効率的に利用できるようにすることを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-05T06:52:13.830521"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AnthropicがClaude Code利用者にOpenClawなどのサードパーティーツールを利用する場合は追加料金が必要になると通知",
-    "link": "https://gigazine.net/news/20260405-anthropic-claude-code-need-pay-extra-openclaw/",
-    "summary": "Anthropicは、有料会員向けのAIコーディングアシスタント「Claude Code」を提供しています。同社は、ユーザーがClaude CodeをOpenClawのようなサードパーティー製ツールと併用する場合、追加料金が発生することを通知したと報じられています。この変更は、外部ツール連携による利便性に対する新たなコスト負担をユーザーに求めるものとなります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-05T06:52:20.924005"
   }
 ]
