@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「日本のDXは期待外れ」が64％　世界平均を大きく上回るとGartnerが警告",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/27/news022.html",
+    "summary": "Gartnerは、日本企業のDX（デジタルトランスフォーメーション）に対するCEOの期待が未達である割合が「64%」に達し、世界平均を大きく上回ると警告しました。生産性向上やコスト削減が重視されるものの、デジタル施策全般で成果不足が顕著です。\n\n生成AIの活用においても成果は限定的であり、Gartnerは目標設定と全社戦略との連携が重要だと指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-26T22:27:57.275008"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "世界最強の経済大国アメリカで国民の幸福度が記録的に低下中、その原因とは？",
+    "link": "https://gigazine.net/news/20260427-america-rich-get-sad/",
+    "summary": "シカゴ大学の経済学者サム・ペルツマン氏の論文によると、世界最強の経済大国であるアメリカで、国民の幸福度が2020年以降、急激に低下していることが明らかになりました。これは、経済的な豊かさとは裏腹に、国民の幸福度が記録的に低くなっている現状を示しています。この現象を受け、雑誌「アトランティック」のライター、デレク・トンプソン氏がその原因について分析を進めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-04-26T22:28:20.398932"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code に自分の癖を治させる — Hook + 会話ログ mining で N=1 alignment",
+    "link": "https://zenn.dev/hrmtz/articles/8fb837b9cfac57",
+    "summary": "この記事は、AIツール「Claude Code」をユーザー個人の独自の「癖」に合わせてパーソナライズする手法について述べています。具体的には、「Hook」という技術と過去の「会話ログ mining」を通じて、AIがユーザー固有のスタイルや傾向を学習させます。これにより、一般的なアラインメントではなく、特定の個人（N=1）に特化した高度なアラインメントを実現し、より効率的で満足度の高いAI対話体験を提供することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-26T22:28:30.386540"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude CodeにAPIキーが丸見え？.claudeignoreで守る実践ガイド",
+    "link": "https://qiita.com/Tadashi_Kudo/items/5b10c4042a9a382b6554",
+    "summary": "Claude Codeは、`.gitignore`で保護された`.env`ファイルなどのローカルファイルも読み取ることが可能で、APIキーなどの機密情報がAIエージェントに漏洩するリスクがあります。\nこの記事は、このリスクに対処するための「3層防御」の実践ガイドを提案しています。\n具体的には、`settings.json`の`permissions.deny`による`.claudeignore`相当の除外設定、PreToolUse hookによる二重ブロック、そしてそもそも機密情報を`.env`に置かないという3つの対策を推奨しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-26T22:28:39.110463"
+  },
+  {
     "source": "GIGAZINE",
     "title": "Video.js v10ベータ版リリース、なぜこんなに時間がかかったのか？",
     "link": "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-07T07:02:02.317550"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AI時代に改めて問う「DX人材育成の勘所」　デルの取り組みから考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/06/news051.html",
-    "summary": "この記事は、AI時代における企業のDX人材育成の重要性を問い直しています。デジタル技術の習得はもちろんのこと、それを実務に活かせる人材の確保が鍵であると指摘。デルの新たな取り組みを事例に挙げながら、これからの時代に求められるDX人材育成の「勘所」を探ることを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-06T22:26:08.974245"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "iPhone 17 Proでパラメーター数80億のAIモデル「1-bit Bonsai 8B」をローカル実行してみたよレビュー、無料アプリのLocally AIで簡単に実行できる",
-    "link": "https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/",
-    "summary": "AI開発企業PrismMLが2026年3月31日に公開した「1-bit Bonsai 8B」は、80億パラメーター規模ながらメモリ使用量をわずか1.15GBに抑えた省メモリAIモデルです。このモデルの大きな特徴は、iPhone 17 Proでローカル実行できること。レビューでは、無料アプリ「Locally AI」を使うことで、iPhone 17 Pro上でこの高機能AIモデルを簡単に実行できることが示されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-06T22:26:16.728751"
-  },
-  {
-    "source": "Zenn",
-    "title": "​【4/8】Google Cloud × Gemini 3 の最前線へ。Japan IT Week 春 2026",
-    "link": "https://zenn.dev/hokanco28/articles/9e2db83abf9482",
-    "summary": "2026年4月8日に開催されるJapan IT Week 春 2026において、Google Cloudと次世代AIモデルGemini 3の最先端技術が紹介されます。\nこのイベントでは、両プラットフォームの「最前線」を探求し、最新の技術動向や革新的な応用事例に焦点が当てられる予定です。\n参加者は、Google CloudとGemini 3が提供するソリューションや将来の展望について深く学ぶ機会を得るでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-06T22:26:27.488226"
-  },
-  {
-    "source": "Qiita",
-    "title": "SaaSは死んだ：なぜあなたのAIエージェントは本番環境で失敗するのか（ハーネスエンジニアリング）",
-    "link": "https://qiita.com/mguozhen/items/a2b6e51466699fc8e7f8",
-    "summary": "「SaaSは死んだ：なぜあなたのAIエージェントは本番環境で失敗するのか」と題された記事は、AIエージェントが本番環境で失敗する主な理由は、AIに「話し方」を教えるプロンプトエンジニアリングだけでは不十分であり、AIがデータベースを破壊せずに安全にタスクを完遂するための「ハーネスエンジニアリング」が不可欠であると指摘します。\n\nハーネスエンジニアリングは、産業レベルのシステムを構築することで、主に以下の3つの要素で構成されます。これらには、1. タスク状態を構造化された状態（保留、実行中、完了）に永続化しチェックポイントを保存すること、2. 複雑なワークフローを厳格なサンドボックス内で動作する分離されたサブエージェントに分解すること、そして3. API呼び出しが3回失敗した場合に実行を停止する確定的なフォールバックが含まれます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-06T22:26:37.486153"
   }
 ]
