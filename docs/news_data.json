@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "Video.js v10ベータ版リリース、なぜこんなに時間がかかったのか？",
+    "link": "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
+    "summary": "Video.jsは、HTML5ベースのウェブビデオプレイヤーを構築するための人気のあるオープンソースフレームワークです。2026年3月、Video.js v10のベータ版がリリースされました。v10ベータ版のリリースまでに長い期間を要しましたが、その理由については公式サイトのブログで詳しく説明されています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-04-26T07:14:01.013491"
+  },
+  {
+    "source": "Zenn",
+    "title": "Agentic AIはどう攻撃されるのか：EchoLeakをAAEF v0.2.0で解剖する",
+    "link": "https://zenn.dev/mkz0010/articles/91d7120d5c30b9",
+    "summary": "提供されたタイトルから判断すると、この記事は自律型AI（Agentic AI）が受ける可能性のある攻撃に焦点を当てています。具体的には、「EchoLeak」と呼ばれる特定の攻撃を、「AAEF v0.2.0」という分析フレームワークを用いて詳細に「解剖」し、そのメカニズムを明らかにしようとしています。この分析の目的は、自律型AIシステムの脆弱性やセキュリティリスクへの理解を深め、防御策を考察することにあると考えられます。ただし、記事本文が提供されていないため、具体的な攻撃内容や数値、詳細な解析結果については不明です。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-04-26T07:14:16.340613"
+  },
+  {
+    "source": "Qiita",
+    "title": "G検定対策ノート：混同行列のTP・FP・FN・TNを「誤検知」と「見逃し」で理解する",
+    "link": "https://qiita.com/shioume/items/2abd18ff3cfc7c4ada45",
+    "summary": "このG検定対策ノートは、混同行列のTP、FP、FN、TNを解説しています。「Positive」は「注目したいもの」（異常、病気、スパムなど）を指し、その分析結果は真陽性(TP)、偽陽性(FP)、偽陰性(FN)、真陰性(TN)の4つに分類されます。特に重要なのは2種類の誤りです。\n「FP（偽陽性）」は「誤検知」や「第一種の過誤」と呼ばれ、実際は陽性でないものを陽性と誤判定することです。\n一方、「FN（偽陰性）」は「見逃し」や「第二種の過誤」と呼ばれ、陽性であるべきものを見逃して陰性と誤判定することを意味します。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-04-26T07:14:27.401176"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "無料で自分好みのダッシュボードを作成できユーザーごとにログインもできる「Dashy」、セルフホスト可能でDockerで動作OK",
     "link": "https://gigazine.net/news/20260425-dashy/",
     "summary": "「Dashy」は、ブックマークでは物足りず監視ツールでは堅すぎると感じる自宅サーバー管理者向けのオープンソースダッシュボードです。多数のサービスリンクを1画面に整理し、オンライン状態の確認、RSS・天気予報などのウィジェットを自由に設置して、自分好みのモダンなダッシュボードを作成できます。無料でセルフホスト可能でDockerで動作し、ユーザーごとにログインを設定できる点が特徴です。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-06T22:26:37.486153"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google、「Gemma 4」を発表――高度な推論とエージェント機能を備える4種のモデル",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/06/news032.html",
-    "summary": "Googleは、高度な推論とエージェント機能を備えた生成AIモデル「Gemma 4」を発表しました。このモデルは4つの異なるサイズで提供され、推論、コード生成、画像理解といった幅広い機能に対応しています。小型モデルは端末での動作を想定し、大型モデルは高性能を発揮する設計となっています。少ない計算資源で高い性能を実現することを目指し開発されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-06T07:14:56.440817"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Facebook創業者マーク・ザッカーバーグCEOが20年にわたるプログラミングのブランクを経て再びコードを書き始めた、使っているのはAIコーディング支援ツール",
-    "link": "https://gigazine.net/news/20260406-mark-zuckerberg-return-coding/",
-    "summary": "Facebook創業者であるマーク・ザッカーバーグCEOが、20年間のブランクを経てプログラミングを再開したと報じられました。彼はAIコーディング支援ツールを活用して再びコードを書き始めています。このニュースは「The Pragmatic Engineer」が伝え、業界の著名人からさまざまなコメントが寄せられるなど、大きな注目を集めています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-06T07:15:03.283164"
-  },
-  {
-    "source": "Zenn",
-    "title": "MCP サーバーのツールを7個から3個に統合した設計判断と手順",
-    "link": "https://zenn.dev/wireharbor/articles/mcp-tool-consolidation",
-    "summary": "この記事は、MCPサーバーの管理ツールの効率化に関するものです。従来7個存在していたツールが、設計判断と具体的な手順を経て3個に統合されました。この統合は、ツールの管理負担軽減と運用効率の向上を目的としており、記事ではその判断基準と実施方法が詳細に解説されています。",
-    "category": "クラウド・インフラ",
-    "content_type": "article",
-    "collected_at": "2026-04-06T07:15:11.680736"
   }
 ]
