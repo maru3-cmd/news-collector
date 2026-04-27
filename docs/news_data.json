@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "指示するのは「業務」ではなく「目標」　オラクル開発責任者にAIエージェント戦略を聞いた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/28/news021.html",
+    "summary": "米オラクルは、自律的にビジネス成果を達成することを目指すAIエージェント「Fusion Agentic Applications」を発表しました。開発責任者のロンディ・エン氏によると、このシステムは単なる「業務」ではなく「目標」を指示するという設計思想に基づいています。1000超のエージェントを連携させることで、記録管理を超え、企業に具体的なビジネス価値をもたらすことを狙っています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-27T22:40:41.709828"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "初期のSNS「Friendster」のドメインを購入した人物が現実世界での交流を重視する新生Friendsterを構築",
+    "link": "https://gigazine.net/news/20260428-i-bought-friendster-30k/",
+    "summary": "Friendsterは2002年に設立され、特に東南アジアで人気を博した初期のSNSですが、2011年にソーシャルゲームサイトへ転換し、2015年にはサービスを終了しました。しかし、ある人物がFriendsterのドメインと商標を取得し、新たなアプリを開発することでこのプラットフォームの復活を目指しています。新生Friendsterは、現実世界でのユーザー間の交流を重視するコンセプトを掲げています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-04-27T22:40:49.740307"
+  },
+  {
+    "source": "Zenn",
+    "title": "CLAUDE.md・Rules・Skills・SubAgents・AgentTeams——5つの引き出し、どれをいつ開けるか",
+    "link": "https://zenn.dev/helloworld/articles/93fbbdbeade932",
+    "summary": "この記事は、CLAUDEの活用において鍵となる「5つの引き出し」について提示しています。これらは具体的に、CLAUDE.md、Rules、Skills、SubAgents、AgentTeamsという要素です。記事のタイトルは、これら5つの機能や概念を「いつ開けるか」、すなわち状況に応じて適切に使い分けることの重要性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-27T22:40:58.295982"
+  },
+  {
+    "source": "Qiita",
+    "title": "67kスター「claude-mem」は本当に必要か？Claude Code自前メモリ管理の3層構造で代替する",
+    "link": "https://qiita.com/Tadashi_Kudo/items/e717659f10192f32e7b1",
+    "summary": "Claude Codeでセッションを跨いだ記憶管理は課題ですが、筆者は67kスターの人気ツール「claude-mem」をあえて導入していません。代わりに、Claude Code純正の`CLAUDE.md`とMarkdownファイル群、フックを活用した独自の3層構造でメモリ管理を代替できると主張します。\n\nこの構造では、メモリを「Layer 1: グローバルルール」（AIのペルソナや長期記憶）、「Layer 2: プロジェクトルール」（プロジェクト固有情報）、「Layer 3: 作業記憶」（現在のタスク情報）に分けて管理します。これにより、外部依存を増やさずに、セッションを越えて賢く動作するClaude Code環境を構築することが可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-27T22:41:08.132506"
+  },
+  {
+    "source": "ITmedia",
     "title": "「AI社員」も登場　ServiceNow新戦略から探る、「自動化された企業」から逆算するAI活用",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/27/news076.html",
     "summary": "ServiceNowは、「AI社員」という新たな概念を導入し、企業のAI活用戦略を推進しています。これは、AIの進化によって企業活動を根本から自動化する「自動化された企業」の実現を目指すものです。同社の新戦略は、AIが普及する中で人間が果たすべき役割の変化についても探ることを意図しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-08T07:04:27.588847"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Windows 11、「再起動なし」の更新が標準に　月次アップデートまとめ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/08/news026.html",
-    "summary": "MicrosoftはWindowsの品質向上に向けた取り組みとして、Windows 11の月次アップデートで「再起動なし」の更新を標準化すると発表しました。2026年4月には新たな機能更新が予定されており、Autopatchの一般提供も開始されます。これにより、セキュリティの強化やユーザーエクスペリエンスの細かな改善が図られ、旧OSからの移行が促されます。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-07T22:29:08.046658"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "人類の数はすでに地球の持続可能な収容限界を超えてしまったとの研究結果",
-    "link": "https://gigazine.net/news/20260408-earths-population-surpassed-sustainable-capacity/",
-    "summary": "日本では少子高齢化が問題視される一方、世界人口は増加を続け、2025年には82億3200万人に達したと報告されています。この現状に対し、2026年3月に学術誌Environmental Research Lettersで発表された論文は、すでに人類の数が地球が持続的に支えられる収容限界を超えていると指摘しました。これにより、地球全体の持続可能性が深刻な課題に直面していることが浮き彫りになっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-07T22:29:18.920430"
-  },
-  {
-    "source": "Zenn",
-    "title": "1人開発×AI全振り — 2ヶ月で68ページの業務システムを作って、AIに経営分析までさせた話",
-    "link": "https://zenn.dev/lehti/articles/607424957ff38f",
-    "summary": "1人の開発者がAIを「全振り」で活用し、わずか2ヶ月で68ページにも及ぶ業務システムを構築した事例が紹介されています。\nこのプロジェクトでは、AIがシステム開発のコーディングやテストコード生成だけでなく、データ分析から経営状況の可視化、予測といった経営分析まで多岐にわたる業務を遂行しました。\n開発者はAIを単なるツールではなく、まるでビジネスパートナーのように活用することで、短期間で広範な機能を実装することに成功。\nこの事例は、AIが個人の生産性を劇的に高め、従来の開発者が手を出せなかった領域にまで業務範囲を拡大できる可能性を示唆しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-07T22:29:27.110091"
-  },
-  {
-    "source": "Qiita",
-    "title": "国産LLM「LLM-jp-4」をRTX 4070で動かしたら、意外な壁にぶつかった：Gemma 4との日本語対決",
-    "link": "https://qiita.com/kenimo49/items/f7de2c47177986273494",
-    "summary": "2026年4月3日に公開された国産LLM「LLM-jp-4」は、日本語MT-Benchで7.82とGPT-4o（7.29）を上回る性能を示し、大きな注目を集めました。筆者がGeForce RTX 4070（VRAM 12GB）環境でこのモデルを試したところ、日本語の品質は非常に高いと評価されました。しかし、実際にローカル環境で「動かす」段階で予期せぬ技術的な壁に直面したといいます。この記事は、ベンチマークの数値だけでは見えない、ローカルLLM運用のリアルな体験を検証した記録です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-07T22:29:36.277130"
   }
 ]
