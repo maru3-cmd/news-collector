@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「私がClaudeを解約した理由」をエンジニアが力説、トークン問題・品質低下・サポート不備など",
+    "link": "https://gigazine.net/news/20260430-why-cancelled-claude/",
+    "summary": "ドイツ人エンジニアのニッキー・ライナート氏が、自身のブログでAnthropicの生成AIアシスタント「Claude」の有料プランを解約した理由を公表しました。同氏は、その主な問題点として、トークン処理の課題、AIの品質低下、およびサポート体制の不備を挙げています。この記事は、これらの経験を通してサービス解約に至ったエンジニアの主張を詳しく伝えるものです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-29T22:46:01.130544"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI時代のライター業務で大事なのは、書く速さより“止める設計”だった",
+    "link": "https://zenn.dev/zennai_ryutaro/articles/20260430-safe-draft-pr",
+    "summary": "AI時代において、ライターに求められるスキルが従来の「書く速さ」から変化していると論じる記事です。具体的には、AIが生成したテキストを適切に「止める設計」が重要であると指摘しています。これは、AIによる効率化と人間の判断力・修正戦略を組み合わせることで、より高品質なコンテンツを生み出すための新たなアプローチを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-29T22:46:09.845214"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude / Codex / Cursor を「中立層」で束ねる：AI-AGENT.md 設計と adapter pattern",
+    "link": "https://qiita.com/Tadashi_Kudo/items/ce29e76f94d3a0b64dac",
+    "summary": "複数のAIコーディングエージェント（Claude、Codex、Cursorなど）を併用する際、共通のルール（例: 「言語は日本語で」「.envは出力しない」）を各エージェントの設定ファイル（`CLAUDE.md`、`AGENTS.md`、`.cursor/rules/`）に重複して記述する必要があり、内容の乖離やN重化という問題が発生します。\n\nこれは、ランタイム非依存のルールがエージェントごとに管理されることによる煩雑さです。\n\nこの記事では、この重複と管理の課題を解決するため、「中立層（neutral layer）+ adapter pattern」という設計アプローチを提案しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-29T22:46:17.524337"
+  },
+  {
     "source": "ITmedia",
     "title": "複製ファイルが無限発生する「アナログな事務処理」　ある農業団体がkintoneで解決した話",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/29/news013.html",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-04-09T22:32:10.414970"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "新しくプロジェクトに入った人がリポジトリの現状を素早く把握するためのGitコマンド5選",
-    "link": "https://gigazine.net/news/20260410-git-command-before-reading-code/",
-    "summary": "ITエンジニアのアリー・ピエホフスキー氏が、新しいプロジェクトに参画した人がリポジトリの現状を素早く把握するためのGitコマンドを紹介しています。\n彼は、全く知らないプロジェクトの状況を効率的に理解するのに役立つ**5つ**のGitコマンドを提案。\nこれらのコマンドを使うことで、コードを深く読み込む前に、全体の構成や流れを効率的に把握できるとされています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-09T22:32:30.653062"
-  },
-  {
-    "source": "Zenn",
-    "title": "あれなんていうんだっけ。なんとか.md（仕込みファイル）",
-    "link": "https://zenn.dev/mergelog/articles/d1109b9ab62d60",
-    "summary": "この記事は、「あれなんていうんだっけ。」という問いかけを通して、特定のファイル名や概念を思い出そうとしている状況を描写しています。具体的には、「なんとか.md」という形式のものを探していることが示唆されています。また、このテキスト自体が「仕込みファイル」であると明記されており、何らかの準備やテストに関連するものであると推測されます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-04-09T22:32:38.635875"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIに、聞いてみた。",
-    "link": "https://qiita.com/ohisama@github/items/d36eaa2e4b0606f7f9e2",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 17.00500288s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 17\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-09T22:32:43.038088"
   }
 ]
