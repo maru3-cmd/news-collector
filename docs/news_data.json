@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "情シスがいきいきと働くためにやるべきこととは？　リアルな「お悩み」に回答",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news002.html",
+    "summary": "情報システム部門（情シス）はDX推進や事業変革において役割が拡大しているものの、運用過多や組織の壁といったリアルな課題に直面しています。講演では、情シス担当者が「いきいきと」働き、その価値を最大化するための方法が議論されました。具体的には、経営や事業部門と同じ目線でビジネスに貢献するためのマインドセットとアプローチが示されています。",
+    "category": "DX・業務改善",
+    "content_type": "news",
+    "collected_at": "2026-04-30T22:41:41.844949"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Linuxで一般ユーザーがroot権限を取得できる脆弱性「Copy Fail」が発見される、2017年以降の多数のディストリビューションに影響",
+    "link": "https://gigazine.net/news/20260501-copy-fail/",
+    "summary": "AIコード解析サービスを提供するXintが、Linuxカーネルの暗号化関連機能に「Copy Fail」というローカル権限昇格の脆弱性を発見したと発表しました。この脆弱性は、一般ユーザーがroot権限を取得できてしまう深刻な問題です。特に、2017年以降にリリースされた多数のLinuxディストリビューションに影響を及ぼす可能性があります。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-04-30T22:41:48.547798"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIテックニュース【AIx通信】- 2026年05月01日",
+    "link": "https://zenn.dev/acropapa330/articles/tech_news_20260501_telecom",
+    "summary": "提供された情報からは、記事の具体的な内容を要約することができません。記事のタイトルは「AIテックニュース【AIx通信】- 2026年05月01日」とありますが、記事本文が提示されていないため、重要なポイントや数字を抽出することは不可能です。\n\nもし記事の具体的な内容をご提示いただければ、改めて3〜4文で簡潔に要約いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-30T22:41:56.854346"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIにとっての「記録階層」設計：feedback / ADR / working-memory / project_*.md の使い分け",
+    "link": "https://qiita.com/Tadashi_Kudo/items/74737ca70a10cb4e57fa",
+    "summary": "AIコーディングエージェントの長期運用では、「同じミスを繰り返す」「過去の判断を忘れる」といった問題が生じますが、これはAIへの記録設計が不適切であることに起因すると指摘されています。筆者はこの課題に対し、AIが効率的に学習・作業できるよう「記録階層」を設計し、4種類の記録ファイルを使い分ける方法を提案しています。具体的には、`feedback_*.md`で恒久ルール、ADR（`decisions/YYYY-MM-DD_*.md`）で重要な設計判断の根拠、`working-memory.md`でセッションを跨ぐ一時メモを管理します。これにより、AIのコンテキスト維持とミスの再発防止を図り、開発の効率化を促進します。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-04-30T22:42:12.800726"
+  },
+  {
+    "source": "ITmedia",
     "title": "ヒューマノイドロボット出荷台数が前年比648％増　中国が約8割",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/30/news089.html",
     "summary": "矢野経済研究所の予測によると、世界ヒューマノイドロボット市場は2025年から2035年にかけて年平均成長率（CAGR）83.5％で大きく成長する見込みです。その結果、2035年には出荷台数が約718万台に達すると予測されています。この市場拡大の背景には、AIおよびロボティクス技術の進展と、各国政府による政策支援が挙げられます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-11T06:45:45.831265"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でローカルAI環境を簡単に導入できる「Lemonade」、Windows・Linux・macOSにも対応したオープンソースで特にAMDのGPU・NPUで効果的",
-    "link": "https://gigazine.net/news/20260411-lemonade/",
-    "summary": "オープンソースツール「Lemonade」は、大規模言語モデル(LLM)をローカル環境で簡単に導入・動作させることを可能にします。これにより、AI利用の料金がかからず、プライバシーも保護されるというメリットがあります。Windows、Linux、macOSに対応しており、特にAMD製のGPUやNPUで高い効果を発揮するとされています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-10T22:27:36.847646"
-  },
-  {
-    "source": "Zenn",
-    "title": "なぜAIコードのレビューは崩壊するのか ― 「事後検査」から「事前統治」への転換",
-    "link": "https://zenn.dev/yun_bow/articles/2c06479d3ff590",
-    "summary": "この記事は、現在のAIコードレビューが「事後検査」的なアアプローチに起因し、機能不全に陥っている現状を指摘しています。コード完成後に欠陥を発見する現行手法では不十分であり、レビューは崩壊していると問題提起しています。効果的なAIコードレビューを実現するには、開発プロセスの初期段階から品質と統治を組み込む「事前統治」へと根本的な転換が必要であると提言しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-10T22:27:44.712745"
-  },
-  {
-    "source": "Qiita",
-    "title": "「モダンなUI作って」→ 紫グラデ・Inter・角丸カード",
-    "link": "https://qiita.com/kenimo49/items/8aaa2bf0d25c704637ae",
-    "summary": "AIに「モダンなUI」を生成させると、紫〜青のグラデーション背景にInterフォント、角丸カードなど、特定のデザインパターンが頻繁に現れることが指摘されています。実際に社内ハッカソンでは、5チーム中3チームがAI生成で酷似したUIを提出する事例が発生しました。\n\nこれは、AIが生成するUIがわずか「3つ」のパターンに収束しているためです。最も一般的な「紫グラデーション症候群」は、紫〜青の斜めグラデーション背景、左寄せテキストと右側の画像、角丸のグラデーションボタンなどを特徴としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-10T22:27:58.603412"
-  },
-  {
-    "source": "ITmedia",
-    "title": "INPEX、大日本印刷らの共通点は？　変革が定着する企業のIT部門は「ここが違う」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/10/news058.html",
-    "summary": "IDCはINPEX、大日本印刷など先進企業3社の取り組みを分析し、DXやAI活用が現場に定着する企業とそうでない企業の違いを明らかにしました。これらの企業では、デジタル施策を組織に根付かせる企業風土や具体的なデジタル施策に加え、特にCIOやIT部門のあり方に変革を定着させる共通点があることが示されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-10T07:13:08.739101"
   }
 ]
