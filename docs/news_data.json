@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ヒューマノイドロボット出荷台数が前年比648％増　中国が約8割",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/30/news089.html",
+    "summary": "矢野経済研究所の予測によると、世界ヒューマノイドロボット市場は2025年から2035年にかけて年平均成長率（CAGR）83.5％で大きく成長する見込みです。その結果、2035年には出荷台数が約718万台に達すると予測されています。この市場拡大の背景には、AIおよびロボティクス技術の進展と、各国政府による政策支援が挙げられます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-30T07:58:12.075588"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Claude Sonnet 4.5超えのフランス製AIモデル「Mistral Medium 3.5」がオープンモデルとして公開される＆Mistral Vibeがクラウド対応",
+    "link": "https://gigazine.net/news/20260430-mistral-medium-3-5/",
+    "summary": "フランスのAI企業Mistral AIが、パラメーター数1280億でClaude Sonnet 4.5を超える性能を持つとされるAIモデル「Mistral Medium 3.5」をオープンモデルとして公開しました。同時に、コーディングエージェント「Mistral Vibe」がクラウドでの動作に対応。これにより、複数のエージェントを同時実行したり、チャットAIの「Le Chat」からタスクを開始したりできるよう機能が強化されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-04-30T07:58:21.042792"
+  },
+  {
+    "source": "Zenn",
+    "title": "OpenAI Codex CLI 入門：ターミナルで完結する次世代AIコーディングエージェント",
+    "link": "https://zenn.dev/ainohogosya/articles/386a02f7d7a32a",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 33.134330019s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 33\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-30T07:58:26.910094"
+  },
+  {
+    "source": "Qiita",
+    "title": "SVGならAIでも高精度に画像を編集・自動生成できる",
+    "link": "https://qiita.com/degudegu2510/items/554e4a4a058f8473f7d9",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.377997643s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-04-30T07:58:31.668077"
+  },
+  {
     "source": "GIGAZINE",
     "title": "「私がClaudeを解約した理由」をエンジニアが力説、トークン問題・品質低下・サポート不備など",
     "link": "https://gigazine.net/news/20260430-why-cancelled-claude/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-10T07:13:08.739101"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "海底ケーブルは破壊工作の脅威にさらされており、ケーブルを保護するため新技術や新たなルートの開拓が必要な事態に突入",
-    "link": "https://gigazine.net/news/20260410-protect-submarine-cable/",
-    "summary": "世界中の通信を支える海底ケーブルは現代社会の生命線ですが、意図的な破壊工作の脅威に直面しています。長距離にわたるケーブルの一部が切断されるだけで機能が停止するため、その防止は困難を極めます。ウォールストリートジャーナルは、この脅威に対し、新技術の導入や新たなルートの開拓といった対策が喫緊の課題となっていると報じています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-10T07:13:17.524808"
-  },
-  {
-    "source": "Zenn",
-    "title": "音声がキーボードを置き換える日は来るのか — VoiceOS Hackathonから考える開発体験の未来",
-    "link": "https://zenn.dev/lily_tech/articles/3d1291c1cc723c",
-    "summary": "本記事は、「音声がキーボードを置き換える日は来るのか」という問いを提起し、その可能性について考察しています。\n\n特に、VoiceOS Hackathonでの経験を通じて、開発体験の未来に焦点を当てています。音声入力が開発者の作業フローや体験をどのように進化させるかを探っているようです。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-10T07:13:28.035429"
-  },
-  {
-    "source": "Qiita",
-    "title": "【学習記録 #3】専門特化型AIチャットボットを作りたい",
-    "link": "https://qiita.com/sky_stone/items/f4075b603276b6e6eb7a",
-    "summary": "本記事は、【学習記録 #3】として専門特化型AIチャットボットをDifyとReactのハイブリッド構成で構築する、構想・設計フェーズの最終段階を記録しています。\n\n記事の核となるRAG内蔵のAIアプリ開発プラットフォーム「Dify」を解説すると共に、2026年3月リリース予定のマルチモーダル埋め込みモデル「Gemini Embedding 2」の可能性も検討しています。\n\nこれらの検討を経て、最終的なアーキテクチャと構築ロードマップが示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-10T07:13:43.879458"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Windowsに未修正ゼロデイ脆弱性「BlueHammer」　正規機能の組み合わせでSYSTEM権限を奪取",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/10/news043.html",
-    "summary": "Windowsの未修正ゼロデイ脆弱性「BlueHammer」の概念実証コード（PoC）が公開されました。この脆弱性は、Microsoft Defenderの更新処理の仕組みを悪用することで、一般ユーザー権限から最高位のSYSTEM権限を奪取する恐れがあります。現在パッチが未提供であるため、既存のセキュリティ対策による検知を回避する可能性があり、十分な注意が必要です。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-09T22:32:10.414970"
   }
 ]
