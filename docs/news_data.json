@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "境界防御の延長とAIシフトが共存　Oktaが業務アプリ利用動向調査結果を公開",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/02/news017.html",
+    "summary": "Okta Japanの「Businesses at Work 2026」調査によると、AIエージェントの普及に伴い、業務アプリへのアクセス要求が2年間で11倍に激増しています。この現状に対し、非人間アイデンティティー（NHI）の統制やフィッシング耐性のあるMFA認証への移行が急加速していることが明らかになりました。これは、AI時代における境界防御の延長とセキュリティシフトが共存する動向を示しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-05-01T22:40:30.280899"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "PS5をLinuxゲーミングPCに魔改造してSteamゲームなどをプレイ可能にする「ps5-linux」が公開される",
+    "link": "https://gigazine.net/news/20260501-ps5-linux/",
+    "summary": "開発者のアンディ・グエン氏が、PlayStation 5上でLinux環境を動作させるプロジェクト「ps5-linux」をGitHubで公開しました。これにより、PS5本体に完全なデスクトップLinux環境を構築することが可能になります。結果として、PS5のプラットフォームでは利用できないPCゲームやSteamゲームなどにアクセスできるようになり、PS5をLinuxゲーミングPCとして活用できます。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-05-01T22:40:37.184229"
+  },
+  {
+    "source": "Zenn",
+    "title": "🧠 AIコードの中身、ちゃんと理解してますか？自分がやってる方法",
+    "link": "https://zenn.dev/reodesuxz/articles/dce0bbaaca9a62",
+    "summary": "申し訳ありませんが、記事の本文が提供されていないため、内容を要約することができません。\n\n提示されたのはタイトル「🧠 AIコードの中身、ちゃんと理解してますか？自分がやってる方法」のみです。もし記事の本文がありましたら、再度ご提供いただけますでしょうか。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-01T22:40:43.160557"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Agent の自己診断を信用するな：「証跡必須化」ポリシーで誤報を撲滅した話",
+    "link": "https://qiita.com/Tadashi_Kudo/items/1da2d3c108fcc3be10f6",
+    "summary": "この記事は、AI Agentの自己診断が誤った情報を提供する問題を指摘しています。具体的には、AgentがAPIキーの期限切れやRAG障害を報告しながらも、実際にはシステムは正常に動作しており、Agentがコマンドを実行せずに誤診断を下す「サイレントフォールバック」のような現象が報告されました。\n\n筆者の環境でも、Agentが「RAGが落ちている」と誤報を発した事案が発生しています。この問題を解決するため、筆者は「Agent自己診断には実機ログ証跡を必須」とするポリシーを導入しました。\n\nこの「証跡必須化」ルールは、SKILL.mdやEval、Scheduled Taskの完了報告に組み込まれ、Agentによる誤報の撲滅に効果を上げています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-01T22:40:51.310324"
+  },
+  {
+    "source": "ITmedia",
     "title": "「時短ツール」としてAIを使い続ける企業の“落とし穴”　ガートナーが警鐘",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/01/news050.html",
     "summary": "ガートナーは、企業がAIを「時短ツール」としての生産性向上のみで評価し続けることに警鐘を鳴らしています。このような企業と、生産性以外の指標も考慮する企業との間に、今後大きな格差が生まれる可能性があると指摘しています。そのため、企業はAI活用の真の成果を測るため、生産性だけでなく、新たな評価指標を検討する必要があるとしています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-12T07:01:41.016870"
-  },
-  {
-    "source": "Qiita",
-    "title": "Pythonで〇×ゲームのAIを一から作成する　その223　一つのビット列で表現されたゲーム盤の合法手の一覧の計算と反転・転置処理",
-    "link": "https://qiita.com/ysgeso/items/3e7158c17a77ff0d2f36",
-    "summary": "この記事は、Pythonで〇×ゲームのAIを一から作成するシリーズの第223弾です。今回は、一つのビット列で表現されたゲーム盤における合法手の一覧計算と、盤面の反転・転置処理の実装がテーマとなっています。プログラムはPython 3.13とnumpy 2.3.5で実行されており、`marubatsu.py`や`ai.py`といったモジュールが既に開発されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-12T07:01:49.937241"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "音質をはじめ全体的にグレードアップされている「Samsung Galaxy Buds4 Pro／Buds4」を使ってみた",
-    "link": "https://gigazine.net/news/20260411-samsung-galaxy-buds4-pro/",
-    "summary": "Samsungの新型ワイヤレスイヤホン「Galaxy Buds4 Pro」と「Buds4」は、音質をはじめ全体的にグレードアップが図られています。前世代モデルが抱えていた問題点を着実に改善した点が特徴とされており、その性能が注目されています。本記事では、実際にこれらのイヤホンを試用し、その詳細な使用感や改善点について報告しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-11T22:21:54.979128"
-  },
-  {
-    "source": "Zenn",
-    "title": "夜寝てる間にclaude codeのエージェントに作らせた事業企画書#3 MitoNa（ミトナ）",
-    "link": "https://zenn.dev/takeshi1/articles/84562ec8eb83b6",
-    "summary": "本記事は、ユーザーが夜間に就寝している間に、AIエージェントである「claude code」に事業企画書を作成させた事例について報告しています。具体的には、「#3 MitoNa（ミトナ）」と名付けられた3番目の事業企画書が、人間が介在しない形でAIによって生成されました。これは、AIを活用した自律的な事業アイデア創出の可能性を示す実践例です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-11T22:22:02.978617"
-  },
-  {
-    "source": "Qiita",
-    "title": "【学習ノート】ハーネスエンジニアリングの3大構成要素を整理してみた【第2章】",
-    "link": "https://qiita.com/juyun2490/items/e4dfbabce909f6e2ffde",
-    "summary": "この記事は、AIモデル以外のシステム全体を指す「ハーネス」を構築するための「ハーネスエンジニアリング」について解説しています。本記事では、ハーネスを組み立てるための「3つの柱」に焦点を当て、Thoughtworksのエンジニアが整理したフレームワークを基に説明しています。その主要な構成要素として、エージェントが「何を知るべきか」を設計するコンテキストエンジニアリングと、「何をしてよいか」の境界を設けるアーキテクチャ制約が挙げられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-11T22:22:11.723362"
   }
 ]
