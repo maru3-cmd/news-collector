@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「時短ツール」としてAIを使い続ける企業の“落とし穴”　ガートナーが警鐘",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/01/news050.html",
+    "summary": "ガートナーは、企業がAIを「時短ツール」としての生産性向上のみで評価し続けることに警鐘を鳴らしています。このような企業と、生産性以外の指標も考慮する企業との間に、今後大きな格差が生まれる可能性があると指摘しています。そのため、企業はAI活用の真の成果を測るため、生産性だけでなく、新たな評価指標を検討する必要があるとしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-01T07:56:58.821474"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "中国の闇市場でNVIDIA製GPUが枯渇しサーバー1台当たり1億6000万円に達する",
+    "link": "https://gigazine.net/news/20260501-china-nvidia/",
+    "summary": "中国ではNVIDIA製高性能GPUの輸入が禁止されているにもかかわらず、AI開発の需要が高いため、裏市場で同製品が取引されています。しかし現在、この闇市場でNVIDIA製GPUが枯渇し、価格が大幅に高騰しています。その結果、高性能なサーバー1台あたりの価格が驚くべきことに1億6000万円に達するケースも報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-01T07:57:06.360031"
+  },
+  {
+    "source": "Zenn",
+    "title": "Plan Mode 中心の Claude Code 開発手法 — 計画→実装→検証の4フェーズで AI を味方につける",
+    "link": "https://zenn.dev/ino_h/articles/2026-05-01-claude-code-plan-mode-workflow",
+    "summary": "この記事は、AIアシスタントのClaudeを用いたコード開発手法について解説しています。特に「Plan Mode」を中心に据え、開発プロセスを「計画→実装→検証」の4フェーズに分けて進めるのが特徴です。この手法を通じて、AIを開発の味方につけ、効率的かつ効果的なコード開発を実現することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-01T07:57:18.082080"
+  },
+  {
+    "source": "Qiita",
+    "title": "LLMの信頼性を根底から壊す「データポイゾニング」の脅威と、意図的な攻撃を見抜く視点",
+    "link": "https://qiita.com/nozomi2025/items/4172407c48285b1f4914",
+    "summary": "LLMのデータポイゾニングは、プロンプトインジェクションとは異なり、モデルの信頼性を根底から破壊する新たな脅威です。この攻撃は、モデルのコードを直接操作するのではなく、RAG（検索拡張生成）やファインチューニングに利用される外部データソースに介入することで行われます。これにより、LLMの挙動が静かに書き換えられ、一度成功すると致命的な影響をもたらすため、早急な対策が求められています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-01T07:57:26.679559"
+  },
+  {
+    "source": "ITmedia",
     "title": "情シスがいきいきと働くためにやるべきこととは？　リアルな「お悩み」に回答",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news002.html",
     "summary": "情報システム部門（情シス）はDX推進や事業変革において役割が拡大しているものの、運用過多や組織の壁といったリアルな課題に直面しています。講演では、情シス担当者が「いきいきと」働き、その価値を最大化するための方法が議論されました。具体的には、経営や事業部門と同じ目線でビジネスに貢献するためのマインドセットとアプローチが示されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-11T22:22:11.723362"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Salesforce、中小・スタートアップ向け全プランに「Agentforce」を統合",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/11/news014.html",
-    "summary": "Salesforceは中小・スタートアップ向け製品を刷新し、CRMの全プランに「Agentforce」を統合しました。\nさらに、Slack CRMの提供やTableauの無料版を導入しています。\nこれにより、低コストでAIとデータ活用を可能にし、業務効率化と意思決定の高度化を支援する狙いです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-11T06:45:19.253613"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「CPU-Z」と「HWMonitor」にマルウェアが混入、配布サイトのCPUIDがハッキング被害を表明",
-    "link": "https://gigazine.net/news/20260411-cpuid-flagged-for-malware/",
-    "summary": "ベンチマーク・モニタリングソフトウェアを提供するCPUIDがハッキング被害に遭い、同社が配布する「CPU-Z」（CPU情報取得）や「HWMonitor」（ハードウェア監視）にマルウェアが混入していたことが判明しました。これらのソフトウェアはWindowsやAndroid端末向けです。CPUIDは約6時間にわたる侵害があったことを認め、現在は問題が修正済みであると報告しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-11T06:45:26.240087"
-  },
-  {
-    "source": "Zenn",
-    "title": "【Claude Code】コーディングアシスタントの正体：思考する「脳」と実行する「体」の協調システム",
-    "link": "https://zenn.dev/nabecoach/articles/cffbd29792aa28",
-    "summary": "申し訳ありませんが、ご提示いただいたのは記事のタイトルのみで、具体的な本文内容が提供されておりません。そのため、記事を要約することができません。\n\n要約を作成するためには、記事の本文情報が必要です。もし記事の内容をご提供いただければ、改めて3-4文で簡潔に要約いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-11T06:45:34.190327"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code Hooksで自動フォーマット環境を構築する完全ガイド",
-    "link": "https://qiita.com/masa_ClaudeCodeLab/items/0bc57fc3e44003b181b9",
-    "summary": "このガイドは、Claude CodeユーザーがAI生成コードの手動フォーマットに感じる手間を解消するため、**Hooks機能**を用いた自動フォーマット環境の構築方法を紹介しています。Hooksは、Claude Codeのツール実行ライフサイクル中に任意のシェルコマンドを実行できる仕組みです。これにより、AIがファイルを編集した直後にPrettier、ESLint、Blackなどのフォーマッターを自動で実行できるようになります。特に**PostToolUse**イベントが、コード書き込み後の自動フォーマットに活用されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-11T06:45:45.831265"
   }
 ]
