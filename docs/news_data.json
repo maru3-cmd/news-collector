@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "イラストも写真もドット絵に変換できるウェブアプリ「Sora’s Pixel Converter」",
+    "link": "https://gigazine.net/news/20260502-soras-pixel-converter/",
+    "summary": "Ameniwa(あめにわ)氏が開発したウェブアプリ「Sora's Pixel Converter」は、イラストや写真などの画像を簡単にドット絵へ変換するツールです。\nユーザーは画像をドラッグ＆ドロップし、いくつかのボタン操作をするだけで、印象深いドット絵を作成できます。\nこれにより、誰でも手軽にオリジナルなドット絵アートを楽しめる点が特徴です。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-05-02T07:16:36.309154"
+  },
+  {
+    "source": "Zenn",
+    "title": "Cursor SDKで何ができるのか。Local / Cloud / Self-hosted と閉域化の範囲を整理する",
+    "link": "https://zenn.dev/ropital_dev/articles/b6a8159631bc98",
+    "summary": "大変申し訳ありませんが、ご提示いただいたのは記事のタイトルのみで、記事の本文が提供されておりません。\n\n記事の内容が不明なため、「Cursor SDKで何ができるのか。Local / Cloud / Self-hosted と閉域化の範囲を整理する」というタイトルから要約を作成することはできません。\n\nお手数ですが、記事の本文をご提供いただければ、要約を作成いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-02T07:16:43.359670"
+  },
+  {
+    "source": "Qiita",
+    "title": "AB-900 受かってきました!",
+    "link": "https://qiita.com/hazigin/items/5e2dbb04388c21597a1e",
+    "summary": "著者は、職場で既存のAIプラットフォームからCopilotへの移行が進む中、自身のCopilotに関する知識を深めるため、今年2月に新設されたMicrosoft謹製の資格「AB-900」を受験しました。\n\nこの資格はCopilotだけでなく周辺知識も問われるFundamentalsレベルのものです。\n\n2026年5月2日に受験し、合格基準点700点のところ、760点で無事合格しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-02T07:16:52.743695"
+  },
+  {
     "source": "ITmedia",
     "title": "境界防御の延長とAIシフトが共存　Oktaが業務アプリ利用動向調査結果を公開",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/02/news017.html",
@@ -1321,32 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "article",
     "collected_at": "2026-04-12T22:24:15.885380"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Anthropic「Claude Cowork」が正式版として一般公開　企業導入に役立つ管理機能など充実",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/12/news010.html",
-    "summary": "Anthropicは2026年4月9日、自律型AIエージェント「Claude Cowork」の一般提供を開始しました。このサービスは、企業が導入しやすいよう、管理機能が充実しているのが特徴です。これにより、企業はより効率的にAIエージェントを活用できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-12T07:01:22.583508"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料で見ているページを簡単にブラウザ拡張機能で保存しスマホ・Obsidian・SingleFileと連携できる「Readeck」",
-    "link": "https://gigazine.net/news/20260412-readeck/",
-    "summary": "Webページを保存して「あとで読む」ための新しいブラウザ拡張機能「Readeck」が登場しました。これは、サービス終了したPocketや不安定な有料代替サービスの問題を解決する、オープンソースのツールです。\n\n「Readeck」は、ページ全体をアーカイブするのではなく、「あとから読む」ことに機能を特化させています。これにより、スマホ、Obsidian、SingleFileといった様々なデバイスやアプリとのスムーズな連携が可能です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-12T07:01:30.879430"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる",
-    "link": "https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue",
-    "summary": "Claude Codeのマルチセッション管理を強化するため、ジョブキューの概念が導入されます。この新しいアプローチにより、複数のセッションからのタスク要求が効率的かつ順序立てて処理されるようになります。結果として、リソースの競合が軽減され、システム全体の応答性と安定性が大幅に向上することが期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-12T07:01:41.016870"
   }
 ]
