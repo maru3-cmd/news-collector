@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加　悪用を確認済",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news013.html",
+    "summary": "CISAは、悪用が確認された2件の脆弱性をKEV（Known Exploited Vulnerabilities）カタログに追加しました。これらの脆弱性は、ConnectWise製ツール「ScreenConnect」と「Windows Shell」に存在し、遠隔操作やなりすましの恐れがあります。CISAは、組織に対し防御態勢を維持し、これらの脆弱性に対処することを強く推奨しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-05-02T22:30:18.817805"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "知能が高い人は「他人の知能」もより正しく判断できるとの研究結果",
+    "link": "https://gigazine.net/news/20260502-intelligent-people-judges-others-intelligence/",
+    "summary": "知能は学習や推論、問題解決の能力であり、社会的な交流を円滑に進める上で重要です。人々は短時間の社会的接触から他人の知能を判断できますが、新たな研究によって、知能が高い人ほど「他人の知能」をより正確に判断できることが示されました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-02T22:30:25.451466"
+  },
+  {
+    "source": "Zenn",
+    "title": "バイブコーディングの落とし穴: 20回任せるとドキュメント内容が平均25%劣化する",
+    "link": "https://zenn.dev/noah33/articles/llm-document-corruption-delegate52",
+    "summary": "「バイブコーディングの落とし穴」という記事は、この手法がドキュメント内容を劣化させるリスクがあることを警告しています。具体的には、バイブコーディングを20回繰り返すと、ドキュメントの内容が平均25%も劣化するという結果が示されています。これは、プロジェクトの効率性や情報の正確性を損なう可能性があるため、注意が必要な点です。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-02T22:30:34.844686"
+  },
+  {
+    "source": "Qiita",
+    "title": " NVIDIA Cosmos-Reason2をローカルで動かして動画推論する（transformers + vLLM)",
+    "link": "https://qiita.com/lavellehatcherjr/items/d4dcab0bfc75d65e6718",
+    "summary": "NVIDIAは2026年4月29日、物理的な常識判断と身体的な連鎖思考推論に特化したオープンなVision-Language Model「Cosmos-Reason2」に32Bバリアントを追加し、既存の2B、8Bと合わせて3サイズ展開しました。Qwen3-VLアーキテクチャをベースとし、モデルウェイトは商用利用可能なNVIDIA Open Model Licenseで公開されています。この記事では、2Bモデルを`transformers`でロードして動画推論を実行する手順と、vLLMでOpenAI互換エンドポイントとしてサーブする方法を解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-02T22:30:43.201275"
+  },
+  {
     "source": "GIGAZINE",
     "title": "イラストも写真もドット絵に変換できるウェブアプリ「Sora’s Pixel Converter」",
     "link": "https://gigazine.net/news/20260502-soras-pixel-converter/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-13T07:45:21.687999"
-  },
-  {
-    "source": "Qiita",
-    "title": "多様化する AI 開発ツールの中で、自分だけの「開発プロセス」をオーケストレートする",
-    "link": "https://qiita.com/mametech/items/a84775c0d4c46deb8a0a",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 33.878643674s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 33\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-13T07:45:26.197055"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Claudeには自分が送信したメッセージをユーザーからのものだと誤認する致命的バグがあるとの指摘",
-    "link": "https://gigazine.net/news/20260413-claude-self-message/",
-    "summary": "AnthropicのAI「Claude」に、自身が送信したメッセージをユーザーからのものと誤認し、処理を実行してしまうという致命的なバグが指摘されています。これは利用者が共有する話で、Claudeが自己生成した情報を入力と誤認する現象です。通常の事実誤認（ハルシネーション）とは異なり、システム上の根深い問題であるとされており、AIの信頼性を著しく損なう可能性があります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-12T22:23:54.681207"
-  },
-  {
-    "source": "Zenn",
-    "title": "【実録】GeminiはGoogle自社サービスの夢を見るか？　―― ハルシネーションの実例・傾向・対策",
-    "link": "https://zenn.dev/minipoisson/articles/gemini-hallucination-google-services",
-    "summary": "この記事は、GoogleのAIモデルGeminiが、自社のサービスに関して誤った情報（ハルシネーション）を生成する可能性について検証しています。具体的には、Geminiが引き起こすハルシネーションの実例を挙げ、その発生傾向を分析。AIの信頼性における課題を浮き彫りにしています。そして、これらの「幻覚」現象を抑制し、適切に対処することで、Geminiの精度と実用性を高めるための具体的な対策が議論されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-12T22:24:06.866302"
-  },
-  {
-    "source": "Qiita",
-    "title": "ドル円は\"2つの力\"で動いている ── データで解明した円安の正体",
-    "link": "https://qiita.com/d94231/items/5cd9bb79c10a53590006",
-    "summary": "本記事は、ドル円の動きが従来の常識と異なり、日米金利差だけでは説明できないことを約1,600営業日分のデータで分析しています。金利差から算出される妥当なドル円レートが127円であるのに対し、実際のレートは159円と、30円を超える大きなズレがあることを指摘。この金利差では説明できないドル円の動きの主要因が「日本株」であると結論付け、為替の新たな構造を示唆しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-04-12T22:24:15.885380"
   }
 ]
