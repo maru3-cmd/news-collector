@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "エージェント型AI普及の壁は「技術」ではなく「組織」　導入を阻む4つのリスク",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/04/news010.html",
+    "summary": "Genpactの報告によると、エージェント型AIが普及する上での最大の障壁は技術的な問題ではなく、組織的な準備の不足にあるとされています。具体的には、責任の所在、評価指標、人材への影響、業務設計の未整備という4つのリスクが導入を阻んでいます。このため、多くの企業はエージェント型AIの自律的な運用に対して慎重な姿勢を取っています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-03T22:30:30.287620"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」",
+    "link": "https://gigazine.net/news/20260503-controller-drift/",
+    "summary": "ゲーム機のコントローラーを長期間使用すると、アナログスティックに触れていないのに勝手に動く「ドリフト現象」が発生することがあります。ウェブアプリ「ControllerTest.io」は、このドリフト現象の有無を可視化し、コントローラーの状態を診断できるツールです。PCにPlayStationやNintendo Switchなどのコントローラーを接続するだけで、簡単に診断を行えます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-03T22:30:37.800520"
+  },
+  {
+    "source": "Zenn",
+    "title": "ChatGPTのカスタム指示を使いこなす！生産性を3倍にする実践テクニック",
+    "link": "https://zenn.dev/nicotable/articles/20260504_ai-tips-4sbrqv",
+    "summary": "この記事は、ChatGPTの「カスタム指示」機能を効果的に活用する方法に焦点を当てています。この機能を使うことで、ユーザーは個別のニーズに合わせてChatGPTの応答を最適化し、タスク処理の生産性を最大3倍に向上させることが可能です。記事では、具体的な実践テクニックや活用事例を通じて、効率的な情報収集や作業の自動化を実現するためのヒントが提供されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-03T22:30:45.720681"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code Skillの「Eval/Gotchas」で使うほど賢くなる自己改善ループを作る",
+    "link": "https://qiita.com/Tadashi_Kudo/items/0179b1fc81cea8478214",
+    "summary": "この記事は、Claude Code Skillが放置されると劣化し、同じ失敗を繰り返すという問題に対し、「使うほど賢くなる」自己改善ループを構築する方法を紹介しています。筆者は40個以上のSkillを運用する経験から、全てのSkillに`## Eval`と`## Gotchas`という2つのセクションを必須化しました。`Eval`セクションはLLMの完了宣言を検証し結果を評価する役割を担います。一方、`Gotchas`セクションは過去の失敗やハマりどころを記録し、同じ過ちの再発を防ぎます。これにより、Skillは利用されるたびに改善され、その賢さを向上させる仕組みを実現しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-03T22:30:54.406674"
+  },
+  {
+    "source": "ITmedia",
     "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
     "summary": "アクセンチュアはベアリング大手の日本精工と戦略的パートナーシップ契約を締結しました。この提携の主な目的は、AIを活用して間接業務の効率化を図ることです。さらに、両社は新商品開発の促進や製造現場の自動化にも共同で取り組んでいきます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-14T07:15:26.003848"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIセキュリティについて",
-    "link": "https://qiita.com/nozomi2025/items/0fdb537f61a2d76bdcda",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.516657097s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 29\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-14T07:15:30.542256"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「.NEXT 26」に見るNutanixのAI戦略と日本市場の現在地　顧客数17％増の背景を探る",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/14/news018.html",
-    "summary": "Nutanixは、米シカゴで開催された「.NEXT 26」にて、AI時代に対応するためHCIベンダーからプラットフォーム企業への転換戦略とAI戦略の全貌を発表しました。特に日本市場では顧客数が前年比17%増と大きく成長しており、その背景には同社の新たな戦略が影響しているとみられます。この記事では、現地取材に基づきNutanixのAI戦略、それが日本市場に与える影響、そして今後の展望について解説しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-04-13T22:35:42.809719"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "フランス政府がWindows搭載の政府用コンピュータをLinuxに移行する計画を発表、アメリカ製技術への依存をさらに軽減するため",
-    "link": "https://gigazine.net/news/20260414-france-windows-linux/",
-    "summary": "フランス政府は、デジタル主権を確立し、アメリカ製技術への依存を軽減するため、政府用コンピューターのOSをWindowsからLinuxへ移行する計画を発表しました。この目標は、自国のデジタルインフラを強化し、他国からの技術的影響を減らすことを目指しています。これは、政府のデジタル戦略において、自立性を重視する動きの一環です。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-04-13T22:35:52.303253"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントのブラックボックスは二層ある — 技術の限界とビジネスの都合",
-    "link": "https://zenn.dev/shimo4228/articles/agent-blackbox-capitalism-timescale",
-    "summary": "提供された記事タイトル「AIエージェントのブラックボックスは二層ある — 技術の限界とビジネスの都合」に基づくと、AIエージェントの意思決定プロセスが不透明な「ブラックボックス」問題には、大きく分けて二つの側面があることが示唆されています。\n\n第一層は、特に深層学習モデルなどの複雑性に起因する「技術的な限界」であり、内部の推論ロジックを人間が完全に理解することが困難である現状を指します。第二層は、企業が競争優位性の確保や知的財産保護のため、意図的にモデルの詳細や学習データを非公開にする「ビジネス的な都合」を意味します。この二層構造が、AIエージェントの透明性や説明責任の確保をより一層複雑にしていると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-13T22:36:01.580067"
   }
 ]
