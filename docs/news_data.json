@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+    "summary": "アクセンチュアはベアリング大手の日本精工と戦略的パートナーシップ契約を締結しました。この提携の主な目的は、AIを活用して間接業務の効率化を図ることです。さらに、両社は新商品開発の促進や製造現場の自動化にも共同で取り組んでいきます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-03T07:43:29.636095"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "検索サービス「Ask.com」終了、Ask Jeeves以来の29年の歴史に幕",
+    "link": "https://gigazine.net/news/20260503-ask-com-shuts-down/",
+    "summary": "1996年創業の検索サービス「Ask.com（旧Ask Jeeves）」が、29年の歴史を経て2026年5月1日をもってサービス提供を終了しました。これは、親会社であるIAC Inc.が検索事業から撤退することを決定したためです。かつては月間1億ユーザーを抱え、NASCARのスポンサーを務めるほどの存在でしたが、近年は存在感が薄れていました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-03T07:43:37.486867"
+  },
+  {
+    "source": "Zenn",
+    "title": "なぜ「責任経路工学」だったのか",
+    "link": "https://zenn.dev/dantarg/articles/why-responsibility-pathway-engineering",
+    "summary": "記事の内容が提供されていないため、正確な要約はできません。\n\nしかし、タイトル「なぜ「責任経路工学」だったのか」から判断すると、この記事は「責任経路工学」という用語が採用された理由や背景、その意図について論じていると考えられます。具体的には、この名称が選ばれたことで、どのような概念を強調し、あるいは誤解を避けたかったのか、そしてそれが目指す目標やアプローチにどう貢献するのか、といった点が説明されている可能性が高いです。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-03T07:43:47.398600"
+  },
+  {
+    "source": "Qiita",
+    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
+    "summary": "AIコーディングツール「Cursor」に、CVSS 9.9という極めて危険な脆弱性（CVE-2026-26268）が2026年4月28日に公開されました。この脆弱性は、ユーザーが悪意のあるリポジトリを`git clone`するだけで、CursorのAIエージェントが自律的にGit操作を実行し、隠されたGit Hookを介してPCが完全に乗っ取られるものです。従来のIDEと異なり、ユーザーが何も操作しなくても攻撃コードが実行されるのが特徴です。Cursorユーザーは直ちにバージョン2.5以上にアップデートする必要があります。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-05-03T07:43:54.866966"
+  },
+  {
+    "source": "ITmedia",
     "title": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加　悪用を確認済",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news013.html",
     "summary": "CISAは、悪用が確認された2件の脆弱性をKEV（Known Exploited Vulnerabilities）カタログに追加しました。これらの脆弱性は、ConnectWise製ツール「ScreenConnect」と「Windows Shell」に存在し、遠隔操作やなりすましの恐れがあります。CISAは、組織に対し防御態勢を維持し、これらの脆弱性に対処することを強く推奨しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-13T22:36:01.580067"
-  },
-  {
-    "source": "Qiita",
-    "title": "2026/04/14 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "link": "https://qiita.com/ennagara128/items/cb0d3730b9c8bbe2b4ca",
-    "summary": "この投稿では、Qiitaの最新トレンド記事をAIが読み上げるポッドキャストサービスが紹介されています。毎日朝7時に更新され、前日夜のトレンド記事を通勤中などにながら聴きで手軽に情報収集できるようになっています。サービス向上のため、利用者からのフィードバックも募っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-13T22:36:08.848555"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google、セッション乗っ取りを根絶する新技術「DBSC」を一般公開 ―― クッキー盗難をデバイス単位で無効化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/13/news043.html",
-    "summary": "Googleは、セッション乗っ取りやクッキー盗難を根絶するための新技術「DBSC」（Device-Bound Session Credentials）の一般公開を開始しました。この技術は、認証情報を端末にひも付けることで、デバイス単位で攻撃を無効化します。現在、Chrome 146でWindowsに対応しており、今後はmacOSにも対応を拡大する予定です。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-13T07:44:57.927037"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Anthropicがキリスト教指導者たちや哲学者とサミットを開催、AI「Claude」は「神の子」になり得るのか？",
-    "link": "https://gigazine.net/news/20260413-anthropic-asked-christian-leaders/",
-    "summary": "AI企業のAnthropicは、自社のチャットボット「Claude」の道徳的および精神的な成長に関する助言を得るため、2026年3月下旬に本社でキリスト教指導者らとのサミットを開催しました。\n\nこの2日間の会合には、カトリックやプロテスタントの聖職者、学者、実業家など約15名が参加しました。参加者たちは、AIの倫理的側面や精神的側面に関して研究者と意見交換を行ったと報じられています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-13T07:45:10.117448"
-  },
-  {
-    "source": "Zenn",
-    "title": "Gensparkによるショート動画生成マニュアル",
-    "link": "https://zenn.dev/interpark/articles/ec0207f6aa2ecb",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 38.376388105s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 38\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-13T07:45:21.687999"
   }
 ]
