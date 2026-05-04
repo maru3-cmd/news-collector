@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "好きな声で好きなセリフを喋らせられるローカルAI「Irodori-TTS」の使い方、日本語特化でローカル動作するので無制限に生成し放題",
+    "link": "https://gigazine.net/news/20260504-irodori-tts-text-to-speech-ai/",
+    "summary": "Aratako氏が開発した「Irodori-TTS」は、日本語に特化した音声合成AIモデル（TTSモデル）です。この軽量モデルはPCのローカル環境で動作し、「セリフ」「声」「感情」を自由に指定して高品質な音声を生成できます。\n\nNVIDIA製GPU搭載PCなら数秒で音声を生成でき、GPU非搭載PCでもCPUを使用して利用可能です。ローカル動作のため、無制限に高品質なセリフ音声を生成できる点が大きな魅力です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-04T22:48:21.185469"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントの設定をコードで管理する：Microsoft製「APM (Agent Package Manager)」入門",
+    "link": "https://zenn.dev/headwaters/articles/microsoft-apm-agent-package-manager",
+    "summary": "マイクロソフトが提供する「APM (Agent Package Manager)」は、AIエージェントの設定をコードで管理するためのツールです。このツールは、AIエージェントの設定に「Infrastructure as Code (IaC)」の原則を適用することで、設定のバージョン管理や再現性を高めます。本記事は、APMの基本的な概念や利用方法について紹介する入門記事です。\n\n*なお、提供された情報がタイトルのみのため、記事本文に基づいた詳細な要約ではありません。*",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-04T22:48:31.587772"
+  },
+  {
+    "source": "Qiita",
+    "title": " 「次、何を学べばいいんだろう」を解決するAIコーチCLI「tanren」を作った",
+    "link": "https://qiita.com/nozaki_3/items/3c8aaac457c0181b4631",
+    "summary": "現代の技術トレンドの急速な変化により、多くの技術者が「次に何を学ぶべきか」という迷いや、自身のスキルを客観的に把握できないという課題に直面しています。筆者もこの状況で、自分に必要な学びを導いてくれるコーチの必要性を感じました。しかし、人間のコーチは時間や費用面でハードルが高く、より気軽に相談できる存在を求めていました。この課題を解決するため、AIコーチCLI「tanren」が開発されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-04T22:48:39.692491"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "キーボードを取り外してデュアル有機ELタッチディスプレイに変形するASUSのIntel Core Ultra X9搭載ノートPC「Zenbook DUO UX8407」フォトレビュー",
     "link": "https://gigazine.net/news/20260504-asus-zenbook-duo-photo/",
     "summary": "ASUSは、キーボードを取り外してデュアル有機ELタッチディスプレイに変形する新型ノートPC「Zenbook DUO UX8407」を2026年4月16日に日本で発売しました。このモデルはIntel Core Ultra X9 388Hを搭載し、高性能なAI処理が可能です。前モデルUX8406から薄型軽量化などのデザイン変更が施され、ノートPCモードとデュアルスクリーンモードを切り替えて使用できます。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-14T22:37:15.815645"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "MicrosoftはWindows 11からCopilotを削除したのではなく単に名前を変更しただけだったと判明して一部ユーザーから不満の声",
-    "link": "https://gigazine.net/news/20260415-microsoft-copilot-renaming/",
-    "summary": "Microsoftは2026年3月後半頃から、Windows 11の一部アプリでAI機能「Copilot」のボタンを削除していました。同社はAI機能を最も効果的な場所に統合するためと説明していましたが、実際にはAI機能自体は削除されず、単に名称が変更されただけだったと報じられています。この情報に、一部のユーザーからは不満の声が上がっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-14T22:37:23.938479"
-  },
-  {
-    "source": "Zenn",
-    "title": "一人で書いたコード、誰かに「大丈夫」と言ってほしかった",
-    "link": "https://zenn.dev/naoto24kawa/articles/manako-solo-code-review",
-    "summary": "この記事は、プログラミングにおいて一人でコードを書くことの孤独感と、それによって生じる不安について述べています。開発者は、自分の書いたコードが適切であるか、品質に問題がないかといった客観的な評価や、精神的な支えを求めていました。具体的には、誰かから「これで大丈夫だ」という確認や、安心できる一言を切望していたことが示唆されます。これは、フィードバックや承認が得られない環境での開発者の心理状態を端的に表しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-14T22:37:34.709296"
-  },
-  {
-    "source": "Qiita",
-    "title": "CLAUDE.mdを「とりあえず」で済ませてる人に知ってほしい、指示精度が上がる7つの書き方",
-    "link": "https://qiita.com/moha0918_/items/72d4d32fce1b585ddbad",
-    "summary": "CLAUDE.mdは書き方によって指示精度が大きく変わるため、応答精度を向上させる「7つの書き方」が提案されています。その最初の方法が、Claude Codeセッションで`/init`コマンドを実行し、リポジトリを解析してCLAUDE.mdのベース（ビルドコマンド、テスト手順、規約など）を自動生成することです。`/init`は既存のCLAUDE.mdがある場合でも上書きせず改善提案として機能するため安全です。さらに、特定の環境変数を設定すると、CLAUDE.md、Skills、Hooksの中から対話形式で選んで生成することも可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-14T22:37:45.115608"
   }
 ]
