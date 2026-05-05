@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "クレカを止めても被害は止まらない――アカウント侵害の「第二幕」から得た教訓",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/30/news010.html",
+    "summary": "ITライターの宮田健氏は、自身のAmazonアカウントがハッキングされた際、アカウントを復旧しクレジットカードを停止した後も、攻撃者による不正利用が執拗に続いた「第二幕」の被害に遭遇しました。この記事は、アカウント侵害の被害がアカウント回復だけでは終わらず、攻撃者が巧妙な手口で不正行為を継続する実態を明らかにしています。著者の経験は、被害が長期化する可能性と、そこから得られる重要な教訓を読者に伝えています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-05-05T22:46:12.210403"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」",
+    "link": "https://gigazine.net/news/20260505-photogimp/",
+    "summary": "オープンソースの高機能画像編集ソフト「GIMP」は無料で利用できますが、そのUIはAdobe Photoshopと異なり、慣れるのに時間がかかることがあります。\n\n「PhotoGIMP」は、このGIMPのユーザーインターフェース（UI）をPhotoshopに近いレイアウトに変換するパッチです。\n\nこれを導入することで、PhotoshopユーザーはGIMPをより直感的かつスムーズに利用できるようになります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-05T22:46:19.924338"
+  },
+  {
+    "source": "Zenn",
+    "title": "2024年の生成AI規制動向と開発者が知るべき法的リスク",
+    "link": "https://zenn.dev/nicotable/articles/20260504_news-analysis-x5eys0",
+    "summary": "2024年は、EU AI Actの成立を筆頭に生成AIに関する法規制が世界的に加速する年であり、開発者は広範な法的リスクへの対応が求められます。主なリスクとして、学習データや生成物における著作権侵害や個人情報保護、AIの差別的な出力、ハルシネーションによる誤情報生成などが挙げられます。米国では自主規制、日本では事業者向けガイドライン策定が進む中、開発者は国際的な規制動向を把握し、透明性や公平性、説明責任を確保する取り組みが不可欠です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-05T22:46:30.587106"
+  },
+  {
+    "source": "Qiita",
+    "title": "Ultraplan の機密性ベース選別運用：公開リポと機密リポでAI送信先を切り分けた話",
+    "link": "https://qiita.com/Tadashi_Kudo/items/6698fa06e3c38265b757",
+    "summary": "UltraplanのようなAIコーディング支援ツールを組織に導入する際、AIへ送信するリポジトリの「公開可否」を線引きする課題が生じました。当初「全面禁止」と「全面許可」で両極の議論がありましたが、最終的に「機密性ベースの選別運用」に決定しました。これは、許可リスト・禁止リストおよびチェックリストを用い、リポジトリの機密性に応じてAI送信先を切り分ける方法です。本記事では、この選別運用の過程と具体的なチェックフローが、AIコーディング支援ツールの導入を検討する開発者やテックリード向けに共有されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-05T22:46:43.258111"
+  },
+  {
+    "source": "ITmedia",
     "title": "中堅・中小企業に最も人気のAIエージェントは？　Google Agentspaceは2位",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/05/news016.html",
     "summary": "この記事は、中堅・中小企業におけるAIエージェントの導入動向に焦点を当てています。調査によると、Google Agentspaceは導入・導入予定のAIエージェントの中で2位に位置づけられています。記事では、最も人気のあるAIエージェントを明らかにするとともに、小規模企業のITツールへの費用拠出から得られる重要な教訓についても深掘りしています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-04-15T22:34:09.364080"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Firefoxのほぼ全ての拡張機能をインストールして分析した結果とは？",
-    "link": "https://gigazine.net/news/20260416-firefox-add-on/",
-    "summary": "ソフトウェア開発者のジャック・キャブ氏が、Firefox向けに提供されている拡張機能の広範な分析結果を公開しました。同氏は、約8万4000個に上るほぼ全ての拡張機能をインストールし、詳細な分析と統計を実施しました。この記事では、その大規模な調査によって明らかになった重要なデータや知見が報じられています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-15T22:34:19.926799"
-  },
-  {
-    "source": "Zenn",
-    "title": "【実例あり】Claude Codeで非エンジニアができること——タスク管理・ブログ・健康管理をAIに任せた",
-    "link": "https://zenn.dev/tottoko_hamu/articles/claude-code-non-engineer-guide",
-    "summary": "この記事は、AIツール「Claude Code」が非エンジニアにもたらす可能性について解説しています。プログラミング知識がない非エンジニアでも、AIを活用してタスク管理、ブログ記事作成、健康管理といった多様な作業を効率化できることを紹介。具体的な実例を通して、AIの日常的な活用法と非エンジニアへの恩恵を明確に示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-15T22:34:29.741232"
-  },
-  {
-    "source": "Qiita",
-    "title": "「続かない」エンジニアのための記憶習慣 — 1日数秒で終わる暗記アプリを自作した話",
-    "link": "https://qiita.com/CoboMemo/items/783584a5747a3b1cd419",
-    "summary": "本記事は、「覚えること」が増え続けるエンジニアが、従来の「まとまった時間」を必要とする学習ツールでは継続が難しいという課題を指摘しています。その解決策として筆者は、「1日数秒で終わる」ことをコンセプトにしたフラッシュカード暗記アプリ「Cobo Memo」を自作しました。この無料アプリはiOS/Androidで利用でき、手動でのカード登録に加え、Google Geminiを活用したAIによるカード自動生成機能も提供しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-15T22:34:38.746998"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「技術だけでは防げない」　Gartnerが示す、日本国内の最新インシデント傾向",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news036.html",
-    "summary": "Gartnerは、日本の主要なセキュリティ事故と日々発生する事案を整理し、その全体像を把握しました。同社は、これらを「技術だけでは防げない」ものとして捉え、多様なリスクへの備えが不可欠であると指摘しています。これにより、単なる技術的対策を超えた包括的なアプローチの重要性が強調されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-15T07:15:10.438916"
   }
 ]
