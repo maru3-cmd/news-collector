@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "中堅・中小企業に最も人気のAIエージェントは？　Google Agentspaceは2位",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/05/news016.html",
+    "summary": "この記事は、中堅・中小企業におけるAIエージェントの導入動向に焦点を当てています。調査によると、Google Agentspaceは導入・導入予定のAIエージェントの中で2位に位置づけられています。記事では、最も人気のあるAIエージェントを明らかにするとともに、小規模企業のITツールへの費用拠出から得られる重要な教訓についても深掘りしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-05T07:50:34.551660"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ノートPCモードとデュアルスクリーンモードを切り替えて使用できるASUSのデュアルディスプレイノートPC「Zenbook DUO UX8407」は外出先の作業に適しているかベンチマークや騒音・排熱で計測してみたよレビュー",
+    "link": "https://gigazine.net/news/20260505-asus-zenbook-duo-benchmark/",
+    "summary": "2026年4月16日に日本で発売された「ASUS Zenbook DUO UX8407」は、キーボードを着脱してノートPCモードと折りたたみ式デュアルディスプレイモードを切り替えられる画期的なノートPCです。Intel Core Ultra X9 388Hを搭載し高性能なAI処理が可能でありながら、重量は約1.6kgと携帯性にも優れています。本レビューでは、このデバイスが外出先での作業に適しているか、ベンチマーク、バッテリー性能、騒音、排熱などを計測して検証しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-05T07:50:42.270068"
+  },
+  {
+    "source": "Zenn",
+    "title": "PHPで競馬AIを自作した〜楽天競馬パーサー編〜",
+    "link": "https://zenn.dev/sakuneko/articles/d1fe0284de54bc",
+    "summary": "この記事は、PHPを活用して独自の競馬AIを開発する取り組みについて解説しています。特に「楽天競馬パーサー編」と題されており、AIの基盤となるデータ収集に焦点が当てられています。具体的には、楽天競馬サイトからレース情報や出走馬データなどを効率的に取得し、AIが利用できる形式に解析するPHPを用いたWebスクレイピングおよびデータ処理技術が詳述されていると推測されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-05T07:50:51.795956"
+  },
+  {
+    "source": "Qiita",
+    "title": "【速報】Claude Securityが公開ベータ開始！Opus 4.7で脆弱性スキャンが「人間のセキュリティ研究者レベル」に",
+    "link": "https://qiita.com/emi_ndk/items/15e6f0cdd57f03d8bcb0",
+    "summary": "Anthropicは5月4日、Enterprise顧客向けに脆弱性スキャンツール「Claude Security」の公開ベータを開始しました。Opus 4.7を搭載したこのツールは、従来のパターンマッチング型ツールが見逃していた「コンテキスト依存型」の脆弱性を「人間のセキュリティ研究者レベル」で検出できる点が特徴です。設定やAPIなしで`claude.ai/security`から即座に利用可能で、すでにCrowdStrikeやMicrosoftなどの大手セキュリティ企業が採用を決定しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-05T07:50:59.379760"
+  },
+  {
     "source": "GIGAZINE",
     "title": "好きな声で好きなセリフを喋らせられるローカルAI「Irodori-TTS」の使い方、日本語特化でローカル動作するので無制限に生成し放題",
     "link": "https://gigazine.net/news/20260504-irodori-tts-text-to-speech-ai/",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-04-15T07:15:10.438916"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "NVIDIAが量子コンピューターを開発するためのAI「NVIDIA Ising」を発表",
-    "link": "https://gigazine.net/news/20260415-nvidia-ising/",
-    "summary": "NVIDIAは、研究者や企業が実用的な量子プロセッサを構築するのを支援するため、世界初のオープンソース量子AIモデルファミリー「NVIDIA Ising」を発表しました。このAIモデルは、量子コンピューター開発を加速させることを目的としています。NVIDIA Isingのリリースは、量子コンピューティングの進歩において重要な一歩となります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-15T07:15:18.300396"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeでコンサルタントを呼ぶ方法｜エージェント機能で事業分析させる",
-    "link": "https://zenn.dev/rcn_article/articles/rc-claude-code-consultant-agent",
-    "summary": "この記事では、AIツール「Claude Code」のエージェント機能を利用して、事業分析を自動化する方法が解説されています。これは、AIをあたかもコンサルタントのように活用し、ビジネス課題の分析や解決を支援する新しいアプローチを提案するものです。記事では、AIが提供する効率的かつコスト効果の高い分析手法を通じて、従来のコンサルティングに代わる可能性について探求しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-15T07:15:26.681656"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIモデル圧縮（Pruning/Quantisation）がセキュリティ・ガードレールを破壊する仕組みと対策",
-    "link": "https://qiita.com/nozomi2025/items/61839c8a6539d34045cf",
-    "summary": "AIモデルのPruning（枝刈り）やQuantisation（量子化）といった圧縮技術は、エッジデバイスでの高速実行に不可欠ですが、フル精度モデルで防御できていたセキュリティ上の「沈黙の脆弱性」を生み出します。具体的には、Pruningはモデルの冗長性を削ぎ敵対的堅牢性（Adversarial Robustness）を低下させ、Quantisationは決定境界を歪ませ情報損失により、画像認識モデルへの敵対的攻撃やLLMへのプロンプトインジェクションなどを容易にします。対策として、最適化後のモデルに対する「攻撃前提テスト」の義務化に加え、Adversarial Training PruningやQuantisation-Aware Trainingなど、堅牢性を保持する事後学習最適化（Robust PTO）の採用が重要です。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-04-15T07:15:38.829017"
-  },
-  {
-    "source": "ITmedia",
-    "title": "SaaS、SIer、SESはAI時代に不要になるのか？　AIには代替できない境界線を整理",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news006.html",
-    "summary": "AIの急速な普及により、SaaS、SIer、SESといった外部ITパートナーが不要になるという見方があるが、この記事はその単純な見方を否定します。筆者は、AI時代において重要なのは、AIには代替できない外部パートナーの真の役割と境界線を明確にすることだと指摘。IT部門の視点から、彼らの真価と、これからの最適な協力関係を整理・再定義することの重要性を解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-14T22:37:15.815645"
   }
 ]
