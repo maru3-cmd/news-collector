@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ランサムウェアから復旧できない「7割の企業」で何が起きている？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/06/news017.html",
+    "summary": "ランサムウェアの被害を受けた企業の約7割が完全に復旧できていない現状が浮き彫りになっています。これは、生成AIの導入が進む一方で、それが必ずしもIT運用の容易さには直結しない複雑な構造が背景にあるとされます。このため、IT部門には、単なる技術導入に留まらず、ランサムウェアからの復旧力とIT運用の本質を深く理解し、実践する能力が強く求められています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-06T08:01:55.553445"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "YouTubeやXを見過ぎると猫ちゃんが現れて画面を占領してくるChrome拡張機能「Cat Gatekeeper」",
+    "link": "https://gigazine.net/news/20260506-cat-gatekeeper/",
+    "summary": "YouTubeやXなどのウェブサービスを長時間見続けてしまう人のためのChrome拡張機能「Cat Gatekeeper」が登場しました。この拡張機能は、ユーザーが長時間サイトを閲覧していると、猫のキャラクターが画面に現れて動画の再生などを強制的に中断します。これにより、デジタルデバイスの使い過ぎを防ぎ、集中力を保つ手助けをします。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-06T08:02:04.789353"
+  },
+  {
+    "source": "Zenn",
+    "title": "製造業：目視検査の代わりにAI画像検査を導入するための実務ノウハウ",
+    "link": "https://zenn.dev/tomozou0186/articles/6448fb851b2816",
+    "summary": "お示しいただいたタイトル「製造業：目視検査の代わりにAI画像検査を導入するための実務ノウハウ」はありますが、記事の**内容が提供されておりません**。\n\nそのため、内容に基づいた要約を作成することができません。お手数ですが、記事の本文をご提供いただければ、その内容を3〜4文で簡潔に要約いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-06T08:02:11.700965"
+  },
+  {
+    "source": "Qiita",
+    "title": "Karpathy の LLM Knowledge Base の考察",
+    "link": "https://qiita.com/kiyotaman/items/084a5e9cccb520a0ef5a",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 39.5589273s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 39\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-06T08:02:20.513839"
+  },
+  {
+    "source": "ITmedia",
     "title": "クレカを止めても被害は止まらない――アカウント侵害の「第二幕」から得た教訓",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2604/30/news010.html",
     "summary": "ITライターの宮田健氏は、自身のAmazonアカウントがハッキングされた際、アカウントを復旧しクレジットカードを停止した後も、攻撃者による不正利用が執拗に続いた「第二幕」の被害に遭遇しました。この記事は、アカウント侵害の被害がアカウント回復だけでは終わらず、攻撃者が巧妙な手口で不正行為を継続する実態を明らかにしています。著者の経験は、被害が長期化する可能性と、そこから得られる重要な教訓を読者に伝えています。",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-04-16T07:16:04.330775"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "OpenAIが長時間稼働するAIエージェントを構築可能になる「Agents SDK」の更新を発表",
-    "link": "https://gigazine.net/news/20260416-openai-agent-sdk/",
-    "summary": "OpenAIは、AIエージェントの構築と運用を可能にする「Agents SDK」の次世代アップデートを発表しました。この更新により、エージェントはファイル操作、コード実行、コマンド操作といった多様なタスクを安全かつ効率的に、長時間にわたって実行できるようになります。これにより、より複雑で自律的なAIエージェントの開発と実用化が加速されると期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-16T07:16:11.730309"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeでガチャアプリを作った話｜レアリティ演出からStripe課金まで",
-    "link": "https://zenn.dev/rcn_article/articles/rc-claude-code-gacha-app",
-    "summary": "この記事は、AIコード生成アシスタント「Claude Code」を活用し、本格的なガチャアプリを開発した事例を紹介しています。開発されたアプリは、カードのレアリティ演出といったゲーム機能に加え、Stripeを利用した課金機能まで実装している点が大きな特徴です。この事例は、AIによるコード生成がゲームロジックから実際のビジネス機能まで幅広くカバーできることを示しており、Claude Codeの高い開発能力を実証しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-16T07:16:27.397672"
-  },
-  {
-    "source": "Qiita",
-    "title": "【革命】寝てる間もClaudeが働く！「Routines」でAIを24時間自動運転する完全ガイド",
-    "link": "https://qiita.com/emi_ndk/items/116c1703e44bcfbc9b69",
-    "summary": "Anthropicが2026年4月14日に発表した「Claude Code Routines」は、Claude AIがクラウド上で**24時間365日**自動でコードを書き、修正する革新的な機能です。これは、AIが自律的にコードを理解し、判断を下してプルリクエスト（PR）まで作成するという点で、従来の自動化ツールとは一線を画します。特に「Scheduled」トリガーを使えば、「毎晩2時にバグを自動で検知・修正し、朝にはPRが届いている」といったことが実現可能になります。これにより、開発者は寝ている間もAIに作業を任せられるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-16T07:16:38.375664"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ITエンジニアの年収は管理職に転向後いくら上がる？　218人の調査で判明",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/16/news035.html",
-    "summary": "ITエンジニア218人を対象とした調査で、管理職転向前は7割が不安を感じる一方、就任後は約7割が満足していることが判明しました。管理職は人間関係などの業務の難しさに直面しつつも、チームでの達成感や年収増、キャリアの選択肢拡大といったメリットがそれを上回ると回答しています。これにより、多くのエンジニアが管理職としての役割を前向きに捉えていることが明らかになりました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-15T22:34:09.364080"
   }
 ]
