@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ChatGPTがシェア4割を切る　急伸するClaude、安定のGemini――生成AI三極化の兆し",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+    "summary": "Apptopiaの発表によると、2026年4月の米国生成AIチャットアプリ市場の日次利用者数は前月比1.5％減少しました。一方で、高頻度利用層は拡大傾向を維持しています。この状況下で、ChatGPTはシェア4割を切り、Claudeが急伸、Google Geminiも安定して勢力を伸ばしており、生成AI市場は三極化の兆しを見せています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-07T22:52:44.286187"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "GWに鳥取砂丘こどもの国へ行ったら遊具もトイレも充実しまくりで財布にも優しい最高の施設だった",
+    "link": "https://gigazine.net/news/20260508-kodomonokuni-golden-week/",
+    "summary": "提示された記事はタイトルと冒頭の一文のみで、具体的な内容がほとんどないため、詳細な要約はできません。\n\n記事のタイトルと冒頭からは、ゴールデンウィーク中に鳥取砂丘のそばにある「アイエム電子鳥取砂丘こどもの国」を訪れた体験について書かれていることが分かります。この施設は、遊具やトイレが非常に充実しており、財布にも優しい「最高の施設」として評価されているようです。より詳しい内容や具体的な数字を含む要約をするには、記事の全文が必要です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-07T22:52:54.290118"
+  },
+  {
+    "source": "Zenn",
+    "title": "CopilotをExcel/Wordの代筆AIだと思ってる企業はAI時代に取り残される",
+    "link": "https://zenn.dev/syoshida07/articles/755ae854a9b6ff",
+    "summary": "CopilotをExcelやWordの代筆AIと限定的に認識している企業は、AI時代の本質を見誤るリスクがあります。このような認識では、Copilotが持つ真の価値や、業務プロセス全体の変革・生産性向上への広範な可能性を十分に活用できません。結果として、AI技術の進化に取り残され、競争力を失う恐れがあるため、その真価を理解し活用することが重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-07T22:53:02.621491"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年5月8日",
+    "link": "https://qiita.com/ishisaka/items/98da13124bb3f7e796d6",
+    "summary": "2026年5月8日のプログラミング雑記では、Go言語と.NETに関する最新情報が取り上げられました。\nGo言語では、バージョン1.26.3と1.25.10のマイナーポイントリリースが公開され、cmd/goやnet/http関連を含む11件のセキュリティ修正が適用されています。\n一方、Microsoft Copilot Studioは.NET WebAssemblyランタイムを.NET 8から.NET 10へアップグレードしました。\nこのアップグレードにより、自動フィンガープリンティングやAOT後のIL削除といった改善が図られ、デプロイの簡素化と実行速度の向上が実現しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-07T22:53:10.144280"
+  },
+  {
+    "source": "ITmedia",
     "title": "富士通とNECの業績見通しから探る「2026年度国内IT需要の行方」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/07/news080.html",
     "summary": "マクロ経済の不透明感が強まる中、本記事は2026年度の国内IT需要の行方を考察します。その分析には、富士通とNECの最新受注状況および業績予想が活用されます。両社の見立てを通じて、国内IT市場の将来的な動向を明らかにすることを目指しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-18T06:54:45.191903"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ビジネス書は「読むだけ時間の無駄」・レトロな動画を記録・マングローブ倒産騒動のあれこれインタビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年3月版はコレ！",
-    "link": "https://gigazine.net/news/20260418-gigazine-kindle-ranking-2026-03/",
-    "summary": "GIGAZINEは、2026年3月に出版された記事を電子書籍化したものの中から、Amazonで最も読まれたランキングを発表しました。このランキングは、通常のGoogle検索によるアクセス解析とは異なる、Amazon独自の売上トップ10を示すものです。上位記事には、「ビジネス書は『読むだけ時間の無駄』」や「レトロな動画を記録」、そして「マングローブ倒産騒動のあれこれインタビュー」などが挙げられています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-17T22:29:10.299784"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code Learning Mode 完全ガイド — /output-style と TODO(human) の実務運用",
-    "link": "https://zenn.dev/amu_lab/articles/claude-code-learning-mode",
-    "summary": "「Claude Code Learning Mode 完全ガイド」は、AIによるコード生成・学習を最適化するための実務運用法を解説しています。\n\n特に、`/output-style` コマンドを活用することで、`full_code`や`diff`といった多様な出力形式を制御し、開発におけるAIの応答を効率化します。\n\nまた、`TODO(human)` タグは、AIが解決できない複雑な問題や設計判断を明確に人間へ指示し、AIと人間の協調作業を円滑に進める役割を果たします。\n\nこれらの機能により、開発プロセスにおけるAIの活用と人間の介入が効率的に連携し、全体的な生産性向上に貢献します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-17T22:29:19.646598"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代、ソフトウェア会社は何を売るのか",
-    "link": "https://qiita.com/engchina/items/d7a8418c7046128acc10",
-    "summary": "AI時代において、ソフトウェアの価値はコードの速さだけでなく、提供する価値の置き場所自体が「機能」から「仕事の結果」へと大きく変化しています。これからの強いソフトウェア会社は、機能を羅列するのではなく、ユーザーの仕事の成果までを届け、McKinseyもソフトウェアが「仕事を支える道具」から「仕事を実行する仕組み」へ移行すると指摘しています。\n\nそのため、売るものはソフトウェアそのものではなく「仕事の成果」となり、課金モデルも月額課金やログイン数から、仕事の進捗度合いや時間・コスト削減効果に基づいた「利用量に応じた課金」や「成果に近い価格設計」へと移行すると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-17T22:29:28.243102"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAI、Codexに「自律型UI操作」機能など追加　PC画面の直接操作で定型業務と開発フローを高速化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/17/news094.html",
-    "summary": "OpenAIは、AIコーディング支援ツール「Codex」を大幅に刷新し、PC画面を視覚的に認識して直接操作する「自律型UI操作」機能を導入しました。これに加え、外部ツール連携やメモリ機能も追加されています。これらの新機能により、複雑な事務作業や長期プロジェクトの自律的な遂行を支援し、定型業務や開発フローの高速化に貢献します。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-17T07:16:31.944944"
   }
 ]
