@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "富士通とNECの業績見通しから探る「2026年度国内IT需要の行方」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/07/news080.html",
+    "summary": "マクロ経済の不透明感が強まる中、本記事は2026年度の国内IT需要の行方を考察します。その分析には、富士通とNECの最新受注状況および業績予想が活用されます。両社の見立てを通じて、国内IT市場の将来的な動向を明らかにすることを目指しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-05-07T08:09:47.294829"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Anthropicが金融・保険業界向けClaudeエージェントを発表、資料作成・監査準備・AML調査などを業務フローに沿って支援",
+    "link": "https://gigazine.net/news/20260507-anthropic-agents-for-financial-services/",
+    "summary": "Anthropicは、金融サービスおよび保険業界向けに、AIチャットボットClaudeを活用した新しいエージェントテンプレート10種類を発表しました。これらのエージェントは、金融機関における時間のかかる調査、資料作成、照合、監査準備、顧客確認、AML(アンチマネーロンダリング)調査といった業務フローを支援します。これにより、多岐にわたる金融業務の効率化と自動化を促進し、生産性の向上が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-07T08:09:54.446027"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI記事制作で品質を落とさない：編集フローを3層の品質ゲートで設計する",
+    "link": "https://zenn.dev/minewo/articles/ai-article-quality-gate-workflow",
+    "summary": "この記事は、AI記事制作において品質を落とさないための編集フロー設計を提案しています。具体的には、「3層の品質ゲート」を設けることで、AIが生成した記事の品質低下を防ぎ、高品質なコンテンツを安定して提供することを目指します。これにより、AIの利便性を享受しつつ、ユーザーに信頼される記事品質を維持することが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-07T08:10:06.566207"
+  },
+  {
+    "source": "Qiita",
+    "title": "16GB VRAMでローカルAIエージェントを作る",
+    "link": "https://qiita.com/rS_alonewolf/items/a0c602c3e4ad24409544",
+    "summary": "この記事は、16GB VRAM環境、特にRTX 5070 Tiを使用してローカルAIエージェントを構築する取り組みについて述べています。具体的には、2026年初頭にリリースされ話題となったQwen3.6-27Bの量子化モデルを、Opencode向けに調整しようとしています。しかし、限られた16GBのVRAMでこのモデルを実行するには、いくつかの課題があることが示唆されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-07T08:10:15.073136"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoft、Copilotのアップデートを発表　ExcelでPlanモードやPython連携が可能に",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/07/news015.html",
     "summary": "Microsoftは、Microsoft 365 Copilotの2026年4月版アップデートを発表しました。このアップデートでは、ExcelにPlanモードとPython連携が追加され、WordではClaudeが統合されるなど、実務直結の新機能が多数導入されます。これにより、データ分析や文書作成の効率が大幅に向上すると期待されます。また、組織的なAI運用を効率化・可視化するための管理機能も強化されています。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-04-17T07:16:31.944944"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Android公式がAI開発向けスキルを公開、AIエージェントを使用してAndroidアプリを3倍速く構築可能に",
-    "link": "https://gigazine.net/news/20260417-android-ai-skill/",
-    "summary": "Android公式は、AIを活用したAndroidアプリ開発を劇的にスピードアップさせるための新しいスキルと開発ツールを公開しました。これらのツールはAIエージェントを使用し、開発プロセスを加速させます。これにより、従来の3倍の速さでAndroidアプリを構築することが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-17T07:16:44.204795"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claudeに原始時代に行ってもらっては困る話",
-    "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
-    "summary": "「Claudeに原始時代に行ってもらっては困る話」という記事は、AIアシスタントClaudeの性能や利用に関する懸念を提起しています。これは、Claudeが現代の高度なAIとして期待される水準に達せず、時代錯誤な、あるいは的外れな反応や提案をしてしまう状況を比喩的に表現しています。\n\n記事は、AIが複雑な問題を適切に処理できなかったり、基本的な理解を欠いたりすることで、その能力が現代社会のニーズからかけ離れてしまうことへの警鐘を鳴らしていると推測されます。筆者は、AIが本来の目的から外れ、期待を裏切るような振る舞いをすることに対し、改善の必要性を訴えていると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-17T07:16:56.036225"
-  },
-  {
-    "source": "Qiita",
-    "title": "【無料】AI活用人材育成カリキュラム 紹介",
-    "link": "https://qiita.com/aakan/items/90356ab8b068e5961b00",
-    "summary": "2026年4月に作成された「AI活用人材育成カリキュラム」は、ChatGPTの利用経験があるものの、業務でAIアプリを設計・実装・評価するスキルにギャップを感じているエンジニアやチームリーダー、研修担当者を対象としたWeb教材です。このカリキュラムは、社内システム連携、AIの精度安定化、セキュリティ・ガバナンスなどの課題に対し、実装を通じて解決策を提供します。個人の自己学習からチームでのハンズオン研修、社内勉強会まで幅広く活用でき、業務に役立つAIアプリ開発能力の習得を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-17T07:17:09.588156"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Gemini CLIに「サブエージェント」機能登場　専門AIへのタスク委任で複雑・大量処理を高速化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/17/news046.html",
-    "summary": "Googleは開発者ツール「Gemini CLI」に新機能「サブエージェント」を導入しました。この機能は、複雑で大量のタスクを専門AIであるサブエージェントに並列で委任することで、システム負荷を抑えつつ処理を高速化することを目的としています。サブエージェントは自作や配布が可能で、チーム開発における効率向上にも貢献します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-16T22:30:58.515616"
   }
 ]
