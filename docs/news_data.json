@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ",
+    "link": "https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/",
+    "summary": "2026年5月8日、任天堂はNintendo Switch 2を含む製品およびサービスの値上げを発表しました。中でも、Nintendo Switch 2の日本語・国内専用版は、2026年5月25日より希望小売価格が1万円値上げされ、5万9980円になります。ただし、マイニンテンドーストアで販売される多言語対応版の価格は据え置かれます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-08T22:45:22.073234"
+  },
+  {
+    "source": "Zenn",
+    "title": "自前ハーネスを持つ意味: AgentCore managed harnessとの分業線",
+    "link": "https://zenn.dev/genda_jp/articles/9efddf3b1d7324",
+    "summary": "この記事は、システム開発において「自前ハーネス」を導入する意義と、その具体的な役割に焦点を当てています。特に、AgentCoreが提供するマネージドハーネスとの関係性において、両者の間にどのような「分業線」を引くべきかについて論じています。\nつまり、自社の特定のニーズや要件に合わせてカスタム開発を行うべき領域と、標準化されたマネージドサービスを活用すべき領域を明確にするための指針が示されると推測されます。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-08T22:45:34.021457"
+  },
+  {
+    "source": "Qiita",
+    "title": "llama.cppでローカルLLMを立ち上げる方法",
+    "link": "https://qiita.com/ma_comu/items/ad00ffb23ab8c4c51662",
+    "summary": "この記事は、AIサービスの依存や値上げへの懸念からローカルLLMの導入を検討した筆者の記録です。筆者は、自身のPCスペック（Intel Ultra7 155H、メモリ32GB）での軽快な動作を優先し、OllamaやLM Studioではなく`llama.cpp`を選択しました。これは、導入の簡単さよりも動作速度を重視したものです。本記事は、比較的高スペックでないPCでもローカルLLMを動かす方法についてのメモとなっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-08T22:45:41.599115"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "AIの検閲を突破してNG質問にも回答させる「ゲイの脱獄テクニック」とは？",
     "link": "https://gigazine.net/news/20260508-the-gay-jailbreak/",
     "summary": "ChatGPTやGeminiなどのチャットAIには、犯罪行為や自傷行為を防ぐための検閲機能が搭載されています。しかし、ExocijaさんがこのAIによる検閲を緩めることができる「ゲイの脱獄テクニック」を紹介しました。この方法を用いることで、通常は回答を拒否されるNG質問に対しても、AIから返答を引き出すことが可能になります。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-19T07:04:51.940158"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能",
-    "link": "https://gigazine.net/news/20260418-nocodb/",
-    "summary": "ノーコードUIデータベース「Airtable」は無料プランでのデータ量に制限があるため、中規模以上の利用では有料プランが必須となります。その代替として登場したのが「NocoDB」です。\n\nNocoDBは無料かつオープンソースでセルフホストが可能であり、既存のデータベースに接続して利用できます。カンバンやカレンダー、ギャラリー、表、フォームなど、多様な見た目で操作できる点が特徴です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-18T22:24:05.705900"
-  },
-  {
-    "source": "Zenn",
-    "title": "進捗増刊号(1)2026/04/19：文系がClaudeのことサンドボックスゲームだと勘違いしてる 第1回",
-    "link": "https://zenn.dev/iwakicyan/articles/7d1479219536ae",
-    "summary": "2026年4月19日発行の「進捗増刊号(1)」第1回は、「文系がClaudeのことサンドボックスゲームだと勘違いしてる」というテーマの記事です。この記事は、文系の人々がAIモデルであるClaudeの特性を、まるでサンドボックスゲームであるかのように誤認しているという問題意識に焦点を当てています。本記事は、この誤解の実態を提示し、その背後にある認識のズレについて深掘りしようとしていると読み取れます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-18T22:24:29.886887"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエージェントに「反省」させてみた —— 独自の改善サイクル（KPT）と次スプリントへの「ルール注入」の自動化",
-    "link": "https://qiita.com/mametech/items/37a95f79b3c12d81f3fe",
-    "summary": "AIエージェントが指示を忘れ、同じミスを繰り返すという課題に対し、AI自身に「振り返り（レトロスペクティブ）」を行わせる仕組みが開発されました。このシステムは、独自の改善サイクル（KPT）でAIが過去の行動を反省し、その改善案を次スプリントの指示に自動で「ルール注入」することで、記憶力と学習能力の向上を目指します。個人開発コントロールプレーン「vicara」の一部として、まめ太氏が開発・GitHubで公開しており、現在はプロンプトやUIの調整が進められています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-18T22:24:38.603350"
   }
 ]
