@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AIの検閲を突破してNG質問にも回答させる「ゲイの脱獄テクニック」とは？",
+    "link": "https://gigazine.net/news/20260508-the-gay-jailbreak/",
+    "summary": "ChatGPTやGeminiなどのチャットAIには、犯罪行為や自傷行為を防ぐための検閲機能が搭載されています。しかし、ExocijaさんがこのAIによる検閲を緩めることができる「ゲイの脱獄テクニック」を紹介しました。この方法を用いることで、通常は回答を拒否されるNG質問に対しても、AIから返答を引き出すことが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-08T07:12:20.938049"
+  },
+  {
+    "source": "Zenn",
+    "title": "仕様駆動開発(SDD)が現場で頓挫する7つの落とし穴と段階的対策",
+    "link": "https://zenn.dev/kenimo49/articles/spec-driven-development-7-pitfalls",
+    "summary": "仕様駆動開発（SDD）は、理想とは裏腹に現場で頓挫しやすいという課題を抱えています。この記事は、SDDの実践が失敗に終わる具体的な7つの落とし穴を指摘しています。そして、これらの共通の課題を克服し、SDDを効果的に導入・運用するための段階的な対策を提示しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-08T07:12:30.591748"
+  },
+  {
+    "source": "Qiita",
+    "title": "家計簿アプリにCSVエクスポート機能を実装した【改修記録⑤】",
+    "link": "https://qiita.com/Tueno-96/items/b0e45cbadb42de9a2b2e",
+    "summary": "家計簿アプリ「シンプル家計簿」に、ブラウザに保存された家計データをCSVファイルとしてエクスポートする機能が実装されました。ユーザーはアプリ内の「📥 CSV」ボタンから「今月のデータ」または「全データ」を選択してダウンロードできます。\n\nエクスポートされるCSVはBOM付きUTF-8形式で出力されるため、Excelで開いても文字化けすることなく利用可能です。この機能は、同アプリの「改修記録⑤」として追加されたものです。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-08T07:12:39.558365"
+  },
+  {
     "source": "ITmedia",
     "title": "ChatGPTがシェア4割を切る　急伸するClaude、安定のGemini――生成AI三極化の兆し",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-04-18T22:24:38.603350"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "本体もプラグも薄型でUSB-A・Cあわせて5台同時充電可能な電源タップ「700-TAP092BK」",
-    "link": "https://gigazine.net/news/20260418-sanwa-supply-700-tap092bk-review/",
-    "summary": "サンワサプライの電源タップ「700-TAP092BK」は、多機能化で大型化しがちな従来の傾向に対し、本体部分の薄さ18mmというコンパクトさが特徴です。\nこの製品は、AC×2口、USB-A×1口、USB-C×2口を搭載しており、合計5台の機器を同時に充電できます。薄型設計でありながらUSB-AとUSB-Cの両方に対応し、高い利便性を提供します。記事では、その実用性を検証するために実際に試用されたと述べています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-18T06:54:24.167528"
-  },
-  {
-    "source": "Zenn",
-    "title": "人狼ゲームからECサイトへ — L3フルパイプラインとQDHEの構造的盲点",
-    "link": "https://zenn.dev/belka_dolphin/articles/fa86d28d510a40",
-    "summary": "ご提示いただいたのは記事のタイトルのみですので、内容を直接要約することはできません。しかし、タイトルから推測される主要なポイントは以下の通りです。\n\nご提示いただいたタイトルのみに基づくと、この記事は「人狼ゲーム」のようなシンプルなシステム開発の考え方を「ECサイト」のような複雑なシステムへ適用する際の課題に焦点を当てていると推測されます。具体的には、「L3フルパイプライン」や「QDHE」といった特定の開発アプローチやフレームワークが抱える「構造的盲点」を指摘しているようです。これは、これらの技術的・構造的アプローチが、異なるドメイン（ゲームとEC）間でのシステム移行や大規模化において、見落とされがちな問題や非効率性を生み出す可能性を示唆しています。記事は、表面的な効率性だけでなく、より深いレベルでの設計上の課題に警鐘を鳴らしていると考えられます。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-18T06:54:36.974065"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI駆動開発時代にエンジニアに求められるスキルを考えてみた",
-    "link": "https://qiita.com/nAotO01_03/items/563abb3490dcc4f5cdf0",
-    "summary": "この記事は、AI駆動開発時代にエンジニアに求められるスキルについて考察しています。筆者は「AI-DLC（AI-Driven Development Lifecycle）」という手法を用いて開発を行っており、その概要を説明しています。AI-DLCは、要件定義から設計まで開発全般をAIが主導し、人間はAIが策定した計画や方針を判断・承認する形で進められるのが特徴です。記事はこのAI駆動開発の現状を踏まえ、この時代にエンジニアに求められるスキルについて論じようとしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-18T06:54:45.191903"
   }
 ]
