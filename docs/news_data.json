@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20260509-affine/",
+    "summary": "「AFFiNE」は、Notionのように文書やデータベースを整理する機能と、Miroのように図や付箋を自由に配置できる無限キャンバスを統合した、新しい知識管理ツールです。これはオープンソースで無料で利用可能であり、特にセルフホストに対応している点が特徴です。これにより、ユーザーは自分専用の知識データベースを柔軟に構築し、管理することができます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-09T07:29:08.105300"
+  },
+  {
+    "source": "Zenn",
+    "title": "💰Praxia × 投資業務 — VC ジュニアが 1 週間に 30 件の DD を回す",
+    "link": "https://zenn.dev/gen99/articles/5bd831f47ae528",
+    "summary": "Praxiaの投資業務に焦点を当てたこの記事では、VCジュニアが驚異的なスピードでデューデリジェンス（DD）を進めている実態が明かされています。具体的には、経験の浅い担当者がわずか1週間で30件ものDDをこなしているという高いパフォーマンスが報告されています。この数字は、Praxiaにおける非常に効率的な業務体制と、VCジュニアの高い能力を示唆しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-05-09T07:29:17.145385"
+  },
+  {
+    "source": "Qiita",
+    "title": "画像の解像度を上げるAIツールUpscaylを使った時の記録",
+    "link": "https://qiita.com/megumin_001/items/3d2108b5f27c637c23ed",
+    "summary": "筆者は、Geminiで生成したWebアプリ用画像の解像度が低いという問題に直面し、その解決策としてAIツール「Upscayl」を導入しました。Upscaylは、AIアルゴリズムを用いて低解像度画像を拡大・補正するオープンソースのツールです。まずWeb版の無料トライアルで試用し、これは10回まで機能を利用できます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-09T07:29:24.212295"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ",
     "link": "https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/",
     "summary": "2026年5月8日、任天堂はNintendo Switch 2を含む製品およびサービスの値上げを発表しました。中でも、Nintendo Switch 2の日本語・国内専用版は、2026年5月25日より希望小売価格が1万円値上げされ、5万9980円になります。ただし、マイニンテンドーストアで販売される多言語対応版の価格は据え置かれます。",
@@ -1321,32 +1348,5 @@
     "category": "クラウド・インフラ",
     "content_type": "news",
     "collected_at": "2026-04-19T07:04:23.311588"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アニメ『Re:ゼロから始める異世界生活 4th season』と鳥取県が砂丘同盟を締結、キャストらと平井知事による調印を見届けてきた",
-    "link": "https://gigazine.net/news/20260419-rezero-tottori/",
-    "summary": "アニメ『Re:ゼロから始める異世界生活 4th season』と鳥取県が「砂丘同盟」を締結し、2026年4月19日からコラボスタンプラリーを開始すると発表しました。鳥取砂丘ビジターセンターで開催されたプレス発表会には、平井伸治鳥取県知事、ナツキ・スバル役の小林裕介さん、エミリア役の高橋李依さんら主要キャスト、そしてオープニングテーマ担当の鈴木このみさんが登壇しました。登壇者は、好評放送中のアニメと鳥取県のコラボキャンペーンや地域の魅力について語り合いました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-19T07:04:31.471649"
-  },
-  {
-    "source": "Zenn",
-    "title": "ChatGPTが自信満々に嘘をつく\"本当の理由\" — OpenAIの論文でわかってました",
-    "link": "https://zenn.dev/koji_ai_lab/articles/5e0182282a8546",
-    "summary": "提供された記事の内容はタイトルのみであるため、タイトルから推測される内容を要約します。\n\nこのタイトルは、ChatGPTが自信満々に誤った情報（嘘）を生成する現象の「本当の理由」を解明する記事であることを示唆しています。その理由が、OpenAIの発表した論文によって既に明らかにされている、と強調されています。記事では、AIが誤情報をあたかも事実であるかのように提示するメカニズムや背景について深く掘り下げていると考えられます。具体的な数字はタイトルからは読み取れませんでした。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-19T07:04:43.435463"
-  },
-  {
-    "source": "Qiita",
-    "title": "【衝撃】49体のAIが同時にゲームを作る時代が来た！Claude Code Game Studiosで個人開発者がAAAスタジオに勝てる理由",
-    "link": "https://qiita.com/emi_ndk/items/e4c1fbad2bf2f73c5091",
-    "summary": "「Claude Code Game Studios」は、個人開発者が数百人規模のAAAゲームスタジオに匹敵するゲームを一人で制作することを可能にする画期的なオープンソースプロジェクトです。2026年4月18日にGitHubで公開されたこのプロジェクトは、**49体の専門AIエージェント**と**72種類のワークフロースキル**を用いて、本物のスタジオのような組織構造でゲーム開発をシミュレートします。\n\nこのAIスタジオシミュレーターは、ディレクターからスペシャリストまでAIが連携することで、従来のゲーム開発の常識を覆します。すでにGitHubコミットの**4%**をClaude Code製が占めるなど、AIエージェント群による開発が急速に拡大しており、年末には20%超に達すると予測されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-19T07:04:51.940158"
   }
 ]
