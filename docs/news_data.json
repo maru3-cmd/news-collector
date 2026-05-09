@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "「執筆に生成AIを使った疑い」で大手出版社がホラー小説の出版を中止、この騒動が意味するAI執筆と出版の問題とは？",
+    "link": "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/",
+    "summary": "ミア・バラード氏のホラー小説『Shy Girl(シャイ・ガール)』は、大手出版社アシェット・ブック・グループによるアメリカでの出版が予定されていましたが、執筆に生成AIが使われた疑いが持ち上がったため、出版が中止されました。この騒動は、AI執筆技術と出版業界の間に存在する問題を浮き彫りにしています。リバプール大学のナタリー・ウォール氏が、この件が意味するAIと出版の問題について解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-09T22:33:31.186917"
+  },
+  {
+    "source": "Zenn",
+    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+    "summary": "この記事は、人間がMarkdownを手動で作成・修正する機会が減少する時代に焦点を当てています。その中で、「Claude Code hook」という技術が注目されており、ドキュメント生成プロセスの自動化を推進します。具体的には、この技術はドキュメントを自動的に、より洗練された「ファンシーHTML」形式に変換することが可能です。これにより、ドキュメント作成の効率化と品質向上が同時に実現されると示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-09T22:33:39.602177"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIエージェントの「未完了タスク」をどこに書くか：working-memory.md 運用設計",
+    "link": "https://qiita.com/Tadashi_Kudo/items/2fc110e5aeb34985acf9",
+    "summary": "AIエージェントを長期運用する際、セッションをまたいで共有したいがまだ確定していない「未完了タスク」の情報をどこに置くかが課題となります。これは、途中まで進めたETLジョブIDや、DBクレデンシャルの疑義、時限タスクといった多様な情報に及びます。\n\n既存の`CLAUDE.md`のような場所では情報が永続化しすぎ、Daily Noteでは埋もれてしまう問題があります。筆者らはこの問題を解決するため、1年弱の試行錯誤の末、**`memory/working-memory.md`**という一時バッファを設ける運用にたどり着きました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-09T22:33:46.998261"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能",
     "link": "https://gigazine.net/news/20260509-affine/",
     "summary": "「AFFiNE」は、Notionのように文書やデータベースを整理する機能と、Miroのように図や付箋を自由に配置できる無限キャンバスを統合した、新しい知識管理ツールです。これはオープンソースで無料で利用可能であり、特にセルフホストに対応している点が特徴です。これにより、ユーザーは自分専用の知識データベースを柔軟に構築し、管理することができます。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-04-19T22:25:12.151015"
-  },
-  {
-    "source": "Zenn",
-    "title": "Copilot CLI の reasoning effort xhighが使えない時に試した手順メモ",
-    "link": "https://zenn.dev/wcd/articles/145b4804e25e7e",
-    "summary": "提供された記事は「Copilot CLI の `reasoning effort xhigh` が使えない時に試した手順メモ」というタイトルで、Copilot CLIの特定の推論オプションが機能しない場合の対処法をまとめたものです。\n\nこの`reasoning effort xhigh`は通常、Copilot CLIの応答の質を高めるためにより高度な推論処理を適用する設定を指します。しかし、提示された情報には、具体的な手順、試された解決策、または関連する数値などの詳細な内容は含まれていません。そのため、現状では記事の具体的な要約はできません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-19T22:25:24.474160"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエージェント時代の「ファイルシステム終焉」論——Oracle AI Database 26ai",
-    "link": "https://qiita.com/Tadashi_Kudo/items/27872b7e46362edb433a",
-    "summary": "Oracle Database 26aiは、AIエージェント時代のデータ管理における「ファイルシステム終焉」論を提示し、従来のファイル保存方法が2026年以降も最適かという問いに答えます。2025〜2026年にリリースされるこの新バージョンは、ドキュメント、画像、音声、テキストといった多様なデータをデータベースに直接格納することを可能にします。\n\nさらに、LLM、ベクトル検索、SQLを同一トランザクション内で扱い、AI機能を「ファーストクラスの市民」として統合することで、AIが主役となる未来のデータ管理の効率性と統合性を大幅に向上させることを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-19T22:25:34.388284"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OracleとAWSがマルチクラウド接続で協業　OCIとAWS間の連携を強化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/19/news009.html",
-    "summary": "OracleはAWSと協業し、OCIとAWS間の専用接続を拡張することで、マルチクラウド接続を強化すると発表しました。この連携により、顧客は両クラウド間でより高速かつ安全にアプリケーションを実行し、データを移動できるようになります。これにより、AI活用と全体的な運用効率の向上を促進することを目的としています。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-04-19T07:04:23.311588"
   }
 ]
