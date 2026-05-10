@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「え、就職の面接官がAIだって？」　普及する“AI面接官”への困惑と改善要望【調査】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html",
+    "summary": "米国での調査によると、「AI面接官」による面談は普及しており、回答者の63%が既に経験しています。AI技術の活用自体に拒否感を示す意見は少ないものの、その運用面においては改善要望が多数寄せられています。記事では、求職者が求める具体的な改善点や、AI面接官を導入する企業が直面するデメリットについて考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-10T07:51:45.293798"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ドローンの空撮映像をリアルタイムでVRゲーム風に表示できるゴーグル型デバイス「DJI Goggles N3」レビュー",
+    "link": "https://gigazine.net/news/20260510-dji-goggles-n3/",
+    "summary": "「DJI Goggles N3」は、DJI製ドローンと連携し、カメラで撮影中の空撮映像をリアルタイムで目の前に映し出すゴーグル型のヘッドマウントディスプレイです。このデバイスにより、ユーザーはまるでVRゲームをプレイしているかのように、没入感のある体験でドローンを操縦できます。この記事では、このユニークなデバイスを実際に室内で試用したレビューが紹介されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-10T07:51:52.658016"
+  },
+  {
+    "source": "Zenn",
+    "title": "静的サイトジェネレータでMarkdownをそのままHTML化する",
+    "link": "https://zenn.dev/ma_me/articles/c46965700864a6",
+    "summary": "この記事は、静的サイトジェネレータがMarkdown形式で記述されたコンテンツを直接HTMLに変換する機能について解説しています。これにより、ユーザーは複雑なコーディングを必要とせず、Markdownで作成した記事やページをそのままウェブサイトとして公開できます。このプロセスは、コンテンツ作成の簡素化とサイト構築の効率化に大きく貢献します。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-10T07:52:01.455002"
+  },
+  {
+    "source": "Qiita",
+    "title": "【OSS化】「源内」について【ガバメントAI】",
+    "link": "https://qiita.com/mkt_tmng/items/5fafec6374f4bc8c61eb",
+    "summary": "デジタル庁が開発・運用するガバメントAI「源内（GenAI）」が、2026年4月24日にオープンソースソフトウェア（OSS）として公開されました。これは、行政職員が安全に生成AIを活用し、日常業務の効率化と質の向上を目指すための基盤です。源内は、政府の業務でAIを簡単かつ安全に利用できる環境を提供することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-10T07:52:09.591233"
+  },
+  {
     "source": "GIGAZINE",
     "title": "「執筆に生成AIを使った疑い」で大手出版社がホラー小説の出版を中止、この騒動が意味するAI執筆と出版の問題とは？",
     "link": "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-20T07:46:40.772739"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Claude Opus 4.7でトークン消費量がどれだけ増えたか可視化するサイトが登場、同じ入力で4.6の2倍消費する実例も",
-    "link": "https://gigazine.net/news/20260420-claude-opus-4-7-token-cost/",
-    "summary": "2026年4月16日に登場した「Claude Opus 4.7」ではトークナイザーに変更があり、前世代モデルに比べてトークン消費量が増加したという報告が相次いでいます。\nこのトークン消費量の変化を可視化し、Claude Opus 4.6と比較できるウェブサイト「Tokenomics」が登場しました。\n同サイトでは、同じプロンプトを入力した場合にOpus 4.7がOpus 4.6の2倍のトークンを消費する実例なども確認できます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-20T07:46:51.341861"
-  },
-  {
-    "source": "Zenn",
-    "title": "『AI補助金・助成金ファインダー』政府AI補助金7制度・採択率推移・予算1兆2,390億円をインタラクティブ可視化した設計メモ",
-    "link": "https://zenn.dev/ai_japan_index/articles/cdf0b317e97894",
-    "summary": "「AI補助金・助成金ファインダー」は、政府が提供するAI関連の補助金・助成金に関する情報をインタラクティブに可視化したツールです。\nこのツールは、現在利用可能な7つの制度を対象とし、総額1兆2,390億円に及ぶ予算や各制度の採択率の推移をデータとして提供しています。\nこれにより、利用者は複雑な補助金情報を効率的に把握し、最適な制度を見つけられるよう設計されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-20T07:47:00.373156"
-  },
-  {
-    "source": "Qiita",
-    "title": "『『AI補助金・助成金ファインダー』』政府AI補助金データ（7制度・採択率推移）をWordPressで可視化してみた",
-    "link": "https://qiita.com/AI-Japan-Index/items/015740a9a56eb6d656d6",
-    "summary": "本記事は、政府のAI関連補助金7制度について、補助額比較、採択率推移、政府予算推移のデータをWordPress上でD3.js v7を用いて可視化する手法を解説しています。D3.jsを使った描画手順に加え、WordPressにD3.jsを組み込む際のCDNタグ禁止などの3つの必須対応や、異なる出典のデータを統合する際の注意点が示されています。実際に動作する「AI補助金・助成金ファインダー」で、その可視化ツールを確認できます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-20T07:47:08.512302"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "音楽聴き放題サービス「Spotify」は著作権侵害から始まった",
-    "link": "https://gigazine.net/news/20260420-spotifys-beta/",
-    "summary": "海賊版ライブラリAnna's Archiveが音楽ストリーミングサービスSpotifyのコンテンツを無断収集したことで、Spotifyと大手レコード会社3社から提訴されました。その結果、Anna's Archiveには3億2220万ドル（約510億円）もの賠償命令が下されています。この一件が話題となったことで、Spotify自体もかつて著作権侵害の状態からサービスを開始したという過去が改めて注目を集めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-19T22:25:12.151015"
   }
 ]
