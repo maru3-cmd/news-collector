@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Anthropicが事業戦略を一挙公開　中堅企業支援の新会社設立、金融特化エージェント、SpaceX提携まで",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news013.html",
+    "summary": "Anthropicは、中堅企業へのAI導入を支援する新会社を設立し、金融特化型エージェントを発表するなど、幅広い事業戦略を公開しました。Microsoft 365との連携を強化し既存業務へのAI導入を促すとともに、SpaceXとの提携を通じてAI開発に必要な計算資源を確保します。これらの取り組みにより、Anthropicはインフラと業務の両面から自社のAI「Claude」の普及を強力に推進していく方針です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-11T08:52:50.110043"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "肉5枚＆チーズ8枚で1856kcalの横綱級バーガー「二代目ベビーボディーバーガー」がバーガーキングに期間限定登場したので食べてみた",
+    "link": "https://gigazine.net/news/20260511-burgerking-baby-body-nidaime/",
+    "summary": "バーガーキングから期間限定で、ビーフパティ5枚とチェダーチーズ8枚を挟んだ大型バーガー「二代目BABY BODY BURGER(ベビーボディーバーガー)」が2026年5月1日に登場しました。この「横綱級バーガー」は、総重量661g、総カロリー1856kcalという圧倒的なボリュームが特徴です。記事では、その迫力と味を確かめるべく実際に試食したレポートが掲載されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-11T08:52:57.687372"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code スキルで 3 媒体投稿を 3 リポ構成にした設計録",
+    "link": "https://zenn.dev/aiandao/articles/three-repo-blog-skill-design-20260506",
+    "summary": "この記事は、Claude Codeスキルを活用し、3つの異なる媒体へ投稿するシステムを設計した記録です。具体的には、効率的な運用を目指してシステムが3つのリポジトリ構成で構築されました。本記録は、AIのコード生成能力を用いた開発プロセスや、その設計思想を詳しく解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-11T08:53:07.809517"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
+    "link": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8",
+    "summary": "AIアシスタントはpandasコードの生成を容易にしましたが、実務で利用するには「動くけれど遅い」「メモリを食う」「結果が怪しい」といった「静かな地雷」が混じっていることが多いと指摘されています。この記事では、AIが生成したpandas/NumPyコードの中から、特に注意すべき10のパターンを具体例とともに紹介。それぞれの危険性と、より効率的・正確な修正方法を解説し、開発者がAI生成コードを盲目的に使用するリスクを警告しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-11T08:53:15.722893"
+  },
+  {
+    "source": "ITmedia",
     "title": "あなたのパスワードは何分耐えられる？　解析速度上昇で「8文字パスワード」はほぼ無力に",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/11/news036.html",
     "summary": "Kasperskyの分析によると、2023年から2026年に流出した2億3100万件のパスワードのうち、約半数が1分未満で、そして6割が1時間未満で解読可能であることが判明しました。これは解析速度の著しい向上によるもので、現在では8文字のパスワードはほぼ無力な状態とされています。この結果は、パスワードの強度を見直すことの緊急性を示唆しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-04-21T07:18:41.238505"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "OpenAIのパートナーがChatGPT内広告の掲載枠の販売を開始",
-    "link": "https://gigazine.net/news/20260421-stackadapt-playbook-chatgpt-ads/",
-    "summary": "OpenAIは2026年1月にChatGPT内での広告表示を発表し、同年2月には広告のテストを開始しました。広告関連メディアのADWEEKは、広告主向けにChatGPT内広告を提供する広告企業のプレゼンテーション資料を独自に入手。これは、パートナー企業を通じてChatGPTのプラットフォーム内で広告枠が販売され始めていることを示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-21T07:18:49.129721"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI が設計して、AI が強度検証する — Kiro × FreeCAD FEM でロボットアームCAE構造解析",
-    "link": "https://zenn.dev/aws_japan/articles/a5cd987ecb59ff",
-    "summary": "この取り組みでは、AIがロボットアームの設計を行い、さらにその強度検証もAI自身が行う革新的なCAE構造解析が実施されました。具体的には、設計にAIツール「Kiro」が、強度検証にはオープンソースの「FreeCAD FEM」が活用されています。これにより、設計から検証までの一連のプロセスをAIが自動化し、効率的かつ高精度なロボットアーム開発への貢献が示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-21T07:18:56.977224"
-  },
-  {
-    "source": "Qiita",
-    "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
-    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
-    "summary": "この記事は、2025年3月にベータ公開が始まったばかりのClaude Codeの入門ガイドです。\n\n「乗り遅れたかも」と感じているエンジニアを対象に、今から始めても最前線を体験できるほど活発に機能が追加されている本ツールの魅力を解説します。インストールと基本操作から、CLAUDE.md、Plan Mode、Skill、Hooks、MCPといった主要機能、さらに最近の追加機能まで網羅的に紹介しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-21T07:19:05.347004"
-  },
-  {
-    "source": "ITmedia",
-    "title": "VMware移行市場に起きた“変化”　大手3社の事例から見るインフラ刷新の実態",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/21/news020.html",
-    "summary": "BroadcomによるVMware買収後のライセンス体系変更を受け、多くの企業が仮想化基盤の再検討を始めています。この動きを背景に、Nutanixの自社イベントでは、VMwareからの移行を実際に進めた業種の異なる大手3社の事例が紹介されました。これらの企業は、インフラ刷新の具体的な背景と実態を共有し、市場で起きている変化を示しました。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-04-20T22:34:27.603083"
   }
 ]
