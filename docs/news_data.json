@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "管理ソフトに保存するパスワード数が減少傾向　NordPassの2026年調査",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/12/news031.html",
+    "summary": "NordPassの2026年調査によると、管理ソフトに保存される平均パスワード数が減少傾向にあることが明らかになりました。この減少の主な背景には、SSO（シングルサインオン）や生体認証、そしてパスキーといった新しい認証技術の普及が挙げられています。これらの技術が広く利用されることで、個別に管理するパスワードの必要性が低下していると考えられます。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-05-11T22:45:07.497499"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "原子1個分の隙間が次世代半導体開発の障壁に",
+    "link": "https://gigazine.net/news/20260512-atomic-gap-materials/",
+    "summary": "ウィーン工科大学の研究により、次世代の超小型コンピューターチップへの応用が期待される二次元材料が、実際のデバイスでは予期せぬ制約を受けることが判明しました。この問題は、材料と絶縁層の間に生じる、約0.14ナノメートルという原子レベルの極めて微細な隙間です。このごく小さな隙間が、半導体デバイスのさらなる小型化を妨げる新たな障壁となり得るとのことです。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-05-11T22:45:17.163116"
+  },
+  {
+    "source": "Zenn",
+    "title": "CodexでWebサイト制作の工程が逆転し始めている話",
+    "link": "https://zenn.dev/time20260320/articles/e0f8e48c40f566",
+    "summary": "Codex（GPT-3ベースのAIプログラマー）の登場により、Webサイト制作の工程に大きな変革が起きています。従来はデザイン後に人間がコードを記述していましたが、現在では自然言語での指示をAIが直接コードに変換することで、このプロセスが「逆転」し始めている状況です。\n\nこれにより、プログラマーはコード作成そのものよりも、AIへの適切な指示出しや生成されたコードのレビュー、そしてより上流のデザインや企画といった創造的な作業に注力できるようになる可能性が示唆されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-11T22:45:26.248504"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.137〜v2.1.139 リリース｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/9a85125fe731e2fc306a",
+    "summary": "Claude Codeのv2.1.137からv2.1.139がリリースされ、特にv2.1.139で多くの新機能が追加されました。主な機能として、`claude agents` コマンドで全セッションを一覧表示する「agent view (Research Preview)」が導入されています。\n\nまた、`/goal` コマンドによりClaudeに完了条件を渡し、複数ターンにわたる作業継続が可能になりました。さらに、hookの`args: string[]` (exec form)によってシェル経由なしの直接spawnが実現し、パスのクオート問題が解消される改善も含まれています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-11T22:45:35.246767"
+  },
+  {
+    "source": "ITmedia",
     "title": "Anthropicが事業戦略を一挙公開　中堅企業支援の新会社設立、金融特化エージェント、SpaceX提携まで",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news013.html",
     "summary": "Anthropicは、中堅企業へのAI導入を支援する新会社を設立し、金融特化型エージェントを発表するなど、幅広い事業戦略を公開しました。Microsoft 365との連携を強化し既存業務へのAI導入を促すとともに、SpaceXとの提携を通じてAI開発に必要な計算資源を確保します。これらの取り組みにより、Anthropicはインフラと業務の両面から自社のAI「Claude」の普及を強力に推進していく方針です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-21T22:31:20.263425"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "生きた植物や骨に直接電子回路を印刷できる3Dプリンティング技術が開発される",
-    "link": "https://gigazine.net/news/20260422-3d-printing-meta-nfs-electronics/",
-    "summary": "アメリカのライス大学の研究チームは、生きた植物や骨に直接電子回路を印刷できる新しい3Dプリンティング技術を開発しました。これまでの3Dプリンターが温度に敏感な物体上での加熱に課題を抱えていたのに対し、この技術はマイクロ波をリアルタイムで調整して3Dプリントされたナノ材料やポリマーを加熱します。これにより、従来は不可能だった対象物へ回路を形成できるようになり、医療やバイオ分野での新たな応用が期待されます。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-21T22:31:29.694641"
-  },
-  {
-    "source": "Zenn",
-    "title": "SKILL.mdとは？Claude Codeを10倍強化するAIエージェントスキルの仕組みを解説",
-    "link": "https://zenn.dev/skillmd_ja/articles/1b27d53821e46d",
-    "summary": "申し訳ありませんが、記事のタイトル「SKILL.mdとは？Claude Codeを10倍強化するAIエージェントスキルの仕組みを解説」のみが提供されており、**記事本文の内容がありません**。\n\n記事本文がないため、その内容を要約することはできません。もしよろしければ、記事の本文をここに貼り付けていただければ、要約を作成いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-21T22:31:35.800824"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年4月22日",
-    "link": "https://qiita.com/ishisaka/items/6e50d0ee5585f2820c9f",
-    "summary": "2026年4月22日の記事によると、GitHubは2026年4月20日付けでCopilotの個人有償使用の新規受付を停止し、Anthropicモデルの使用も制限しました。これは推論のための計算資源の調達が困難になっているためとみられ、同様の状況が他のAIサービスにも波及する可能性が指摘されています。また、日本でもChromeにGoogle Geminiが導入される見込みであることにも触れられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-21T22:31:46.952783"
-  },
-  {
-    "source": "ITmedia",
-    "title": "インシデント発生時、1時間当たりの損失額は？　日本企業の損害が大きい背景【調査】",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/21/news050.html",
-    "summary": "ある調査によると、インシデント発生時に1時間あたり50万ドル以上の損失を被る日本企業の割合は43%に達します。これは米国企業の31%や世界全体の34%を大きく上回る突出した数値です。\n\nこの結果から、日本企業が他国と比較してサイバーインシデントによる損害が大きい実態が明らかになりました。現在、なぜこれほどの差が生じているのか、その背景にある要因に注目が集まっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-21T07:18:41.238505"
   }
 ]
