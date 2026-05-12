@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "IBM、企業のAI基盤構築を推進　独自エージェント構築や他社連携を強化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news026.html",
+    "summary": "IBMは、企業独自のAI基盤構築を支援する「IBM Enterprise Advantage」の拡充を発表しました。この取り組みにより、企業固有の業務文脈を反映するAIエージェントの構築を支援し、AWSやSAPとの連携も強化します。既にPearsonとProvidenceが導入し、その成果を上げています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-12T22:52:11.534058"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "1980年代まで肉や砂糖が配給制だったポーランドが世界経済大国トップ20に名を連ねた理由とは？",
+    "link": "https://gigazine.net/news/20260513-poland-economy-growth-worlds-20th/",
+    "summary": "ポーランドは、1980年代まで肉や砂糖、小麦などの必需品が配給制だった旧共産主義国家です。しかしその後、目覚ましい経済成長を遂げ、現在では世界経済大国トップ20に名を連ねるまでになりました。AP通信は、同国がどのようにしてこの経済的躍進を実現したのかを詳しくまとめています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-12T22:52:21.390194"
+  },
+  {
+    "source": "Zenn",
+    "title": "なぜIoTだけが「自作」され続けるのか？ —— AI時代の成否を分けるアーキテクチャの「新常識」",
+    "link": "https://zenn.dev/cumulocity/articles/bae321b7d3a453",
+    "summary": "申し訳ございませんが、ご提示いただいたのは記事のタイトルのみで、**記事の内容が提供されておりません**。\n\n記事の具体的な内容がなければ、その要点を把握し、3-4文で簡潔に要約することはできません。\n\nお手数ですが、記事の本文をご提供いただけますでしょうか。内容を拝見できれば、重要なポイントや数字を含めて要約いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-12T22:52:27.629112"
+  },
+  {
+    "source": "Qiita",
+    "title": "MCP Appsの設計思想：なぜ「標準化」がAIエージェントの未来を変えるのか",
+    "link": "https://qiita.com/jjking/items/34e121eb56c4df882a0c",
+    "summary": "AIエージェント開発では、各モデルが個別のAPIコードを持つ「断片化」という深刻な非効率性の問題に直面しています。この状況を解決するため、「Model Context Protocol（MCP）」が導入されました。\n\nMCPは、ツールとエージェント間のインターフェースと通信プロトコルを標準化することを設計思想としています。具体的には、サーバーとクライアント間でやり取りされるメッセージ形式を「JSON-RPC 2.0」に統一しました。\n\nこれにより、AIエージェントは特定のデータソース（データベースやGitリポジトリなど）の詳細な実装を知る必要がなくなり、開発の複雑さと手間が大幅に軽減されます。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-12T22:52:35.836889"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIエージェントなどを活用している企業の8割が「人減らし」　費用対効果に明暗の理由は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/12/news050.html",
     "summary": "ガートナーの調査によると、AIエージェントを活用して業務を自律化している組織の約80%が人員削減を進めています。企業は効率化やコスト削減を目指して人員を減らしていますが、この動きが必ずしも投資収益率（ROI）の向上に結びついているわけではないと指摘されています。つまり、AI導入による人員削減と費用対効果の間には明確な相関が見られないケースがあるということです。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-22T22:38:39.757846"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コーヒーメーカーとレゴを3Dプリンターで組み合わせて全自動コーヒーマシンを自作",
-    "link": "https://gigazine.net/news/20260423-building-a-lego-coffee-factory/",
-    "summary": "YouTubeチャンネル「Brick Machines」が、カプセル式コーヒーメーカーとレゴを3Dプリンターで組み合わせた全自動コーヒーマシンを公開しました。このマシンはマイコンと自作のスマートフォンアプリで制御され、完全に自動で動作します。さまざまなものをレゴで発明する同チャンネルならではの、創造的なプロジェクトとして注目を集めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-22T22:38:46.284184"
-  },
-  {
-    "source": "Zenn",
-    "title": "t_wada さんに直接聞く Q&A セッションが面白かったのでまとめた（TechLead Conf 2026）",
-    "link": "https://zenn.dev/nishiken_zenn/articles/t-wada-qa-at-techlead-conf",
-    "summary": "TechLead Conf 2026で開催されたt_wadaさんのQ&Aセッションについてまとめた記事です。\n筆者はこのセッションを非常に面白いと感じ、その内容を詳細に記しています。\n提供された情報からは具体的なQ&Aの内容や数値は読み取れませんが、セッションの魅力や要点がまとめられていると推測されます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-04-22T22:38:55.708201"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Codeのセッション使用率をターミナルに常時表示するstatusLineスクリプトの作り方",
-    "link": "https://qiita.com/hiranuma/items/793b49360d5d814a686f",
-    "summary": "この記事では、Claude Codeのセッション使用率をターミナルに常時表示する`statusLine`スクリプトの作成方法を解説しています。通常`/config`メニューの奥にある5時間枠と7日枠の使用率確認を簡素化するため、`statusLine`機能がJSON形式のセッション情報を約300msごとにイベント駆動で更新・表示します。このスクリプトはAPIトークンを消費せず、セッションと週間使用率をカラー付きプログレスバーで示すもので、WezTermをはじめとするANSIカラー対応ターミナルで動作します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-22T22:39:04.577511"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAI「ChatGPT Images 2.0」発表　日本語の高度なタイポグラフィが可能に",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/22/news095.html",
-    "summary": "OpenAIは、日本語の高度なタイポグラフィに対応した次世代画像生成モデル「ChatGPT Images 2.0」を発表しました。このモデルは、日本語を含むあらゆる言語において、これまで困難だったテキスト描写の精度を飛躍的に向上させます。さらに、複雑なレイアウトの再現や柔軟な編集機能も備えており、画像生成ツールの実用性を大幅に高めることが期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-22T07:17:01.036849"
   }
 ]
