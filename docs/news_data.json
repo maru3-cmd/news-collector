@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIエージェントなどを活用している企業の8割が「人減らし」　費用対効果に明暗の理由は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/12/news050.html",
+    "summary": "ガートナーの調査によると、AIエージェントを活用して業務を自律化している組織の約80%が人員削減を進めています。企業は効率化やコスト削減を目指して人員を減らしていますが、この動きが必ずしも投資収益率（ROI）の向上に結びついているわけではないと指摘されています。つまり、AI導入による人員削減と費用対効果の間には明確な相関が見られないケースがあるということです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-12T08:17:54.288877"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "バーガーキング「マッシュルームアグリーバーガー」試食レビュー、きのこの濃厚うま味＆サワークリームの爽やかさが絶妙マッチ",
+    "link": "https://gigazine.net/news/20260512-burgerking-mushroom-ugly/",
+    "summary": "バーガーキングの期間限定メニュー「マッシュルームアグリーバーガー」が2026年5月8日に登場しました。このバーガーは「4種チーズのクラフトバンズ」で直火焼きビーフパティと、エリンギ、ぶなしめじ、2種のマッシュルームを含む計4種類のきのこを挟んでいます。きのこの濃厚なうま味とサワークリームの爽やかさが絶妙にマッチし、特徴的な食感と食べ応えが楽しめる一品です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-12T08:18:02.568376"
+  },
+  {
+    "source": "Zenn",
+    "title": "SAP×AI時代の責任経路工学――ERP接続編",
+    "link": "https://zenn.dev/dantarg/articles/sap-ai-responsibility-pathway",
+    "summary": "この記事は、SAPとAIが融合する時代において、システムやプロセスの責任の所在を明確にする「責任経路工学」に焦点を当てています。特に、ERPシステムとの連携において、AIが介入する複雑な業務フローにおける責任の割り当てと追跡を工学的に設計することを探求します。\n\nこれは、AIの導入によって曖昧になりがちな意思決定や結果に対する説明責任を、明確な経路として確立することを目指しています。その目的は、AIを活用したシステム運用における信頼性とガバナンスを確保することにあります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-12T08:18:14.422675"
+  },
+  {
+    "source": "Qiita",
+    "title": "「ChatGPTの返答が薄い…」が解決する、たった1つのフレームワーク【業務別テンプレ付き】",
+    "link": "https://qiita.com/coreloopworks/items/a6b0a5c8342ca94be2e7",
+    "summary": "「ChatGPTの返答が薄い」という問題を解決するには、プロンプトに「役割（Role）」「目的（Goal）」「条件（Condition）」の**3つの要素**を必ず含めることが重要です。\n\nこの「3要素フレームワーク」は、AIが「どんな立場の人が、何のために、何を求めているか」を理解し、的外れで使えない回答ではなく、的確で質の高い返答をするためのものです。\n\nこれにより、ChatGPT、Claude、Geminiなど主要AIを効果的に活用できるようになり、記事では業務別のテンプレートも紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-12T08:18:22.498600"
+  },
+  {
+    "source": "ITmedia",
     "title": "管理ソフトに保存するパスワード数が減少傾向　NordPassの2026年調査",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/12/news031.html",
     "summary": "NordPassの2026年調査によると、管理ソフトに保存される平均パスワード数が減少傾向にあることが明らかになりました。この減少の主な背景には、SSO（シングルサインオン）や生体認証、そしてパスキーといった新しい認証技術の普及が挙げられています。これらの技術が広く利用されることで、個別に管理するパスワードの必要性が低下していると考えられます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-22T07:17:01.036849"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「CAP定理」や「マーフィーの法則」などソフトウェア開発におけるさまざまな法則をまとめたサイト「Laws of Software Engineering」",
-    "link": "https://gigazine.net/news/20260422-law-of-software-engineering/",
-    "summary": "「Laws of Software Engineering」は、ソフトウェア開発に関わる様々な法則を集約したウェブサイトです。このサイトでは、「CAP定理」や「マーフィーの法則」といった、開発者が直面する課題や概念を理解する上で重要な原則がまとめられています。これにより、ソフトウェアエンジニアは多岐にわたる法則を一覧で確認し、実務に役立てることが可能です。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-04-22T07:17:11.477915"
-  },
-  {
-    "source": "Zenn",
-    "title": "Opus 4.7 に移行するなら \"effort\" を理解してからにしよう",
-    "link": "https://zenn.dev/purpom/articles/claude-opus-4-7-effort-guide",
-    "summary": "この記事は、バージョン「Opus 4.7」への移行を検討している読者に対し、重要なアドバイスを提供しています。移行作業に取り掛かる前に、「effort」（努力や手間といった概念）を十分に理解しておくことの必要性を強調しています。これは、「effort」の理解が不足していると、移行プロセスで予期せぬ困難や問題が生じる可能性を示唆しています。したがって、スムーズな移行のためには事前の概念理解が鍵となると述べています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-04-22T07:17:21.350855"
-  },
-  {
-    "source": "Qiita",
-    "title": "【革命】AIが6時間自律コーディング！Anthropicの3エージェントHarnessが「放置開発」を実現した",
-    "link": "https://qiita.com/emi_ndk/items/facb4cecfd145f6d6c1a",
-    "summary": "Anthropicが「3-Agent Harness」アーキテクチャ（Planner、Generator、Evaluator）を開発し、AIによる長時間自律コーディングと「放置開発」を実現しました。従来の単一エージェントが20分で9ドル相当の「動かないゲーム」しか作れなかったのに対し、この3エージェント構成は6時間で200ドル相当の「完全に遊べるゲーム」を完成させることが可能になりました。これは、単一AIエージェントが長時間作業で直面するコンテキストの膨張や自己評価の甘さといった課題を、エージェントを分割し役割分担させることで解決した成果です。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-22T07:17:30.499392"
-  },
-  {
-    "source": "ITmedia",
-    "title": "自社のAIが攻撃者のアシスタントに？　「LLM Jacking」の深刻なリスク",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/22/news011.html",
-    "summary": "攻撃トレンドが「侵入からログイン」へ移行する中、「LLM Jacking」という、企業のAIリソースを乗っ取って悪用する新たな脅威が拡大しています。この攻撃は、単に高額な利用料を発生させるだけでなく、侵入先のRAG環境などを悪用することが特徴です。これにより、攻撃者は企業の機密情報を効率的に分析・奪取することが可能となり、AI時代の深刻なリスクとして注目されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-21T22:31:20.263425"
   }
 ]
