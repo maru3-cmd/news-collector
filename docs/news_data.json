@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Salesforce、Slack無償提供開始　CRMとAIを統合した「会話型UI」へ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news033.html",
+    "summary": "Salesforceは、新規顧客に対してSlack無償版の標準提供を開始すると発表しました。これにより、CRM連携やAI機能を初期状態から利用可能にし、営業と顧客対応の作業をSlack上で集約することを目指します。特に、Slackbotが記録更新、要約、通知整理といったAI機能を担うことで、生産性向上とCRMとAIを統合した「会話型UI」への移行を推進します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-13T08:28:31.886643"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ココナッツの甘い香りとロースト感のあるマカデミアナッツが南国を演出する「ハワイアンサンダー」試食レビュー",
+    "link": "https://gigazine.net/news/20260513-yurakuseika-hawaiian-thunder/",
+    "summary": "有楽製菓の「ブラックサンダー」シリーズから、新商品「ハワイアンサンダー」が2026年5月19日(火)に登場します。この商品は、香ばしくローストしたマカダミアナッツの豊かな風味と、ココナッツパウダー・ココナッツペーストを使った「Wココナッツ」のコクが特徴です。南国らしいやわらかな甘さとさわやかな味わいが楽しめるとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-13T08:28:38.954555"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI責任ノード――AIエージェントを責任経路で管理する",
+    "link": "https://zenn.dev/dantarg/articles/ai-responsibility-node",
+    "summary": "「AI責任ノード」は、AIエージェントの自律的な行動に対する責任の所在を明確にするための概念です。この記事は、AIエージェントが実行するタスクや決定を「責任経路」として管理し、その結果に対する責任を追跡する仕組みを提案しています。\nこれにより、AIの運用中に生じる予期せぬ結果や倫理的な問題に対し、誰が責任を負うべきかを明確にすることが主な目的です。これは、AIシステムの信頼性とアカウンタビリティを確保する上で重要なアプローチとなります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-13T08:28:48.809018"
+  },
+  {
+    "source": "Qiita",
+    "title": "日本語SNS投稿画像を60秒で作るAI画像生成ツールを作った話",
+    "link": "https://qiita.com/hazellin549/items/a48b5ce90d4122723ebd",
+    "summary": "個人開発者が、日本語のSNS投稿画像を約60秒で生成できるAI画像生成ツール「GPTImage2.jp」を開発しました。このツールは、Instagram投稿、商品紹介画像、YouTubeサムネイル、LINEのお知らせ画像など、様々な用途に対応した画像を日本語テンプレートから作成可能です。既存のAI画像生成ツールでは、画像自体は作れても、SNS投稿などにそのまま使える形にするまでに手間がかかるという課題を解決することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-13T08:28:56.383326"
+  },
+  {
+    "source": "ITmedia",
     "title": "IBM、企業のAI基盤構築を推進　独自エージェント構築や他社連携を強化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news026.html",
     "summary": "IBMは、企業独自のAI基盤構築を支援する「IBM Enterprise Advantage」の拡充を発表しました。この取り組みにより、企業固有の業務文脈を反映するAIエージェントの構築を支援し、AWSやSAPとの連携も強化します。既にPearsonとProvidenceが導入し、その成果を上げています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-23T07:19:13.760041"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "嵐の最中に葉の先端が光る「コロナ放電」が初めて自然界で観測される",
-    "link": "https://gigazine.net/news/20260423-corona-discharges-treetops-during-storms-captured/",
-    "summary": "長年の仮説であった「コロナ放電」が、嵐の際に樹木の葉の先端で発生する微弱な放電現象として、初めて自然界で観測されました。これは、これまで自然界での確認例がなかった現象です。\n\nアメリカ・ペンシルベニア州立大学の研究チームが、自動車に取り付けた特殊な装置を用いてこの現象を捉え、その観測を報告しました。この発見は、雷雨時の樹木における電気現象の理解を深めるものとなります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-23T07:19:24.252201"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェント時代の脱構築 — 開発フローにおける差延と痕跡について",
-    "link": "https://zenn.dev/mikana0918/articles/1a9b2cdc8acc37",
-    "summary": "申し訳ありませんが、提供された内容が記事のタイトルのみであるため、本文に基づいて要約することはできません。\n\nしかし、タイトル「AIエージェント時代の脱構築 — 開発フローにおける差延と痕跡について」からは、AIエージェントの開発プロセスにおける哲学的な「脱構築」の概念、具体的には時間的・空間的な遅延（差延）や、システム内に残される履歴やログ（痕跡）が重要なテーマとして扱われると推測されます。記事の本文を提供していただければ、詳細な要約を作成できます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-23T07:19:34.106791"
-  },
-  {
-    "source": "Qiita",
-    "title": "Midnight AI Groove 26-04-06",
-    "link": "https://qiita.com/masykot582/items/86d093f0323619f8fbba",
-    "summary": "Anthropicは、強力な新AIモデル「Claude Mythos Preview」を発表しました。このモデルは「Project Glasswing」を通じて一般公開されず、限られたパートナーのみに提供されます。AINewsが「GPT-2以来、危険すぎて一般公開できない」と評するほどの性能を持つためです。この戦略により、Anthropicの収益スケールが急浮上する可能性が指摘されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-23T07:19:41.409394"
-  },
-  {
-    "source": "ITmedia",
-    "title": "入力ミスによる情報流出を未然防止　Microsoft、Copilot入力文の保護機能を提供開始",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/23/news027.html",
-    "summary": "Microsoftは、「Microsoft 365 Copilot」のプロンプト入力時に機密情報のリアルタイム検知と処理停止を行う保護機能の一般提供を開始しました。この機能は、入力ミスなどによる情報流出を未然に防ぐことを目的としています。社内情報の利便性を維持しつつ、外部検索やAI処理による意図しない情報漏えいを防ぎます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-22T22:38:39.757846"
   }
 ]
