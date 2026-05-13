@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「遅れることは許されない」　NVIDIAファンCEOが断言する、AIエージェントによるビジネス構造の激変",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news007.html",
+    "summary": "NVIDIAのジェンスン・ファンCEOは、AIが検索・要約だけでなく、自律的にタスクを完遂するエージェントへと進化し、ビジネス構造が激変すると断言しています。彼はAdobeとの提携による制作自動化を例に挙げ、AIが人間の「伴走者」となり、新たな雇用と生産性のパラダイムシフトが起こると予測。ファンCEOは、この変化に「遅れることは許されない」と強調し、迅速な対応を促しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-13T22:56:38.243319"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "YouTubeがクリエイターとスポンサーの仲介役を務める方向へ収益化戦略を転換、NetflixやTikTokがクリエイターを引き抜こうとしまくっているのに対抗",
+    "link": "https://gigazine.net/news/20260514-youtube-creators-advertisers/",
+    "summary": "YouTubeは、NetflixやTikTokとのクリエイター獲得競争に対抗するため、収益化戦略を転換しています。これまでの動画公開後の広告収益分配ではなく、人気クリエイターと広告主を番組制作前の段階から直接結び付ける取り組みを強化。これにより、クリエイターのスポンサー探しを支援し、より大規模で高予算な番組制作を後押しする方針です。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-05-13T22:56:44.731183"
+  },
+  {
+    "source": "Zenn",
+    "title": "【第３回】Microsoft Agent Frameworkで学ぶAIエージェント設計原則：自然文パースを型契約で置き換える",
+    "link": "https://zenn.dev/naruaki/articles/af-design-03-structured-output",
+    "summary": "この記事は、Microsoft Agent Frameworkを題材にAIエージェント設計原則を解説しています。特に、エージェントがユーザーからの自然言語の指示を理解する際の曖昧さを解消するため、「自然文パース」を「型契約」で置き換えることを提唱しています。これにより、期待される入力や出力の構造を明確に定義し、エージェントの誤解を防ぎ、より堅牢で信頼性の高いシステム構築を目指すアプローチです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-13T22:56:52.298070"
+  },
+  {
+    "source": "Qiita",
+    "title": "次世代AIエージェント基盤：ローカルLLMとMCPを融合させた高セキュリティ環境の構築",
+    "link": "https://qiita.com/jjking/items/c755a025f8395002ea70",
+    "summary": "クラウド型LLMのプライバシーリスクに対処するため、ローカルLLMとMCP（Model Context Protocol）を融合させた次世代AIエージェント基盤が注目されています。これは、外部に依存しない高セキュリティなAIエコシステムを構築することを目的としています。MCPは、AIエコシステムにおける情報集約（コンテキスト）と処理（推論）の分離を標準化し、従来のRAGシステムで課題だったデータコネクタの実装を簡素化することで、AIアプリとデータソース間のセキュアな通信を実現します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-13T22:57:02.176365"
+  },
+  {
+    "source": "ITmedia",
     "title": "Salesforce、Slack無償提供開始　CRMとAIを統合した「会話型UI」へ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news033.html",
     "summary": "Salesforceは、新規顧客に対してSlack無償版の標準提供を開始すると発表しました。これにより、CRM連携やAI機能を初期状態から利用可能にし、営業と顧客対応の作業をSlack上で集約することを目指します。特に、Slackbotが記録更新、要約、通知整理といったAI機能を担うことで、生産性向上とCRMとAIを統合した「会話型UI」への移行を推進します。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-23T22:34:39.451424"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "寄せ集めパーツとAIエージェントで基板を撮影・マップ化してプロービングする自作環境「AutoProber」",
-    "link": "https://gigazine.net/news/20260424-autoprober-diy-flying-probe/",
-    "summary": "J-GainSec氏が、寄せ集めパーツとAIエージェントを活用した自作基板プロービング環境「AutoProber」をGitHubで公開しました。これは、小型のCNC工作機械、USB顕微鏡、オシロスコープなどを組み合わせて構築されています。AutoProberは、基板上のパッドやピンを正確に特定し、プロービングすることを可能にするシステムです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-23T22:34:46.996762"
-  },
-  {
-    "source": "Zenn",
-    "title": "Gemini「パーソナル インテリジェンス」で実現する、データ移動不要の“自己最適化”ライフ",
-    "link": "https://zenn.dev/hokanco28/articles/858f2d54866d60",
-    "summary": "GoogleのGeminiは「パーソナル インテリジェンス」という概念を通じて、個人の生活を“自己最適化”することを目指しています。この技術の最大の特徴は、ユーザーのデータをデバイス間で移動させることなく、各情報源を横断的に連携・分析できる点です。これにより、プライバシーを保護しつつ、個々のニーズに合わせた最適な情報やサービスを自律的に提供し、より効率的でパーソナライズされたライフスタイルの実現を可能にします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-23T22:34:55.191665"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Designでデザインシステムを作ってみた",
-    "link": "https://qiita.com/CoboMemo/items/c006d34853edbcece44e",
-    "summary": "本記事では、AIを活用したUI設計・プロトタイピングツール「Claude Design」を用いてデザインシステムを構築した事例を紹介しています。Claude DesignはAnthropicのAIアシスタントClaudeを核とし、テキスト指示だけでHTMLベースのインタラクティブなプロトタイプやデザインシステムを生成可能です。\n\nコード不要でUIコンポーネントを生成でき、リアルタイム調整が可能な「Tweaksパネル」やGitHubリポジトリとの連携といった特徴を持ちます。フロントエンドエンジニアが実践的に活用できる内容がまとめられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-23T22:35:03.851163"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「『後回し業務』に時間を充てるな」　生成AIで成果が出ない企業にガートナーが提言",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/23/news035.html",
-    "summary": "生成AIの導入から2～3年が経過しても、多くの企業が期待通りのROIを得られていない現状があります。これは、個人の作業時間が短縮されても、それが組織全体の成果に繋がっていないことが主な課題です。ガートナーは、このような状況に対し、生成AIを「後回し業務」に充てるべきではないと提言し、導入企業の成果が出ない原因について指摘しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-23T07:19:13.760041"
   }
 ]
