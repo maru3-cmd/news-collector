@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "トヨタファイナンスがAIエージェントを問い合わせ対応業務に導入　「非定型業務」を自動化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/14/news030.html",
+    "summary": "トヨタファイナンスは、問い合わせ対応業務にAIエージェントを導入しました。これにより、「非定型業務」の自動化を図っています。導入の結果、1件あたり13分かかっていた作業時間を4分にまで大幅に短縮することに成功しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-14T08:23:02.813522"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「あなたの忍者に関する知識はすべて間違っている」と題した動画を海外で人気の科学系YouTubeチャンネルKurzgesagtが公開",
+    "link": "https://gigazine.net/news/20260514-ninja-image/",
+    "summary": "海外で人気の科学系YouTubeチャンネルKurzgesagtが、「あなたの忍者に関する知識はすべて間違っている」と題したアニメーション動画を公開しました。この動画は、世界的に知られる「忍者」の歴史について掘り下げ、一般的に信じられている忍者像に誤りがあることを示唆しています。科学系の情報を分かりやすく伝える同チャンネルが、アニメーションを通じて忍者の実像を歴史的観点から解説しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-14T08:23:11.326684"
+  },
+  {
+    "source": "Zenn",
+    "title": "Letting AI Run Your CAD — STEP Generation to FreeCAD with Kiro",
+    "link": "https://zenn.dev/aws_japan/articles/051fb7bbd1fdd8",
+    "summary": "この記事は、AIを活用してCADソフトウェアの操作を自動化する革新的なアプローチを紹介しています。具体的には、AIがSTEPファイルの生成プロセスを実行し、オープンソースのCADソフトウェアであるFreeCADと連携させることが焦点です。このAI駆動型CADシステムの中核を成すのは「Kiro」というツールであり、設計ワークフローの大幅な効率化と革新を目指します。これにより、エンジニアリングプロセスの加速と新たな設計可能性の開拓が期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-14T08:23:19.710608"
+  },
+  {
+    "source": "Qiita",
+    "title": "Next.js + Groq Whisper + Claude APIで議事録自動生成SaaSを個人開発した",
+    "link": "https://qiita.com/AokiYuwa/items/0836f709694213e27064",
+    "summary": "個人開発者が、手書きの議事録作成の手間を解消するため、音声録音からAIで議事録を自動生成するWebサービス「しゃべメモ」を開発しました。\n\nこのサービスは、Groq APIのWhisper large-v3で音声を文字起こしし、Anthropic Claude APIを用いて議事録を生成します。フロントエンドにはNext.js 16を採用し、Supabaseを認証・DBに、Stripeを決済に利用するなど多様な技術スタックで構築されています。\n\nVercelにデプロイされており、登録不要でデモ版を試すことが可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-14T08:23:31.100421"
+  },
+  {
+    "source": "ITmedia",
     "title": "「遅れることは許されない」　NVIDIAファンCEOが断言する、AIエージェントによるビジネス構造の激変",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news007.html",
     "summary": "NVIDIAのジェンスン・ファンCEOは、AIが検索・要約だけでなく、自律的にタスクを完遂するエージェントへと進化し、ビジネス構造が激変すると断言しています。彼はAdobeとの提携による制作自動化を例に挙げ、AIが人間の「伴走者」となり、新たな雇用と生産性のパラダイムシフトが起こると予測。ファンCEOは、この変化に「遅れることは許されない」と強調し、迅速な対応を促しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-24T07:45:27.114269"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "IP65の防水・防塵性能を備えたDIYスマートウォッチ「T-Watch Ultra」",
-    "link": "https://gigazine.net/news/20260424-t-watch-ultra/",
-    "summary": "LILYGOが設計したDIYスマートウォッチ「T-Watch Ultra」は、ユーザーが自由にカスタマイズできるオープンソースデバイスです。このスマートウォッチの大きな特徴は、IP65の防水・防塵性能を備えている点です。これにより、ユーザーは高い自由度で自分だけのスマートウォッチを構築しながら、日常的な使用における耐久性も確保できます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-04-24T07:45:35.700169"
-  },
-  {
-    "source": "Zenn",
-    "title": "【GitHub日報】GPT-Image-2プロンプト集が初登場、AIエージェント系が席巻 — 2026-04-24",
-    "link": "https://zenn.dev/gitken/articles/20260424_github_trend_report",
-    "summary": "2026年4月24日のGitHub日報によると、AI開発の最新トレンドが紹介されました。特に、画像生成AI「GPT-Image-2」のプロンプト集が新たに登場し、注目を集めています。さらに、GitHub全体ではAIエージェント関連のプロジェクトが市場を席巻しており、その強い存在感が際立っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-24T07:45:43.439643"
-  },
-  {
-    "source": "Qiita",
-    "title": "Vibe Coding はもう古い。2026年4月の現場は Agentic Engineering へ",
-    "link": "https://qiita.com/heftykoo/items/297f3e363c119d08419c",
-    "summary": "この記事は、雰囲気でAIにコードを生成させる「Vibe Coding」が2026年4月には時代遅れになると提言しています。これは、AIへのプロンプト技術ではなく、AIエージェントが自律的に作業できる環境を設計する「Agentic Engineering」への移行を意味します。筆者は、この変化をアセンブリから高級言語、フレームワーク、CI/IaCへと人間が触れる抽象度が上がってきたプログラミングの歴史の自然な延長線上にあると見ています。重要なのは、AIに何を言うかではなく、AIが迷わず作業できる現場を作ることだと強調されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-04-24T07:45:54.457202"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google、Gemini Enterpriseを大幅機能拡充　AIと業務フローをシームレスに融合",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news059.html",
-    "summary": "Googleは、企業向けAI基盤「Gemini Enterprise」の大幅な機能拡充を発表しました。これには、自律的に長時間稼働するAIエージェント、協働空間、統制機能の強化が含まれます。これらの新機能は、AIと業務フローをシームレスに融合させ、業務の自動化と連携の高度化を実現することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-23T22:34:39.451424"
   }
 ]
