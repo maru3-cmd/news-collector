@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Veeam、AI時代に向けたデータ管理システムを発表　AIエージェントの暴走を防ぐ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/16/news011.html",
+    "summary": "Veeamは、AIエージェントの普及に伴う情報漏洩や暴走リスクに対処するため、AI時代の新たなデータ管理システムを発表しました。このシステムはデータ保護、AI監視、法令対応を一本化し、AIの安全な活用を支える基盤を提供します。具体的には、異常な操作の遮断や、壊された箇所のみを修復する「外科的復旧」といった機能を通じて、企業が安全にAIを活用できるよう支援します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-15T22:44:07.515191"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "マチ★アソビ Vol.30会場まとめ、「アミコドームステージ」が初登場で「旧みずほ銀行徳島支店」内覧会も",
+    "link": "https://gigazine.net/news/20260516-place-machiasobi30/",
+    "summary": "2026年5月16日(土)・17日(日)に徳島で「マチ★アソビ Vol.30」が開催されます。\nこのイベントでは、4つのメインステージと映画館の2つのシアター＆エントランスを中心に、100以上の多彩なイベントが予定されています。\n今回は「アミコドームステージ」が初登場するほか、「旧みずほ銀行徳島支店」の内覧会も行われ、新たな会場に注目が集まります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-15T22:44:15.186754"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI共創：プロトコルエンジニアリング（AI共創 系統B） ―― それは「AI知性」と同期する技術である",
+    "link": "https://zenn.dev/eitoatsuta/articles/512be38743ae2b",
+    "summary": "この記事は、AIと人間が協働して創造を行う「AI共創」の概念における、特定の技術分野「プロトコルエンジニアリング」について論じています。特に、「AI共創 系統B」という文脈でこの技術を位置づけています。\n\nこのプロトコルエンジニアリングは、「AI知性」と同期することを本質とする技術です。AIの能力を最大限に引き出し、人間との連携を深めることで、新たな価値創出や問題解決を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-15T22:44:25.548000"
+  },
+  {
+    "source": "Qiita",
+    "title": "ハーネスを育てすぎたClaude Codeが素のClaude Codeに負ける「naked codex現象」——自己診断と対処法",
+    "link": "https://qiita.com/Tadashi_Kudo/items/60adfc41690c45d59f15",
+    "summary": "この記事は、Claude Codeを使い込むほど設定やルールを追加して重厚にチューニングしすぎると、かえってタスク完了品質が低下し、素のClaude Codeに劣る状態になる「naked codex現象」を解説しています。これは、`CLAUDE.md`などに大量の情報を追記することでコンテキストが肥大化し、Claudeのパフォーマンスが低下する現象を指します。筆者は、この現象がなぜ起きるのか、どう自己診断し、どのように対処すべきかを論じています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-15T22:44:33.463027"
+  },
+  {
+    "source": "ITmedia",
     "title": "アクセンチュアとGoogleが新プログラム　AI全社展開で「つまづく」企業を支援へ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news050.html",
     "summary": "AIの試験導入は進む一方で、企業がAIを全社展開する際に「つまづく」という共通の課題に直面しています。この問題に対処するため、アクセンチュアとGoogle Cloudは共同で新たなプログラムを発表しました。このプログラムは、企業が組織全体でAIを効果的に導入し、その潜在能力を最大限に引き出すことを支援することを目的としています。",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "article",
     "collected_at": "2026-04-26T07:14:16.340613"
-  },
-  {
-    "source": "Qiita",
-    "title": "G検定対策ノート：混同行列のTP・FP・FN・TNを「誤検知」と「見逃し」で理解する",
-    "link": "https://qiita.com/shioume/items/2abd18ff3cfc7c4ada45",
-    "summary": "このG検定対策ノートは、混同行列のTP、FP、FN、TNを解説しています。「Positive」は「注目したいもの」（異常、病気、スパムなど）を指し、その分析結果は真陽性(TP)、偽陽性(FP)、偽陰性(FN)、真陰性(TN)の4つに分類されます。特に重要なのは2種類の誤りです。\n「FP（偽陽性）」は「誤検知」や「第一種の過誤」と呼ばれ、実際は陽性でないものを陽性と誤判定することです。\n一方、「FN（偽陰性）」は「見逃し」や「第二種の過誤」と呼ばれ、陽性であるべきものを見逃して陰性と誤判定することを意味します。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-04-26T07:14:27.401176"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料で自分好みのダッシュボードを作成できユーザーごとにログインもできる「Dashy」、セルフホスト可能でDockerで動作OK",
-    "link": "https://gigazine.net/news/20260425-dashy/",
-    "summary": "「Dashy」は、ブックマークでは物足りず監視ツールでは堅すぎると感じる自宅サーバー管理者向けのオープンソースダッシュボードです。多数のサービスリンクを1画面に整理し、オンライン状態の確認、RSS・天気予報などのウィジェットを自由に設置して、自分好みのモダンなダッシュボードを作成できます。無料でセルフホスト可能でDockerで動作し、ユーザーごとにログインを設定できる点が特徴です。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-04-25T22:26:46.539917"
-  },
-  {
-    "source": "Zenn",
-    "title": "[AI対話]素人でも3日で作れる？！『国産AI源内』及びLLMのTierまとめ",
-    "link": "https://zenn.dev/hai08320/articles/a9031d39766c32",
-    "summary": "本記事は、国産AI「源内」が専門知識のない素人でもわずか3日間で開発可能である可能性に焦点を当てています。これにより、AI開発の敷居が大きく下がっている現状を示唆しています。さらに、大規模言語モデル（LLM）の性能やカテゴリーをまとめた「Tier」情報も提供されており、読者がAIの現状を理解するのに役立つ内容です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-25T22:26:54.750024"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code scheduled tasks で朝刊・日次レポートを全自動生成する",
-    "link": "https://qiita.com/Tadashi_Kudo/items/51a948ff7710627e9cad",
-    "summary": "この記事は、Claude Codeの`scheduled tasks`機能を用いて、毎日のニュースチェックや日次レポートなどの定型バッチタスクを自動生成する方法を紹介しています。この機能は、LLMの判断力をスケジューラに組み込むことで、APIエラー時のスキップやデータ不足時の警告といった複雑な条件分岐を自然言語で記述できるのが大きな特徴です。\n\nこれにより、従来のcronとシェルスクリプトの組み合わせよりも堅牢な自動化が可能となり、実運用では「朝刊ブリーフィング自動生成タスク」が挙げられています。ユーザーは`~/.claude/scheduled-tasks/<task-name>/SKILL.md`にプロンプトを置くことで、cron式に基づいた定期起動を実現できます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-25T22:27:03.655497"
   }
 ]
