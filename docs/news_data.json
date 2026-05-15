@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "アクセンチュアとGoogleが新プログラム　AI全社展開で「つまづく」企業を支援へ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news050.html",
+    "summary": "AIの試験導入は進む一方で、企業がAIを全社展開する際に「つまづく」という共通の課題に直面しています。この問題に対処するため、アクセンチュアとGoogle Cloudは共同で新たなプログラムを発表しました。このプログラムは、企業が組織全体でAIを効果的に導入し、その潜在能力を最大限に引き出すことを支援することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-15T08:35:09.389611"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "カルピスソーダに甘酸っぱいアセロラが加わり初夏にぴったりな爽やかさの「カルピスソーダ 南国アセロラ」を飲んでみた",
+    "link": "https://gigazine.net/news/20260515-calpis-soda-acerola/",
+    "summary": "アサヒ飲料は、季節限定の「カルピスソーダ 南国アセロラ」を2026年5月5日(火)より期間限定で発売しました。この製品は、アセロラの甘酸っぱさと爽やかな炭酸の刺激が特徴です。記事では、その南国フレーバーがどんな味に仕上がっているのか、実際に飲んで検証しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-15T08:35:16.473216"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI Designs, AI Verifies — Robot Arm CAE with Kiro × FreeCAD FEM",
+    "link": "https://zenn.dev/aws_japan/articles/0bb26610096298",
+    "summary": "この記事は、AIを活用したロボットアームのCAE（Computer-Aided Engineering）プロセスを紹介しています。具体的には、AIがロボットアームの設計を行い、さらにその設計の検証もAIが担当する「AIデザイン、AI検証」のアプローチが中心です。このプロセスでは、オープンソースのCADソフトウェアであるFreeCADのFEM（有限要素法）モジュールと、AIツールであるKiroが連携して利用されます。これにより、設計から検証までの一連の作業が効率化され、開発期間の短縮と品質向上が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-15T08:35:24.386948"
+  },
+  {
+    "source": "Qiita",
+    "title": "[Frontend Performance - Part 17] 最適化の前に計測せよ：Chrome DevToolsで性能問題を見つける方法",
+    "link": "https://qiita.com/tuanphan/items/fa88ac0b9b7eb7fd7b7e",
+    "summary": "本記事は、フロントエンドのパフォーマンス最適化において、Lighthouseスコアが95点と高くてもユーザーが遅いと感じる場合があるため、闇雲な最適化ではなく正確な計測が不可欠であると説いています。\n\n特にChrome DevToolsのNetworkパネルやPerformanceパネル、およびReact DevTools Profilerといったツール群の活用を推奨しています。これらのツールにより、リソース読み込みの最適化、ランタイム性能の解析、Reactコンポーネントの不要な再レンダリングの特定など、具体的な性能問題を効率的に発見・改善できると解説しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-15T08:35:33.864284"
+  },
+  {
+    "source": "ITmedia",
     "title": "Anthropic、中小企業用AI業務支援「Claude for Small Business」発表　15種のAIエージェントが作業を肩代わり",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news046.html",
     "summary": "Anthropicは、中小企業向けAI業務支援ツール「Claude for Small Business」を発表しました。このサービスは、会計、営業、人事など多岐にわたる中小企業の業務に対応します。特に、15種類のAIエージェントが作業を肩代わりし、各種業務との連携機能も導入されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-25T22:27:03.655497"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "フランス政府機関がサイバー攻撃を受けて1100万件超の個人情報を盗まれる事態が発生、犯人はダークウェブで情報を販売開始",
-    "link": "https://gigazine.net/news/20260425-france-government-cyber-attack/",
-    "summary": "フランスの運転免許証や身分証明証の発行を担う政府機関「Agence Nationale des Titres Sécurisés (ANTS)」がサイバー攻撃を受けました。この攻撃により、1170万件もの個人情報が盗み出されたことが明らかになっています。盗まれた情報はすでにダークウェブで販売されているとのことです。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-25T07:00:13.419808"
-  },
-  {
-    "source": "Zenn",
-    "title": "【AI感情実装】LLMに「直観」と「感情」を持たせる8×8実数行列アルゴリズム（幾何代数Matsの提案）",
-    "link": "https://zenn.dev/kiichi34578/articles/ddb7fc8df90ba9",
-    "summary": "この記事は、大規模言語モデル（LLM）に「直観」と「感情」を実装するための新たなアルゴリズムを提案しています。具体的には、「8×8実数行列アルゴリズム」を用いることで、これら人間的な要素をAIに付与することを目指しています。これは「幾何代数Mats」という概念に基づいた提案であり、AIの感情実装における進歩を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-25T07:00:20.815857"
-  },
-  {
-    "source": "Qiita",
-    "title": "資料テンプレートにengineer/executive分離を組み込む - 密度ルールとfrontmatter規約で品質を揃える",
-    "link": "https://qiita.com/imp555sti/items/7c8e49f403590c305518",
-    "summary": "この記事は、資料テンプレートが単に見た目を揃えるだけでなく、説明の粒度を統一し、品質の下限を保証することを目指しています。具体的には、背景・判断基準・決定事項などの必須項目を資料のページ構造に埋め込み、章ごとに書く順番と上限（密度ルール）を固定します。これにより、作成者が変わっても資料の品質を均一に保ち、「1ページ1メッセージ」の運用基準を確立します。また、エンジニア向けと経営層向けで情報の密度を変える「engineer/executive分離」も可能になります。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-04-25T07:00:30.833108"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Oracle、481件の脆弱性修正を公開　Java含む複数製品をアップデート",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/25/news010.html",
-    "summary": "Oracleは、複数製品の脆弱性に対処するため、合計481件のセキュリティ修正を含む定例アップデートを公開しました。このアップデートはJavaを含む多岐にわたる製品が対象です。既存の欠陥が悪用された事例が報告されていることから、同社はユーザーに対し、修正プログラムの迅速な適用とサポート対象版の使用を強く推奨しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-04-24T22:32:12.348086"
   }
 ]
