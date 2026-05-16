@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "四国めたんの中の人・田中小雪さんと一緒にアニメのアフレコができる豪華すぎるイベントが徳島で開催されました",
+    "link": "https://gigazine.net/news/20260516-shikoku-metan-machiasobi30/",
+    "summary": "「東北ずん子・ずんだもんプロジェクト」のキャラクターである「四国めたん」は、公式アニメや合成音声コンテンツで人気を博しています。その「中の人」を務める声優・田中小雪さんと一緒にアフレコ体験ができる豪華なイベントが、徳島で開催された「マチ★アソビ vol.30」で実施されました。この記事は、そのイベントの様子を伝えるものです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-16T07:45:35.295510"
+  },
+  {
+    "source": "Zenn",
+    "title": "最初に開く画面を取れば全部取れる",
+    "link": "https://zenn.dev/inspector/articles/front-end-wars-of-2c",
+    "summary": "この短い記事は、「最初に開く画面を取れば全部取れる」というタイトルと内容のみで構成されています。これは、ユーザーが最初に触れるインターフェースや初期の体験を掌握することの極めて重要な意味合いを強調していると考えられます。しかし、記事にはこの主張を裏付ける具体的な文脈、詳細な説明、事例、または関連する数値データが一切含まれていません。したがって、記事の要点は「初期接触点の獲得が成功の鍵である」という、この一文に集約されています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-16T07:45:43.342168"
+  },
+  {
+    "source": "Qiita",
+    "title": "NotebookLMの学習ノート作成をAIで自動化する",
+    "link": "https://qiita.com/shin_takoyaki/items/0fb80d30daf31846a85f",
+    "summary": "NotebookLMはAIを活用した新しい学習方法を提供し、ユーザーが用意したPDFやWebページなどの信頼できる資料をもとにAIと対話しながら学習できます。このツールは、単にAIに質問するだけでなく、自身のリソースを基盤とすることで、よりパーソナライズされた学習体験を実現します。実際に、マサチューセッツ工科大学の大学院生がNotebookLMを活用し、これまで学習したことのない分野の資格試験にわずか48時間で合格した事例も報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-16T07:45:51.080525"
+  },
+  {
     "source": "ITmedia",
     "title": "Veeam、AI時代に向けたデータ管理システムを発表　AIエージェントの暴走を防ぐ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/16/news011.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-04-26T22:28:30.386540"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude CodeにAPIキーが丸見え？.claudeignoreで守る実践ガイド",
-    "link": "https://qiita.com/Tadashi_Kudo/items/5b10c4042a9a382b6554",
-    "summary": "Claude Codeは、`.gitignore`で保護された`.env`ファイルなどのローカルファイルも読み取ることが可能で、APIキーなどの機密情報がAIエージェントに漏洩するリスクがあります。\nこの記事は、このリスクに対処するための「3層防御」の実践ガイドを提案しています。\n具体的には、`settings.json`の`permissions.deny`による`.claudeignore`相当の除外設定、PreToolUse hookによる二重ブロック、そしてそもそも機密情報を`.env`に置かないという3つの対策を推奨しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-26T22:28:39.110463"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Video.js v10ベータ版リリース、なぜこんなに時間がかかったのか？",
-    "link": "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
-    "summary": "Video.jsは、HTML5ベースのウェブビデオプレイヤーを構築するための人気のあるオープンソースフレームワークです。2026年3月、Video.js v10のベータ版がリリースされました。v10ベータ版のリリースまでに長い期間を要しましたが、その理由については公式サイトのブログで詳しく説明されています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-26T07:14:01.013491"
-  },
-  {
-    "source": "Zenn",
-    "title": "Agentic AIはどう攻撃されるのか：EchoLeakをAAEF v0.2.0で解剖する",
-    "link": "https://zenn.dev/mkz0010/articles/91d7120d5c30b9",
-    "summary": "提供されたタイトルから判断すると、この記事は自律型AI（Agentic AI）が受ける可能性のある攻撃に焦点を当てています。具体的には、「EchoLeak」と呼ばれる特定の攻撃を、「AAEF v0.2.0」という分析フレームワークを用いて詳細に「解剖」し、そのメカニズムを明らかにしようとしています。この分析の目的は、自律型AIシステムの脆弱性やセキュリティリスクへの理解を深め、防御策を考察することにあると考えられます。ただし、記事本文が提供されていないため、具体的な攻撃内容や数値、詳細な解析結果については不明です。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-04-26T07:14:16.340613"
   }
 ]
