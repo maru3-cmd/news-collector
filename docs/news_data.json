@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ServiceNowを「AIエージェントのOS」に　NVIDIAファンCEOが認める進化の現在地",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news006.html",
+    "summary": "企業のAI活用が広がる一方で、管理不全による「AIカオス」のリスクが課題となっています。これに対しServiceNowは、年次イベントでAIを統制する「管理塔」としての機能を大幅に強化したと発表しました。NVIDIAのファンCEOはServiceNowを「AIエージェントのOS」と評価しており、同社は安全で自律的な業務遂行を可能にする基盤の構築を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-17T22:43:24.139777"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "診察内容を自動でまとめる承認済み医療AIの6割が薬剤名を取り違えていたことが判明、存在しない症状の記録も",
+    "link": "https://gigazine.net/news/20260518-doctor-ai-blow-basic-fact/",
+    "summary": "カナダ・オンタリオ州の監査総長事務所が州政府で使用されているAIシステムを調査した結果、医療機関向けのAI医療記録作成システムに重大な誤りが多数判明しました。特に、承認済みの医療AIの6割が薬剤名を誤って記録していたほか、実際には存在しない症状を記録していた事例も明らかになりました。この事実は、AIを医療現場で活用する際の正確性に関する深刻な課題を浮き彫りにしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-17T22:43:30.709335"
+  },
+  {
+    "source": "Zenn",
+    "title": "今週のAIニュース（2026-05-18週）",
+    "link": "https://zenn.dev/outloukick777/articles/ai-news-2026-05-18",
+    "summary": "申し訳ありません。提供された記事は「今週のAIニュース（2026-05-18週）」というタイトルのみで、具体的な本文内容が記載されていません。そのため、記事を要約することができません。\n\nもし記事の本文をご提供いただければ、要約を作成いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-17T22:43:36.476205"
+  },
+  {
+    "source": "Qiita",
+    "title": "予測AIの特徴量エンジニアリング",
+    "link": "https://qiita.com/obx_y_ueno/items/3c8e46910f264518e105",
+    "summary": "本記事は、予測AIモデルの性能を最大化する鍵となる「特徴量エンジニアリング」について解説しています。特に、汎用性と精度が高いとされる勾配ブースティング（GBDT）モデルの性能を引き出すことに焦点を当てています。特徴量エンジニアリングは、基本的なデータ前処理から予測精度向上のための高度な設計手法までを網羅します。その際、決定木ベースのモデルに特有のデータ構造的要件や、ビジネス理解に基づいた実践的な特徴量設計の工夫が重視されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-17T22:43:44.452799"
+  },
+  {
     "source": "GIGAZINE",
     "title": "きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】",
     "link": "https://gigazine.net/news/20260517-super-kigurumi-fight-machiasobi30/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-27T22:40:41.709828"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "初期のSNS「Friendster」のドメインを購入した人物が現実世界での交流を重視する新生Friendsterを構築",
-    "link": "https://gigazine.net/news/20260428-i-bought-friendster-30k/",
-    "summary": "Friendsterは2002年に設立され、特に東南アジアで人気を博した初期のSNSですが、2011年にソーシャルゲームサイトへ転換し、2015年にはサービスを終了しました。しかし、ある人物がFriendsterのドメインと商標を取得し、新たなアプリを開発することでこのプラットフォームの復活を目指しています。新生Friendsterは、現実世界でのユーザー間の交流を重視するコンセプトを掲げています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-27T22:40:49.740307"
-  },
-  {
-    "source": "Zenn",
-    "title": "CLAUDE.md・Rules・Skills・SubAgents・AgentTeams——5つの引き出し、どれをいつ開けるか",
-    "link": "https://zenn.dev/helloworld/articles/93fbbdbeade932",
-    "summary": "この記事は、CLAUDEの活用において鍵となる「5つの引き出し」について提示しています。これらは具体的に、CLAUDE.md、Rules、Skills、SubAgents、AgentTeamsという要素です。記事のタイトルは、これら5つの機能や概念を「いつ開けるか」、すなわち状況に応じて適切に使い分けることの重要性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-27T22:40:58.295982"
-  },
-  {
-    "source": "Qiita",
-    "title": "67kスター「claude-mem」は本当に必要か？Claude Code自前メモリ管理の3層構造で代替する",
-    "link": "https://qiita.com/Tadashi_Kudo/items/e717659f10192f32e7b1",
-    "summary": "Claude Codeでセッションを跨いだ記憶管理は課題ですが、筆者は67kスターの人気ツール「claude-mem」をあえて導入していません。代わりに、Claude Code純正の`CLAUDE.md`とMarkdownファイル群、フックを活用した独自の3層構造でメモリ管理を代替できると主張します。\n\nこの構造では、メモリを「Layer 1: グローバルルール」（AIのペルソナや長期記憶）、「Layer 2: プロジェクトルール」（プロジェクト固有情報）、「Layer 3: 作業記憶」（現在のタスク情報）に分けて管理します。これにより、外部依存を増やさずに、セッションを越えて賢く動作するClaude Code環境を構築することが可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-27T22:41:08.132506"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AI社員」も登場　ServiceNow新戦略から探る、「自動化された企業」から逆算するAI活用",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/27/news076.html",
-    "summary": "ServiceNowは、「AI社員」という新たな概念を導入し、企業のAI活用戦略を推進しています。これは、AIの進化によって企業活動を根本から自動化する「自動化された企業」の実現を目指すものです。同社の新戦略は、AIが普及する中で人間が果たすべき役割の変化についても探ることを意図しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-27T08:00:41.398513"
   }
 ]
