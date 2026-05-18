@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "中小企業の約65％が「情シス不在」　デジタル化でも残る課題との関連は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/17/news013.html",
+    "summary": "この記事は、中小企業がファイル管理のデジタル化を進めても、「目的のファイルが見つからない」「データ復旧に不安がある」といった課題が残る現状を指摘しています。その背景には、約65％の中小企業に情報システム担当者（情シス）が不在であるという事実が大きく影響していると述べています。単にデジタルツールを導入するだけではこれらの非効率は解消されず、情シス不在がデジタル化の真の効果を妨げる根本原因であると記事は分析しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-18T22:49:01.770946"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "作家や批評家が選んだ「史上最高の小説100選」が発表される",
+    "link": "https://gigazine.net/news/20260519-100-best-novels-all-time/",
+    "summary": "イギリスの大手日刊紙The Guardianが、文学界における重要な発表を行いました。170人以上の小説家や批評家、学者らにアンケートを取り、その結果を基に「史上最高の小説100選」を選定・発表したものです。この選集は、専門家による厳選されたリストとして、広く関心を集めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-18T22:49:13.850913"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI参照元（ChatGPT/Gemini/Perplexity）で流入ジャンルが違う — 自社GA4 30日観測",
+    "link": "https://zenn.dev/orectic/articles/ai-referral-genre-pattern-ga4",
+    "summary": "この記事は、ChatGPT、Gemini、PerplexityといったAI参照元からのウェブサイト流入ジャンルに違いがあるかを検証した30日間のGA4観測結果を報告しています。自社GA4データによるこの分析で、各AIツールがそれぞれ異なるジャンルのコンテンツへのユーザーを誘導していることが明らかになりました。この結果は、AIからの集客を最適化する上で、各AIの特性に合わせたコンテンツ戦略やSEO対策が不可欠であることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-18T22:49:22.167983"
+  },
+  {
+    "source": "Qiita",
+    "title": "ChatGPT・Gemini・Perplexityで流入ジャンルが全然違った話 — 個人開発メディアのAI参照元観測",
+    "link": "https://qiita.com/masakazuimai/items/73661716e18196a748bf",
+    "summary": "過去半年間で、あるWeb制作者向け個人開発メディアは、ChatGPTやGeminiなどのAIサービスからのトラフィック増加を観測しました。GA4での分析の結果、AIサービスごとに参照される記事のジャンルが大きく異なることを発見。これは、同じサイトであっても、どのAIが介在するかによって連れてくる読者層が異なることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-18T22:49:33.344805"
+  },
+  {
+    "source": "ITmedia",
     "title": "NEC社長が説く　AI時代と新たな安全保障環境の到来で「ITサービスはこう変わる」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news062.html",
     "summary": "NECの森田隆之社長は、AI時代と新たな安全保障環境の到来がITサービス産業に与える大きな変化について論じています。記事では、これからのITサービス産業で勝ち残るための「勝者の条件」に焦点を当てており、未来のITサービスのあり方を示唆しています。この分析を通じて、変化の激しい時代におけるIT企業の戦略と方向性が提示されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-28T22:46:39.624145"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「投資の神様」の必読書・iPhone 17 Proレビュー・アニメ原作者インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第1四半期版まとめ",
-    "link": "https://gigazine.net/news/20260429-gigazine-kindle-ranking-2026-q1/",
-    "summary": "GIGAZINEは、電子書籍化された記事を対象に「2026年第1四半期で最も読まれた記事トップ100」のランキングを発表しました。このランキングは、Amazonでの売上に基づいており、通常のGoogle検索の影響が大きいアクセス解析とは異なる点が特徴です。リストには、「投資の神様」の必読書、iPhone 17 Proレビュー、アニメ原作者インタビューといった幅広いジャンルの記事が含まれています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-04-28T22:46:50.702050"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeに『日本語コピー職人』を住まわせる：15型 × 5クラスターのskillを作って公開した",
-    "link": "https://zenn.dev/okaz/articles/copywriting-15-patterns-skill",
-    "summary": "この記事は、AIツール「Claude Code」に、より自然で効果的な日本語コピーライティングをさせるための取り組みを報告しています。具体的には、「日本語コピー職人」と名付けられたスキルセットが開発され、これは15型と5クラスターで構成されています。このスキルはClaude Codeの機能を拡張するために作成され、一般に公開されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-28T22:46:57.759785"
-  },
-  {
-    "source": "Qiita",
-    "title": "「AIより先に考えるべきこと：起業のための5つのステップとGeospatial革命」",
-    "link": "https://qiita.com/mouad-tarif/items/94b879487047f674e088",
-    "summary": "この記事は「AIより先に考えるべきこと」として、起業時の会社設立前に踏むべき5つの基礎ステップを解説しています。まず、解決すべき目的とコアアイデアを定義し、製品がモバイルアプリかWebアプリかといった形態を決定することが重要です。次に、データ保護、内部データ漏洩対応、適用される法律（プライバシー、知財など）といったセキュリティと法務対策を最優先し、プロジェクトの性質に合わせたデータベース（SQL、NoSQL、Spatialなど）とデータ構造を選択するよう提言しています。記事はさらに、企業のデジタルトランスフォーメーションを促進する「Geospatial AI Framework」という提案プロジェクトにも触れています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-28T22:47:06.261368"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ASP.NET Coreに特権昇格の脆弱性、認証クッキー偽造の恐れ　Microsoftが修正パッチ公開",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/27/news115.html",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 25.078216025s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 25\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-28T08:01:35.007419"
   }
 ]
