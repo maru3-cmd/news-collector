@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "OpenAIがDellと提携を発表　エンタープライズ向け「Codex」のオンプレミス導入を支援へ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news046.html",
+    "summary": "OpenAIはDell Technologiesと提携し、エンタープライズ向けの「Codex」を企業のハイブリッドおよびオンプレミス環境へ展開すると発表しました。この提携により、DellのAIデータプラットフォームとの連携を通じて、機密データを社内に保持したまま高度なAIエージェントを大規模に運用できる環境が整えられます。これは、企業におけるCodexの実務への本格導入を支援することを主な目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-19T22:56:55.345610"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "霧の水滴の中で細菌が成長していることが判明、空気中の有害物質を分解する働きも",
+    "link": "https://gigazine.net/news/20260520-fog-bacteria-formaldehyde/",
+    "summary": "アリゾナ州立大学やサスケハナ大学などの研究チームが、霧の水滴に含まれる細菌の新たな生態を報告しました。研究によると、これらの細菌は単に空気中を漂うだけでなく、霧の水滴の中で実際に成長していることが判明。さらに、空気中の有害物質を分解する働きも持つことが示されており、環境中の役割に注目が集まります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-19T22:57:04.828114"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI三極化時代の使い分け実践ガイド — Claude・Gemini・ChatGPTをコードで切り替える",
+    "link": "https://zenn.dev/kairosai/articles/5045552038ac26",
+    "summary": "「AI三極化時代」を迎える現代において、主要な大規模言語モデルであるClaude、Gemini、ChatGPTの適切な使い分けが重要視されています。この記事は、これら3つのAIモデルを効果的に活用するための実践的なガイドを提供します。特に、状況や目的に応じてプログラムコードを使って各AIを動的に切り替える具体的な手法が解説されており、AI活用の効率化を目指す開発者やユーザーにとって有益な情報源となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-19T22:57:12.618240"
+  },
+  {
+    "source": "Qiita",
+    "title": "LLMから自律型エージェントへ：RAGと外部ツール連携の仕組み",
+    "link": "https://qiita.com/jjking/items/05c84dbd491e694d07a7",
+    "summary": "近年の生成AIは、単なる文章生成モデルから外部ツールを駆使する「自律型エージェント」へと進化しており、LLM単体では知識の範囲や鮮度、正確性に限界があります。この課題を解決するため、「RAG（検索拡張生成）」技術が注目されています。\n\nRAGは、LLMの再学習なしに外部データベースから関連情報を取得し、それをプロンプトに組み込むことで回答精度を高めます。これにより、ハルシネーション（幻覚）の抑制や最新情報への対応が可能となり、LLMの信頼性とコストパフォーマンスが大幅に向上します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-19T22:57:20.831837"
+  },
+  {
     "source": "GIGAZINE",
     "title": "スパイス後がけトマト風味のカップヌードル「カップヌードル スパイスSHOCKカレー」を食べてみた",
     "link": "https://gigazine.net/news/20260519-cup-noodle-spice-shock-curry/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-29T22:46:01.130544"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI時代のライター業務で大事なのは、書く速さより“止める設計”だった",
-    "link": "https://zenn.dev/zennai_ryutaro/articles/20260430-safe-draft-pr",
-    "summary": "AI時代において、ライターに求められるスキルが従来の「書く速さ」から変化していると論じる記事です。具体的には、AIが生成したテキストを適切に「止める設計」が重要であると指摘しています。これは、AIによる効率化と人間の判断力・修正戦略を組み合わせることで、より高品質なコンテンツを生み出すための新たなアプローチを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-29T22:46:09.845214"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude / Codex / Cursor を「中立層」で束ねる：AI-AGENT.md 設計と adapter pattern",
-    "link": "https://qiita.com/Tadashi_Kudo/items/ce29e76f94d3a0b64dac",
-    "summary": "複数のAIコーディングエージェント（Claude、Codex、Cursorなど）を併用する際、共通のルール（例: 「言語は日本語で」「.envは出力しない」）を各エージェントの設定ファイル（`CLAUDE.md`、`AGENTS.md`、`.cursor/rules/`）に重複して記述する必要があり、内容の乖離やN重化という問題が発生します。\n\nこれは、ランタイム非依存のルールがエージェントごとに管理されることによる煩雑さです。\n\nこの記事では、この重複と管理の課題を解決するため、「中立層（neutral layer）+ adapter pattern」という設計アプローチを提案しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-29T22:46:17.524337"
-  },
-  {
-    "source": "ITmedia",
-    "title": "複製ファイルが無限発生する「アナログな事務処理」　ある農業団体がkintoneで解決した話",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/29/news013.html",
-    "summary": "農業団体ホクレンは、農薬請負散布業務における「アナログな事務処理」が原因で、修正のたびに複製ファイルが無限に発生し、最新版が分からなくなるという深刻な課題を抱えていました。この混乱は業務効率を著しく低下させていました。そこで同団体は、クラウドサービスであるkintoneを導入することでこの問題を解決。結果として、年間管理面積を従来の3倍にまで拡大することに成功しました。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-04-29T07:55:15.874842"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "OpenAIがAIのコーディング能力を測る代表的ベンチマークは「もはや無意味」と説明、初期の解けなかった問題を調べると逆に問題が悪いことが発覚",
-    "link": "https://gigazine.net/news/20260429-swe-bench-verified/",
-    "summary": "OpenAIは2024年8月に公開された、AIのプログラミング能力を測る代表的なベンチマーク「SWE-bench Verified」について、最新の分析結果を発表しました。この分析により、ベンチマークには2つの重大な問題があることが判明。OpenAIは、もはや最先端AIモデルの能力を正確に測定する指標として適切ではないと提言しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-04-29T07:55:22.558847"
   }
 ]
