@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "アクセンチュアらが「エージェント型工場」を開発　製造現場の計画外停止の削減図る",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news022.html",
+    "summary": "アクセンチュア、アバナード、Microsoftは、製造業向けAIエージェント基盤「エージェント型工場」を共同開発しました。この基盤は、製造現場における計画外停止の削減を目指しています。従来の製造分析ダッシュボードの枠を超え、AIが直接的に現場担当者の判断を支援する点が大きな特長です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-20T08:49:14.141538"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "アニメーター出身ではない「非作画系監督」はどうやってアニメを演出するのか？『楽園追放』水島精二×『デデデデ』黒川智之両監督によるトークイベント in マチ★アソビ Vol.30",
+    "link": "https://gigazine.net/news/20260520-hisakugakei-kantoku-machiasobi30/",
+    "summary": "2026年5月16日にマチ★アソビ Vol.30で、「非作画系監督はどう演出するのかトークショー」が開催されました。このイベントには、『楽園追放』の水島精二監督と、『デッドデッドデーモンズデデデデデストラクション』の黒川智之監督が登壇。アニメーター出身ではない両監督が、どのようにアニメ作品を演出しているのかについて語り合いました。この記事は、そのトークイベントのレポートです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-20T08:49:22.621140"
+  },
+  {
+    "source": "Zenn",
+    "title": "複数AI時代の文脈分断を解消する「独立したMemory Layer」というアーキテクチャ",
+    "link": "https://zenn.dev/memorylakeai/articles/ee907aa0f047db",
+    "summary": "複数AIが連携する時代において、それぞれのAI間で文脈が分断され、情報の一貫性が失われるという課題が指摘されています。これを解決するため、「独立したMemory Layer」という新たなアーキテクチャが提案されています。このアーキテクチャは、各AIが共通してアクセスできるメモリー層を設けることで文脈の共有と統合を図り、複数AI間の効率的な連携とコミュニケーションの課題解消を目指します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-20T08:49:31.154391"
+  },
+  {
+    "source": "Qiita",
+    "title": "Local LLM(Gemma4 Qwen3.6)を限られたメモリで複数人で使う",
+    "link": "https://qiita.com/yoshiyakato/items/f23b592796fbe805fb4f",
+    "summary": "64GB Apple Silicon (Mac Studio M1 Ultra) 環境で35B級ローカルLLMを複数人・複数チャネルから同時に利用する際に発生するパフォーマンス問題（runner stallやswap地獄）を解決するため、Hermes AgentとOllamaを組み合わせたシステムが構築されました。\n\nこのシステムでは、Ollamaの`OLLAMA_MAX_QUEUE`設定で推論処理を実質的に直列化し、Hermes Agentがユーザーからの並列リクエストを受け付けてOllamaのキューに投入することで、「受付は並列、推論は直列」のフローを実現しています。\n\nこれにより、限られたメモリの単一マシンで、Gemma4やQwen3.6といった複数のローカルLLMを効率的に複数人で共有利用できるようになったとのことです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-20T08:49:40.264993"
+  },
+  {
+    "source": "ITmedia",
     "title": "OpenAIがDellと提携を発表　エンタープライズ向け「Codex」のオンプレミス導入を支援へ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news046.html",
     "summary": "OpenAIはDell Technologiesと提携し、エンタープライズ向けの「Codex」を企業のハイブリッドおよびオンプレミス環境へ展開すると発表しました。この提携により、DellのAIデータプラットフォームとの連携を通じて、機密データを社内に保持したまま高度なAIエージェントを大規模に運用できる環境が整えられます。これは、企業におけるCodexの実務への本格導入を支援することを主な目的としています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-04-30T07:58:12.075588"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Claude Sonnet 4.5超えのフランス製AIモデル「Mistral Medium 3.5」がオープンモデルとして公開される＆Mistral Vibeがクラウド対応",
-    "link": "https://gigazine.net/news/20260430-mistral-medium-3-5/",
-    "summary": "フランスのAI企業Mistral AIが、パラメーター数1280億でClaude Sonnet 4.5を超える性能を持つとされるAIモデル「Mistral Medium 3.5」をオープンモデルとして公開しました。同時に、コーディングエージェント「Mistral Vibe」がクラウドでの動作に対応。これにより、複数のエージェントを同時実行したり、チャットAIの「Le Chat」からタスクを開始したりできるよう機能が強化されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-30T07:58:21.042792"
-  },
-  {
-    "source": "Zenn",
-    "title": "OpenAI Codex CLI 入門：ターミナルで完結する次世代AIコーディングエージェント",
-    "link": "https://zenn.dev/ainohogosya/articles/386a02f7d7a32a",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 33.134330019s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 33\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-30T07:58:26.910094"
-  },
-  {
-    "source": "Qiita",
-    "title": "SVGならAIでも高精度に画像を編集・自動生成できる",
-    "link": "https://qiita.com/degudegu2510/items/554e4a4a058f8473f7d9",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.377997643s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 28\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-04-30T07:58:31.668077"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「私がClaudeを解約した理由」をエンジニアが力説、トークン問題・品質低下・サポート不備など",
-    "link": "https://gigazine.net/news/20260430-why-cancelled-claude/",
-    "summary": "ドイツ人エンジニアのニッキー・ライナート氏が、自身のブログでAnthropicの生成AIアシスタント「Claude」の有料プランを解約した理由を公表しました。同氏は、その主な問題点として、トークン処理の課題、AIの品質低下、およびサポート体制の不備を挙げています。この記事は、これらの経験を通してサービス解約に至ったエンジニアの主張を詳しく伝えるものです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-04-29T22:46:01.130544"
   }
 ]
