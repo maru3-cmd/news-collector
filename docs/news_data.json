@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "2026年の世界AI支出は47％増の2.6兆ドルへ――インフラ主導から「企業の本格導入」への転換を予測　Gartner調査",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/22/news038.html",
+    "summary": "Gartnerの予測によると、2026年の世界AI支出は前年比47％増の2兆5957億ドルに達する見込みです。この大幅な増加は、主に生成AIやAIエージェントの需要拡大によってもたらされます。市場を牽引するのはAI用サーバやIaaS（Infrastructure as a Service）への投資であり、インフラ主導の成長が予測されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-21T22:57:50.275436"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ついに予測市場を規制する最初の州が出現",
+    "link": "https://gigazine.net/news/20260522-ban-prediction-markets/",
+    "summary": "スポーツや政治イベントなどを賭けの対象とする「予測市場」は、2026年4月までに取引量が242億ドル（約3兆7800億円）に達するなど急拡大しています。これに対し、ミネソタ州が全米で初めて予測市場サイトの運営を禁止する法律に署名し、規制に乗り出しました。しかし、アメリカの商品先物取引委員会(CFTC)はこれを違法として訴訟を起こしており、予測市場の規制を巡る対立が顕在化しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-05-21T22:57:57.563881"
+  },
+  {
+    "source": "Zenn",
+    "title": "顧客情報をAIに入れる前に確認すべき3つの判断軸──士業・専門職向け実務ガイド",
+    "link": "https://zenn.dev/miyamatechlab/articles/4c78ca4c87da07",
+    "summary": "「顧客情報をAIに入れる前に確認すべき3つの判断軸──士業・専門職向け実務ガイド」は、士業や専門職が顧客情報をAIに利用する際の実務的な指針を提供しています。この記事では、機密性の高い情報をAIで扱う際の潜在的リスクを認識し、適切な判断を下すための「3つの重要軸」を提示。具体的には、情報セキュリティ、AIの信頼性、そして法的・倫理的責任といった観点から、専門家が安全かつ効果的にAIを活用するための道筋を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-21T22:58:07.340327"
+  },
+  {
+    "source": "Qiita",
+    "title": "ゼロから学ぶAIエージェントのスキル拡張：Function Callingの仕組みと実装ステップ",
+    "link": "https://qiita.com/jjking/items/5fa57643653c09e4abe1",
+    "summary": "現在のLLMは、リアルタイム情報へのアクセスや外部システム操作ができない「静的な知識」という限界を抱えています。この課題を解決し、AIを自律的な「AIエージェント」へと進化させる技術が「Function Calling」です。これは、LLMがユーザーの入力（プロンプト）を分析し、必要に応じてあらかじめ定義された外部の関数（APIやプログラム）を呼び出すためのパラメータを自動生成する仕組みです。これにより、LLMは外部世界と連携し、より実践的なタスクを実行できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-21T22:58:14.529400"
+  },
+  {
     "source": "GIGAZINE",
     "title": "総重量約1kg・肉340g・2508kcalの盛りまくりうどん「爆担々」をはなまるうどんで食べてみた",
     "link": "https://gigazine.net/news/20260521-hanamaruudon-bakutantan/",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-05-01T22:40:37.184229"
-  },
-  {
-    "source": "Zenn",
-    "title": "🧠 AIコードの中身、ちゃんと理解してますか？自分がやってる方法",
-    "link": "https://zenn.dev/reodesuxz/articles/dce0bbaaca9a62",
-    "summary": "申し訳ありませんが、記事の本文が提供されていないため、内容を要約することができません。\n\n提示されたのはタイトル「🧠 AIコードの中身、ちゃんと理解してますか？自分がやってる方法」のみです。もし記事の本文がありましたら、再度ご提供いただけますでしょうか。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-01T22:40:43.160557"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Agent の自己診断を信用するな：「証跡必須化」ポリシーで誤報を撲滅した話",
-    "link": "https://qiita.com/Tadashi_Kudo/items/1da2d3c108fcc3be10f6",
-    "summary": "この記事は、AI Agentの自己診断が誤った情報を提供する問題を指摘しています。具体的には、AgentがAPIキーの期限切れやRAG障害を報告しながらも、実際にはシステムは正常に動作しており、Agentがコマンドを実行せずに誤診断を下す「サイレントフォールバック」のような現象が報告されました。\n\n筆者の環境でも、Agentが「RAGが落ちている」と誤報を発した事案が発生しています。この問題を解決するため、筆者は「Agent自己診断には実機ログ証跡を必須」とするポリシーを導入しました。\n\nこの「証跡必須化」ルールは、SKILL.mdやEval、Scheduled Taskの完了報告に組み込まれ、Agentによる誤報の撲滅に効果を上げています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-01T22:40:51.310324"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「時短ツール」としてAIを使い続ける企業の“落とし穴”　ガートナーが警鐘",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/01/news050.html",
-    "summary": "ガートナーは、企業がAIを「時短ツール」としての生産性向上のみで評価し続けることに警鐘を鳴らしています。このような企業と、生産性以外の指標も考慮する企業との間に、今後大きな格差が生まれる可能性があると指摘しています。そのため、企業はAI活用の真の成果を測るため、生産性だけでなく、新たな評価指標を検討する必要があるとしています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-01T07:56:58.821474"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "中国の闇市場でNVIDIA製GPUが枯渇しサーバー1台当たり1億6000万円に達する",
-    "link": "https://gigazine.net/news/20260501-china-nvidia/",
-    "summary": "中国ではNVIDIA製高性能GPUの輸入が禁止されているにもかかわらず、AI開発の需要が高いため、裏市場で同製品が取引されています。しかし現在、この闇市場でNVIDIA製GPUが枯渇し、価格が大幅に高騰しています。その結果、高性能なサーバー1台あたりの価格が驚くべきことに1億6000万円に達するケースも報告されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-01T07:57:06.360031"
   }
 ]
