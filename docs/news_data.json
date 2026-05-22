@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ランサムウェア被害額は平均6.4億円、事業停滞54日――パロアルトの調査で分かった国内企業のセキュリティ実態",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/23/news022.html",
+    "summary": "パロアルトネットワークスの調査「State of Cybersecurity Japan 2026」によると、国内企業がランサムウェア攻撃を受けた際の平均被害額は6.4億円に達しています。これにより事業停滞期間も平均54日と長期化し、企業運営に大きな影響を与えています。こうした実態を受け、企業はセキュリティ投資を従来のIT予算から独立させ、新たな経営基盤として再定義する動きを進めています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-05-22T22:50:09.167093"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "新型コロナで失われた嗅覚と味覚が「特別な味付けのチューインガム」のおかげで回復した事例",
+    "link": "https://gigazine.net/news/20260522-chewing-gum-restores-taste-smell-covid/",
+    "summary": "新型コロナウイルス感染症(COVID-19)によって嗅覚と味覚を失った男性の回復事例が報告されました。この男性は、「特別に開発された超強力な味付きのチューインガム」を継続的にかみ続けた結果、失っていた感覚を取り戻しました。数年ぶりに嗅覚と味覚が回復した画期的な体験談として注目されています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-05-22T22:50:17.558432"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI Daily Digest: 2026-05-23",
+    "link": "https://zenn.dev/kd_agentic/articles/ai-daily-digest-20260523",
+    "summary": "恐れ入りますが、ご提示いただいた内容には記事のタイトル「AI Daily Digest: 2026-05-23」と日付のみがあり、具体的な記事の本文が含まれておりません。\n\nそのため、要約を作成することができません。お手数ですが、記事の本文をご提供いただけますでしょうか。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-22T22:50:23.694254"
+  },
+  {
+    "source": "Qiita",
+    "title": "OpenAI、業務用最高性能モデル「GPT-5.5 Instant」を発表",
+    "link": "https://qiita.com/quotidia/items/8c0adda0c10477de037a",
+    "summary": "OpenAIは、ChatGPTの新しいデフォルトモデルとして高性能AIモデル「GPT-5.5」をリリースしました。これにより、従来のGPT-5.2から置き換わり、特別な設定なしにすべてのユーザーがより高性能なAIを利用できるようになりました。GPT-5.5は主に推論能力を含む3つの分野で大幅に性能が向上したとされており、ChatGPTの頭脳が大きく変化します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-22T22:50:30.848986"
+  },
+  {
+    "source": "ITmedia",
     "title": "シャドーITのリスクは「こう変わった」　“悪意なき情報漏えい”にどう立ち向かう？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/22/news024.html",
     "summary": "従業員による職場での撮影、SNS投稿、生成AIへの情報入力といった何気ないデジタル行動が、業務情報と直結し、意図しない情報漏えいのリスクを増大させています。特に、生成AIに業務情報を入力することで「シャドーAI」という新たなリスクが台頭しています。\n\nこれにより、シャドーITの前提が大きく変化しており、IT部門は「悪意なき情報漏えい」に対する新たな対策が緊急に求められています。",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-05-02T22:30:18.817805"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "知能が高い人は「他人の知能」もより正しく判断できるとの研究結果",
-    "link": "https://gigazine.net/news/20260502-intelligent-people-judges-others-intelligence/",
-    "summary": "知能は学習や推論、問題解決の能力であり、社会的な交流を円滑に進める上で重要です。人々は短時間の社会的接触から他人の知能を判断できますが、新たな研究によって、知能が高い人ほど「他人の知能」をより正確に判断できることが示されました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-02T22:30:25.451466"
-  },
-  {
-    "source": "Zenn",
-    "title": "バイブコーディングの落とし穴: 20回任せるとドキュメント内容が平均25%劣化する",
-    "link": "https://zenn.dev/noah33/articles/llm-document-corruption-delegate52",
-    "summary": "「バイブコーディングの落とし穴」という記事は、この手法がドキュメント内容を劣化させるリスクがあることを警告しています。具体的には、バイブコーディングを20回繰り返すと、ドキュメントの内容が平均25%も劣化するという結果が示されています。これは、プロジェクトの効率性や情報の正確性を損なう可能性があるため、注意が必要な点です。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-02T22:30:34.844686"
-  },
-  {
-    "source": "Qiita",
-    "title": " NVIDIA Cosmos-Reason2をローカルで動かして動画推論する（transformers + vLLM)",
-    "link": "https://qiita.com/lavellehatcherjr/items/d4dcab0bfc75d65e6718",
-    "summary": "NVIDIAは2026年4月29日、物理的な常識判断と身体的な連鎖思考推論に特化したオープンなVision-Language Model「Cosmos-Reason2」に32Bバリアントを追加し、既存の2B、8Bと合わせて3サイズ展開しました。Qwen3-VLアーキテクチャをベースとし、モデルウェイトは商用利用可能なNVIDIA Open Model Licenseで公開されています。この記事では、2Bモデルを`transformers`でロードして動画推論を実行する手順と、vLLMでOpenAI互換エンドポイントとしてサーブする方法を解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-02T22:30:43.201275"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "イラストも写真もドット絵に変換できるウェブアプリ「Sora’s Pixel Converter」",
-    "link": "https://gigazine.net/news/20260502-soras-pixel-converter/",
-    "summary": "Ameniwa(あめにわ)氏が開発したウェブアプリ「Sora's Pixel Converter」は、イラストや写真などの画像を簡単にドット絵へ変換するツールです。\nユーザーは画像をドラッグ＆ドロップし、いくつかのボタン操作をするだけで、印象深いドット絵を作成できます。\nこれにより、誰でも手軽にオリジナルなドット絵アートを楽しめる点が特徴です。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-05-02T07:16:36.309154"
   }
 ]
