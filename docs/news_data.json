@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "地球からこれまで宇宙に送った信号が作る「電波バブル」とは？",
+    "link": "https://gigazine.net/news/20260524-earths-signal-space/",
+    "summary": "地球から発信された電波は光速で宇宙に広がり、「電波バブル」と呼ばれる領域を形成するというアイデアがあります。これは、地球上の文明からの信号が宇宙の果てまで到達する可能性を示唆しています。インド工科大学ルールキー校の学生であるNishant氏が、この電波バブルの概念と地球外生命体に信号が届く可能性について解説しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-23T22:42:37.240083"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIに事業を任せたら、 8日間「14,264件」と思い込んでいた数字が、 本当は185件だった話",
+    "link": "https://zenn.dev/yurukusa/articles/6416dab8bf003c",
+    "summary": "ある事業者がAIに事業を任せたところ、8日間の実績としてAIが提示した「14,264件」という数字が、実際にはわずか「185件」だったことが判明しました。これは、AIが算出した数字と実際の成果との間に、大幅な乖離があったことを示す事例です。AIによる情報や実績の正確性を盲信せず、常に検証する必要性を浮き彫りにしています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-23T22:42:44.161547"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeのスキルが毎日勝手に改善されていく仕組みを作った",
+    "link": "https://qiita.com/hiropon122/items/a8274aef2a4c882197d6",
+    "summary": "ソニックガーデンのプログラマは、自身の開発ワークフロー「`dev-workflow`」の自動改善に取り組んでいます。彼らは、開発が一段落するたびにワークフローの課題を手動で振り返り修正する作業が繰り返されることに非効率さを感じていました。そこで、Claude Codeの「Routines」機能の発表をきっかけに、この`dev-workflow`を自律的に改善していく仕組みの構築を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-23T22:42:52.022857"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "ちゃんと時間管理をするだけで大学生の成績は向上するという研究結果",
     "link": "https://gigazine.net/news/20260523-college-students-time-management/",
     "summary": "中国・石河子大学の研究チームによるメタ分析で、大学生の時間管理能力が学習成果に肯定的かつ有意な影響を与えることが体系的に示されました。この研究は、時間管理能力が高い学生ほど、学習成績、学習態度、学習意欲、学習能力といった様々な側面で成果が向上することを発見しました。具体的には、時間管理と学習成果の間に統合効果量0.30という中程度の関連性が認められています。この結果は、大学が学生の時間管理スキル向上に向けたトレーニングを導入することの重要性を示唆しています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-03T22:30:45.720681"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code Skillの「Eval/Gotchas」で使うほど賢くなる自己改善ループを作る",
-    "link": "https://qiita.com/Tadashi_Kudo/items/0179b1fc81cea8478214",
-    "summary": "この記事は、Claude Code Skillが放置されると劣化し、同じ失敗を繰り返すという問題に対し、「使うほど賢くなる」自己改善ループを構築する方法を紹介しています。筆者は40個以上のSkillを運用する経験から、全てのSkillに`## Eval`と`## Gotchas`という2つのセクションを必須化しました。`Eval`セクションはLLMの完了宣言を検証し結果を評価する役割を担います。一方、`Gotchas`セクションは過去の失敗やハマりどころを記録し、同じ過ちの再発を防ぎます。これにより、Skillは利用されるたびに改善され、その賢さを向上させる仕組みを実現しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-03T22:30:54.406674"
-  },
-  {
-    "source": "ITmedia",
-    "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
-    "summary": "アクセンチュアはベアリング大手の日本精工と戦略的パートナーシップ契約を締結しました。この提携の主な目的は、AIを活用して間接業務の効率化を図ることです。さらに、両社は新商品開発の促進や製造現場の自動化にも共同で取り組んでいきます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-03T07:43:29.636095"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "検索サービス「Ask.com」終了、Ask Jeeves以来の29年の歴史に幕",
-    "link": "https://gigazine.net/news/20260503-ask-com-shuts-down/",
-    "summary": "1996年創業の検索サービス「Ask.com（旧Ask Jeeves）」が、29年の歴史を経て2026年5月1日をもってサービス提供を終了しました。これは、親会社であるIAC Inc.が検索事業から撤退することを決定したためです。かつては月間1億ユーザーを抱え、NASCARのスポンサーを務めるほどの存在でしたが、近年は存在感が薄れていました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-03T07:43:37.486867"
   }
 ]
