@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "ちゃんと時間管理をするだけで大学生の成績は向上するという研究結果",
+    "link": "https://gigazine.net/news/20260523-college-students-time-management/",
+    "summary": "中国・石河子大学の研究チームによるメタ分析で、大学生の時間管理能力が学習成果に肯定的かつ有意な影響を与えることが体系的に示されました。この研究は、時間管理能力が高い学生ほど、学習成績、学習態度、学習意欲、学習能力といった様々な側面で成果が向上することを発見しました。具体的には、時間管理と学習成果の間に統合効果量0.30という中程度の関連性が認められています。この結果は、大学が学生の時間管理スキル向上に向けたトレーニングを導入することの重要性を示唆しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-23T08:01:32.732655"
+  },
+  {
+    "source": "Zenn",
+    "title": "Geminiの新モデル検知から簡易評価までをダッシュボード化した",
+    "link": "https://zenn.dev/shizuka_bmi16/articles/3e4a95a569578d",
+    "summary": "「Geminiの新モデル検知から簡易評価までをダッシュボード化した」という記事は、GoogleのAIモデルであるGeminiの新しいモデルがリリースされた際、それを自動で検知し、さらに簡易的な評価を行うプロセスを一つのダッシュボードとして統合したことを報じています。\n\nこのダッシュボードの導入により、Geminiの新モデルの登場を迅速に把握し、初期段階での効率的な評価作業が可能になります。具体的な機能や成果に関する詳細な情報、および数値データは記事タイトルからは読み取れませんが、Geminiモデルの管理と運用の効率化を目的とした取り組みと言えます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-23T08:01:44.734294"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code の /workflows が changelog に登場した翌日に GitHub Actions の commit で沈黙の削除—公式の文書と実装の乖離の事例の検証",
+    "link": "https://qiita.com/yurukusa/items/b3936d68814783b03e16",
+    "summary": "2026年5月20日に公開されたClaude Code v2.1.147のCHANGELOG.mdには、「Workflow tool」という新機能の追加が記載されました。これは、マルチエージェントの連鎖をコードで制御する仕組みでした。しかし、その23時間後、5月21日23:54 UTCにGitHub Actionsのコミットによって、この記述は公式な説明なしに沈黙裏に削除されました。このため、ユーザーはv2.1.147で見た機能が実際には動作しないことを報告し、公式文書と実装の間に乖離が生じる事態となりました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-23T08:02:02.031075"
+  },
+  {
     "source": "ITmedia",
     "title": "ランサムウェア被害額は平均6.4億円、事業停滞54日――パロアルトの調査で分かった国内企業のセキュリティ実態",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/23/news022.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-03T07:43:37.486867"
-  },
-  {
-    "source": "Zenn",
-    "title": "なぜ「責任経路工学」だったのか",
-    "link": "https://zenn.dev/dantarg/articles/why-responsibility-pathway-engineering",
-    "summary": "記事の内容が提供されていないため、正確な要約はできません。\n\nしかし、タイトル「なぜ「責任経路工学」だったのか」から判断すると、この記事は「責任経路工学」という用語が採用された理由や背景、その意図について論じていると考えられます。具体的には、この名称が選ばれたことで、どのような概念を強調し、あるいは誤解を避けたかったのか、そしてそれが目指す目標やアプローチにどう貢献するのか、といった点が説明されている可能性が高いです。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-03T07:43:47.398600"
-  },
-  {
-    "source": "Qiita",
-    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
-    "summary": "AIコーディングツール「Cursor」に、CVSS 9.9という極めて危険な脆弱性（CVE-2026-26268）が2026年4月28日に公開されました。この脆弱性は、ユーザーが悪意のあるリポジトリを`git clone`するだけで、CursorのAIエージェントが自律的にGit操作を実行し、隠されたGit Hookを介してPCが完全に乗っ取られるものです。従来のIDEと異なり、ユーザーが何も操作しなくても攻撃コードが実行されるのが特徴です。Cursorユーザーは直ちにバージョン2.5以上にアップデートする必要があります。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-05-03T07:43:54.866966"
-  },
-  {
-    "source": "ITmedia",
-    "title": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加　悪用を確認済",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news013.html",
-    "summary": "CISAは、悪用が確認された2件の脆弱性をKEV（Known Exploited Vulnerabilities）カタログに追加しました。これらの脆弱性は、ConnectWise製ツール「ScreenConnect」と「Windows Shell」に存在し、遠隔操作やなりすましの恐れがあります。CISAは、組織に対し防御態勢を維持し、これらの脆弱性に対処することを強く推奨しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-05-02T22:30:18.817805"
   }
 ]
