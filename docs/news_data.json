@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "HPE、過酷環境でのAI推論を支える次世代エッジサーバ製品群を発表",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/21/news038.html",
+    "summary": "日本ヒューレット・パッカードは、AI推論やミッションクリティカル用途に特化した次世代エッジサーバ製品群を発表し、過酷な環境下での運用能力を強化しました。具体的には、新型シャーシ「EL2000」と複数の新型サーバを新たに投入しています。さらに、既存の「DL145 Gen11」も性能強化され、厳しいエッジ環境におけるAI推論を支えるソリューションを拡充しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-24T22:46:55.131847"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "データセンターの排熱で風下の住宅地が暑くなる実例を確認",
+    "link": "https://gigazine.net/news/20260525-data-center-waste-heat-downwind/",
+    "summary": "データセンターはAIなどを支える重要なインフラですが、稼働に伴う排熱が周辺地域に与える影響が注目されています。アリゾナ州立大学の研究チームは、フェニックス都市圏にある4つのデータセンター周辺で調査を実施しました。車載センサーを用いた測定の結果、風下側の住宅地で風上側より気温が高くなる実例が確認され、排熱が周辺気温を上昇させる可能性が示されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-24T22:47:02.826479"
+  },
+  {
+    "source": "Zenn",
+    "title": "サブエージェントを組んだのに出力が安定しない理由",
+    "link": "https://zenn.dev/en3/articles/multi-agent-information-infrastructure",
+    "summary": "ご提示いただいたのは記事のタイトル「サブエージェントを組んだのに出力が安定しない理由」のみで、**記事の本文が提供されておりません。**\n\nそのため、記事の内容を要約することができません。恐れ入りますが、記事の本文を改めてご提示いただけますでしょうか。本文があれば、要点をまとめてご説明いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-24T22:47:09.123724"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代のシステム開発では、情報をどう構造化し管理すべきか",
+    "link": "https://qiita.com/aki_number16/items/572d7dfb3417a5e4611d",
+    "summary": "AIがシステム開発プロジェクトのアクターに加わったことで、情報設計の重要性が高まっています。AIが適切に機能するには、何を読ませ、何を遮断するかを設計する必要があり、これはツールの選択以上に、情報の「責務」をどう設計するかの問題です。従来のExcel中心のドキュメント管理では、コードと設計書の乖離やドキュメントの意図喪失といった問題が顕在化していました。AI駆動開発においては、これらの限界を克服し、情報を効率的に構造化・管理する新しい情報設計の考え方が不可欠です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-24T22:47:17.364481"
+  },
+  {
     "source": "GIGAZINE",
     "title": "今村聖奈騎手がJRA女性騎手として初のGⅠ制覇、オークスにジュウリョクピエロで勝利",
     "link": "https://gigazine.net/news/20260524-seina-imamura-wins-oaks/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-04T22:48:31.587772"
-  },
-  {
-    "source": "Qiita",
-    "title": " 「次、何を学べばいいんだろう」を解決するAIコーチCLI「tanren」を作った",
-    "link": "https://qiita.com/nozaki_3/items/3c8aaac457c0181b4631",
-    "summary": "現代の技術トレンドの急速な変化により、多くの技術者が「次に何を学ぶべきか」という迷いや、自身のスキルを客観的に把握できないという課題に直面しています。筆者もこの状況で、自分に必要な学びを導いてくれるコーチの必要性を感じました。しかし、人間のコーチは時間や費用面でハードルが高く、より気軽に相談できる存在を求めていました。この課題を解決するため、AIコーチCLI「tanren」が開発されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-04T22:48:39.692491"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "キーボードを取り外してデュアル有機ELタッチディスプレイに変形するASUSのIntel Core Ultra X9搭載ノートPC「Zenbook DUO UX8407」フォトレビュー",
-    "link": "https://gigazine.net/news/20260504-asus-zenbook-duo-photo/",
-    "summary": "ASUSは、キーボードを取り外してデュアル有機ELタッチディスプレイに変形する新型ノートPC「Zenbook DUO UX8407」を2026年4月16日に日本で発売しました。このモデルはIntel Core Ultra X9 388Hを搭載し、高性能なAI処理が可能です。前モデルUX8406から薄型軽量化などのデザイン変更が施され、ノートPCモードとデュアルスクリーンモードを切り替えて使用できます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-04T08:12:14.490778"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeに開発の主導権を渡すためにやったこと",
-    "link": "https://zenn.dev/u_akihiro/articles/b653c8c62a4cc3",
-    "summary": "申し訳ありませんが、ご提示いただいたのは記事のタイトルのみで、本文の内容が提供されていません。そのため、記事を要約することはできません。\n\n要約を作成するためには、記事の全文をご提供いただけますでしょうか。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-04T08:12:22.728912"
-  },
-  {
-    "source": "Qiita",
-    "title": "Macを買わずにWindows + クラウドMacだけでiOSパズルゲームを個人リリースした話【Unity6 / AI駆動開発】",
-    "link": "https://qiita.com/taku999999/items/ba1f6927b4beb6fd8fed",
-    "summary": "Windows PCしか持たない個人開発者が、Mac本体を購入することなくクラウドMacと組み合わせることで、iOSパズルゲーム『tube-2048-数字を重ねるマージパズル』をApp Storeにリリースしました。これは「iOSアプリをリリースしたいがMacがない」という物理的障壁を乗り越えた事例です。記事では、Macなしでの開発・リリース手法、AI駆動開発（Antigravity）の活用状況、そしてAdMobに関する実体験が数値ベースで詳しく解説されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-04T08:12:31.148961"
   }
 ]
