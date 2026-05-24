@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "今村聖奈騎手がJRA女性騎手として初のGⅠ制覇、オークスにジュウリョクピエロで勝利",
+    "link": "https://gigazine.net/news/20260524-seina-imamura-wins-oaks/",
+    "summary": "2026年5月24日(日)に開催された第87回優駿牝馬(オークス)で、今村聖奈騎手が5番人気のジュウリョクピエロに騎乗し、見事優勝しました。この勝利は、今村騎手にとって初のGⅠ制覇となります。これにより、彼女はJRA所属の女性騎手として史上初めてGⅠレースを制覇するという歴史的な快挙を成し遂げました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-24T08:13:06.744807"
+  },
+  {
+    "source": "Zenn",
+    "title": "AWS MCP Server でAIエージェントと人間の IAM 権限を分離してみた",
+    "link": "https://zenn.dev/acntechjp/articles/feb79f5abbe462",
+    "summary": "この記事は、AWS環境においてAIエージェントと人間が持つIAM（Identity and Access Management）権限を明確に分離する試みについて述べています。これは、AIによる自動処理と人間の手動操作が混在するシステムで、セキュリティを強化し、意図しないアクセスや誤操作を防ぐことを目的としています。AWS MCP Serverの利用を想定し、それぞれの主体に異なる最小限の権限を付与することで、システム全体の堅牢性を高めるアプローチが探求されています。この権限分離は、クラウド環境におけるセキュリティベストプラクティスの一環として重要視されています。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-05-24T08:13:16.085356"
+  },
+  {
+    "source": "Qiita",
+    "title": "【AIエージェント時代のチーム開発⑦】スキルファイルだけでは足りない。AIのブレを仕組みで吸収する",
+    "link": "https://qiita.com/tikomo/items/1bbb15e0c02fd7ae12c1",
+    "summary": "本記事は、AIエージェントをチーム開発に導入する際、AGENTS.mdやカスタムインストラクションのようなスキルファイルやプロジェクトルールの整備が重要であると指摘します。しかし、筆者はこれらだけではコードの統一が難しく、スキルファイルは「強制」ではなく「お願い」に近い性質を持つため、不十分であると強調しています。AIの出力のブレを吸収し、コード品質を統一するためには、スキルファイル以上の構造的な仕組みが必要であると示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-24T08:13:23.920225"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "地球からこれまで宇宙に送った信号が作る「電波バブル」とは？",
     "link": "https://gigazine.net/news/20260524-earths-signal-space/",
     "summary": "地球から発信された電波は光速で宇宙に広がり、「電波バブル」と呼ばれる領域を形成するというアイデアがあります。これは、地球上の文明からの信号が宇宙の果てまで到達する可能性を示唆しています。インド工科大学ルールキー校の学生であるNishant氏が、この電波バブルの概念と地球外生命体に信号が届く可能性について解説しています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-04T08:12:31.148961"
-  },
-  {
-    "source": "ITmedia",
-    "title": "エージェント型AI普及の壁は「技術」ではなく「組織」　導入を阻む4つのリスク",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/04/news010.html",
-    "summary": "Genpactの報告によると、エージェント型AIが普及する上での最大の障壁は技術的な問題ではなく、組織的な準備の不足にあるとされています。具体的には、責任の所在、評価指標、人材への影響、業務設計の未整備という4つのリスクが導入を阻んでいます。このため、多くの企業はエージェント型AIの自律的な運用に対して慎重な姿勢を取っています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-03T22:30:30.287620"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」",
-    "link": "https://gigazine.net/news/20260503-controller-drift/",
-    "summary": "ゲーム機のコントローラーを長期間使用すると、アナログスティックに触れていないのに勝手に動く「ドリフト現象」が発生することがあります。ウェブアプリ「ControllerTest.io」は、このドリフト現象の有無を可視化し、コントローラーの状態を診断できるツールです。PCにPlayStationやNintendo Switchなどのコントローラーを接続するだけで、簡単に診断を行えます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-03T22:30:37.800520"
-  },
-  {
-    "source": "Zenn",
-    "title": "ChatGPTのカスタム指示を使いこなす！生産性を3倍にする実践テクニック",
-    "link": "https://zenn.dev/nicotable/articles/20260504_ai-tips-4sbrqv",
-    "summary": "この記事は、ChatGPTの「カスタム指示」機能を効果的に活用する方法に焦点を当てています。この機能を使うことで、ユーザーは個別のニーズに合わせてChatGPTの応答を最適化し、タスク処理の生産性を最大3倍に向上させることが可能です。記事では、具体的な実践テクニックや活用事例を通じて、効率的な情報収集や作業の自動化を実現するためのヒントが提供されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-03T22:30:45.720681"
   }
 ]
