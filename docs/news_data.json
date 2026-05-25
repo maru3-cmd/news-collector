@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "数千規模のAIエージェントをどう統制する？　IBMが製品群を発表",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
+    "summary": "AIエージェントが数千規模に拡大するにつれ、その効果的な統制が企業にとって喫緊の課題となっています。この課題に対応するため、IBMはAIオペレーティングモデルと関連製品群を発表しました。これらは、複数のAIエージェントの連携、信頼性、ガバナンスを確保し、企業が複雑なAIシステムを安全かつ効率的に管理できるよう支援することを目的としています。IBMの提供するソリューションは、AI運用の複雑性を軽減し、企業がAI技術を最大限に活用できる環境を構築します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-25T09:42:56.611735"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "人間には普通の契約書に見えるのに「嘘のフォント」でAIだけ別の文章を読まされる「Noroboto」攻撃とは？",
+    "link": "https://gigazine.net/news/20260525-noroboto/",
+    "summary": "AIは文書の要約やリスクチェックに活用されていますが、これは人間とAIが同じ内容を読み取っているという前提に基づいています。企業法務の弁護士でありソフトウェア開発者でもあるドリュー・ミラー氏が、この前提を覆す「Noroboto」という攻撃手法を提唱しました。Norobotoは、人間には通常の文章として見える一方で、AIには全く異なる内容を読み取らせることで、AIによる文書レビューの信頼性を損なう可能性があります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-25T09:43:05.351766"
+  },
+  {
+    "source": "Zenn",
+    "title": "claude チャットの学習モードがいいぞという話",
+    "link": "https://zenn.dev/teeyo/articles/ef49620409c73b",
+    "summary": "この「claude チャットの学習モードがいいぞという話」というタイトルは、Claudeチャットの特定の機能に焦点を当てています。記事は、Claudeチャットに搭載されている「学習モード」の有用性や優れた点を強く推奨していると考えられます。筆者は、この学習モードがユーザーにとって非常に良い体験や高い価値を提供すると評価しているようです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-25T09:43:15.033156"
+  },
+  {
+    "source": "Qiita",
+    "title": "CodexでPRを並列に作る前に、親Issueを制御面にしている話",
+    "link": "https://qiita.com/Kota_Su/items/d1d8aacf935975b711a8",
+    "summary": "この記事は、個人開発におけるCodexとGitHub Issueを活用した開発運用メモです。筆者は、AIにIssueを渡してCodexで多数の小さなPRを並行作成する際、Issue間の順序や依存関係が崩れ、どれを優先すべきか不明瞭になるという課題に直面しました。この問題を解決するため、親Issueを「制御面」として活用し、複数のIssueが絡み合う状況での作業の優先順位付けを明確にする運用を試みています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-25T09:43:24.663315"
+  },
+  {
+    "source": "ITmedia",
     "title": "HPE、過酷環境でのAI推論を支える次世代エッジサーバ製品群を発表",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/21/news038.html",
     "summary": "日本ヒューレット・パッカードは、AI推論やミッションクリティカル用途に特化した次世代エッジサーバ製品群を発表し、過酷な環境下での運用能力を強化しました。具体的には、新型シャーシ「EL2000」と複数の新型サーバを新たに投入しています。さらに、既存の「DL145 Gen11」も性能強化され、厳しいエッジ環境におけるAI推論を支えるソリューションを拡充しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-05T07:50:42.270068"
-  },
-  {
-    "source": "Zenn",
-    "title": "PHPで競馬AIを自作した〜楽天競馬パーサー編〜",
-    "link": "https://zenn.dev/sakuneko/articles/d1fe0284de54bc",
-    "summary": "この記事は、PHPを活用して独自の競馬AIを開発する取り組みについて解説しています。特に「楽天競馬パーサー編」と題されており、AIの基盤となるデータ収集に焦点が当てられています。具体的には、楽天競馬サイトからレース情報や出走馬データなどを効率的に取得し、AIが利用できる形式に解析するPHPを用いたWebスクレイピングおよびデータ処理技術が詳述されていると推測されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-05T07:50:51.795956"
-  },
-  {
-    "source": "Qiita",
-    "title": "【速報】Claude Securityが公開ベータ開始！Opus 4.7で脆弱性スキャンが「人間のセキュリティ研究者レベル」に",
-    "link": "https://qiita.com/emi_ndk/items/15e6f0cdd57f03d8bcb0",
-    "summary": "Anthropicは5月4日、Enterprise顧客向けに脆弱性スキャンツール「Claude Security」の公開ベータを開始しました。Opus 4.7を搭載したこのツールは、従来のパターンマッチング型ツールが見逃していた「コンテキスト依存型」の脆弱性を「人間のセキュリティ研究者レベル」で検出できる点が特徴です。設定やAPIなしで`claude.ai/security`から即座に利用可能で、すでにCrowdStrikeやMicrosoftなどの大手セキュリティ企業が採用を決定しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-05T07:50:59.379760"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "好きな声で好きなセリフを喋らせられるローカルAI「Irodori-TTS」の使い方、日本語特化でローカル動作するので無制限に生成し放題",
-    "link": "https://gigazine.net/news/20260504-irodori-tts-text-to-speech-ai/",
-    "summary": "Aratako氏が開発した「Irodori-TTS」は、日本語に特化した音声合成AIモデル（TTSモデル）です。この軽量モデルはPCのローカル環境で動作し、「セリフ」「声」「感情」を自由に指定して高品質な音声を生成できます。\n\nNVIDIA製GPU搭載PCなら数秒で音声を生成でき、GPU非搭載PCでもCPUを使用して利用可能です。ローカル動作のため、無制限に高品質なセリフ音声を生成できる点が大きな魅力です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-04T22:48:21.185469"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントの設定をコードで管理する：Microsoft製「APM (Agent Package Manager)」入門",
-    "link": "https://zenn.dev/headwaters/articles/microsoft-apm-agent-package-manager",
-    "summary": "マイクロソフトが提供する「APM (Agent Package Manager)」は、AIエージェントの設定をコードで管理するためのツールです。このツールは、AIエージェントの設定に「Infrastructure as Code (IaC)」の原則を適用することで、設定のバージョン管理や再現性を高めます。本記事は、APMの基本的な概念や利用方法について紹介する入門記事です。\n\n*なお、提供された情報がタイトルのみのため、記事本文に基づいた詳細な要約ではありません。*",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-04T22:48:31.587772"
   }
 ]
