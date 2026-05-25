@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "脆弱性の“発見”から“修正”がボトルネックに　「Mythos Preview」で見えた成果と課題感",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/26/news028.html",
+    "summary": "Anthropicは、AIモデル「Mythos Preview」を活用し、重要ソフトウェアから多数の脆弱性を発見したと発表しました。この成果は評価される一方、オープンソースを含む広範な調査によって、脆弱性の「発見」から「修正」までの作業負荷が大幅に増大し、ボトルネックとなっている現状が浮き彫りになりました。Anthropicは、この課題を解決するため、防御側の企業やコミュニティがより迅速な対応体制を強化する必要があると訴えています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-25T22:51:36.705996"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「現存する世界最古の活版印刷機」がベルギーの博物館に展示されている",
+    "link": "https://gigazine.net/news/20260526-worlds-two-oldest-printing-presses/",
+    "summary": "ベルギー第2の都市アントウェルペンにあるプランタン＝モレトゥスの家屋・工房・博物館複合体では、現存する世界最古の活版印刷機が2台展示されています。活版印刷は、凸型の活字を並べた組版を使用する技術であり、情報伝達の速度を飛躍的に向上させる上で重要な役割を果たしました。これらの印刷機は、この画期的な技術の歴史的価値を示しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-25T22:51:47.005786"
+  },
+  {
+    "source": "Zenn",
+    "title": "Anthropic、初の黒字四半期を達成へ――AI企業の収益化フェーズが本格化",
+    "link": "https://zenn.dev/quotidia/articles/quotidia-aq-014",
+    "summary": "記事タイトルから判断すると、AI企業であるAnthropicが初めて四半期で黒字を達成する見込みであることが報じられました。これは同社にとって重要な節目であり、AI業界全体が大規模な投資フェーズから、実際に収益を生み出す「収益化フェーズ」へと本格的に移行しつつあることを示唆しています。この動きは、AI技術の商業的実現可能性が高まっていることを浮き彫りにしています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-25T22:51:55.464489"
+  },
+  {
+    "source": "ITmedia",
     "title": "数千規模のAIエージェントをどう統制する？　IBMが製品群を発表",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
     "summary": "AIエージェントが数千規模に拡大するにつれ、その効果的な統制が企業にとって喫緊の課題となっています。この課題に対応するため、IBMはAIオペレーティングモデルと関連製品群を発表しました。これらは、複数のAIエージェントの連携、信頼性、ガバナンスを確保し、企業が複雑なAIシステムを安全かつ効率的に管理できるよう支援することを目的としています。IBMの提供するソリューションは、AI運用の複雑性を軽減し、企業がAI技術を最大限に活用できる環境を構築します。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-05T22:46:30.587106"
-  },
-  {
-    "source": "Qiita",
-    "title": "Ultraplan の機密性ベース選別運用：公開リポと機密リポでAI送信先を切り分けた話",
-    "link": "https://qiita.com/Tadashi_Kudo/items/6698fa06e3c38265b757",
-    "summary": "UltraplanのようなAIコーディング支援ツールを組織に導入する際、AIへ送信するリポジトリの「公開可否」を線引きする課題が生じました。当初「全面禁止」と「全面許可」で両極の議論がありましたが、最終的に「機密性ベースの選別運用」に決定しました。これは、許可リスト・禁止リストおよびチェックリストを用い、リポジトリの機密性に応じてAI送信先を切り分ける方法です。本記事では、この選別運用の過程と具体的なチェックフローが、AIコーディング支援ツールの導入を検討する開発者やテックリード向けに共有されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-05T22:46:43.258111"
-  },
-  {
-    "source": "ITmedia",
-    "title": "中堅・中小企業に最も人気のAIエージェントは？　Google Agentspaceは2位",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/05/news016.html",
-    "summary": "この記事は、中堅・中小企業におけるAIエージェントの導入動向に焦点を当てています。調査によると、Google Agentspaceは導入・導入予定のAIエージェントの中で2位に位置づけられています。記事では、最も人気のあるAIエージェントを明らかにするとともに、小規模企業のITツールへの費用拠出から得られる重要な教訓についても深掘りしています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-05T07:50:34.551660"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ノートPCモードとデュアルスクリーンモードを切り替えて使用できるASUSのデュアルディスプレイノートPC「Zenbook DUO UX8407」は外出先の作業に適しているかベンチマークや騒音・排熱で計測してみたよレビュー",
-    "link": "https://gigazine.net/news/20260505-asus-zenbook-duo-benchmark/",
-    "summary": "2026年4月16日に日本で発売された「ASUS Zenbook DUO UX8407」は、キーボードを着脱してノートPCモードと折りたたみ式デュアルディスプレイモードを切り替えられる画期的なノートPCです。Intel Core Ultra X9 388Hを搭載し高性能なAI処理が可能でありながら、重量は約1.6kgと携帯性にも優れています。本レビューでは、このデバイスが外出先での作業に適しているか、ベンチマーク、バッテリー性能、騒音、排熱などを計測して検証しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-05T07:50:42.270068"
   }
 ]
