@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "具材はかつお節オンリーで「だし」コスト3倍な「日清のどん兵衛 鰹だしの極みうどん／そば」を食べてみた",
+    "link": "https://gigazine.net/news/20260526-nissin-donbei-kiwami-udon-soba/",
+    "summary": "日清食品は、どん兵衛発売50周年を記念し、だしのおいしさを追求した新商品「日清のどん兵衛 鰹だしの極みうどん／そば」を2026年5月25日に発売しました。\n\nこの商品は、通常のどん兵衛のだしに比べて3倍以上のコストをかけ、鰹だしの香りと旨みを最大限に引き出しているのが特徴です。記事では、そのこだわりのだしが実際にどのような味なのかを確かめるため、購入して試食しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-26T09:30:14.875805"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントのツール定義設計原則：スキーマ・命名・レスポンスの実践ガイド",
+    "link": "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
+    "summary": "恐れ入りますが、ご提示いただいたのは記事のタイトルのみで、**記事本文の内容が提供されておりません。**\n\nそのため、内容を読み取って要約を作成することができません。お手数ですが、記事の全文をご提供いただけますでしょうか。そうすれば、要点をまとめて3〜4文で要約いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-26T09:30:22.736186"
+  },
+  {
+    "source": "Qiita",
+    "title": "【イベント・スタッフレポート】第一回 LinuC Open Network 総会 #LiON",
+    "link": "https://qiita.com/nomurasan/items/98e3db169b8a854dabc6",
+    "summary": "LinuC Open Network（LiON）は、オンラインでの第一回総会を開催しました。これは平日の業後に行われたイベントで、「総会」というタイトルにもかかわらず、後半のプロジェクトミーティングは実質的に勉強会形式だったと運営メンバーは報告しています。このイベントでは多数の新規プロジェクトが立ち上がり、メンバーアンケートからは「これからエンジニアになりたい人」である非エンジニアが多数を占めることが判明しました。運営メンバーは、コミュニティ内部の話でありながら外部にも開かれていれば良かったと振り返り、運営スタッフへの参加も促しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-26T09:30:41.723633"
+  },
+  {
     "source": "ITmedia",
     "title": "脆弱性の“発見”から“修正”がボトルネックに　「Mythos Preview」で見えた成果と課題感",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/26/news028.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-06T08:02:20.513839"
-  },
-  {
-    "source": "ITmedia",
-    "title": "クレカを止めても被害は止まらない――アカウント侵害の「第二幕」から得た教訓",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2604/30/news010.html",
-    "summary": "ITライターの宮田健氏は、自身のAmazonアカウントがハッキングされた際、アカウントを復旧しクレジットカードを停止した後も、攻撃者による不正利用が執拗に続いた「第二幕」の被害に遭遇しました。この記事は、アカウント侵害の被害がアカウント回復だけでは終わらず、攻撃者が巧妙な手口で不正行為を継続する実態を明らかにしています。著者の経験は、被害が長期化する可能性と、そこから得られる重要な教訓を読者に伝えています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-05-05T22:46:12.210403"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」",
-    "link": "https://gigazine.net/news/20260505-photogimp/",
-    "summary": "オープンソースの高機能画像編集ソフト「GIMP」は無料で利用できますが、そのUIはAdobe Photoshopと異なり、慣れるのに時間がかかることがあります。\n\n「PhotoGIMP」は、このGIMPのユーザーインターフェース（UI）をPhotoshopに近いレイアウトに変換するパッチです。\n\nこれを導入することで、PhotoshopユーザーはGIMPをより直感的かつスムーズに利用できるようになります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-05T22:46:19.924338"
-  },
-  {
-    "source": "Zenn",
-    "title": "2024年の生成AI規制動向と開発者が知るべき法的リスク",
-    "link": "https://zenn.dev/nicotable/articles/20260504_news-analysis-x5eys0",
-    "summary": "2024年は、EU AI Actの成立を筆頭に生成AIに関する法規制が世界的に加速する年であり、開発者は広範な法的リスクへの対応が求められます。主なリスクとして、学習データや生成物における著作権侵害や個人情報保護、AIの差別的な出力、ハルシネーションによる誤情報生成などが挙げられます。米国では自主規制、日本では事業者向けガイドライン策定が進む中、開発者は国際的な規制動向を把握し、透明性や公平性、説明責任を確保する取り組みが不可欠です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-05T22:46:30.587106"
   }
 ]
