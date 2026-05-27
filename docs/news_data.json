@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIが生んだ新たな業務、9割が「負担」　AIOpsの“不都合な実態”",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news031.html",
+    "summary": "ある調査によると、AIOpsを導入した情報システム担当者の約75%が業務負荷の軽減を実感しています。しかしその一方で、約9割がAIの活用によって新たに発生する作業を「負担」だと感じていることが明らかになりました。これは、AIが新たな効率化を生む一方で、予期せぬ業務負担も生み出すという「不都合な実態」を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-27T08:56:07.656490"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Wikipediaを運営するウィキメディア財団が元CTOを解雇＆コミュニティ技術チームを解散、労働組合つぶしとの批判も",
+    "link": "https://gigazine.net/news/20260527-wikipedia-anti-labor-fired-union-organizers/",
+    "summary": "Wikipediaを運営するウィキメディア財団が、2026年5月に元CTOを解雇し、そのわずか1週間後にはコミュニティ技術チームも解散させました。この一連の出来事に対し、デジタル活動家であるジェイク・オーロヴィツ氏は、巨大IT企業が行うような「労働組合つぶしだ」と厳しく批判しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-27T08:56:14.624930"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code でAIチームを組んだのに「うまく回せない」——運用・品質管理・事故対応の実録 Vol.2",
+    "link": "https://zenn.dev/tottoko_hamu/articles/2026-05-25-155645",
+    "summary": "大変申し訳ありませんが、記事のタイトルのみが提供されており、本文がございません。そのため、内容を正確に要約することはできません。\n\n記事本文をご提供いただければ、その内容に基づいて3-4文で簡潔に要約し、重要なポイントや数字を含めることが可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-27T08:56:22.924229"
+  },
+  {
+    "source": "Qiita",
+    "title": "止まれる自動売買を前提にした AI FX Bot の停止設計",
+    "link": "https://qiita.com/kuwaharayuki12/items/b96fd0560f83ecfe9620",
+    "summary": "この記事は、AI FX Botの実運用において、「どう勝つか」よりも「いつ止まるか」という停止設計が最も重要であると強調しています。最大の危険は、異常相場などで止まるべき局面で停止できないことと捉えられています。\n\nそのため、初期運用では日次損失の拡大防止、想定外ドローダウンの早期検知、スプレッド悪化時の無理な執行回避などを優先。日次損失、最大ドローダウン、異常相場、スプレッド悪化、介入リスクといった複数の観点から自律的な停止判断が組み込まれています。この設計により、Botは単なる売買ロジックの集合ではなく、停止判断を含む総合的な運用システムとして機能することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-27T08:56:37.638487"
+  },
+  {
+    "source": "ITmedia",
     "title": "OpenAI、AI生成物の「来歴情報」確認体制を強化　C2PA準拠拡大へ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news042.html",
     "summary": "OpenAIは、AI生成物の信頼性確保と識別精度向上のため、出所確認体制を強化する新施策を発表しました。具体的には、画像や音声に生成元を示すメタデータを付与するオープン標準規格「C2PA」への準拠を拡大し、OpenAIが生成したことを示すデジタル証明を付与する方針です。また、画像に透かしを埋め込む「SynthID」の活用を進めるとともに、AI生成物かを識別する検証機能の試験公開も行う予定です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-07T08:10:15.073136"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft、Copilotのアップデートを発表　ExcelでPlanモードやPython連携が可能に",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/07/news015.html",
-    "summary": "Microsoftは、Microsoft 365 Copilotの2026年4月版アップデートを発表しました。このアップデートでは、ExcelにPlanモードとPython連携が追加され、WordではClaudeが統合されるなど、実務直結の新機能が多数導入されます。これにより、データ分析や文書作成の効率が大幅に向上すると期待されます。また、組織的なAI運用を効率化・可視化するための管理機能も強化されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-06T22:39:43.743413"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "地球が完全に氷に閉ざされていた「スノーボールアース」の時期に奇妙な気候サイクルが存在した可能性",
-    "link": "https://gigazine.net/news/20260507-snowball-earth-stranger-climate/",
-    "summary": "約10億～5億4200万年前の新原生代中期のスターティアン氷期には、地球全体が氷に閉ざされる「スノーボールアース」の状態になったとされています。この極寒の時代について、新たな研究結果が発表されました。それによると、完全に氷に覆われたスノーボールアースの地球には、これまで知られていなかった「奇妙な気候サイクル」が存在した可能性があるとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-06T22:39:50.796815"
-  },
-  {
-    "source": "Zenn",
-    "title": "シートとコードをAIに渡す：「実態はアプリ」のExcel開発ツール xlsm_devkit",
-    "link": "https://zenn.dev/minipoisson/articles/xlsm-devkit-sheet-code-to-ai",
-    "summary": "「xlsm_devkit」は、Excelのシートとコード（VBAなど）をAIに渡すことで、その実態を「アプリ」のように機能させることを目指したExcel開発ツールです。これにより、従来のExcelファイルが持つ「単なるシート」というイメージを超え、より堅牢で使いやすいアプリケーションとして機能するソリューション開発を支援します。開発者は、既存のExcel資産を活用しつつ、AIの助けを借りて保守性や配布性の高い「Excelアプリ」を効率的に構築できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-06T22:40:01.289648"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude × Codex 並走設計：MCPパリティとシークレットハンドリングの落とし穴",
-    "link": "https://qiita.com/Tadashi_Kudo/items/cabe9e7e4d720e32a302",
-    "summary": "この記事は、AIコーディングの現場でClaude CodeとCodex CLIを同じプロジェクトで並行利用する構成が一般的になっている現状を指摘しています。しかし、この構成では、Claudeで機能するはずの安全ガードがCodex経由では適用されず、そのまま処理が進行してしまう事故が発生する問題点を提起しています。筆者も同様の事故を経験したとし、記事ではこの並行設計における「MCPパリティ」と「シークレットハンドリング」の2つの主要な落とし穴に焦点を当て、具体的な対策を解説することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-06T22:40:09.501744"
   }
 ]
