@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "【5/29まで】IT人材に関する意識調査【Amazonギフトカードが当たる】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news059.html",
+    "summary": "現在、「IT人材」に関する意識調査が実施されています。\nこの調査に回答すると、抽選で3名にAmazonギフトカード500円分がプレゼントされます。\n回答の締め切りは5月29日までです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-27T23:09:41.402282"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "コーディングAIによるカンニングを防いでより正確なプログラミング性能が測定可能なベンチマーク「DeepSWE」",
+    "link": "https://gigazine.net/news/20260528-deepswe-ai-coding-benchmark/",
+    "summary": "ソフトウェア開発におけるコーディングAIの普及に伴い、その性能を評価する様々なベンチマークが存在します。しかし、既存のベンチマークには欠点があるとされています。この問題を解決するため、コーディングAIが既存のデータから「カンニング」するのを防ぎ、より正確なプログラミング性能を測定できる新しいベンチマーク「DeepSWE」が登場しました。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-05-27T23:09:48.721808"
+  },
+  {
+    "source": "Zenn",
+    "title": "Scoped Meta-Harness: 企業AIエージェントにおける自己改善ループの設計理論",
+    "link": "https://zenn.dev/shark_same_same/articles/e3d4be2d807423",
+    "summary": "提供された内容は記事のタイトル「Scoped Meta-Harness: 企業AIエージェントにおける自己改善ループの設計理論」のみで、記事本文がありません。そのため、記事の内容を要約することはできません。\n\nもし記事本文をご提供いただければ、その内容に基づいて3～4文で簡潔に要約し、重要なポイントや数字を含めることが可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-27T23:09:54.777710"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年5月28日",
+    "link": "https://qiita.com/ishisaka/items/e2a47c788eb3ec79955e",
+    "summary": "「プログラミング雑記 2026年5月28日」では、C#のメモリ安全性を大幅に向上させるための重要な変更が紹介されています。具体的には、既存の`unsafe`キーワードの仕組みが再設計されるとのことです。\n\n新モデルでは、`unsafe`はポインタ操作だけでなく、コンパイラが安全性を検証できない全ての操作を示す契約となります。これにより、`unsafe`メンバーを呼び出す側は常に内側の`unsafe`ブロックで操作を囲む必要があり、シグネチャ上の`unsafe`はその義務を伝播させる役割を担います。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-05-27T23:10:02.831495"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIが生んだ新たな業務、9割が「負担」　AIOpsの“不都合な実態”",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news031.html",
     "summary": "ある調査によると、AIOpsを導入した情報システム担当者の約75%が業務負荷の軽減を実感しています。しかしその一方で、約9割がAIの活用によって新たに発生する作業を「負担」だと感じていることが明らかになりました。これは、AIが新たな効率化を生む一方で、予期せぬ業務負担も生み出すという「不都合な実態」を示しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-07T22:53:10.144280"
-  },
-  {
-    "source": "ITmedia",
-    "title": "富士通とNECの業績見通しから探る「2026年度国内IT需要の行方」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/07/news080.html",
-    "summary": "マクロ経済の不透明感が強まる中、本記事は2026年度の国内IT需要の行方を考察します。その分析には、富士通とNECの最新受注状況および業績予想が活用されます。両社の見立てを通じて、国内IT市場の将来的な動向を明らかにすることを目指しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-05-07T08:09:47.294829"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Anthropicが金融・保険業界向けClaudeエージェントを発表、資料作成・監査準備・AML調査などを業務フローに沿って支援",
-    "link": "https://gigazine.net/news/20260507-anthropic-agents-for-financial-services/",
-    "summary": "Anthropicは、金融サービスおよび保険業界向けに、AIチャットボットClaudeを活用した新しいエージェントテンプレート10種類を発表しました。これらのエージェントは、金融機関における時間のかかる調査、資料作成、照合、監査準備、顧客確認、AML(アンチマネーロンダリング)調査といった業務フローを支援します。これにより、多岐にわたる金融業務の効率化と自動化を促進し、生産性の向上が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-07T08:09:54.446027"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI記事制作で品質を落とさない：編集フローを3層の品質ゲートで設計する",
-    "link": "https://zenn.dev/minewo/articles/ai-article-quality-gate-workflow",
-    "summary": "この記事は、AI記事制作において品質を落とさないための編集フロー設計を提案しています。具体的には、「3層の品質ゲート」を設けることで、AIが生成した記事の品質低下を防ぎ、高品質なコンテンツを安定して提供することを目指します。これにより、AIの利便性を享受しつつ、ユーザーに信頼される記事品質を維持することが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-07T08:10:06.566207"
-  },
-  {
-    "source": "Qiita",
-    "title": "16GB VRAMでローカルAIエージェントを作る",
-    "link": "https://qiita.com/rS_alonewolf/items/a0c602c3e4ad24409544",
-    "summary": "この記事は、16GB VRAM環境、特にRTX 5070 Tiを使用してローカルAIエージェントを構築する取り組みについて述べています。具体的には、2026年初頭にリリースされ話題となったQwen3.6-27Bの量子化モデルを、Opencode向けに調整しようとしています。しかし、限られた16GBのVRAMでこのモデルを実行するには、いくつかの課題があることが示唆されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-07T08:10:15.073136"
   }
 ]
