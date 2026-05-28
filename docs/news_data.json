@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "OpenAI、Anthropicが新会社設立　国内SIerは「黒船襲来」に対抗できるか？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news061.html",
+    "summary": "OpenAIとAnthropicが相次いでAIサービスを担う新会社を設立しました。これは、FDEやApplied AI Engineerを擁する「黒船」の来襲として、国内SIerにとって大きな脅威と見なされています。記事は、この新たな動きに対し、国内SIerがどのような備えをすべきかについて提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-28T09:39:35.039603"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「ぶどうを丸ごと飲んでいる」感満点の「Welch’sスパークリング赤」試飲レビュー",
+    "link": "https://gigazine.net/news/20260528-asahi-welchs-sparkling-red-concord-grape/",
+    "summary": "アサヒ飲料の「Welch's」ブランドから、大人向けスパークリングドリンク「Welch'sスパークリング赤」が、2026年5月26日(火)より期間限定で登場しました。この記事は、その新商品の試飲レビューです。タイトルには「ぶどうを丸ごと飲んでいる」ような濃厚な味わいが特徴であると書かれており、その詳細が紹介されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-28T09:39:46.186009"
+  },
+  {
+    "source": "Zenn",
+    "title": "誰も使わない機能を、誰も消せない理由",
+    "link": "https://zenn.dev/acntechjp/articles/729a0be6c11f58",
+    "summary": "記事の内容が提供されていないため、正確な要約はできません。\n\nしかし、タイトル「誰も使わない機能を、誰も消せない理由」から推測すると、この記事は組織やシステムの内部において、なぜ使われなくなった機能が残り続けるのかについて論じていると考えられます。一般的に、その理由としては、他の機能との依存関係、削除による予期せぬ障害発生のリスク、削除作業にかかるコストや手間、あるいは担当部署間の調整の難しさなどが挙げられるでしょう。これらの要因が複雑に絡み合い、たとえ利用価値がなくなった機能であっても、容易に削除できない状況を生み出している現状を解説していると推測されます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-28T09:39:56.425827"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIエージェントの怖さを体験できるWebサイトを作った【間接プロンプトインジェクション】",
+    "link": "https://qiita.com/Kogia_sima/items/d9120e42c543b8dc41b3",
+    "summary": "この記事は、AIエージェントを攻撃者が乗っ取り、データ破壊などを引き起こす「間接プロンプトインジェクション」という新たな脅威について紹介しています。この攻撃はすでに2026年現在で現実となっており、AIの便利な一方でリスクを正しく理解する必要があると強調しています。筆者は、この攻撃の恐ろしさをわずか30秒で体験できるデモンストレーション用ウェブサイトを作成し、その危険性を理解するよう促しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-28T09:40:06.461156"
+  },
+  {
+    "source": "ITmedia",
     "title": "【5/29まで】IT人材に関する意識調査【Amazonギフトカードが当たる】",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news059.html",
     "summary": "現在、「IT人材」に関する意識調査が実施されています。\nこの調査に回答すると、抽選で3名にAmazonギフトカード500円分がプレゼントされます。\n回答の締め切りは5月29日までです。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-05-08T07:12:39.558365"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ChatGPTがシェア4割を切る　急伸するClaude、安定のGemini――生成AI三極化の兆し",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
-    "summary": "Apptopiaの発表によると、2026年4月の米国生成AIチャットアプリ市場の日次利用者数は前月比1.5％減少しました。一方で、高頻度利用層は拡大傾向を維持しています。この状況下で、ChatGPTはシェア4割を切り、Claudeが急伸、Google Geminiも安定して勢力を伸ばしており、生成AI市場は三極化の兆しを見せています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-07T22:52:44.286187"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GWに鳥取砂丘こどもの国へ行ったら遊具もトイレも充実しまくりで財布にも優しい最高の施設だった",
-    "link": "https://gigazine.net/news/20260508-kodomonokuni-golden-week/",
-    "summary": "提示された記事はタイトルと冒頭の一文のみで、具体的な内容がほとんどないため、詳細な要約はできません。\n\n記事のタイトルと冒頭からは、ゴールデンウィーク中に鳥取砂丘のそばにある「アイエム電子鳥取砂丘こどもの国」を訪れた体験について書かれていることが分かります。この施設は、遊具やトイレが非常に充実しており、財布にも優しい「最高の施設」として評価されているようです。より詳しい内容や具体的な数字を含む要約をするには、記事の全文が必要です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-07T22:52:54.290118"
-  },
-  {
-    "source": "Zenn",
-    "title": "CopilotをExcel/Wordの代筆AIだと思ってる企業はAI時代に取り残される",
-    "link": "https://zenn.dev/syoshida07/articles/755ae854a9b6ff",
-    "summary": "CopilotをExcelやWordの代筆AIと限定的に認識している企業は、AI時代の本質を見誤るリスクがあります。このような認識では、Copilotが持つ真の価値や、業務プロセス全体の変革・生産性向上への広範な可能性を十分に活用できません。結果として、AI技術の進化に取り残され、競争力を失う恐れがあるため、その真価を理解し活用することが重要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-07T22:53:02.621491"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年5月8日",
-    "link": "https://qiita.com/ishisaka/items/98da13124bb3f7e796d6",
-    "summary": "2026年5月8日のプログラミング雑記では、Go言語と.NETに関する最新情報が取り上げられました。\nGo言語では、バージョン1.26.3と1.25.10のマイナーポイントリリースが公開され、cmd/goやnet/http関連を含む11件のセキュリティ修正が適用されています。\n一方、Microsoft Copilot Studioは.NET WebAssemblyランタイムを.NET 8から.NET 10へアップグレードしました。\nこのアップグレードにより、自動フィンガープリンティングやAOT後のIL削除といった改善が図られ、デプロイの簡素化と実行速度の向上が実現しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-07T22:53:10.144280"
   }
 ]
