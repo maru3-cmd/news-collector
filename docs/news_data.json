@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "SCS評価制度が問う“組織としての対応力”：経営層を巻き込んだレジリエンス強化の進め方",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/29/news013.html",
+    "summary": "SCS評価制度は、インシデント対応を通じて組織のレジリエンスを強化すると共に、経営層の積極的な関与が不可欠であることを示しています。実効性あるインシデント対応には、技術的な整備に加え、経営層との日常的なコミュニケーションが機能の鍵を握ります。本記事では、IPAが公開する「サイバーレジリエンスのためのコミュニケーション」が提示する「3つの違い」を基に、経営層を巻き込んだレジリエンス強化の具体的な進め方を解説しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-05-28T23:07:22.942477"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "NVIDIAのAI向けCPU「Vera」がAMDのEPYCやIntelのXeonを凌駕する強力な性能を発揮",
+    "link": "https://gigazine.net/news/20260529-nvidia-vera-benchmark/",
+    "summary": "NVIDIAは、2026年後半に稼働開始予定のAI特化CPU「Vera」を開発しています。Linux特化メディアのPhoronixが実施したベンチマークテストの結果、Veraは既存のAMD EPYCやIntel Xeonを凌駕する非常に強力な性能を発揮することが示されました。このベンチマークは、AI分野におけるNVIDIAの技術的な優位性を裏付けるものです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-28T23:07:30.011230"
+  },
+  {
+    "source": "Zenn",
+    "title": "ローカルLLM(Ollama)を今更インストール",
+    "link": "https://zenn.dev/aofy/articles/32d301260ee814",
+    "summary": "この記事は、ローカルLLMであるOllamaのインストールについて扱っています。筆者は、そのインストールを「今更」と表現しており、ある程度の時間が経ってから改めてこの技術に触れた背景が示唆されます。提供された情報からは具体的なインストール手順や、それに伴う技術的な詳細、数字などのデータは読み取れません。要約の焦点は、Ollamaの導入とそのタイミングに対する筆者の見解にあります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-28T23:07:39.903512"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.153〜v2.1.154 リリース｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/d42ad8905e76c9b7a0c1",
+    "summary": "Claude Codeのv2.1.153〜v2.1.154リリースでは、新モデルOpus 4.8と複数エージェントを統合するdynamic workflowsが同時に導入されました。\n\nOpus 4.8は最難関タスク向けにデフォルトでhigh effort設定となり、`/effort xhigh`オプションも追加されています。また、Opus 4.8のFast modeは標準の2倍料金で2.5倍速と大幅に性能が向上し、以前より大幅に安価になりました。\n\ndynamic workflowsは数十〜数百のエージェントをバックグラウンドで束ねて1つのタスクを処理する基盤機能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-28T23:07:48.701899"
+  },
+  {
+    "source": "ITmedia",
     "title": "OpenAI、Anthropicが新会社設立　国内SIerは「黒船襲来」に対抗できるか？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news061.html",
     "summary": "OpenAIとAnthropicが相次いでAIサービスを担う新会社を設立しました。これは、FDEやApplied AI Engineerを擁する「黒船」の来襲として、国内SIerにとって大きな脅威と見なされています。記事は、この新たな動きに対し、国内SIerがどのような備えをすべきかについて提起しています。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-05-08T22:45:34.021457"
-  },
-  {
-    "source": "Qiita",
-    "title": "llama.cppでローカルLLMを立ち上げる方法",
-    "link": "https://qiita.com/ma_comu/items/ad00ffb23ab8c4c51662",
-    "summary": "この記事は、AIサービスの依存や値上げへの懸念からローカルLLMの導入を検討した筆者の記録です。筆者は、自身のPCスペック（Intel Ultra7 155H、メモリ32GB）での軽快な動作を優先し、OllamaやLM Studioではなく`llama.cpp`を選択しました。これは、導入の簡単さよりも動作速度を重視したものです。本記事は、比較的高スペックでないPCでもローカルLLMを動かす方法についてのメモとなっています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-08T22:45:41.599115"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIの検閲を突破してNG質問にも回答させる「ゲイの脱獄テクニック」とは？",
-    "link": "https://gigazine.net/news/20260508-the-gay-jailbreak/",
-    "summary": "ChatGPTやGeminiなどのチャットAIには、犯罪行為や自傷行為を防ぐための検閲機能が搭載されています。しかし、ExocijaさんがこのAIによる検閲を緩めることができる「ゲイの脱獄テクニック」を紹介しました。この方法を用いることで、通常は回答を拒否されるNG質問に対しても、AIから返答を引き出すことが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-08T07:12:20.938049"
-  },
-  {
-    "source": "Zenn",
-    "title": "仕様駆動開発(SDD)が現場で頓挫する7つの落とし穴と段階的対策",
-    "link": "https://zenn.dev/kenimo49/articles/spec-driven-development-7-pitfalls",
-    "summary": "仕様駆動開発（SDD）は、理想とは裏腹に現場で頓挫しやすいという課題を抱えています。この記事は、SDDの実践が失敗に終わる具体的な7つの落とし穴を指摘しています。そして、これらの共通の課題を克服し、SDDを効果的に導入・運用するための段階的な対策を提示しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-08T07:12:30.591748"
-  },
-  {
-    "source": "Qiita",
-    "title": "家計簿アプリにCSVエクスポート機能を実装した【改修記録⑤】",
-    "link": "https://qiita.com/Tueno-96/items/b0e45cbadb42de9a2b2e",
-    "summary": "家計簿アプリ「シンプル家計簿」に、ブラウザに保存された家計データをCSVファイルとしてエクスポートする機能が実装されました。ユーザーはアプリ内の「📥 CSV」ボタンから「今月のデータ」または「全データ」を選択してダウンロードできます。\n\nエクスポートされるCSVはBOM付きUTF-8形式で出力されるため、Excelで開いても文字化けすることなく利用可能です。この機能は、同アプリの「改修記録⑤」として追加されたものです。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-08T07:12:39.558365"
   }
 ]
