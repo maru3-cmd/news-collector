@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「花粉を媒介する昆虫の減少」が農家の収入減少や栄養状態の悪化を引き起こすことが判明",
+    "link": "https://gigazine.net/news/20260530-insect-apocalypse-malnutrition-income/",
+    "summary": "ハチやチョウなどの花粉媒介昆虫の減少が農業に深刻な影響を及ぼしていることが、新たな研究で明らかになりました。ネパールの小規模農家コミュニティを対象とした調査では、これらの昆虫の減少が人々の収入低下と摂取栄養素の悪化を引き起こしていることが判明。この結果は、送粉者の減少が農家の生活と栄養状態に直接的な悪影響を与えていることを示しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-29T23:03:27.621218"
+  },
+  {
+    "source": "Zenn",
+    "title": "ソロ OSS の npm 公開直前: mainnet 実弾 + 5 層脅威モデルを、Claude に CTO レビュアー役で通すまで",
+    "link": "https://zenn.dev/k0yote/articles/b908a4ffbb8144",
+    "summary": "この記事は、ソロOSS開発者が自身のプロジェクトをnpmで公開する直前の段階で、セキュリティと信頼性を徹底的に検証した過程を報告しています。具体的には、「mainnet実弾」を用いた実環境での検証に加え、「5層脅威モデル」に基づいた詳細な脅威分析を実施しました。\n\nさらに、AIツールであるClaudeを「CTOレビュアー」役として活用し、客観的な視点からプロジェクトの堅牢性を評価させ、その厳しいレビューをパスしました。これにより、開発者は高いセキュリティ基準を満たし、安心してnpm公開に臨む最終準備が整ったことを示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-29T23:03:38.068255"
+  },
+  {
+    "source": "Qiita",
+    "title": "Spotify × Universal Music、AI カバー・リミックスを解禁――アーティストへの収益分配も",
+    "link": "https://qiita.com/quotidia/items/fcc8b1b692d281c4ad8d",
+    "summary": "SpotifyとUniversal Music Group (UMG) は提携し、ファンがAI技術を使って既存楽曲のカバーやリミックスを合法的に作成できる有料ツールの提供を発表しました。\n\nこのツールはSpotify Premiumサブスクライバー向けの有料アドオンとして提供され、最大の特徴は、AI生成音楽に使われた楽曲のアーティストに収益の一部が分配される「アーティストファースト」な仕組みです。\n\n具体的な価格や提供開始日は未発表ですが、本取り組みはAIによる音楽制作とアーティストへの収益還元を両立させる画期的な一歩となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-29T23:03:46.220842"
+  },
+  {
     "source": "ITmedia",
     "title": "富士通がOpenAI、Anthropicと相次ぎ提携　AIベンダーと組む狙いは？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/29/news067.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-09T22:33:31.186917"
-  },
-  {
-    "source": "Zenn",
-    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
-    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
-    "summary": "この記事は、人間がMarkdownを手動で作成・修正する機会が減少する時代に焦点を当てています。その中で、「Claude Code hook」という技術が注目されており、ドキュメント生成プロセスの自動化を推進します。具体的には、この技術はドキュメントを自動的に、より洗練された「ファンシーHTML」形式に変換することが可能です。これにより、ドキュメント作成の効率化と品質向上が同時に実現されると示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-09T22:33:39.602177"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエージェントの「未完了タスク」をどこに書くか：working-memory.md 運用設計",
-    "link": "https://qiita.com/Tadashi_Kudo/items/2fc110e5aeb34985acf9",
-    "summary": "AIエージェントを長期運用する際、セッションをまたいで共有したいがまだ確定していない「未完了タスク」の情報をどこに置くかが課題となります。これは、途中まで進めたETLジョブIDや、DBクレデンシャルの疑義、時限タスクといった多様な情報に及びます。\n\n既存の`CLAUDE.md`のような場所では情報が永続化しすぎ、Daily Noteでは埋もれてしまう問題があります。筆者らはこの問題を解決するため、1年弱の試行錯誤の末、**`memory/working-memory.md`**という一時バッファを設ける運用にたどり着きました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-09T22:33:46.998261"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能",
-    "link": "https://gigazine.net/news/20260509-affine/",
-    "summary": "「AFFiNE」は、Notionのように文書やデータベースを整理する機能と、Miroのように図や付箋を自由に配置できる無限キャンバスを統合した、新しい知識管理ツールです。これはオープンソースで無料で利用可能であり、特にセルフホストに対応している点が特徴です。これにより、ユーザーは自分専用の知識データベースを柔軟に構築し、管理することができます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-09T07:29:08.105300"
   }
 ]
