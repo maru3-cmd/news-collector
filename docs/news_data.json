@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に",
+    "link": "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
+    "summary": "SNSが子どもたちを依存症にさせ学校に損害を与えたとする訴訟が、公判前に和解に至りました。この訴訟にはYouTube、TikTok、Snap、そしてMetaといった大手SNSプラットフォームが関与しました。支払われる和解金の総額は2700万ドル（約43億円）に上ると報じられています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-30T22:48:12.654812"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code のライフサイクルフック入門 — セッションの「前後」を自動化する",
+    "link": "https://zenn.dev/tadkud/articles/2026-04-15_lifecycle-hooks",
+    "summary": "この記事は、Claude Code における「ライフサイクルフック」の概念とその利用法について入門的に解説しています。ライフサイクルフックとは、セッションの開始前や終了後といった特定のイベントの「前後」に、自動的にコードを実行するためのメカニズムです。これにより、環境設定、データの前処理、結果の保存、リソースのクリーンアップなど、定型的なタスクを効率的に自動化し、コードの再利用性と管理性を向上させることが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-30T22:48:21.331629"
+  },
+  {
+    "source": "Qiita",
+    "title": "Anthropic、Claude Opus 4.8 を発表——コーディング精度が向上、Fast mode は3倍安く",
+    "link": "https://qiita.com/quotidia/items/3a1294fe01233e3626d3",
+    "summary": "Anthropicは、新しいAIモデル「Claude Opus 4.8」を発表し、全プラットフォームで即時利用可能となりました。このアップデートの重要な点は、コーディング精度の飛躍的な向上です。具体的には、AIが書いたコードの欠陥を見逃す確率が、以前のモデル(4.7)に比べて約4倍低減されています。これは、AIを仕事で利用する開発者やプログラマーにとって、バグの少ないコード生成と効率的な作業に繋がる改善となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-30T22:48:29.249098"
+  },
+  {
     "source": "ITmedia",
     "title": "中小企業より深刻だった？　ヒトもカネもあるはずの大企業がIT人材不足に苦しむワケ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news024.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-10T22:36:45.794999"
-  },
-  {
-    "source": "Zenn",
-    "title": "仕様駆動 × Claude Code ペアワークで防災備蓄 SaaS「おすそぐら」を 1 週間でβ公開した話",
-    "link": "https://zenn.dev/suna/articles/582609cde0308d",
-    "summary": "防災備蓄SaaS「おすそぐら」は、仕様駆動開発とAIツール「Claude Code」とのペアワークという革新的な手法を用いて開発されました。このアプローチにより、開発チームはわずか1週間という驚異的な短期間でβ版の公開を実現しました。これは、AI活用による高速な開発サイクルと、効率的なプロジェクト遂行の可能性を示す事例です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-10T22:36:52.852322"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエンジニアが選ぶAIを使った副業おすすめ5選 ",
-    "link": "https://qiita.com/tai0921/items/190e8684daf5b498de40",
-    "summary": "AIツールの普及により副業のハードルが下がり、未経験者も参入しやすくなった一方で競合も増加しています。この記事では、AIエンジニアが選ぶ副業の一つとして「AIライティング」を紹介しています。これは、企業のコンテンツ（記事、SNS投稿など）をAIで下書き生成し、人間が編集・校正して納品する仕事です。\n\n初心者でも月1〜3万円（クラウドワークスで1記事1,000〜3,000円）の収入を目指せます。慣れて専門領域に特化すれば月5〜15万円、上位層では月20万円以上を稼ぐことも可能とされています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-10T22:37:02.764401"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「え、就職の面接官がAIだって？」　普及する“AI面接官”への困惑と改善要望【調査】",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html",
-    "summary": "米国での調査によると、「AI面接官」による面談は普及しており、回答者の63%が既に経験しています。AI技術の活用自体に拒否感を示す意見は少ないものの、その運用面においては改善要望が多数寄せられています。記事では、求職者が求める具体的な改善点や、AI面接官を導入する企業が直面するデメリットについて考察しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-10T07:51:45.293798"
   }
 ]
