@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "中小企業より深刻だった？　ヒトもカネもあるはずの大企業がIT人材不足に苦しむワケ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news024.html",
+    "summary": "AIブームの最中、IT人材不足が叫ばれるものの、多くの読者が「最も不足している」と答えたのはAI関連人材ではなかった。通常IT人材が豊富と思われがちな大企業が、中堅・中小企業よりも深刻なIT人材不足に直面しているという、従来の認識を覆す内容が示されている。本記事は、「AIブームでAI人材が足りない」「大企業はIT人材が豊富」といった定説を覆し、IT人材不足の本当の実態に迫るものである。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-30T08:12:41.198252"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "プレプリントサーバーのarXivが「AI生成の粗雑な論文を取り締まる」と発表した件を研究者はどう考えているのか？",
+    "link": "https://gigazine.net/news/20260530-arxiv-ai-science-paper-penalty/",
+    "summary": "プレプリントサーバーのarXivは、AIが生成した粗雑な論文の提出を取り締まるため、提出者に対して厳しいペナルティを課す方針を発表しました。これは、未査読論文リポジトリにおけるAI生成論文の増加に対応する措置です。この動きに対し、アデレード大学の教育学者ヴィトミル・コヴァノヴィッチ教授をはじめ、研究者コミュニティからは様々な見解が示されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-30T08:12:49.567128"
+  },
+  {
+    "source": "Zenn",
+    "title": "食品の受注をまとめるAIエージェント「foogent」",
+    "link": "https://zenn.dev/akito3329/articles/2b3fb189c775d2",
+    "summary": "AIエージェント「foogent（フーゲント）」は、食品業界における受注業務を効率化するために開発されました。このAIは、食品メーカーや卸売業者などが抱える、多岐にわたる取引先からの複雑な注文データを自動的に収集・整理する役割を担います。これにより、人手による作業負荷の軽減と受注処理の正確性向上を図り、業務効率化とコスト削減に貢献することが期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-30T08:12:58.483270"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIにコードを書かせる時代、次に必要になるのはコスト管理かもしれない",
+    "link": "https://qiita.com/mucunhongdao/items/0b119a841bf61c2d233f",
+    "summary": "AIによるコーディング支援は、GitHub Copilotのような補完ツールから、Claude CodeやOpenAI Codexのようにリポジトリ全体を解析・修正・テストまで行うエージェント型AIへと急速に進化し、AI駆動開発が標準になりつつあります。\n\nしかし、この技術の普及に伴い、「AIをどう使うか」の次に、「AIをどう管理するか」が新たな課題として浮上しています。\n\n特に、クラウドコンピューティングが普及した際にコスト管理が重要になったのと同様に、AI活用においても「AI FinOps」という考え方に基づいたコスト管理が、今後のエンジニアと企業にとって不可欠となると筆者は指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-30T08:13:06.230769"
+  },
+  {
     "source": "GIGAZINE",
     "title": "「花粉を媒介する昆虫の減少」が農家の収入減少や栄養状態の悪化を引き起こすことが判明",
     "link": "https://gigazine.net/news/20260530-insect-apocalypse-malnutrition-income/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-10T07:51:45.293798"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ドローンの空撮映像をリアルタイムでVRゲーム風に表示できるゴーグル型デバイス「DJI Goggles N3」レビュー",
-    "link": "https://gigazine.net/news/20260510-dji-goggles-n3/",
-    "summary": "「DJI Goggles N3」は、DJI製ドローンと連携し、カメラで撮影中の空撮映像をリアルタイムで目の前に映し出すゴーグル型のヘッドマウントディスプレイです。このデバイスにより、ユーザーはまるでVRゲームをプレイしているかのように、没入感のある体験でドローンを操縦できます。この記事では、このユニークなデバイスを実際に室内で試用したレビューが紹介されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-10T07:51:52.658016"
-  },
-  {
-    "source": "Zenn",
-    "title": "静的サイトジェネレータでMarkdownをそのままHTML化する",
-    "link": "https://zenn.dev/ma_me/articles/c46965700864a6",
-    "summary": "この記事は、静的サイトジェネレータがMarkdown形式で記述されたコンテンツを直接HTMLに変換する機能について解説しています。これにより、ユーザーは複雑なコーディングを必要とせず、Markdownで作成した記事やページをそのままウェブサイトとして公開できます。このプロセスは、コンテンツ作成の簡素化とサイト構築の効率化に大きく貢献します。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-10T07:52:01.455002"
-  },
-  {
-    "source": "Qiita",
-    "title": "【OSS化】「源内」について【ガバメントAI】",
-    "link": "https://qiita.com/mkt_tmng/items/5fafec6374f4bc8c61eb",
-    "summary": "デジタル庁が開発・運用するガバメントAI「源内（GenAI）」が、2026年4月24日にオープンソースソフトウェア（OSS）として公開されました。これは、行政職員が安全に生成AIを活用し、日常業務の効率化と質の向上を目指すための基盤です。源内は、政府の業務でAIを簡単かつ安全に利用できる環境を提供することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-10T07:52:09.591233"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「執筆に生成AIを使った疑い」で大手出版社がホラー小説の出版を中止、この騒動が意味するAI執筆と出版の問題とは？",
-    "link": "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/",
-    "summary": "ミア・バラード氏のホラー小説『Shy Girl(シャイ・ガール)』は、大手出版社アシェット・ブック・グループによるアメリカでの出版が予定されていましたが、執筆に生成AIが使われた疑いが持ち上がったため、出版が中止されました。この騒動は、AI執筆技術と出版業界の間に存在する問題を浮き彫りにしています。リバプール大学のナタリー・ウォール氏が、この件が意味するAIと出版の問題について解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-09T22:33:31.186917"
   }
 ]
