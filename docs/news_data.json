@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AI検索に「お気に入りサイト表示」機能登場　Googleが一次情報を守る新機能をリリース",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news032.html",
+    "summary": "Googleは、AI検索の要約表示とAIモードに「Preferred Sources」機能を導入しました。これは、ユーザーが選んだ「お気に入りサイト」へのリンクを明確に識別できるようにし、一次情報源を保護することを目的としています。さらに、話題の動向を扱う記事を示すカルーセルや、引用頻度の高い記事を示す「Highly Cited」表示も拡充されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-31T22:49:39.478009"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "父親になることで脳の構造や活動が劇的に変化するという研究結果",
+    "link": "https://gigazine.net/news/20260601-fatherhood-rewire-brain/",
+    "summary": "女性の脳が妊娠・出産で大きく変化することは知られていましたが、父親の脳に同様の変化が起きるかはこれまで不明でした。しかし、ドイツ・アーヘン工科大学の新たな研究が、父親になった男性の脳でも変化が生じる可能性を示唆しています。\n\nこの研究によると、出産後の数週間から数カ月にかけて、父親の脳の構造や活動が変化する可能性があります。これは、父親も子育てに向けて脳が適応していく可能性を示す画期的な発見です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-05-31T22:49:49.792520"
+  },
+  {
+    "source": "Zenn",
+    "title": "あなたは、自分のために、偶像を造ってはならない。",
+    "link": "https://zenn.dev/cogito/articles/sermon-golden-calf",
+    "summary": "この記事は、「あなたは、自分のために、偶像を造ってはならない」という明確な禁止を提示しています。これは、人間が作り出した像や物質的なものを神の代わりとして崇拝することへの強い戒めです。その目的は、唯一の真の神への純粋な信仰を保ち、自己中心的な理由で信仰の対象を歪めたり、誤った崇拝に陥ったりするのを防ぐことにあります。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-31T22:49:57.702312"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIがコードを書く時代だからこそ、ソフトウェアの「設計」の価値が10倍に跳ね上がる理由",
+    "link": "https://qiita.com/fe1ix/items/86fd0d46e83d5aa8326e",
+    "summary": "AIがコードを書く時代だからこそ、ソフトウェアの「設計」の価値は10倍に跳ね上がると記事は主張します。設計が悪い密結合のコードベース（例：1ファイルに3000行のロジック）は、AIのコンテキストウィンドウの限界を超え、その理解力と推論精度を劇的に低下させ、ハルシネーション（もっともらしい嘘）を増やしてプロジェクトの崩壊を招く危険性があるためです。したがって、AIの能力を最大限に引き出し、効率的かつ高品質な開発を実現するためには、人間によるクリーンな設計がこれまで以上に不可欠となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-31T22:50:08.422767"
+  },
+  {
+    "source": "ITmedia",
     "title": "日立はAnthropicと組んで何を狙うのか　従業員29万人へのClaude導入で目指す姿",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
     "summary": "日立は、AIのミッションクリティカル領域での活用強化を目指し、Anthropicと戦略的パートナーシップを締結しました。この提携は、Anthropicが開発した大規模言語モデル「Claude」を、日立の29万人の全従業員に導入することを核としています。これにより、日立は業務効率の向上と新たなAIソリューションの開発を加速させ、イノベーションを推進する狙いです。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-05-11T22:45:17.163116"
-  },
-  {
-    "source": "Zenn",
-    "title": "CodexでWebサイト制作の工程が逆転し始めている話",
-    "link": "https://zenn.dev/time20260320/articles/e0f8e48c40f566",
-    "summary": "Codex（GPT-3ベースのAIプログラマー）の登場により、Webサイト制作の工程に大きな変革が起きています。従来はデザイン後に人間がコードを記述していましたが、現在では自然言語での指示をAIが直接コードに変換することで、このプロセスが「逆転」し始めている状況です。\n\nこれにより、プログラマーはコード作成そのものよりも、AIへの適切な指示出しや生成されたコードのレビュー、そしてより上流のデザインや企画といった創造的な作業に注力できるようになる可能性が示唆されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-11T22:45:26.248504"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.137〜v2.1.139 リリース｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/9a85125fe731e2fc306a",
-    "summary": "Claude Codeのv2.1.137からv2.1.139がリリースされ、特にv2.1.139で多くの新機能が追加されました。主な機能として、`claude agents` コマンドで全セッションを一覧表示する「agent view (Research Preview)」が導入されています。\n\nまた、`/goal` コマンドによりClaudeに完了条件を渡し、複数ターンにわたる作業継続が可能になりました。さらに、hookの`args: string[]` (exec form)によってシェル経由なしの直接spawnが実現し、パスのクオート問題が解消される改善も含まれています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-11T22:45:35.246767"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Anthropicが事業戦略を一挙公開　中堅企業支援の新会社設立、金融特化エージェント、SpaceX提携まで",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news013.html",
-    "summary": "Anthropicは、中堅企業へのAI導入を支援する新会社を設立し、金融特化型エージェントを発表するなど、幅広い事業戦略を公開しました。Microsoft 365との連携を強化し既存業務へのAI導入を促すとともに、SpaceXとの提携を通じてAI開発に必要な計算資源を確保します。これらの取り組みにより、Anthropicはインフラと業務の両面から自社のAI「Claude」の普及を強力に推進していく方針です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-11T08:52:50.110043"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "肉5枚＆チーズ8枚で1856kcalの横綱級バーガー「二代目ベビーボディーバーガー」がバーガーキングに期間限定登場したので食べてみた",
-    "link": "https://gigazine.net/news/20260511-burgerking-baby-body-nidaime/",
-    "summary": "バーガーキングから期間限定で、ビーフパティ5枚とチェダーチーズ8枚を挟んだ大型バーガー「二代目BABY BODY BURGER(ベビーボディーバーガー)」が2026年5月1日に登場しました。この「横綱級バーガー」は、総重量661g、総カロリー1856kcalという圧倒的なボリュームが特徴です。記事では、その迫力と味を確かめるべく実際に試食したレポートが掲載されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-11T08:52:57.687372"
   }
 ]
