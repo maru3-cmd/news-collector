@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "日立はAnthropicと組んで何を狙うのか　従業員29万人へのClaude導入で目指す姿",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
+    "summary": "日立は、AIのミッションクリティカル領域での活用強化を目指し、Anthropicと戦略的パートナーシップを締結しました。この提携は、Anthropicが開発した大規模言語モデル「Claude」を、日立の29万人の全従業員に導入することを核としています。これにより、日立は業務効率の向上と新たなAIソリューションの開発を加速させ、イノベーションを推進する狙いです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-31T08:31:25.472949"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ソフトバンクが最大14兆円を投じてフランスで5GWのAIデータセンター構築へ",
+    "link": "https://gigazine.net/news/20260531-softbank-france-ai-datacenter/",
+    "summary": "ソフトバンクグループは、AIインフラ投資の一環として、フランスに5GWのAIデータセンターを構築する計画を発表しました。この大規模プロジェクトには、最大750億ユーロ（約14兆円）の投資が見込まれています。これはヨーロッパにおけるAIインフラ投資として最大級の規模となる予定です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-05-31T08:31:31.846810"
+  },
+  {
+    "source": "Zenn",
+    "title": "社内ドキュメントを食わせたらベテランになるとか妄想も大概にしてほしい",
+    "link": "https://zenn.dev/continuitymodel/articles/0fea9edf12a3fa",
+    "summary": "この記事は、「社内ドキュメントを読んだだけでベテランになれる」という考え方を強く批判しています。筆者は、そのような期待を「妄想も大概にしてほしい」と表現し、現実離れしていると一蹴しています。実践的な経験や他の要素なしに、ドキュメント学習のみで熟練者になれるという安易な発想への警鐘を鳴らす内容です。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-05-31T08:31:39.748780"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI companionの安全設計を後付けフィルターにしない方法",
+    "link": "https://qiita.com/aigirlfriendmedia/items/309c627cd559b47e3a59",
+    "summary": "AIコンパニオンの安全設計は、後付けの禁止ワードフィルターでは不十分であり、会話体験からデータ設計、プロンプト、UI文言までを初期段階から統合的に考慮すべきです。これにより、ユーザーと開発チーム双方への説明責任を果たしやすくなります。\n\n具体的には、安全要件を会話フローの前提とし、AIであることを隠さず、依存を強めず、個人情報を求めないといった条件をプロダクト仕様に含めるべきです。また、会話履歴などのメモリは、保存量が増えるほどリスクも増すため、短期コンテキスト、長期プロフィール、監査ログを分け、ユーザーが容易にリセットできる仕組みを優先することが重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-05-31T08:31:47.073919"
+  },
+  {
     "source": "GIGAZINE",
     "title": "SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に",
     "link": "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-11T08:52:57.687372"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code スキルで 3 媒体投稿を 3 リポ構成にした設計録",
-    "link": "https://zenn.dev/aiandao/articles/three-repo-blog-skill-design-20260506",
-    "summary": "この記事は、Claude Codeスキルを活用し、3つの異なる媒体へ投稿するシステムを設計した記録です。具体的には、効率的な運用を目指してシステムが3つのリポジトリ構成で構築されました。本記録は、AIのコード生成能力を用いた開発プロセスや、その設計思想を詳しく解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-11T08:53:07.809517"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
-    "link": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8",
-    "summary": "AIアシスタントはpandasコードの生成を容易にしましたが、実務で利用するには「動くけれど遅い」「メモリを食う」「結果が怪しい」といった「静かな地雷」が混じっていることが多いと指摘されています。この記事では、AIが生成したpandas/NumPyコードの中から、特に注意すべき10のパターンを具体例とともに紹介。それぞれの危険性と、より効率的・正確な修正方法を解説し、開発者がAI生成コードを盲目的に使用するリスクを警告しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-11T08:53:15.722893"
-  },
-  {
-    "source": "ITmedia",
-    "title": "あなたのパスワードは何分耐えられる？　解析速度上昇で「8文字パスワード」はほぼ無力に",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/11/news036.html",
-    "summary": "Kasperskyの分析によると、2023年から2026年に流出した2億3100万件のパスワードのうち、約半数が1分未満で、そして6割が1時間未満で解読可能であることが判明しました。これは解析速度の著しい向上によるもので、現在では8文字のパスワードはほぼ無力な状態とされています。この結果は、パスワードの強度を見直すことの緊急性を示唆しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-10T22:36:37.257200"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コストをなんとわずか17分の1に節約できるDeepSeek V4 Proを使ったClaude Codeエージェントループ「deepclaude」",
-    "link": "https://gigazine.net/news/20260511-deepclaude/",
-    "summary": "「deepclaude」は、Claude Codeの自律的なコーディングエージェントの使い勝手を維持しつつ、裏側で利用するAIモデルをDeepSeek V4 Proなどに切り替えるためのツールです。このツールにより、ユーザーはClaude Codeの操作感はそのままに、バックエンドのモデルを柔軟に変更できます。特に重要なのは、Anthropicのモデルを使う場合と比較して、コストを最大17分の1にまで大幅に削減できる点です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-10T22:36:45.794999"
   }
 ]
