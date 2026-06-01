@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Salesforceの「深謀遠慮」とは？　AIエージェント時代のオープンシステム、主導権争いの行方",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news107.html",
+    "summary": "Salesforceは、AIエージェントが多数稼働する企業の業務システム向けに、新たなソリューションを発表しました。この取り組みは、今後のAIエージェント時代のビジネスシステムを見据えたもので、企業の業務のあり方に深く影響を与えると予想されます。同社のこの動きには、将来的な市場の主導権争いを視野に入れた「深謀遠慮」が込められていると考えられています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-01T11:02:41.233467"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「本当に人間かどうか？」を確認するCloudflare TurnstileでWebGL情報が問題に、フィンガープリント対策で引っかかる環境が続出",
+    "link": "https://gigazine.net/news/20260601-cloudflare-turnstile/",
+    "summary": "Cloudflare Turnstileの「Verify you're human」認証システムが、WebKitGTKベースのプライバシー重視ブラウザ「BadWolf」などで無限ループに陥り、複数のウェブサイトにアクセスできなくなる問題が発生しています。BadWolfの開発者ハエルウェン・モニエ氏がこの状況を報告しました。この問題は、WebGL情報がフィンガープリント対策として機能することで、Turnstileが「本当に人間かどうか？」の判断に失敗している可能性が指摘されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-06-01T11:02:49.776797"
+  },
+  {
+    "source": "Zenn",
+    "title": "生成AI時代に問われるのは「評価する力」である",
+    "link": "https://zenn.dev/shotakikuchi/articles/ai-evaluation-in-generative-ai-era",
+    "summary": "この記事は、「生成AI時代」において最も問われる能力が「評価する力」であると述べています。\n\n生成AIが様々な情報やコンテンツを生み出すようになる中で、その質や真偽、適切性を見極める人間の能力が決定的に重要になると強調しています。単に情報を生成するだけでなく、それを正しく判断し、活用するための洞察力が個人や組織に強く求められる時代が到来することを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-01T11:02:59.992930"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代の記事監修入門 〜TL;DRだと思われないために〜",
+    "link": "https://qiita.com/tkooler_lufar/items/b02e844de83f95b0da88",
+    "summary": "この記事は、AIが生成した記事が読者に「Too Long; Didn't Read (TL;DR)」と評価されないための監修の重要性を説いています。AI生成記事には、本文が長すぎる、AI特有の言葉遣いや整形、重要な情報が箇条書きに偏りすぎるといった問題点があると指摘します。これらの特徴が重なると、筆者が自分の文章を読んでいるのか読者は不安に感じるため、筆者自身が記事を監修し、意図が正しく言語化されているかを確認する必要がある、と強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-01T11:03:08.617984"
+  },
+  {
+    "source": "ITmedia",
     "title": "AI検索に「お気に入りサイト表示」機能登場　Googleが一次情報を守る新機能をリリース",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news032.html",
     "summary": "Googleは、AI検索の要約表示とAIモードに「Preferred Sources」機能を導入しました。これは、ユーザーが選んだ「お気に入りサイト」へのリンクを明確に識別できるようにし、一次情報源を保護することを目的としています。さらに、話題の動向を扱う記事を示すカルーセルや、引用頻度の高い記事を示す「Highly Cited」表示も拡充されます。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-12T08:18:02.568376"
-  },
-  {
-    "source": "Zenn",
-    "title": "SAP×AI時代の責任経路工学――ERP接続編",
-    "link": "https://zenn.dev/dantarg/articles/sap-ai-responsibility-pathway",
-    "summary": "この記事は、SAPとAIが融合する時代において、システムやプロセスの責任の所在を明確にする「責任経路工学」に焦点を当てています。特に、ERPシステムとの連携において、AIが介入する複雑な業務フローにおける責任の割り当てと追跡を工学的に設計することを探求します。\n\nこれは、AIの導入によって曖昧になりがちな意思決定や結果に対する説明責任を、明確な経路として確立することを目指しています。その目的は、AIを活用したシステム運用における信頼性とガバナンスを確保することにあります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-12T08:18:14.422675"
-  },
-  {
-    "source": "Qiita",
-    "title": "「ChatGPTの返答が薄い…」が解決する、たった1つのフレームワーク【業務別テンプレ付き】",
-    "link": "https://qiita.com/coreloopworks/items/a6b0a5c8342ca94be2e7",
-    "summary": "「ChatGPTの返答が薄い」という問題を解決するには、プロンプトに「役割（Role）」「目的（Goal）」「条件（Condition）」の**3つの要素**を必ず含めることが重要です。\n\nこの「3要素フレームワーク」は、AIが「どんな立場の人が、何のために、何を求めているか」を理解し、的外れで使えない回答ではなく、的確で質の高い返答をするためのものです。\n\nこれにより、ChatGPT、Claude、Geminiなど主要AIを効果的に活用できるようになり、記事では業務別のテンプレートも紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-12T08:18:22.498600"
-  },
-  {
-    "source": "ITmedia",
-    "title": "管理ソフトに保存するパスワード数が減少傾向　NordPassの2026年調査",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/12/news031.html",
-    "summary": "NordPassの2026年調査によると、管理ソフトに保存される平均パスワード数が減少傾向にあることが明らかになりました。この減少の主な背景には、SSO（シングルサインオン）や生体認証、そしてパスキーといった新しい認証技術の普及が挙げられています。これらの技術が広く利用されることで、個別に管理するパスワードの必要性が低下していると考えられます。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-05-11T22:45:07.497499"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "原子1個分の隙間が次世代半導体開発の障壁に",
-    "link": "https://gigazine.net/news/20260512-atomic-gap-materials/",
-    "summary": "ウィーン工科大学の研究により、次世代の超小型コンピューターチップへの応用が期待される二次元材料が、実際のデバイスでは予期せぬ制約を受けることが判明しました。この問題は、材料と絶縁層の間に生じる、約0.14ナノメートルという原子レベルの極めて微細な隙間です。このごく小さな隙間が、半導体デバイスのさらなる小型化を妨げる新たな障壁となり得るとのことです。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-05-11T22:45:17.163116"
   }
 ]
