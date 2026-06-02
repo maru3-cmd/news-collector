@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIで高度化するサイバー攻撃にどう立ち向かう？　各種レポートに見る脅威の現在地とセキュリティの基本",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news024.html",
+    "summary": "生成AIの悪用によりサイバー攻撃は高度化しており、ボイスフィッシングの増加や「Claude Mythos」といった脅威が現実味を帯びています。2026年上半期のセキュリティレポートは、IT部門が知るべきAI利用のリスクを強調しています。この記事は、これらのリスクを理解し、AIを安全に業務で活用するための重要なポイントを解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-02T09:56:50.215086"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "2026年6月2日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20260602-headline/",
+    "summary": "人気作品『ちいかわ』初の映画化となる『映画ちいかわ 人魚の島のひみつ』の予告映像が解禁されました。本作は2026年7月24日(金)に全国公開される予定です。劇中では、原作でも人気の長編エピソード「セイレーン編」を基に、ちいかわ、ハチワレ、うさぎたちが不思議な島で冒険を繰り広げます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-02T09:56:58.202343"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIからの凡庸な回答に疲れた人のための、自分専用コンテキストエンジンの作り方",
+    "link": "https://zenn.dev/uchidayuma/articles/db1253177fc997",
+    "summary": "この記事は、既存のAIが提供する一般的な回答に不満を持つユーザーに向け、自分専用のコンテキストエンジンを構築する方法を紹介しています。これにより、個人の状況や好みに合わせた、よりパーソナライズされた質の高い情報や示唆を得ることが可能になります。ユーザー独自の文脈や知識をAIに組み込むことで、真に価値ある、カスタマイズされた回答を引き出すことを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-02T09:57:08.114190"
+  },
+  {
+    "source": "Qiita",
+    "title": "個人開発で掲示板とSNSの融合サービス『Pomate』を作ったよー",
+    "link": "https://qiita.com/amo110/items/c15a2d6f6d2668f2f380",
+    "summary": "個人開発により、匿名掲示板とSNSの機能を融合させた「半匿名型掲示板式SNS」『Pomate』（URL: https://pomate.cc）が誕生しました。このサービスの最大の特徴は、ユーザーが同じアカウントで、5ちゃんねるのような匿名投稿とTwitterのようなニックネーム投稿を自由に切り替えられる点です。これにより、日本のかつての匿名コミュニティの良さを引き継ぎつつ、現代的なSNSのユーザー体験を提供し、「人ベース」ではなく「話題ベース」のコミュニティ構築を目指しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-02T09:57:16.161991"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoft 365 Copilotが新デザインを発表　ExcelでCopilot利用率が33％増加",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news028.html",
     "summary": "Microsoftは「Microsoft 365 Copilot」の新デザインを発表しました。この新デザインは、段階的開示の設計と、コンテキストを理解し自律駆動する特化型エージェントの導入により、操作性と性能を大幅に向上させています。その結果、特にExcelにおけるCopilotの利用率が33%増加するなど、具体的な成果を上げています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-13T08:28:38.954555"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI責任ノード――AIエージェントを責任経路で管理する",
-    "link": "https://zenn.dev/dantarg/articles/ai-responsibility-node",
-    "summary": "「AI責任ノード」は、AIエージェントの自律的な行動に対する責任の所在を明確にするための概念です。この記事は、AIエージェントが実行するタスクや決定を「責任経路」として管理し、その結果に対する責任を追跡する仕組みを提案しています。\nこれにより、AIの運用中に生じる予期せぬ結果や倫理的な問題に対し、誰が責任を負うべきかを明確にすることが主な目的です。これは、AIシステムの信頼性とアカウンタビリティを確保する上で重要なアプローチとなります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-13T08:28:48.809018"
-  },
-  {
-    "source": "Qiita",
-    "title": "日本語SNS投稿画像を60秒で作るAI画像生成ツールを作った話",
-    "link": "https://qiita.com/hazellin549/items/a48b5ce90d4122723ebd",
-    "summary": "個人開発者が、日本語のSNS投稿画像を約60秒で生成できるAI画像生成ツール「GPTImage2.jp」を開発しました。このツールは、Instagram投稿、商品紹介画像、YouTubeサムネイル、LINEのお知らせ画像など、様々な用途に対応した画像を日本語テンプレートから作成可能です。既存のAI画像生成ツールでは、画像自体は作れても、SNS投稿などにそのまま使える形にするまでに手間がかかるという課題を解決することを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-13T08:28:56.383326"
-  },
-  {
-    "source": "ITmedia",
-    "title": "IBM、企業のAI基盤構築を推進　独自エージェント構築や他社連携を強化",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news026.html",
-    "summary": "IBMは、企業独自のAI基盤構築を支援する「IBM Enterprise Advantage」の拡充を発表しました。この取り組みにより、企業固有の業務文脈を反映するAIエージェントの構築を支援し、AWSやSAPとの連携も強化します。既にPearsonとProvidenceが導入し、その成果を上げています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-12T22:52:11.534058"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "1980年代まで肉や砂糖が配給制だったポーランドが世界経済大国トップ20に名を連ねた理由とは？",
-    "link": "https://gigazine.net/news/20260513-poland-economy-growth-worlds-20th/",
-    "summary": "ポーランドは、1980年代まで肉や砂糖、小麦などの必需品が配給制だった旧共産主義国家です。しかしその後、目覚ましい経済成長を遂げ、現在では世界経済大国トップ20に名を連ねるまでになりました。AP通信は、同国がどのようにしてこの経済的躍進を実現したのかを詳しくまとめています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-12T22:52:21.390194"
   }
 ]
