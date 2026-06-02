@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "MicrosoftとNVIDIAが次世代PCを発表　1ペタフロップス級の「Windows PC」ができること",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news017.html",
+    "summary": "MicrosoftとNVIDIAは、最大1ペタフロップスのAI性能を持つ次世代PCを発表しました。このPCは「NVIDIA RTX Spark」を搭載し、大幅に最適化されたWindows上での動作を想定しています。両社はこれにより、ローカルAIエージェント基盤の構築と、アプリ・ゲームのエコシステム拡大を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-02T23:26:57.447235"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "1億6000万円超を売り上げた自作キーボード用の小型マイコンボード「nice!nano」の開発秘話を本人が語る",
+    "link": "https://gigazine.net/news/20260603-nice-nano-million-dollar-product-dorm-room/",
+    "summary": "自作キーボード用の小型マイコンボード「nice!nano」が、100万ドル(約1億6000万円)を超える売上を達成しました。開発者のニック・ウィナンズ氏は、この成功製品を大学1年生の時に大学の寮で作り出した際の開発秘話をブログで明かしています。この記事では、学生時代のアイデアがいかにして世界的ヒット商品へと成長したかの経緯が語られています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-06-02T23:27:06.848212"
+  },
+  {
+    "source": "Zenn",
+    "title": "CLAUDE.md と毎回のプロンプト、あなたはどこまで知っている？— Claude Codeを約670回実行し推測を明確化した実測記録 —",
+    "link": "https://zenn.dev/shark_same_same/articles/1b36f08d535800",
+    "summary": "この記事は、「CLAUDE.md」ファイルとプロンプトがClaudeの動作に与える影響を深掘りした実測記録です。著者は、約670回にわたるClaude Codeの実行を通じて、その振る舞いやプロンプトの効果に関するこれまでの推測を具体的に検証し、明確化しました。これにより、Claudeの利用者は、その挙動についてより正確な理解を得ることができます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-02T23:27:14.657380"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.159〜v2.1.161 リリース｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/1c20a1401487b278ecc9",
+    "summary": "Claude Codeは、v2.1.159からv2.1.161までの計3つのリリースを発表しました。これらの更新は主にセキュリティとユーザー制御の強化に焦点を当てており、特にv2.1.160では、シェル起動ファイル（例：.zshenv）やビルドツール設定ファイル（例：.npmrc）への書き込み時にユーザー確認を挟むガードが追加されました。また、v2.1.161では`claude mcp`コマンドが認証ヘッダやURL内の秘密情報を伏字化し、端末に表示しないようにすることで、プライバシーが向上しています。さらに、並列ツール呼び出しの改善も含まれています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-06-02T23:27:26.231327"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIで高度化するサイバー攻撃にどう立ち向かう？　各種レポートに見る脅威の現在地とセキュリティの基本",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news024.html",
     "summary": "生成AIの悪用によりサイバー攻撃は高度化しており、ボイスフィッシングの増加や「Claude Mythos」といった脅威が現実味を帯びています。2026年上半期のセキュリティレポートは、IT部門が知るべきAI利用のリスクを強調しています。この記事は、これらのリスクを理解し、AIを安全に業務で活用するための重要なポイントを解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "news",
     "collected_at": "2026-05-13T22:56:44.731183"
-  },
-  {
-    "source": "Zenn",
-    "title": "【第３回】Microsoft Agent Frameworkで学ぶAIエージェント設計原則：自然文パースを型契約で置き換える",
-    "link": "https://zenn.dev/naruaki/articles/af-design-03-structured-output",
-    "summary": "この記事は、Microsoft Agent Frameworkを題材にAIエージェント設計原則を解説しています。特に、エージェントがユーザーからの自然言語の指示を理解する際の曖昧さを解消するため、「自然文パース」を「型契約」で置き換えることを提唱しています。これにより、期待される入力や出力の構造を明確に定義し、エージェントの誤解を防ぎ、より堅牢で信頼性の高いシステム構築を目指すアプローチです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-13T22:56:52.298070"
-  },
-  {
-    "source": "Qiita",
-    "title": "次世代AIエージェント基盤：ローカルLLMとMCPを融合させた高セキュリティ環境の構築",
-    "link": "https://qiita.com/jjking/items/c755a025f8395002ea70",
-    "summary": "クラウド型LLMのプライバシーリスクに対処するため、ローカルLLMとMCP（Model Context Protocol）を融合させた次世代AIエージェント基盤が注目されています。これは、外部に依存しない高セキュリティなAIエコシステムを構築することを目的としています。MCPは、AIエコシステムにおける情報集約（コンテキスト）と処理（推論）の分離を標準化し、従来のRAGシステムで課題だったデータコネクタの実装を簡素化することで、AIアプリとデータソース間のセキュアな通信を実現します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-13T22:57:02.176365"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Salesforce、Slack無償提供開始　CRMとAIを統合した「会話型UI」へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news033.html",
-    "summary": "Salesforceは、新規顧客に対してSlack無償版の標準提供を開始すると発表しました。これにより、CRM連携やAI機能を初期状態から利用可能にし、営業と顧客対応の作業をSlack上で集約することを目指します。特に、Slackbotが記録更新、要約、通知整理といったAI機能を担うことで、生産性向上とCRMとAIを統合した「会話型UI」への移行を推進します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-13T08:28:31.886643"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ココナッツの甘い香りとロースト感のあるマカデミアナッツが南国を演出する「ハワイアンサンダー」試食レビュー",
-    "link": "https://gigazine.net/news/20260513-yurakuseika-hawaiian-thunder/",
-    "summary": "有楽製菓の「ブラックサンダー」シリーズから、新商品「ハワイアンサンダー」が2026年5月19日(火)に登場します。この商品は、香ばしくローストしたマカダミアナッツの豊かな風味と、ココナッツパウダー・ココナッツペーストを使った「Wココナッツ」のコクが特徴です。南国らしいやわらかな甘さとさわやかな味わいが楽しめるとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-13T08:28:38.954555"
   }
 ]
