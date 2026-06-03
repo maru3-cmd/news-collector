@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "シャドーAIに「ログイン情報」を渡している割合は？　Oktaの実態調査で判明",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html",
+    "summary": "Oktaの実態調査によると、経営幹部の95%が従業員のAI利用は責任あるものだと確信している一方で、実際には過半数の従業員がシャドーAIを利用していることが判明しました。さらに、これらのシャドーAI利用者の中には、情報漏えいにつながる可能性のある危険な使い方をしている人が一定数いることも明らかになっています。この記事は、ログイン情報がシャドーAIに渡されるリスクを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-03T10:28:16.655638"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "配車アプリのUberが乗客が車内に忘れていった「忘れ物リスト」を公開、過去10年で最も多かった忘れ物やユニークな忘れ物50選などが明らかに",
+    "link": "https://gigazine.net/news/20260603-uber-lost-found-index/",
+    "summary": "配車アプリのUberは、乗客が車内に忘れていった物をまとめた毎年恒例の「Uber Lost & Found Index」を公開しました。今年は同インデックスの10周年記念として、過去10年間の忘れ物を振り返る特別なレポートが発表されています。このレポートでは、過去10年で最も多かった忘れ物や、ユニークな忘れ物50選などが明らかにされています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-03T10:28:24.583353"
+  },
+  {
+    "source": "Zenn",
+    "title": "MCPを使う前にやること：ツール全容の把握と権限の絞り込み",
+    "link": "https://zenn.dev/masuda_masuo/articles/2026-06-03-mcp-inspect",
+    "summary": "MCPを安全かつ効果的に運用するためには、事前の準備が不可欠です。まず、ツールの全機能や適用範囲を正確に把握し、導入目的と合致しているか確認することが重要です。\n\n次に、各ユーザーに付与する権限を必要最小限に絞り込み、厳密に設定することで、情報漏洩や誤操作のリスクを大幅に低減します。\n\nこれらの徹底した事前準備を行うことで、ツールの潜在能力を最大限に引き出しつつ、運用上のトラブルを防ぎ、セキュリティを強化することが可能となります。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-06-03T10:28:33.022404"
+  },
+  {
+    "source": "Qiita",
+    "title": "千里の道も0歩でGO。LLM Wiki時代に揺らぐ「つよつよエンジニア」道場",
+    "link": "https://qiita.com/kaga-yasumitsu/items/62a470eba2955473ce36",
+    "summary": "Andrej Karpathy氏が提唱する「LLM Wiki」は、LLMがナレッジベースの構築と維持を自律的に行うというコンセプトです。筆者はその利便性を認めつつも、重要な懸念を提示しています。\n\nそれは、過去に「つよつよエンジニア」が知識の整理作業を通じて得ていた経験値や「理解そのものへの経路」といった成長の機会が、LLMによる自動化によって失われるのではないかという点です。この記事は、AIがエンジニアの能力育成に与える影響について問いを投げかけています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-03T10:28:42.610368"
+  },
+  {
+    "source": "ITmedia",
     "title": "MicrosoftとNVIDIAが次世代PCを発表　1ペタフロップス級の「Windows PC」ができること",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news017.html",
     "summary": "MicrosoftとNVIDIAは、最大1ペタフロップスのAI性能を持つ次世代PCを発表しました。このPCは「NVIDIA RTX Spark」を搭載し、大幅に最適化されたWindows上での動作を想定しています。両社はこれにより、ローカルAIエージェント基盤の構築と、アプリ・ゲームのエコシステム拡大を目指しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-14T08:23:11.326684"
-  },
-  {
-    "source": "Zenn",
-    "title": "Letting AI Run Your CAD — STEP Generation to FreeCAD with Kiro",
-    "link": "https://zenn.dev/aws_japan/articles/051fb7bbd1fdd8",
-    "summary": "この記事は、AIを活用してCADソフトウェアの操作を自動化する革新的なアプローチを紹介しています。具体的には、AIがSTEPファイルの生成プロセスを実行し、オープンソースのCADソフトウェアであるFreeCADと連携させることが焦点です。このAI駆動型CADシステムの中核を成すのは「Kiro」というツールであり、設計ワークフローの大幅な効率化と革新を目指します。これにより、エンジニアリングプロセスの加速と新たな設計可能性の開拓が期待されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-14T08:23:19.710608"
-  },
-  {
-    "source": "Qiita",
-    "title": "Next.js + Groq Whisper + Claude APIで議事録自動生成SaaSを個人開発した",
-    "link": "https://qiita.com/AokiYuwa/items/0836f709694213e27064",
-    "summary": "個人開発者が、手書きの議事録作成の手間を解消するため、音声録音からAIで議事録を自動生成するWebサービス「しゃべメモ」を開発しました。\n\nこのサービスは、Groq APIのWhisper large-v3で音声を文字起こしし、Anthropic Claude APIを用いて議事録を生成します。フロントエンドにはNext.js 16を採用し、Supabaseを認証・DBに、Stripeを決済に利用するなど多様な技術スタックで構築されています。\n\nVercelにデプロイされており、登録不要でデモ版を試すことが可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-14T08:23:31.100421"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「遅れることは許されない」　NVIDIAファンCEOが断言する、AIエージェントによるビジネス構造の激変",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news007.html",
-    "summary": "NVIDIAのジェンスン・ファンCEOは、AIが検索・要約だけでなく、自律的にタスクを完遂するエージェントへと進化し、ビジネス構造が激変すると断言しています。彼はAdobeとの提携による制作自動化を例に挙げ、AIが人間の「伴走者」となり、新たな雇用と生産性のパラダイムシフトが起こると予測。ファンCEOは、この変化に「遅れることは許されない」と強調し、迅速な対応を促しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-13T22:56:38.243319"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "YouTubeがクリエイターとスポンサーの仲介役を務める方向へ収益化戦略を転換、NetflixやTikTokがクリエイターを引き抜こうとしまくっているのに対抗",
-    "link": "https://gigazine.net/news/20260514-youtube-creators-advertisers/",
-    "summary": "YouTubeは、NetflixやTikTokとのクリエイター獲得競争に対抗するため、収益化戦略を転換しています。これまでの動画公開後の広告収益分配ではなく、人気クリエイターと広告主を番組制作前の段階から直接結び付ける取り組みを強化。これにより、クリエイターのスポンサー探しを支援し、より大規模で高予算な番組制作を後押しする方針です。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-05-13T22:56:44.731183"
   }
 ]
