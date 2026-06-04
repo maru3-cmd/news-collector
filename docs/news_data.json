@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "M365のデータ保護は誰の責任？　Hornetsecurityが提示する包括的セキュリティ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news017.html",
+    "summary": "Hornetsecurityは、Microsoft 365 (M365) 環境向けの包括的なデータ保護ソリューション「365 Total Backup」の国内提供を開始しました。このソリューションは、M365インフラから完全に独立したデータセンターでデータを保管することで、高いセキュリティを実現します。さらに、「セルフサービス復元」機能などにより、管理者の負荷を大幅に軽減しつつ、堅牢なデータ保護を提供します。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-06-04T23:01:15.450540"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "63％の人々が心理的なサポートを求めてAIを利用したことがあり42％はAIのアドバイスに常に従うとの調査結果",
+    "link": "https://gigazine.net/news/20260605-people-turn-to-ai-psychological-support/",
+    "summary": "ChatGPTやGeminiのようなAIは人間のような対話が可能で、日々の相談相手や話し相手として活用されています。フランスの金融・保険グループのアクサと市場調査企業のIPSOSが発表したレポートによると、63%もの人々が心理的なサポートを求めてAIを利用した経験があることが明らかになりました。さらに、この調査では42%の人々がAIのアドバイスに常に従っていることも報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-04T23:01:25.909303"
+  },
+  {
+    "source": "Zenn",
+    "title": "claude ワーカーがサボってそうで怖い — claude -p を無人運用するための「思考の生中継」と落とし穴",
+    "link": "https://zenn.dev/zaico/articles/75c02c8d7c507f",
+    "summary": "本記事は、AIエージェント「Claude-P」の無人運用において、AIワーカーが指示をサボる可能性への懸念を提示しています。この問題への対策として、AIの思考プロセスを逐次出力させる「思考の生中継」が提案されています。しかし、この手法はAIが思考を生成するコストを増大させ、パフォーマンス低下を招くなど、いくつかの「落とし穴」が存在することが指摘されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-04T23:01:34.624112"
+  },
+  {
+    "source": "Qiita",
+    "title": "3Dアセット探しを爆速にするWebアプリ『MODL AI』を個人開発した話【Lovable × AI検索】",
+    "link": "https://qiita.com/reodesuxz/items/73e68db38e26f7961511",
+    "summary": "インディーゲーム開発者が直面する3Dアセット探しの非効率性を解決するため、個人開発者がAI検索を活用したWebアプリ『MODL』を開発・公開しました。\nこのツールは、複数の3Dアセットサイトを横断的に検索し、必要な3Dモデルを瞬時に見つけ出すことを目的としています。\nユーザーはゲームのコンセプトを入力するだけで、直接`.glb`形式で3Dモデルをダウンロードすることが可能です。\nこれにより、何時間もかかっていたアセット探しの時間を大幅に短縮し、インディーゲーム開発のプロトタイプ制作を加速させます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-04T23:01:47.999923"
+  },
+  {
+    "source": "ITmedia",
     "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
     "summary": "ServiceNowとAccentureは、エージェント型AIの全社展開を支援する新プログラム「FDE」を開始しました。このプログラムは、AI導入が実証実験の段階で止まり、企業全体の成果に繋がらないという課題を解決することを目的としています。両社はFDEを通じて、エージェント型AIの導入を加速させ、組織全体でのビジネス価値創出を目指します。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-15T22:44:15.186754"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI共創：プロトコルエンジニアリング（AI共創 系統B） ―― それは「AI知性」と同期する技術である",
-    "link": "https://zenn.dev/eitoatsuta/articles/512be38743ae2b",
-    "summary": "この記事は、AIと人間が協働して創造を行う「AI共創」の概念における、特定の技術分野「プロトコルエンジニアリング」について論じています。特に、「AI共創 系統B」という文脈でこの技術を位置づけています。\n\nこのプロトコルエンジニアリングは、「AI知性」と同期することを本質とする技術です。AIの能力を最大限に引き出し、人間との連携を深めることで、新たな価値創出や問題解決を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-15T22:44:25.548000"
-  },
-  {
-    "source": "Qiita",
-    "title": "ハーネスを育てすぎたClaude Codeが素のClaude Codeに負ける「naked codex現象」——自己診断と対処法",
-    "link": "https://qiita.com/Tadashi_Kudo/items/60adfc41690c45d59f15",
-    "summary": "この記事は、Claude Codeを使い込むほど設定やルールを追加して重厚にチューニングしすぎると、かえってタスク完了品質が低下し、素のClaude Codeに劣る状態になる「naked codex現象」を解説しています。これは、`CLAUDE.md`などに大量の情報を追記することでコンテキストが肥大化し、Claudeのパフォーマンスが低下する現象を指します。筆者は、この現象がなぜ起きるのか、どう自己診断し、どのように対処すべきかを論じています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-15T22:44:33.463027"
-  },
-  {
-    "source": "ITmedia",
-    "title": "アクセンチュアとGoogleが新プログラム　AI全社展開で「つまづく」企業を支援へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news050.html",
-    "summary": "AIの試験導入は進む一方で、企業がAIを全社展開する際に「つまづく」という共通の課題に直面しています。この問題に対処するため、アクセンチュアとGoogle Cloudは共同で新たなプログラムを発表しました。このプログラムは、企業が組織全体でAIを効果的に導入し、その潜在能力を最大限に引き出すことを支援することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-15T08:35:09.389611"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "カルピスソーダに甘酸っぱいアセロラが加わり初夏にぴったりな爽やかさの「カルピスソーダ 南国アセロラ」を飲んでみた",
-    "link": "https://gigazine.net/news/20260515-calpis-soda-acerola/",
-    "summary": "アサヒ飲料は、季節限定の「カルピスソーダ 南国アセロラ」を2026年5月5日(火)より期間限定で発売しました。この製品は、アセロラの甘酸っぱさと爽やかな炭酸の刺激が特徴です。記事では、その南国フレーバーがどんな味に仕上がっているのか、実際に飲んで検証しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-15T08:35:16.473216"
   }
 ]

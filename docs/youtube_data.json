@@ -1,6 +1,18 @@
 [
   {
     "source": "マジAI",
+    "title": "【知識不要】Claude Codeはすべての人が使うべきAIです",
+    "link": "https://www.youtube.com/watch?v=ahzwOeo01hE",
+    "video_id": "ahzwOeo01hE",
+    "summary": "この動画は、プログラミング知識がない人でも簡単にコードを生成できるAI「Claude Code」が、すべての人が活用すべき強力なツールであることを解説しています。Claude Codeは、簡単なプロンプトを入力するだけでウェブサイト構築やPythonスクリプト作成など様々なコードを生成し、作業効率を大幅に向上させることが可能です。プログラマーはもちろんのこと、一般のビジネスパーソンや学生でも、コード生成や学習、作業自動化に役立つため、その導入が強く推奨されています。",
+    "thumbnail": "https://i.ytimg.com/vi/ahzwOeo01hE/mqdefault.jpg",
+    "published_at": "2026-06-04T10:00:18Z",
+    "content_type": "youtube",
+    "search_type": "channel",
+    "collected_at": "2026-06-04T23:02:01.634667"
+  },
+  {
+    "source": "マジAI",
     "title": "AI時代、もう人間がやる必要のないこと TOP10",
     "link": "https://www.youtube.com/watch?v=FbGAtRtgYNc",
     "video_id": "FbGAtRtgYNc",
