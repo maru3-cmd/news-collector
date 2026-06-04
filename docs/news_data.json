@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
+    "summary": "ServiceNowとAccentureは、エージェント型AIの全社展開を支援する新プログラム「FDE」を開始しました。このプログラムは、AI導入が実証実験の段階で止まり、企業全体の成果に繋がらないという課題を解決することを目的としています。両社はFDEを通じて、エージェント型AIの導入を加速させ、組織全体でのビジネス価値創出を目指します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-04T09:38:32.067912"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ノートPCで動くGoogle製「Gemma 4 12B」がエンコーダー不要で画像＆音声を処理する仕組みとは？",
+    "link": "https://gigazine.net/news/20260604-gemma-4-12b-encoder-free/",
+    "summary": "Googleは2026年6月3日、ノートPCでも動作する軽量AIモデル「Gemma 4 12B」を公開しました。このモデルは16GBのVRAMまたはユニファイドメモリで動作し、画像と音声をエンコーダーなしで処理できるマルチモーダル機能が最大の特長です。この画期的な「エンコーダーなし」の仕組みとその意義については、Google DeepMindの社員が詳細な解説記事で説明しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-04T09:38:39.922970"
+  },
+  {
+    "source": "Zenn",
+    "title": "GitHub Copilot の Custom Agent で Azure Updates をまとめてみる",
+    "link": "https://zenn.dev/microsoft/articles/zenn-agent-azure-updates",
+    "summary": "この記事は、GitHub CopilotのCustom Agentを活用し、Microsoft Azureの最新アップデート情報を効率的に整理・要約する方法について解説しています。\n\n膨大な量のAzureアップデートの中から、開発者やITプロフェッショナルが必要な情報を素早く収集し、理解を深めるための実践的なアプローチが紹介されています。これにより、最新のサービスや機能変更に容易に追従し、情報収集の負担を軽減することを目指しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-04T09:38:50.061458"
+  },
+  {
+    "source": "Qiita",
+    "title": "「知識ストア」から「AIエージェントの記憶基盤」へ — memory type を増やさずに4つのプリミティブで埋めた設計の話",
+    "link": "https://qiita.com/kiyotaman/items/1d3c18282a85edb745fe",
+    "summary": "Kagura Memory Cloudは、もともとハイブリッド検索やニューラルグラフなどを備えた高性能な「知識ストア」として機能していました。しかし、自律AIエージェントのループを円滑に回すには、従来の知識ストアでは4つの機能的な不足点があることが判明しました。\n\nそこで開発チームは、安易に多数の個別の記憶タイプを追加するのではなく、「いつ情報を配るか（delivery）」と「情報の信頼度（trust）」という2つの観点から、汎用的な4つのプリミティブ（基本要素）を設計・実装しました。このアプローチにより、Kagura Memory Cloudは「AIエージェントの記憶基盤」へと進化を遂げました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-04T09:38:58.885022"
+  },
+  {
+    "source": "ITmedia",
     "title": "マクロを使わずにExcelを自動化　ゼロから分かる「パワーピボット」超入門",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news045.html",
     "summary": "この記事は、マクロを使わずにExcelを自動化するための「パワーピボット」と「DAX関数」に焦点を当てています。これらを活用することで、大量の企業情報資産に基づいた業務自動化の構築が可能になります。本ブックレットでは、パワーピボットとDAX関数の基礎を、図式や具体的な手順を交えてゼロから分かりやすく解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-15T08:35:16.473216"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI Designs, AI Verifies — Robot Arm CAE with Kiro × FreeCAD FEM",
-    "link": "https://zenn.dev/aws_japan/articles/0bb26610096298",
-    "summary": "この記事は、AIを活用したロボットアームのCAE（Computer-Aided Engineering）プロセスを紹介しています。具体的には、AIがロボットアームの設計を行い、さらにその設計の検証もAIが担当する「AIデザイン、AI検証」のアプローチが中心です。このプロセスでは、オープンソースのCADソフトウェアであるFreeCADのFEM（有限要素法）モジュールと、AIツールであるKiroが連携して利用されます。これにより、設計から検証までの一連の作業が効率化され、開発期間の短縮と品質向上が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-15T08:35:24.386948"
-  },
-  {
-    "source": "Qiita",
-    "title": "[Frontend Performance - Part 17] 最適化の前に計測せよ：Chrome DevToolsで性能問題を見つける方法",
-    "link": "https://qiita.com/tuanphan/items/fa88ac0b9b7eb7fd7b7e",
-    "summary": "本記事は、フロントエンドのパフォーマンス最適化において、Lighthouseスコアが95点と高くてもユーザーが遅いと感じる場合があるため、闇雲な最適化ではなく正確な計測が不可欠であると説いています。\n\n特にChrome DevToolsのNetworkパネルやPerformanceパネル、およびReact DevTools Profilerといったツール群の活用を推奨しています。これらのツールにより、リソース読み込みの最適化、ランタイム性能の解析、Reactコンポーネントの不要な再レンダリングの特定など、具体的な性能問題を効率的に発見・改善できると解説しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-15T08:35:33.864284"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Anthropic、中小企業用AI業務支援「Claude for Small Business」発表　15種のAIエージェントが作業を肩代わり",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news046.html",
-    "summary": "Anthropicは、中小企業向けAI業務支援ツール「Claude for Small Business」を発表しました。このサービスは、会計、営業、人事など多岐にわたる中小企業の業務に対応します。特に、15種類のAIエージェントが作業を肩代わりし、各種業務との連携機能も導入されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-14T22:49:04.670581"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "医療AIは「健康改善に応じて報酬」の時代へ、アメリカの公的医療保険の新制度がAI活用を後押し",
-    "link": "https://gigazine.net/news/20260515-access-new-payment-model/",
-    "summary": "医療AIの普及を阻んできた主な課題は、AIによる健康改善への報酬体系の不明確さでした。この問題を解決するため、アメリカの公的医療保険を運営するCMSは、22026年7月5日から新しい制度「ACCESS」を開始します。\n\nACCESSでは、診察回数ではなく、血圧低下や痛み軽減、精神状態の改善といった実際の健康状態の改善に応じて医療機関に報酬が支払われます。これにより、TechCrunchが報じるように、医療AIの本格導入に向けた支払いの基盤が整いつつあります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-14T22:49:11.890277"
   }
 ]
