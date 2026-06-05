@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "知らない番号からの着信、出る前に見抜く　話題の警察庁推奨アプリを試してみた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news082.html",
+    "summary": "警察庁が推奨する無料の特殊詐欺対策アプリを筆者が検証しました。このアプリは、特殊詐欺の危険な電話をブロックするだけでなく、営業電話の識別や着信検索の手間を省くなど、意外な利便性も提供します。しかし、筆者は常用する上での誤判定リスクや、サービス提供事業の持続性といった構造的な課題も指摘しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-06-05T22:57:57.207341"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能",
+    "link": "https://gigazine.net/news/20260605-sw-dlt-youtube-download/",
+    "summary": "「SW-DLT」は、iPhoneやiPadからYouTube動画を無料で直接ダウンロード・保存できるショートカットツールです。YouTubeアプリからわずか数タップで動画を保存でき、GitHubで公開されているショートカットをインストールするだけで導入可能です。導入にはターミナルアプリ「a-Shell」のインストールが前提となりますが、動画だけでなく音声や画像などの保存にも対応しています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-06-05T22:58:06.022015"
+  },
+  {
+    "source": "Zenn",
+    "title": "ひとり開発の強力な相棒は Kiro に決まり？",
+    "link": "https://zenn.dev/ryusei_nomi/articles/997666169d45bb",
+    "summary": "提供された記事はタイトルと内容が同一で、「ひとり開発の強力な相棒は Kiro に決まり？」という問いかけのみで構成されています。\n\nこの記事は、個人開発（ひとり開発）において「Kiro」がどのような役割を果たすのか、特にそれが「強力な相棒」となる可能性について焦点を当てています。具体的な内容が提示されていないため、Kiroが果たし得る機能やメリットについては言及がありません。しかし、タイトル自体が問いかけの形をとっていることから、Kiroが今後の個人開発において重要な存在となり得るかを探る趣旨であると推察されます。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-05T22:58:16.183747"
+  },
+  {
+    "source": "Qiita",
+    "title": "【開発日誌 Day10】AI時代のメモは、整理して書かない方がいい",
+    "link": "https://qiita.com/simplememo/items/9314764226c535e21cdf",
+    "summary": "この記事は、AI時代におけるメモの取り方について、一般的な「整理して書け」という通説に異を唱えています。筆者は半年間の個人開発でメモアプリを制作する中で、「整理して書くほど、メモはむしろ捕まえ損ねる」という結論に至りました。これは、1960年代に9万枚のカードを番号とリンクで整理したニクラス・ルーマンのZettelkastenや、1980年代のGTD（Getting Things Done）のように、体系的な整理を推奨してきた従来の作法とは正反対の考え方です。筆者は、その結論に至った理由を実装の判断と共に順に説明すると述べています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-05T22:58:24.797581"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIで思考力が奪われる？　世界の研究が警告するAIバカの壁【動画あり】",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news037.html",
     "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.086693612s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 20\n}\n]",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-17T08:06:04.951857"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "観葉植物が部屋の空気をきれいにしてくれるというNASAの研究には誤解が含まれているという指摘",
-    "link": "https://gigazine.net/news/20260516-houseplants-air/",
-    "summary": "1989年のNASAのレポートにより、観葉植物が室内の空気をきれいにするという認識が広まりました。しかし、専門家は、この研究には誤解が含まれていると指摘しています。NASAの研究は密閉された環境下での有効性を示したものであり、家のリビングのような実際の室内では、空気清浄効果はほとんど期待できないとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-16T22:36:04.539222"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIを使ってChrome拡張を6本作った方法：プログラミング未経験からの開発フロー",
-    "link": "https://zenn.dev/ktg/articles/132441dc79fc17",
-    "summary": "プログラミング未経験の著者が、AIをフル活用してChrome拡張機能の開発に挑戦したプロセスを紹介しています。記事では、AIの助けを借りることで、開発経験がないにもかかわらず合計6本の拡張機能を制作できた具体的なフローが解説されています。これは、AIがプログラミングの知識が乏しい人々にとっても、アイデアを形にする強力な開発ツールとなり得ることを示しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-16T22:36:11.149876"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code ハーネスを「月次スキャン＋spec.md」で自己改善させる——type:\"prompt\" Hook の誤検知を GPT-5.4 が発見した話",
-    "link": "https://qiita.com/Tadashi_Kudo/items/b4dae51eee76198cc509",
-    "summary": "Claude Codeのフック設定は、特定のイベントでシェルコマンドを自動実行できますが、設定が増えるにつれて意図しないタイミングでの誤検知が問題となります。この記事では、このハーネスを自己改善させるため、「月次スキャン」と「GPT-5.4によるコードレビュー」の2つの仕組みを導入しました。具体的には、30日ごとに設定ファイルを構造レビューし、GPT-5.4の`codex-review`スキルが`type: \"prompt\"`フックの誤検知を発見しました。これにより、システムの自律的な改善が実現されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-16T22:36:20.591790"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "四国めたんの中の人・田中小雪さんと一緒にアニメのアフレコができる豪華すぎるイベントが徳島で開催されました",
-    "link": "https://gigazine.net/news/20260516-shikoku-metan-machiasobi30/",
-    "summary": "「東北ずん子・ずんだもんプロジェクト」のキャラクターである「四国めたん」は、公式アニメや合成音声コンテンツで人気を博しています。その「中の人」を務める声優・田中小雪さんと一緒にアフレコ体験ができる豪華なイベントが、徳島で開催された「マチ★アソビ vol.30」で実施されました。この記事は、そのイベントの様子を伝えるものです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-16T07:45:35.295510"
   }
 ]
