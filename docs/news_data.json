@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "ChromeがM5 MacBook Proでブラウザベンチマークの記録を更新、全ブラウザ中最高のパフォーマンスとアピール",
+    "link": "https://gigazine.net/news/20260606-chrome-breaks-benchmark-records-m5-macbook-pro/",
+    "summary": "Google ChromeがM5 MacBook Pro上で、Speedometer 3.1とJetstream 3という2つの主要なブラウザベンチマークにおいて過去最高のスコアを記録しました。特にSpeedometer 3.1では、Chromeが全ブラウザ中トップのパフォーマンスを達成しています。これにより、GoogleはChromeが現在利用可能なブラウザの中で最高のパフォーマンスを発揮しているとアピールしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-06T08:20:09.156325"
+  },
+  {
+    "source": "Zenn",
+    "title": "この春、AIエージェントたちの国を作り、文明を観測し始めた",
+    "link": "https://zenn.dev/sunwood_ai_labs/articles/20260606-oni-cadia-ai-civilization",
+    "summary": "この春、AIエージェントたちによる「国」の構築が開始されました。このプロジェクトの主な目的は、AIエージェントたちが形成する文明の発展と動態を観測することです。これは、人工知能が仮想環境でどのような社会を築き、進化していくかを研究する新たな試みと言えます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-06T08:20:16.319555"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code×MCP×Google Sheets連携まとめ5選",
+    "link": "https://qiita.com/kamome_susume/items/61878d3e3e9481f2d0b2",
+    "summary": "この記事は、Claude CodeとMCP（Model Context Protocol）を組み合わせることで、Google Sheetsを自動操作する方法を解説しています。MCPを活用することで、Claude CodeはGoogle Sheetsを直接読み書きできる「自律型エージェント」として機能します。\n\nこれにより、手動でのデータ入力・集計などの繰り返し作業を自然言語の指示だけで自動化することが可能になります。本記事では、実務で使える連携パターンを5つ紹介しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-06T08:20:25.312323"
+  },
+  {
     "source": "ITmedia",
     "title": "知らない番号からの着信、出る前に見抜く　話題の警察庁推奨アプリを試してみた",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news082.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-17T22:43:44.452799"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】",
-    "link": "https://gigazine.net/news/20260517-super-kigurumi-fight-machiasobi30/",
-    "summary": "「スーパーきぐるみファイト」は、きぐるみたちが画鋲つき武器で互いの風船を割る「ゆるふわバイオレンス」バトルイベントです。このイベントは、徳島で開催された総合エンタメイベント「マチ★アソビ vol.30」の一部として実施されました。人気キャラクターの仕事猫も参戦し、会場では熱い戦いが繰り広げられました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-17T08:05:45.563825"
-  },
-  {
-    "source": "Zenn",
-    "title": "MacBook Pro on The Air Pattern ｗ もしくはローカルLLMの現実と希望",
-    "link": "https://zenn.dev/ukiuni/articles/35bf09ada8ce61",
-    "summary": "提供されたタイトルから推測される内容に基づき、以下に要約します。\n\nこの記事は、MacBook Pro上でローカルLLM（大規模言語モデル）を動作させることの「現実」と「希望」について考察していると推測されます。具体的には、MacBook Proをまるでクラウドサービスのように手軽に高度なAI処理に活用する「Air Pattern」の可能性を探りつつ、現在の技術的な課題や制約に言及しているでしょう。しかし、将来的なチップ性能の向上や最適化により、ローカル環境でのLLM利用がより現実的かつ快適になることへの期待が語られていると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-17T08:05:57.968480"
-  },
-  {
-    "source": "Qiita",
-    "title": "ビッグデータ・AIプラットフォーム マンスリーニュースレター — 2026年4月号",
-    "link": "https://qiita.com/alibabacloud-sa/items/3246df8eddb2f158f40d",
-    "summary": "2026年4月号のAlibaba Cloud「ビッグデータ・AIプラットフォーム マンスリーニュースレター」が発行されました。\n本ニュースレターでは、Alibaba CloudのビッグデータおよびAIポートフォリオにおける最新の技術アップデートが紹介されています。\nまた、新機能や新製品のリリース情報、そしてお客様の成功事例も掲載されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-17T08:06:04.951857"
   }
 ]
