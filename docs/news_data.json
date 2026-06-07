@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "なぜ本番環境のAIは失敗するのか？　Datadog調査で判明した「運用の壁」と打開策",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news040.html",
+    "summary": "Datadogが発表した「2026年版 AI Engineering調査レポート」によると、本番環境でAIを運用する組織において、AIリクエストの約5%が失敗している現状が明らかになりました。\n\nこれは、AI導入の急速な進展とデータ量の増加に伴い、運用の複雑性が増しているためです。本調査は、本番環境におけるAI運用の困難さと、それに伴う失敗率の高さを浮き彫りにしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-07T22:54:10.741994"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
+    "link": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
+    "summary": "AIブームを牽引するOpenAI、Claude開発元のAnthropic、そしてイーロン・マスク氏率いるSpaceX（傘下にxAIを持つ）の主要3社が、株式市場への上場を検討していると報じられています。これらAI業界の注目企業は、それぞれChatGPT、Claude、Grokといったプロダクトを擁し、史上最大級の株式市場デビューとなる可能性を秘めています。\n\n世界的な経済紙The Economistは、これほど大規模なAI企業が相次いで上場した場合、市場がその規模を受け止めきれるのか、そしてその影響について議論しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-07T22:54:19.162660"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Claude Code】AIエージェントに\"部下\"を持たせたら手が空いた ── サブエージェント3人で\"財布\"が焼けた話",
+    "link": "https://zenn.dev/i_ichi/articles/claude-code-subagent-cost",
+    "summary": "記事は、Claude Codeを用いてメインのAIエージェントに3人のサブエージェントを「部下」として割り当てた実験について述べています。この分業体制により、筆者はメインエージェントの作業負担を軽減し、効率的にタスクを処理できるようになったと報告しています。しかし、この効果的なAIの多段階活用は、3人のサブエージェントの利用に伴う計算コストが大幅に増加し、「財布が焼ける」ほどの高額な出費につながったと結んでいます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-07T22:54:27.897591"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code × tmux でバックグラウンド実行とエージェント管理を整理する",
+    "link": "https://qiita.com/goki602/items/4a44eceb28c5cbbcbab6",
+    "summary": "AIコーディングエージェントに長時間タスクを任せる際、タスクをバックグラウンド実行させ、離席できる環境の整備が課題となっています。この解決策として、2007年から存在するターミナルマルチプレクサ「tmux」が再注目されています。\n\n実際、2026年6月4日には「tmuxがコーディングエージェントのランタイム」と解説する記事が267ブックマークを集め、その関心の高さを示しました。\n\n本記事は、Claude Codeとtmuxを組み合わせることで、エージェントのバックグラウンド実行と管理を効率化し、長時間タスク運用における課題を解決するための情報を提供することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-07T22:54:35.062987"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でローカルAIに再試行を促す機能・ステップの強制・エラー回復・VRAMを考慮したコンテキスト管理などのガードレールを追加できる「forge」",
     "link": "https://gigazine.net/news/20260607-forge/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-18T22:49:13.850913"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI参照元（ChatGPT/Gemini/Perplexity）で流入ジャンルが違う — 自社GA4 30日観測",
-    "link": "https://zenn.dev/orectic/articles/ai-referral-genre-pattern-ga4",
-    "summary": "この記事は、ChatGPT、Gemini、PerplexityといったAI参照元からのウェブサイト流入ジャンルに違いがあるかを検証した30日間のGA4観測結果を報告しています。自社GA4データによるこの分析で、各AIツールがそれぞれ異なるジャンルのコンテンツへのユーザーを誘導していることが明らかになりました。この結果は、AIからの集客を最適化する上で、各AIの特性に合わせたコンテンツ戦略やSEO対策が不可欠であることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-18T22:49:22.167983"
-  },
-  {
-    "source": "Qiita",
-    "title": "ChatGPT・Gemini・Perplexityで流入ジャンルが全然違った話 — 個人開発メディアのAI参照元観測",
-    "link": "https://qiita.com/masakazuimai/items/73661716e18196a748bf",
-    "summary": "過去半年間で、あるWeb制作者向け個人開発メディアは、ChatGPTやGeminiなどのAIサービスからのトラフィック増加を観測しました。GA4での分析の結果、AIサービスごとに参照される記事のジャンルが大きく異なることを発見。これは、同じサイトであっても、どのAIが介在するかによって連れてくる読者層が異なることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-18T22:49:33.344805"
-  },
-  {
-    "source": "ITmedia",
-    "title": "NEC社長が説く　AI時代と新たな安全保障環境の到来で「ITサービスはこう変わる」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news062.html",
-    "summary": "NECの森田隆之社長は、AI時代と新たな安全保障環境の到来がITサービス産業に与える大きな変化について論じています。記事では、これからのITサービス産業で勝ち残るための「勝者の条件」に焦点を当てており、未来のITサービスのあり方を示唆しています。この分析を通じて、変化の激しい時代におけるIT企業の戦略と方向性が提示されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-18T09:33:46.194688"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ミントマシマシで上品な甘さに爽快感が広がるハーゲンダッツのミニカップ「ショコラミント エクストラ」試食レビュー",
-    "link": "https://gigazine.net/news/20260518-haagen-dazs-chocolat-mint-extra/",
-    "summary": "ハーゲンダッツは、ミニカップ「ショコラミント エクストラ」を2026年5月19日から期間限定で新発売します。この商品は、従来のミントフレーバーよりもミントを多く配合しており、上品な甘さに爽快感が広がるのが特徴です。暑くなる季節にぴったりのアイスとして、発売に先駆けて試食レビューが行われました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-18T09:33:54.754206"
   }
 ]
