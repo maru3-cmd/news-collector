@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "無料でローカルAIに再試行を促す機能・ステップの強制・エラー回復・VRAMを考慮したコンテキスト管理などのガードレールを追加できる「forge」",
+    "link": "https://gigazine.net/news/20260607-forge/",
+    "summary": "AIモデルはハルシネーションや処理中のタイムアウト・ループといったエラーリスクがあり、常に正確な出力をするとは限りません。「forge」は、セルフホスト型LLM向けの信頼性レイヤーとして、これらの課題に対応します。再試行を促す機能、ステップの強制、エラー回復、VRAMを考慮したコンテキスト管理などの「ガードレール」を適用することで、モデルの精度を向上させることができます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-07T08:41:26.905232"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Cursor / Claude Code対応】最新のMCPサーバーを作って、AIに「忘れられない長期記憶層」を与えるハンズオン",
+    "link": "https://zenn.dev/kawacodejp/articles/50f80d7dbb006e",
+    "summary": "このハンズオン記事は、AIに「忘れられない長期記憶層」を付与するための具体的な方法を解説しています。最新のMCPサーバーを構築することでこれを実現し、CursorやClaude CodeといったAI開発ツールとの連携に対応しています。実践的な手順を通じて、AIの記憶能力を大幅に向上させるための技術を学ぶことができます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-07T08:41:33.645181"
+  },
+  {
+    "source": "Qiita",
+    "title": "【2026年版】AIコーディングツール徹底比較：Claude Code vs Gemini CLI vs Kiro",
+    "link": "https://qiita.com/devex12/items/197deb2b3143be03d457",
+    "summary": "2026年、AIコーディングツールは開発者の生産性を大幅に向上させており、この記事では「Claude Code」「Gemini CLI」「Kiro」の3つの主要ツールが比較されています。\n\nAnthropicのClaude Codeは有料（API課金）で高精度なコード生成と理解力が強みです。GoogleのGemini CLIは無料枠があり、Google製AIをCLIで利用できます。AWSのKiroは現在無料プレビュー中で、IDE統合型でSpec駆動開発を特徴としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-07T08:41:41.266649"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結",
     "link": "https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/",
     "summary": "Googleは、SpaceXのスーパーコンピューター「Colossus 1」の計算能力にアクセスするため、月額9億2000万ドル（約1470億円）を支払う契約をSpaceXと締結しました。これは、AI開発企業Anthropicが既に月額12億5000万ドル（約2000億円）で同様の契約を結んだことに続くものです。この高額な契約は、AI開発における高性能な計算資源への需要が急速に高まっている現状を示しています。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-18T09:33:54.754206"
-  },
-  {
-    "source": "Zenn",
-    "title": "自分の思考の枠を超える装置を、設計できるか——Masaさんのエージェントチーム実験",
-    "link": "https://zenn.dev/masa_san/articles/2026-04-29-agent-workspace-3",
-    "summary": "Masaさんは、「自分の思考の枠を超える装置」を設計できるかという問いに対し、「エージェントチーム」を用いた実験を行っています。この試みは、人間自身の認知や発想の限界を超越するような、革新的なシステムやアイデアを創出する可能性を探るものです。重要なポイントは、AIエージェントの協調を通じて、個人の思考だけでは到達できない領域への到達を目指している点です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-18T09:34:05.488727"
-  },
-  {
-    "source": "Qiita",
-    "title": "OML4py で ONNX変換時に UserWarning:EmbeddingModelConfig.from_template is deprecated ... が出力",
-    "link": "https://qiita.com/jri_narita/items/f274d493641ecb2acd31",
-    "summary": "OML4pyでONNX変換を行う際、`EmbeddingModel`と`EmbeddingModelConfig`を使用すると`UserWarning:EmbeddingModelConfig.from_template is deprecated ...`という警告が表示されます。これは、`EmbeddingModelConfig.from_template`メソッドが非推奨であることを示すものです。この警告は、後続のメッセージが示唆するように、代わりに`ONNXPipeline`および`ONNXPipelineConfig`を使用することで解決できます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-18T09:34:12.776195"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ServiceNowを「AIエージェントのOS」に　NVIDIAファンCEOが認める進化の現在地",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news006.html",
-    "summary": "企業のAI活用が広がる一方で、管理不全による「AIカオス」のリスクが課題となっています。これに対しServiceNowは、年次イベントでAIを統制する「管理塔」としての機能を大幅に強化したと発表しました。NVIDIAのファンCEOはServiceNowを「AIエージェントのOS」と評価しており、同社は安全で自律的な業務遂行を可能にする基盤の構築を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-17T22:43:24.139777"
   }
 ]
