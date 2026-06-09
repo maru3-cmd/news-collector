@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "コンサルの品質、なぜ「バラつく」のか？　ガートナーが背景を解説",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news066.html",
+    "summary": "国内企業がコンサルティングサービスを利用する際、「期待以上」の成果を実感する企業は半数に満たないことが明らかになっています。最大の不満要因は「品質のバラつき」であり、この記事ではその発生原因について解説しています。加えて、顧客企業がコンサルティング品質のバラつきに対処するために取るべき手立てについても提示しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-09T08:54:37.054970"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ベリーの甘酸っぱさやマンゴーの南国感を楽しめるスタバの「FRUITY CHEERS TORORI ストロベリーベリーベルガモット／マンゴーパッションフルーツ」を飲んでみた",
+    "link": "https://gigazine.net/news/20260609-starbucks-fruity-cheers-torori-strawberry-mango/",
+    "summary": "スターバックスは、フルーツ・ティー・ミルクを組み合わせた新シリーズ「FRUITY CHEERS TORORI」を発売します。ストロベリーベリーベルガモットとマンゴーパッションフルーツの2フレーバーが、2026年6月16日(火)からセブン‐イレブン限定で登場。果汁の明るい味わい、ティーの爽やかさ、ミルクの満足感を特徴としており、記事ではその味を先行して確かめています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-09T08:54:48.893987"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code + freee-mcpで請求書作成してみた",
+    "link": "https://zenn.dev/mohhh_ok/articles/freee-mcp-invoice-creation",
+    "summary": "この記事は、「Claude Code」と「freee-mcp」という二つのツールを連携させ、実際に請求書を作成する試みについて報告しています。具体的には、AIコーディングアシスタントであるClaude Codeと、会計ソフトfreeeの連携機能であるfreee-mcpを組み合わせ、請求書作成プロセスをどのように実現したのかを検証しています。筆者は、この実践を通して得られた具体的な手法や結果を記事内で詳細に解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-09T08:55:04.732701"
+  },
+  {
+    "source": "Qiita",
+    "title": "iPhoneで20Bモデルが動く時代へ！WWDC26で発表されたCore AIとFoundation Models総まとめ！",
+    "link": "https://qiita.com/nolanlover0527/items/89e7f73f8edaa30112b6",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 50.812102716s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 50\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-09T08:55:09.245936"
+  },
+  {
+    "source": "ITmedia",
     "title": "「会話がスマホに盗聴されている」の真相　スマホセキュリティで守るべきルールとは？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/09/news040.html",
     "summary": "スマートフォンでの会話内容がWeb広告に反映される現象から、「会話がスマホに盗聴されているのでは」という懸念がたびたび上がります。しかし、記事によると、広告表示を目的としたスマホによる会話の盗聴が真実である可能性は「極めて低い」とされています。これは、一般的に認識されているような盗聴は行われていないという見解を示しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-20T08:49:14.141538"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アニメーター出身ではない「非作画系監督」はどうやってアニメを演出するのか？『楽園追放』水島精二×『デデデデ』黒川智之両監督によるトークイベント in マチ★アソビ Vol.30",
-    "link": "https://gigazine.net/news/20260520-hisakugakei-kantoku-machiasobi30/",
-    "summary": "2026年5月16日にマチ★アソビ Vol.30で、「非作画系監督はどう演出するのかトークショー」が開催されました。このイベントには、『楽園追放』の水島精二監督と、『デッドデッドデーモンズデデデデデストラクション』の黒川智之監督が登壇。アニメーター出身ではない両監督が、どのようにアニメ作品を演出しているのかについて語り合いました。この記事は、そのトークイベントのレポートです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-20T08:49:22.621140"
-  },
-  {
-    "source": "Zenn",
-    "title": "複数AI時代の文脈分断を解消する「独立したMemory Layer」というアーキテクチャ",
-    "link": "https://zenn.dev/memorylakeai/articles/ee907aa0f047db",
-    "summary": "複数AIが連携する時代において、それぞれのAI間で文脈が分断され、情報の一貫性が失われるという課題が指摘されています。これを解決するため、「独立したMemory Layer」という新たなアーキテクチャが提案されています。このアーキテクチャは、各AIが共通してアクセスできるメモリー層を設けることで文脈の共有と統合を図り、複数AI間の効率的な連携とコミュニケーションの課題解消を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-20T08:49:31.154391"
-  },
-  {
-    "source": "Qiita",
-    "title": "Local LLM(Gemma4 Qwen3.6)を限られたメモリで複数人で使う",
-    "link": "https://qiita.com/yoshiyakato/items/f23b592796fbe805fb4f",
-    "summary": "64GB Apple Silicon (Mac Studio M1 Ultra) 環境で35B級ローカルLLMを複数人・複数チャネルから同時に利用する際に発生するパフォーマンス問題（runner stallやswap地獄）を解決するため、Hermes AgentとOllamaを組み合わせたシステムが構築されました。\n\nこのシステムでは、Ollamaの`OLLAMA_MAX_QUEUE`設定で推論処理を実質的に直列化し、Hermes Agentがユーザーからの並列リクエストを受け付けてOllamaのキューに投入することで、「受付は並列、推論は直列」のフローを実現しています。\n\nこれにより、限られたメモリの単一マシンで、Gemma4やQwen3.6といった複数のローカルLLMを効率的に複数人で共有利用できるようになったとのことです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-20T08:49:40.264993"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAIがDellと提携を発表　エンタープライズ向け「Codex」のオンプレミス導入を支援へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news046.html",
-    "summary": "OpenAIはDell Technologiesと提携し、エンタープライズ向けの「Codex」を企業のハイブリッドおよびオンプレミス環境へ展開すると発表しました。この提携により、DellのAIデータプラットフォームとの連携を通じて、機密データを社内に保持したまま高度なAIエージェントを大規模に運用できる環境が整えられます。これは、企業におけるCodexの実務への本格導入を支援することを主な目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-19T22:56:55.345610"
   }
 ]
