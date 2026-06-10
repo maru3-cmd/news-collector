@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "大阪ガスが日本IBM、オージス総研とパートナーシップ締結　AIを軸としたシステム変革とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/10/news036.html",
+    "summary": "大阪ガスは、日本IBMおよびオージス総研と共創パートナーシップを締結しました。この提携は、AIを軸とした次世代ITシステムへの大規模な変革を目指すものです。具体的には、既存システムのモダナイゼーション、AI駆動開発の導入、セキュリティ対策の強化、そして関連する人材育成などが検討・試行されます。これにより、AI技術を活用したシステム全体の最適化と効率化を図ります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-10T09:35:40.549994"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "なか卯の旨辛親子丼「赤の親子丼」全3種を食べ比べてみた、辛いだけじゃない旨辛ダレが魅力的",
+    "link": "https://gigazine.net/news/20260610-nakau-umakara-red-oyakodon/",
+    "summary": "なか卯は2026年6月10日に、特製旨辛ダレを使用した「赤の親子丼」を発売しました。このタレはコチュジャンやおろし生姜、にんにく、ラー油などで作られ、単調ではない重層的な辛さが魅力です。商品は、シンプルな「辛旨赤の親子丼」に加え、温たまをのせたもの、チーズをトッピングしたものを含め全3種類が展開されています。この記事では、これら3種類を食べ比べ、その旨辛な味わいを検証しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-10T09:35:51.194103"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claudeのメモリ機能で試してみた小さな工夫",
+    "link": "https://zenn.dev/atware/articles/7ea5fcac17bdcb",
+    "summary": "申し訳ありませんが、提供された記事の内容は「Claudeのメモリ機能で試してみた小さな工夫」というタイトルと同じフレーズが繰り返されているのみで、具体的な本文がありません。\n\nこの情報だけでは、「小さな工夫」の内容、試した結果、重要なポイントや数字を特定し、3-4文で要約することはできません。記事の具体的な本文をご提供いただければ、要約を作成いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-10T09:35:59.181335"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI media workflow references 20260610093143",
+    "link": "https://qiita.com/mryangsd/items/d15393a07f430fe64333",
+    "summary": "この記事は、AIメディアおよびカスタムソングのワークフローテストに役立つ公開リファレンスノートです。ビデオ、音楽、パーソナライズされたオーディオの生成に関連するAIツールが収集されており、各製品の現行ワークフローを直接評価できるようリンクが提供されています。具体的には、AI動画生成ワークスペースである「Wan 3 Pro」や、AI動画生成リソースの「Seedance 3.0」などが紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-10T09:36:06.927719"
+  },
+  {
+    "source": "ITmedia",
     "title": "英国の公的医療サービス、職員50万人にM365 Copilotを導入　事務作業の削減効果は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/10/news040.html",
     "summary": "英国の公的医療サービス（NHS）は、職員50万人にMicrosoft 365 Copilotを導入することを決定しました。\n3万人規模の先行試験では、職員1人当たり年間約5週間の事務作業削減効果が実証されており、これにより年間約1億8000万時間相当の業務時間削減が見込まれます。\nさらに、各病院が独自にAIエージェントを自作できる環境も整備し、費用抑制と患者との診療時間確保を目指します。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-21T22:58:14.529400"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "総重量約1kg・肉340g・2508kcalの盛りまくりうどん「爆担々」をはなまるうどんで食べてみた",
-    "link": "https://gigazine.net/news/20260521-hanamaruudon-bakutantan/",
-    "summary": "はなまるうどんから、総重量約1kg、肉340g、そして2508kcalという驚異的なボリュームを誇る期間限定メニュー「爆担々」が登場しました。これは、人気メニュー「冷やし担々」をベースに、はなまる唐揚げ、豚肉、肉味噌が積み重ねられた「限界突破」の一杯です。記事では、その圧倒的な内容を確かめるべく、実際に店舗で「爆担々」を体験した様子が詳しく紹介されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-21T08:51:49.005880"
-  },
-  {
-    "source": "Zenn",
-    "title": "Agent Memoryって知ってる？――完全に理解した人へ贈る絶望の谷",
-    "link": "https://zenn.dev/memorylakeai/articles/3c01d12dfb8787",
-    "summary": "申し訳ありませんが、記事の具体的な内容が提示されていないため、要約を作成することができません。\n\n記事の本文をご提供いただければ、3-4文で要約させていただきます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-21T08:51:57.240024"
-  },
-  {
-    "source": "Qiita",
-    "title": "何にも知らないけど画像認識AIを作る① | NumPy＆Matplotlibで画像データを理解する",
-    "link": "https://qiita.com/shuji_asatsuma0251/items/43f925cdad4336b15904",
-    "summary": "この記事は、完全初学者が画像認識AI（CNN）を構築するまでの学習記録の第1回です。公式チュートリアルで理解につまずく人向けに、数学や専門用語を避け、データ処理の裏側で何が起きているかを徹底的に易しく解説することを目的としています。具体的には、データを扱うNumPyと可視化するMatplotlibという二つの主要なライブラリを紹介し、画像データの構造（shape）や表示方法（imshow）を通じて、その基本的な仕組みを理解することに焦点を当てています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-21T08:52:07.392949"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google検索、25年ぶりの大刷新　「ググる」から「AIエージェントに任せる」へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/21/news029.html",
-    "summary": "Googleは、検索サービスを25年ぶりに大幅刷新し、「ググる」から「AIエージェントに任せる」新たな方向性へ転換すると発表しました。具体的には、AI機能を本格導入し、AIモードに最新のGemini 3.5 Flashを標準搭載します。これにより、検索欄の刷新、情報収集用エージェントの提供、予約支援が可能になります。さらに、生成UIや個人用機能の拡充も打ち出され、AIがユーザーのタスク遂行を多角的にサポートする検索体験を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-20T23:04:36.437223"
   }
 ]
