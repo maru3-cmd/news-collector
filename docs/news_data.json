@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「AI単独の導入は“失敗のレシピ”だ」　ServiceNowの製品トップが語る、企業AIの盲点",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news010.html",
+    "summary": "ServiceNowの製品トップは、企業がAIの挙動に抱く不安は「土台なしのAI単独導入」が生むリスクであり、「失敗のレシピ」だと指摘しています。同社はこれを打開策として、AIを適切に管理・統合する「AI制御塔戦略」に注力。この戦略の真意や企業買収の背景が、Knowledge 2026で語られました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-10T23:18:51.872107"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "トランプ大統領やその一家は仮想通貨で約3700億円の利益を上げたが投資家は約3600億円の大損を被ったとの調査結果",
+    "link": "https://gigazine.net/news/20260611-trump-family-always-wins-crypto/",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 3.318814727s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 3\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-10T23:18:56.724661"
+  },
+  {
+    "source": "Zenn",
+    "title": "Frontend Nation 2026 の発表から見る、フロントエンド開発の現在地",
+    "link": "https://zenn.dev/abalol/articles/1f067e7346d185",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 58.736587589s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 58\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-10T23:19:01.307358"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年6月11日",
+    "link": "https://qiita.com/ishisaka/items/634137bc903b037e11d2",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 54.259087763s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 54\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-10T23:19:05.787027"
+  },
+  {
+    "source": "ITmedia",
     "title": "大阪ガスが日本IBM、オージス総研とパートナーシップ締結　AIを軸としたシステム変革とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/10/news036.html",
     "summary": "大阪ガスは、日本IBMおよびオージス総研と共創パートナーシップを締結しました。この提携は、AIを軸とした次世代ITシステムへの大規模な変革を目指すものです。具体的には、既存システムのモダナイゼーション、AI駆動開発の導入、セキュリティ対策の強化、そして関連する人材育成などが検討・試行されます。これにより、AI技術を活用したシステム全体の最適化と効率化を図ります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-22T08:45:36.280985"
-  },
-  {
-    "source": "ITmedia",
-    "title": "2026年の世界AI支出は47％増の2.6兆ドルへ――インフラ主導から「企業の本格導入」への転換を予測　Gartner調査",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/22/news038.html",
-    "summary": "Gartnerの予測によると、2026年の世界AI支出は前年比47％増の2兆5957億ドルに達する見込みです。この大幅な増加は、主に生成AIやAIエージェントの需要拡大によってもたらされます。市場を牽引するのはAI用サーバやIaaS（Infrastructure as a Service）への投資であり、インフラ主導の成長が予測されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-21T22:57:50.275436"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ついに予測市場を規制する最初の州が出現",
-    "link": "https://gigazine.net/news/20260522-ban-prediction-markets/",
-    "summary": "スポーツや政治イベントなどを賭けの対象とする「予測市場」は、2026年4月までに取引量が242億ドル（約3兆7800億円）に達するなど急拡大しています。これに対し、ミネソタ州が全米で初めて予測市場サイトの運営を禁止する法律に署名し、規制に乗り出しました。しかし、アメリカの商品先物取引委員会(CFTC)はこれを違法として訴訟を起こしており、予測市場の規制を巡る対立が顕在化しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-05-21T22:57:57.563881"
-  },
-  {
-    "source": "Zenn",
-    "title": "顧客情報をAIに入れる前に確認すべき3つの判断軸──士業・専門職向け実務ガイド",
-    "link": "https://zenn.dev/miyamatechlab/articles/4c78ca4c87da07",
-    "summary": "「顧客情報をAIに入れる前に確認すべき3つの判断軸──士業・専門職向け実務ガイド」は、士業や専門職が顧客情報をAIに利用する際の実務的な指針を提供しています。この記事では、機密性の高い情報をAIで扱う際の潜在的リスクを認識し、適切な判断を下すための「3つの重要軸」を提示。具体的には、情報セキュリティ、AIの信頼性、そして法的・倫理的責任といった観点から、専門家が安全かつ効果的にAIを活用するための道筋を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-21T22:58:07.340327"
-  },
-  {
-    "source": "Qiita",
-    "title": "ゼロから学ぶAIエージェントのスキル拡張：Function Callingの仕組みと実装ステップ",
-    "link": "https://qiita.com/jjking/items/5fa57643653c09e4abe1",
-    "summary": "現在のLLMは、リアルタイム情報へのアクセスや外部システム操作ができない「静的な知識」という限界を抱えています。この課題を解決し、AIを自律的な「AIエージェント」へと進化させる技術が「Function Calling」です。これは、LLMがユーザーの入力（プロンプト）を分析し、必要に応じてあらかじめ定義された外部の関数（APIやプログラム）を呼び出すためのパラメータを自動生成する仕組みです。これにより、LLMは外部世界と連携し、より実践的なタスクを実行できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-21T22:58:14.529400"
   }
 ]
