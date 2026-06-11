@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Anthropic、Mythos級モデルにおいて30日間のデータ保持方針を導入　安全対策用途に限定し学習には不使用",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news046.html",
+    "summary": "Anthropicは、高性能モデル「Claude Fable 5」と限定利用の「Claude Mythos 5」を発表しました。Mythos級モデルにおいては、30日間のデータ保持方針が新たに導入されます。このデータ保持は安全対策用途に厳しく限定されており、モデルの学習には一切使用されません。Fable 5は一般公開される一方、Mythos 5は研究や防御用途に特化して活用されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-11T23:14:07.176981"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "iPhoneにApp Storeで配布されていないアプリをインストールできるようにする代替アプリストア「AltStore PAL」の導入手順はこんな感じ",
+    "link": "https://gigazine.net/news/20260612-altstore-pal/",
+    "summary": "「AltStore PAL」は、iPhoneやiPadにApple公式のApp Store以外からアプリをインストール可能にする代替アプリストアです。これにより、App Storeでは配布されていないサードパーティ製アプリもデバイスに導入できるようになります。AltStore PALの導入手順は通常とは少し特殊ですが、本記事ではその詳細な手順を画像付きで解説しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-11T23:14:14.279978"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Fable 5、6月9日リリース — 一般公開された Mythos-class モデルで実務はどう動くか",
+    "link": "https://zenn.dev/aidecodelabjp/articles/claude-fable-5-release-2026",
+    "summary": "AIモデル「Claude Fable 5」が、6月9日にリリースされることが発表されました。これは一般公開されるMythos-classモデルです。この新しいモデルの登場により、実務がどのように変化し、業務プロセスにどのような影響を与えるかが注目されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-11T23:14:21.388168"
+  },
+  {
+    "source": "Qiita",
+    "title": "なぜ3D CADは普及したのにAIは普及しないのか",
+    "link": "https://qiita.com/massy0123/items/13e5873565710b733dbd",
+    "summary": "20年以上メカ設計に携わる筆者は、3D CADが多くの企業に浸透した一方でAIはなかなか普及しないという課題意識を抱いています。この違いを考察するため、まず2D CADが普及した理由に焦点を当てています。\n\n筆者は、2D CADが普及した主因として、設計者自身の作業効率が大幅に向上した点を挙げています。具体的には、コピー＆ペーストによる修正の容易さ、図面管理の簡便さ、そして過去図面の再利用が可能になったことなどがその理由です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-11T23:14:30.642620"
+  },
+  {
+    "source": "ITmedia",
     "title": "「DX銘柄2026」事例レポート公開　51社のAI活用事例を掲載",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news020.html",
     "summary": "IPAは、「DX銘柄2026」選定企業のDX事例をまとめたレポートを公開しました。このレポートには、51社のAI活用事例が掲載されています。グランプリ企業3社をはじめとするDX事例の他、東証上場企業289社を対象とした調査結果も紹介されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-23T08:02:02.031075"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ランサムウェア被害額は平均6.4億円、事業停滞54日――パロアルトの調査で分かった国内企業のセキュリティ実態",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/23/news022.html",
-    "summary": "パロアルトネットワークスの調査「State of Cybersecurity Japan 2026」によると、国内企業がランサムウェア攻撃を受けた際の平均被害額は6.4億円に達しています。これにより事業停滞期間も平均54日と長期化し、企業運営に大きな影響を与えています。こうした実態を受け、企業はセキュリティ投資を従来のIT予算から独立させ、新たな経営基盤として再定義する動きを進めています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-05-22T22:50:09.167093"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "新型コロナで失われた嗅覚と味覚が「特別な味付けのチューインガム」のおかげで回復した事例",
-    "link": "https://gigazine.net/news/20260522-chewing-gum-restores-taste-smell-covid/",
-    "summary": "新型コロナウイルス感染症(COVID-19)によって嗅覚と味覚を失った男性の回復事例が報告されました。この男性は、「特別に開発された超強力な味付きのチューインガム」を継続的にかみ続けた結果、失っていた感覚を取り戻しました。数年ぶりに嗅覚と味覚が回復した画期的な体験談として注目されています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-05-22T22:50:17.558432"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI Daily Digest: 2026-05-23",
-    "link": "https://zenn.dev/kd_agentic/articles/ai-daily-digest-20260523",
-    "summary": "恐れ入りますが、ご提示いただいた内容には記事のタイトル「AI Daily Digest: 2026-05-23」と日付のみがあり、具体的な記事の本文が含まれておりません。\n\nそのため、要約を作成することができません。お手数ですが、記事の本文をご提供いただけますでしょうか。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-22T22:50:23.694254"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenAI、業務用最高性能モデル「GPT-5.5 Instant」を発表",
-    "link": "https://qiita.com/quotidia/items/8c0adda0c10477de037a",
-    "summary": "OpenAIは、ChatGPTの新しいデフォルトモデルとして高性能AIモデル「GPT-5.5」をリリースしました。これにより、従来のGPT-5.2から置き換わり、特別な設定なしにすべてのユーザーがより高性能なAIを利用できるようになりました。GPT-5.5は主に推論能力を含む3つの分野で大幅に性能が向上したとされており、ChatGPTの頭脳が大きく変化します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-22T22:50:30.848986"
   }
 ]
