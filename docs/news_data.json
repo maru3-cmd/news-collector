@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「DX銘柄2026」事例レポート公開　51社のAI活用事例を掲載",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news020.html",
+    "summary": "IPAは、「DX銘柄2026」選定企業のDX事例をまとめたレポートを公開しました。このレポートには、51社のAI活用事例が掲載されています。グランプリ企業3社をはじめとするDX事例の他、東証上場企業289社を対象とした調査結果も紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-11T09:58:54.756613"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "高速かつ高精度な視覚言語モデル「Zamba2-VL」が登場、Transformerより高速なアーキテクチャで開発",
+    "link": "https://gigazine.net/news/20260611-zamba2-vl-zyphra/",
+    "summary": "AI開発企業Zyphraが、高速かつ高精度な新しい視覚言語モデル（VLM）「Zamba2-VL」を発表しました。このモデルは、従来のTransformerよりも高速な独自アーキテクチャで開発されています。Zamba2-VLは、同規模のVLMと比較して画像認識処理をより迅速に行うことが可能です。これにより、高速な応答が求められる多様なアプリケーションでの活用が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-11T09:59:10.821616"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Fable 5 vs Opus 4.8】ベンチマークでは分からないので同じプロンプトでWebアプリ作らせ比較検証",
+    "link": "https://zenn.dev/yukurash/articles/16c378dbbb4c95",
+    "summary": "この記事では、Fable 5とOpus 4.8のモデル性能を比較検証しています。従来のベンチマークでは実力が測りきれないとの考えから、両者に同じプロンプトを与えてWebアプリを作成させるという独自の手法を採用しました。これは、より実践的なシナリオで両者の開発能力や出力品質を詳細に比較することを目的としています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-11T09:59:21.066365"
+  },
+  {
+    "source": "Qiita",
+    "title": "情シス向けAI APIコスト管理：GASで部門別予算枠を実装する",
+    "link": "https://qiita.com/drasenas/items/91d7961fa63a52c769d3",
+    "summary": "この記事は、Gemini、Claude、OpenAIといった複数のAI APIを部門横断で利用する企業で、月次のコスト超過に悩む情シス担当者向けです。各部門が個別にAPIを利用することでコスト管理が後手に回りがちな現状を解決するため、Google Workspace（GWS）環境でGAS（Google Apps Script）とスプレッドシートを組み合わせた部門別予算枠管理の設計パターンを解説しています。これにより、AI APIコストの「後手対応」を防ぎ、事前管理体制を構築することを目指します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-11T09:59:30.094517"
+  },
+  {
+    "source": "ITmedia",
     "title": "「AI単独の導入は“失敗のレシピ”だ」　ServiceNowの製品トップが語る、企業AIの盲点",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news010.html",
     "summary": "ServiceNowの製品トップは、企業がAIの挙動に抱く不安は「土台なしのAI単独導入」が生むリスクであり、「失敗のレシピ」だと指摘しています。同社はこれを打開策として、AIを適切に管理・統合する「AI制御塔戦略」に注力。この戦略の真意や企業買収の背景が、Knowledge 2026で語られました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-22T22:50:30.848986"
-  },
-  {
-    "source": "ITmedia",
-    "title": "シャドーITのリスクは「こう変わった」　“悪意なき情報漏えい”にどう立ち向かう？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/22/news024.html",
-    "summary": "従業員による職場での撮影、SNS投稿、生成AIへの情報入力といった何気ないデジタル行動が、業務情報と直結し、意図しない情報漏えいのリスクを増大させています。特に、生成AIに業務情報を入力することで「シャドーAI」という新たなリスクが台頭しています。\n\nこれにより、シャドーITの前提が大きく変化しており、IT部門は「悪意なき情報漏えい」に対する新たな対策が緊急に求められています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-22T08:45:06.674070"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "画像生成AI「FLUX」の開発元が不要物削除ツール「Erase」を発表、無料で使えるデモアプリもあり",
-    "link": "https://gigazine.net/news/20260522-flux-erase-black-forest-labs/",
-    "summary": "画像生成AI「FLUX」の開発元であるBlack Forest Labsが、画像内の不要物を削除できる新しいAIツール「Erase」を発表しました。このツールは、写真などから邪魔な要素を簡単に取り除くことを目的としています。FLUXで培われた技術を応用しており、無料で使えるデモアプリも提供されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-22T08:45:15.040436"
-  },
-  {
-    "source": "Zenn",
-    "title": "自分専用AIエージェントを作ってわかった、LLMとプログラムの責務分離",
-    "link": "https://zenn.dev/shingoirie/articles/5e063ccee38a5b",
-    "summary": "この記事は、自分専用AIエージェントを構築する上で、LLM（大規模言語モデル）と従来のプログラムそれぞれの最適な役割分担の重要性を説明しています。\n\nLLMは、人間の言葉の理解や大まかな計画、曖昧な指示の解釈といった創造的・言語的なタスクに強みを発揮します。一方、データの取得、複雑な計算、外部ツールとの連携など、正確で決定論的な処理はプログラムに任せるべきと提唱しており、この責務分離がエージェントの信頼性、効率性、コスト削減に繋がると結論付けています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-22T08:45:26.181124"
-  },
-  {
-    "source": "Qiita",
-    "title": "なんかQiitaトレンド最近同じアカウントばっかりだな・・・。",
-    "link": "https://qiita.com/gorie-site/items/5b8298b3c4c5ec962749",
-    "summary": "Qiitaトレンドで特定の組織アカウントが頻繁に上位に表示される現象について、筆者は「組織戦術 × 生成AI」のハックが背景にあると考察しています。\n\n特に、トレンド入りの鍵となる「投稿直後（数時間以内）」のLGTM数である「初速」を、組織は社内チャネルでの自動通知やメンバー間の相互LGTM文化で圧倒的に確保しています。\n\nこれにより、組織は個人の努力だけでは難しいトレンド入りを容易にし、記事が一般ユーザーの目に触れる機会を効率的に増やしていると分析されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-22T08:45:36.280985"
   }
 ]
