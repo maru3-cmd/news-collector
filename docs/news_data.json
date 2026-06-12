@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "NEC社長が説く“SIerの勝者の条件”　2026年度の国内IT需要の行方",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/12/news044.html",
+    "summary": "NECの森田隆之社長は、AI革命と新たな安全保障環境が到来する中でITサービスがどのように変化するかを分析しています。この記事では、変化の激しい時代においてSIerが勝ち残るための「勝者の条件」を説いています。2026年度の国内IT需要の行方を見据え、企業がこれらの新たな課題にどう向き合うべきかを探る内容となっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-12T09:51:32.495457"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "2026年6月12日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20260612-headline/",
+    "summary": "TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』のプロモーションビデオ第4弾が公開されました。本作は士郎正宗による漫画を原作とする新作で、2026年7月7日(火)より放送開始予定です。カンテレ・フジテレビ系全国ネットの「火アニバル!!」枠にて、毎週火曜23時から放送されます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-12T09:51:39.532339"
+  },
+  {
+    "source": "Zenn",
+    "title": "Snowflake Summit 2026 参加レポート",
+    "link": "https://zenn.dev/yuto16/articles/snowflake-summit-2026",
+    "summary": "「Snowflake Summit 2026 参加レポート」というタイトルが提示されています。このレポートは、データクラウド企業Snowflakeが開催する年次イベント「Snowflake Summit 2026」への参加体験をまとめたものです。しかし、提供された内容には具体的なイベントの詳細や、発表された重要なポイント、関連する数字は含まれていません。そのため、イベントの具体的な内容や成果については不明です。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-06-12T09:51:49.043909"
+  },
+  {
+    "source": "Qiita",
+    "title": "コードを書けないスクラムマスターが、AIで“成長の草”を生やすまで",
+    "link": "https://qiita.com/nakanyewest/items/82a94438529fd9d5830d",
+    "summary": "コードを書けないスクラムマスターがAIを活用した結果、チームは下書きやテスト設計、レビュー観点までAIに任せることで、ベロシティが右肩上がりに急上昇し、経営層からは高い評価を得ていました。しかし、スクラムマスター自身は、この表面的な「速さ」に違和感を覚えています。タスクが速く終わる一方で、組織サーベイの成長指標は芳しくなく、手触りのある成果がチームに残らないことに懸念を抱いており、速さが根本的な成長に繋がっていないと指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-12T09:51:58.914894"
+  },
+  {
+    "source": "ITmedia",
     "title": "Anthropic、Mythos級モデルにおいて30日間のデータ保持方針を導入　安全対策用途に限定し学習には不使用",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news046.html",
     "summary": "Anthropicは、高性能モデル「Claude Fable 5」と限定利用の「Claude Mythos 5」を発表しました。Mythos級モデルにおいては、30日間のデータ保持方針が新たに導入されます。このデータ保持は安全対策用途に厳しく限定されており、モデルの学習には一切使用されません。Fable 5は一般公開される一方、Mythos 5は研究や防御用途に特化して活用されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-23T22:42:44.161547"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Codeのスキルが毎日勝手に改善されていく仕組みを作った",
-    "link": "https://qiita.com/hiropon122/items/a8274aef2a4c882197d6",
-    "summary": "ソニックガーデンのプログラマは、自身の開発ワークフロー「`dev-workflow`」の自動改善に取り組んでいます。彼らは、開発が一段落するたびにワークフローの課題を手動で振り返り修正する作業が繰り返されることに非効率さを感じていました。そこで、Claude Codeの「Routines」機能の発表をきっかけに、この`dev-workflow`を自律的に改善していく仕組みの構築を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-23T22:42:52.022857"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ちゃんと時間管理をするだけで大学生の成績は向上するという研究結果",
-    "link": "https://gigazine.net/news/20260523-college-students-time-management/",
-    "summary": "中国・石河子大学の研究チームによるメタ分析で、大学生の時間管理能力が学習成果に肯定的かつ有意な影響を与えることが体系的に示されました。この研究は、時間管理能力が高い学生ほど、学習成績、学習態度、学習意欲、学習能力といった様々な側面で成果が向上することを発見しました。具体的には、時間管理と学習成果の間に統合効果量0.30という中程度の関連性が認められています。この結果は、大学が学生の時間管理スキル向上に向けたトレーニングを導入することの重要性を示唆しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-23T08:01:32.732655"
-  },
-  {
-    "source": "Zenn",
-    "title": "Geminiの新モデル検知から簡易評価までをダッシュボード化した",
-    "link": "https://zenn.dev/shizuka_bmi16/articles/3e4a95a569578d",
-    "summary": "「Geminiの新モデル検知から簡易評価までをダッシュボード化した」という記事は、GoogleのAIモデルであるGeminiの新しいモデルがリリースされた際、それを自動で検知し、さらに簡易的な評価を行うプロセスを一つのダッシュボードとして統合したことを報じています。\n\nこのダッシュボードの導入により、Geminiの新モデルの登場を迅速に把握し、初期段階での効率的な評価作業が可能になります。具体的な機能や成果に関する詳細な情報、および数値データは記事タイトルからは読み取れませんが、Geminiモデルの管理と運用の効率化を目的とした取り組みと言えます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-23T08:01:44.734294"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code の /workflows が changelog に登場した翌日に GitHub Actions の commit で沈黙の削除—公式の文書と実装の乖離の事例の検証",
-    "link": "https://qiita.com/yurukusa/items/b3936d68814783b03e16",
-    "summary": "2026年5月20日に公開されたClaude Code v2.1.147のCHANGELOG.mdには、「Workflow tool」という新機能の追加が記載されました。これは、マルチエージェントの連鎖をコードで制御する仕組みでした。しかし、その23時間後、5月21日23:54 UTCにGitHub Actionsのコミットによって、この記述は公式な説明なしに沈黙裏に削除されました。このため、ユーザーはv2.1.147で見た機能が実際には動作しないことを報告し、公式文書と実装の間に乖離が生じる事態となりました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-23T08:02:02.031075"
   }
 ]
