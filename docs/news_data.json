@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Steamの運営元Valveが1日で13トンのVRヘッドセットを輸入、間もなく発売のSteam Frameの初期出荷分か",
+    "link": "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
+    "summary": "Steamの運営元であるValveは、2026年夏に発売予定のスタンドアローン型VRヘッドセット「Steam Frame」の初期出荷分とみられる製品をアメリカ国内に輸入していることが報じられました。テクノロジーメディアのThe Vergeによると、その輸入量は1日でなんと13トンにも上ります。これは、発売に向けての準備が着々と進められていることを示唆しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-13T08:42:57.016808"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code の /goal で「完了まで自律実行」を実現する",
+    "link": "https://zenn.dev/tatsuqumo/articles/d10494cb4a440e",
+    "summary": "「Claude Code」は、新機能として「/goal」を導入しました。この機能の主な目的は、ユーザーが設定したタスクや目標を、人間の介入なしに「完了まで自律実行」することです。これにより、開発プロセスにおける自動化を推進し、作業効率を大幅に向上させることが期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-13T08:43:05.444074"
+  },
+  {
+    "source": "Qiita",
+    "title": "セルフホストLLMとオンラインLLM APIの価格差とスピード",
+    "link": "https://qiita.com/leolui2004/items/7d39212b54ec12f4e63c",
+    "summary": "本記事は、LLMの利用方法としてセルフホスト（オンプレミス/クラウドVM）とオンラインLLM APIを挙げ、特にクラウドVMとオンラインAPI間での生成スピードと価格差に焦点を当てています。比較対象として、オンラインLLM APIからGemini 3 Flash Preview（思考あり）とClaude 4.5 Sonnet（思考あり）、オープンソースモデルからGemma 4 31B（思考あり）とQwen3.6 27B（思考あり）が選定されています。これらのモデルは「賢さにそれほど大きな差がない」とされています。しかし、記事は比較対象の提示で終わっており、具体的な価格差やスピードに関する分析結果はまだ共有されていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-13T08:43:15.552174"
+  },
+  {
     "source": "ITmedia",
     "title": "中小企業の40％はルール未整備　調査で判明したAIセキュリティの死角",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/12/news038.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-24T22:47:02.826479"
-  },
-  {
-    "source": "Zenn",
-    "title": "サブエージェントを組んだのに出力が安定しない理由",
-    "link": "https://zenn.dev/en3/articles/multi-agent-information-infrastructure",
-    "summary": "ご提示いただいたのは記事のタイトル「サブエージェントを組んだのに出力が安定しない理由」のみで、**記事の本文が提供されておりません。**\n\nそのため、記事の内容を要約することができません。恐れ入りますが、記事の本文を改めてご提示いただけますでしょうか。本文があれば、要点をまとめてご説明いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-24T22:47:09.123724"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代のシステム開発では、情報をどう構造化し管理すべきか",
-    "link": "https://qiita.com/aki_number16/items/572d7dfb3417a5e4611d",
-    "summary": "AIがシステム開発プロジェクトのアクターに加わったことで、情報設計の重要性が高まっています。AIが適切に機能するには、何を読ませ、何を遮断するかを設計する必要があり、これはツールの選択以上に、情報の「責務」をどう設計するかの問題です。従来のExcel中心のドキュメント管理では、コードと設計書の乖離やドキュメントの意図喪失といった問題が顕在化していました。AI駆動開発においては、これらの限界を克服し、情報を効率的に構造化・管理する新しい情報設計の考え方が不可欠です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-24T22:47:17.364481"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "今村聖奈騎手がJRA女性騎手として初のGⅠ制覇、オークスにジュウリョクピエロで勝利",
-    "link": "https://gigazine.net/news/20260524-seina-imamura-wins-oaks/",
-    "summary": "2026年5月24日(日)に開催された第87回優駿牝馬(オークス)で、今村聖奈騎手が5番人気のジュウリョクピエロに騎乗し、見事優勝しました。この勝利は、今村騎手にとって初のGⅠ制覇となります。これにより、彼女はJRA所属の女性騎手として史上初めてGⅠレースを制覇するという歴史的な快挙を成し遂げました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-24T08:13:06.744807"
   }
 ]
