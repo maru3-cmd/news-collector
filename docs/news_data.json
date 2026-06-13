@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
+    "link": "https://gigazine.net/news/20260613-kdp-pre-orders/",
+    "summary": "GIGAZINEがAmazonのKDPでマンガなどをリリースする際に利用する「予約注文」機能でトラブルが発生しました。この問題により、彼らは「1年間予約注文用の設定が不可」という禁止状態に陥ってしまいます。記事では、Amazonに問い合わせを行い、その禁止状態が解除されるまでの詳細な経緯がまとめられています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-13T22:53:58.437605"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI Agentは実装前に1コマンド打て",
+    "link": "https://zenn.dev/tadkud/articles/ai-agent-environment-verification-rule",
+    "summary": "この記事は、AIエージェントの開発において、本格的な実装に着手する前に「1コマンド」打ってテストすることの重要性を強調しています。これは、開発者が考案したエージェントのアイデアや動作原理が実際に機能するかを、最小限の労力で事前に検証することを意味します。この簡単な事前確認により、大規模な実装後の手戻りを効果的に防ぎ、開発プロセス全体の効率を大幅に向上させることが可能となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-13T22:54:07.657442"
+  },
+  {
+    "source": "Qiita",
+    "title": "llcore 検証 arc (#41) — verified-plasticity = ラングトンの蟻の幻を見抜く眼: 「賢くなった/安定した」をどう検証するか、3 回分の honest disclosure を 1 本に束ねる capstone",
+    "link": "https://qiita.com/furuse-kazufumi/items/29b100b00f0d58306886",
+    "summary": "この記事（#41）は、「llcore 検証 arc」シリーズ（#38〜#40）の最終章として、「賢くなった/安定した」とされるAIが本物か幻かを検証するものです。\n「ラングトンの蟻の幻を見抜く眼」という比喩を用いて、単純な決定論的ルールが見せかけの秩序を生み出すという点を、これまでの3回分の「honest disclosure」を束ねて総括しています。\n「使うほど賢くなるAI」や「世界モデルによる安全」といった見出しは魅力的ですが、経験は外見に騙されやすいため、健全な証明（sound certificate）によってのみ、真の安定性や進歩を偽証可能な形で確認できると主張しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-13T22:54:20.679019"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Steamの運営元Valveが1日で13トンのVRヘッドセットを輸入、間もなく発売のSteam Frameの初期出荷分か",
     "link": "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
     "summary": "Steamの運営元であるValveは、2026年夏に発売予定のスタンドアローン型VRヘッドセット「Steam Frame」の初期出荷分とみられる製品をアメリカ国内に輸入していることが報じられました。テクノロジーメディアのThe Vergeによると、その輸入量は1日でなんと13トンにも上ります。これは、発売に向けての準備が着々と進められていることを示唆しています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-25T09:43:15.033156"
-  },
-  {
-    "source": "Qiita",
-    "title": "CodexでPRを並列に作る前に、親Issueを制御面にしている話",
-    "link": "https://qiita.com/Kota_Su/items/d1d8aacf935975b711a8",
-    "summary": "この記事は、個人開発におけるCodexとGitHub Issueを活用した開発運用メモです。筆者は、AIにIssueを渡してCodexで多数の小さなPRを並行作成する際、Issue間の順序や依存関係が崩れ、どれを優先すべきか不明瞭になるという課題に直面しました。この問題を解決するため、親Issueを「制御面」として活用し、複数のIssueが絡み合う状況での作業の優先順位付けを明確にする運用を試みています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-25T09:43:24.663315"
-  },
-  {
-    "source": "ITmedia",
-    "title": "HPE、過酷環境でのAI推論を支える次世代エッジサーバ製品群を発表",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/21/news038.html",
-    "summary": "日本ヒューレット・パッカードは、AI推論やミッションクリティカル用途に特化した次世代エッジサーバ製品群を発表し、過酷な環境下での運用能力を強化しました。具体的には、新型シャーシ「EL2000」と複数の新型サーバを新たに投入しています。さらに、既存の「DL145 Gen11」も性能強化され、厳しいエッジ環境におけるAI推論を支えるソリューションを拡充しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-24T22:46:55.131847"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "データセンターの排熱で風下の住宅地が暑くなる実例を確認",
-    "link": "https://gigazine.net/news/20260525-data-center-waste-heat-downwind/",
-    "summary": "データセンターはAIなどを支える重要なインフラですが、稼働に伴う排熱が周辺地域に与える影響が注目されています。アリゾナ州立大学の研究チームは、フェニックス都市圏にある4つのデータセンター周辺で調査を実施しました。車載センサーを用いた測定の結果、風下側の住宅地で風上側より気温が高くなる実例が確認され、排熱が周辺気温を上昇させる可能性が示されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-24T22:47:02.826479"
   }
 ]
