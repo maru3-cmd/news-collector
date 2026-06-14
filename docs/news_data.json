@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "50％が無許可で公開AIに業務内容を入力するも、“勝手にAIを使う同僚”を許さない日本",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/15/news032.html",
+    "summary": "PagerDutyのシャドーAI利用調査により、職場でのAI利用が社内規定の整備を上回っている現状が明らかになりました。従業員の半数（50%）が無許可で公開AIに業務内容や機密情報を入力しており、情報漏洩のリスクが高まっています。これは、多くの従業員が私生活でAIを使い始めていることや、社内規定運用の不公平感が隠れた利用を招いているためです。日本の企業は、AI活用の推進と情報セキュリティ対策のバランスを取る課題に直面しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-14T22:59:02.029306"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "検索エンジンに「AIによる概要」が表示される状況で自社のウェブサイトを見てもらいやすくする方法とは？",
+    "link": "https://gigazine.net/news/20260615-make-your-website-discoverable-by-ai/",
+    "summary": "検索エンジンにAIが導入され、「AIによる概要」やAIチャットでの情報検索が一般的になる中、自社のウェブサイトをAIの回答に表示されやすくする方法が課題となっています。ホスティングブログサービスのWordPress.comを提供するAutomatticが、この状況でウェブサイトの視認性を高めるための**4つの重要なポイント**をまとめています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-14T22:59:10.564738"
+  },
+  {
+    "source": "Zenn",
+    "title": "既存リポジトリ調査で使う──実装前に読ませる、再現させる、止める",
+    "link": "https://zenn.dev/aiwatch_jp/articles/agent-flow-repo-investigation",
+    "summary": "既存リポジトリの調査は、新たな実装に取り掛かる前に行うべき重要な工程です。この調査では、まずリポジトリの内容を深く理解し（読ませる）、次にその動作環境を構築して挙動を再現させることが求められます。これらのステップを通じて、潜在的な問題を早期に発見し、不必要な実装や誤ったアプローチを未然に防ぐことを目指します。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-14T22:59:19.386424"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年6月15日",
+    "link": "https://qiita.com/ishisaka/items/9ccdb004e95bf4bfda4d",
+    "summary": "2026年6月15日のプログラミング雑記では、主に.NET関連の最新技術ニュースが厳選して紹介されています。\n\nJetBrains発行の「dotInsights 2026年6月号」では、C#のUnion型解説、EF Core 11のパフォーマンス改善、.NET 10・11の新機能に関する記事がコミュニティリンクとして取り上げられました。\n\nまた、JetBrainsのニュースとして、Rider 2026.2 EAPにおいてAIエージェント向けの品質チェック機能が導入されたことが報じられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-14T22:59:27.046865"
+  },
+  {
     "source": "GIGAZINE",
     "title": "最大6690万画素の「α7R VI」で猫を撮影しまくりレビュー、猫の瞳にズバッとピントが合いホワイトバランスも勝手にいい感じにしてくれてベストショットを量産可能",
     "link": "https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-26T09:30:22.736186"
-  },
-  {
-    "source": "Qiita",
-    "title": "【イベント・スタッフレポート】第一回 LinuC Open Network 総会 #LiON",
-    "link": "https://qiita.com/nomurasan/items/98e3db169b8a854dabc6",
-    "summary": "LinuC Open Network（LiON）は、オンラインでの第一回総会を開催しました。これは平日の業後に行われたイベントで、「総会」というタイトルにもかかわらず、後半のプロジェクトミーティングは実質的に勉強会形式だったと運営メンバーは報告しています。このイベントでは多数の新規プロジェクトが立ち上がり、メンバーアンケートからは「これからエンジニアになりたい人」である非エンジニアが多数を占めることが判明しました。運営メンバーは、コミュニティ内部の話でありながら外部にも開かれていれば良かったと振り返り、運営スタッフへの参加も促しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-26T09:30:41.723633"
-  },
-  {
-    "source": "ITmedia",
-    "title": "脆弱性の“発見”から“修正”がボトルネックに　「Mythos Preview」で見えた成果と課題感",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/26/news028.html",
-    "summary": "Anthropicは、AIモデル「Mythos Preview」を活用し、重要ソフトウェアから多数の脆弱性を発見したと発表しました。この成果は評価される一方、オープンソースを含む広範な調査によって、脆弱性の「発見」から「修正」までの作業負荷が大幅に増大し、ボトルネックとなっている現状が浮き彫りになりました。Anthropicは、この課題を解決するため、防御側の企業やコミュニティがより迅速な対応体制を強化する必要があると訴えています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-25T22:51:36.705996"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「現存する世界最古の活版印刷機」がベルギーの博物館に展示されている",
-    "link": "https://gigazine.net/news/20260526-worlds-two-oldest-printing-presses/",
-    "summary": "ベルギー第2の都市アントウェルペンにあるプランタン＝モレトゥスの家屋・工房・博物館複合体では、現存する世界最古の活版印刷機が2台展示されています。活版印刷は、凸型の活字を並べた組版を使用する技術であり、情報伝達の速度を飛躍的に向上させる上で重要な役割を果たしました。これらの印刷機は、この画期的な技術の歴史的価値を示しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-25T22:51:47.005786"
-  },
-  {
-    "source": "Zenn",
-    "title": "Anthropic、初の黒字四半期を達成へ――AI企業の収益化フェーズが本格化",
-    "link": "https://zenn.dev/quotidia/articles/quotidia-aq-014",
-    "summary": "記事タイトルから判断すると、AI企業であるAnthropicが初めて四半期で黒字を達成する見込みであることが報じられました。これは同社にとって重要な節目であり、AI業界全体が大規模な投資フェーズから、実際に収益を生み出す「収益化フェーズ」へと本格的に移行しつつあることを示唆しています。この動きは、AI技術の商業的実現可能性が高まっていることを浮き彫りにしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-25T22:51:55.464489"
   }
 ]
