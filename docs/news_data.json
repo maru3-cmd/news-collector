@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "最大6690万画素の「α7R VI」で猫を撮影しまくりレビュー、猫の瞳にズバッとピントが合いホワイトバランスも勝手にいい感じにしてくれてベストショットを量産可能",
+    "link": "https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/",
+    "summary": "2026年6月5日に登場したソニーのフルサイズミラーレス一眼「α7R VI」は、最大6690万画素センサーを搭載し、動物の瞳追跡AF、秒間30枚のブラックアウトフリー連写が可能です。\nこのカメラは、秒間60回のAF/AE演算、機械学習による高精度オートホワイトバランス、中央8.5段の手ブレ補正など、高度な機能を備えています。\n猫カフェでのレビューでは、猫の瞳に正確にピントが合い、自動で最適なホワイトバランスが設定されることで、高品位なベストショットを容易に量産できることが実証されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-14T08:58:38.730603"
+  },
+  {
+    "source": "Zenn",
+    "title": "Spec Kitで仕様駆動開発を始めよう",
+    "link": "https://zenn.dev/haru_iida/articles/github-spec-kit-guide",
+    "summary": "「Spec Kitで仕様駆動開発を始めよう」というタイトルから、この記事はSpec Kitというツールやフレームワークを用いて、ソフトウェア開発における仕様駆動開発（Specification-Driven Development: SDD）の導入方法や実践のヒントについて解説していると推測されます。\n\nしかし、記事の具体的な内容や本文が提供されていないため、その重要なポイント、詳細な手順、具体的な数字などを含んだ3-4文での要約を作成することはできません。\n\nもし記事の全文をご提供いただければ、ご要望に応じて正確な要約をいたします。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-14T08:58:47.314497"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIエージェントに日本の法人番号を引かせる 6 つの選択肢を比較する — 国税庁 Web-API・ChatGPT プラグイン・Custom GPT・商用 SaaS・OSS・AI ネイティブ wrapper",
+    "link": "https://qiita.com/yosikawa-techwell/items/69240d8c0ff13aee6048",
+    "summary": "この記事は、AIエージェントが日本の法人番号（13桁の識別子）を取得する際の最適な方法を、客観的に比較・検討しています。具体的には、国税庁Web-APIの直接利用、ChatGPTプラグイン・Custom GPT、商用SaaS、OSS、AIネイティブwrapperの計6つの選択肢を対象としています。前回の記事で指摘された「国税庁Web-API直叩きでの落とし穴」を踏まえ、AIエージェントの観点からそれぞれの選択肢のメリット・デメリットを評価しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-14T08:58:56.409805"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
     "link": "https://gigazine.net/news/20260613-kdp-pre-orders/",
     "summary": "GIGAZINEがAmazonのKDPでマンガなどをリリースする際に利用する「予約注文」機能でトラブルが発生しました。この問題により、彼らは「1年間予約注文用の設定が不可」という禁止状態に陥ってしまいます。記事では、Amazonに問い合わせを行い、その禁止状態が解除されるまでの詳細な経緯がまとめられています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-05-25T22:51:55.464489"
-  },
-  {
-    "source": "ITmedia",
-    "title": "数千規模のAIエージェントをどう統制する？　IBMが製品群を発表",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
-    "summary": "AIエージェントが数千規模に拡大するにつれ、その効果的な統制が企業にとって喫緊の課題となっています。この課題に対応するため、IBMはAIオペレーティングモデルと関連製品群を発表しました。これらは、複数のAIエージェントの連携、信頼性、ガバナンスを確保し、企業が複雑なAIシステムを安全かつ効率的に管理できるよう支援することを目的としています。IBMの提供するソリューションは、AI運用の複雑性を軽減し、企業がAI技術を最大限に活用できる環境を構築します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-25T09:42:56.611735"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "人間には普通の契約書に見えるのに「嘘のフォント」でAIだけ別の文章を読まされる「Noroboto」攻撃とは？",
-    "link": "https://gigazine.net/news/20260525-noroboto/",
-    "summary": "AIは文書の要約やリスクチェックに活用されていますが、これは人間とAIが同じ内容を読み取っているという前提に基づいています。企業法務の弁護士でありソフトウェア開発者でもあるドリュー・ミラー氏が、この前提を覆す「Noroboto」という攻撃手法を提唱しました。Norobotoは、人間には通常の文章として見える一方で、AIには全く異なる内容を読み取らせることで、AIによる文書レビューの信頼性を損なう可能性があります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-25T09:43:05.351766"
-  },
-  {
-    "source": "Zenn",
-    "title": "claude チャットの学習モードがいいぞという話",
-    "link": "https://zenn.dev/teeyo/articles/ef49620409c73b",
-    "summary": "この「claude チャットの学習モードがいいぞという話」というタイトルは、Claudeチャットの特定の機能に焦点を当てています。記事は、Claudeチャットに搭載されている「学習モード」の有用性や優れた点を強く推奨していると考えられます。筆者は、この学習モードがユーザーにとって非常に良い体験や高い価値を提供すると評価しているようです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-25T09:43:15.033156"
   }
 ]
