@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoftが6月の月例パッチを公開　BitLockerやExchangeにゼロデイ脆弱性",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news020.html",
+    "summary": "Microsoftは2026年6月の月例セキュリティ更新プログラムを公開しました。このパッチはWindows、Office、Azureなど広範な製品が対象で、BitLockerやExchangeに影響する悪用確認済みのゼロデイ脆弱性などが修正されています。同社は、これらの深刻な脆弱性からシステムを保護するため、ユーザーに早急な適用を強く推奨しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-06-15T23:28:26.421101"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "時計を使わずに時間を測定するための「ミニ宇宙」を創造する実験に成功",
+    "link": "https://gigazine.net/news/20260616-mini-universe-measure-time/",
+    "summary": "イギリスのバーミンガム大学の研究チームは、冷却原子を使って時計に頼らずに時間の流れを測る実験に成功しました。この「ミニ宇宙」を創造する試みは、時間が外部から与えられるものではなく、閉じた量子系の内部変化から生まれる可能性を調べるものです。彼らの研究は、時間の本質に関する従来の理解に挑戦し、新たな視点を提供する可能性があります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-15T23:28:33.242190"
+  },
+  {
+    "source": "Zenn",
+    "title": "Antigravity 2.0の内部構造を理解する——プロンプト処理・ツール・コンテキスト・ルールファイルまで",
+    "link": "https://zenn.dev/sosa/articles/antigravity-how-works",
+    "summary": "この解説記事は、Antigravity 2.0の複雑な内部構造を理解することを目的としています。具体的には、プロンプト処理、利用されるツール、システムが維持するコンテキスト、そしてルールファイルといった主要な構成要素に焦点を当てて詳述しています。読者は、これらの要素がAntigravity 2.0の機能と振る舞いをどのように形成し、連携しているかについて深く掘り下げて学ぶことができます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-15T23:28:41.090279"
+  },
+  {
+    "source": "Qiita",
+    "title": "Reductoとは:テンプレOCRが表で壊れる問題をAgentic OCRはどう読み直すか",
+    "link": "https://qiita.com/Yushi88/items/54edd957973788a95180",
+    "summary": "従来のAIによる文書読み取りでは、テンプレート型OCRが固定レイアウトに依存するため、請求書などのPDFで表の数字が崩れる問題が頻繁に発生していました。\n\nこの課題に対し、米国の文書AI基盤「Reducto」は、VLM（視覚言語モデル）を用いて文書を複数回読み直す「Agentic OCR」を提案しています。Agentic OCRは、従来のOCRがレイアウトのずれで表を壊す問題に対し、固定レイアウトに縛られずに柔軟な認識を目指します。これにより、正確なデータ抽出を実現し、文書AIの信頼性を向上させることを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-15T23:28:50.001122"
+  },
+  {
+    "source": "ITmedia",
     "title": "Box CEOが語る「AIによるコンテンツ管理プラットフォームの進化」　同社の優位性を考察",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/15/news092.html",
     "summary": "コンテンツ管理プラットフォームを提供するBoxのCEOは、AIによる同社プラットフォームの進化について語りました。この進化は、サービス改善だけでなく、今後のコンテンツ管理の未来を形作るものとされています。特に、Boxの動きは、新興のエージェンティックAI市場の形成において画期的な一歩となる可能性を秘めています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-27T08:56:14.624930"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code でAIチームを組んだのに「うまく回せない」——運用・品質管理・事故対応の実録 Vol.2",
-    "link": "https://zenn.dev/tottoko_hamu/articles/2026-05-25-155645",
-    "summary": "大変申し訳ありませんが、記事のタイトルのみが提供されており、本文がございません。そのため、内容を正確に要約することはできません。\n\n記事本文をご提供いただければ、その内容に基づいて3-4文で簡潔に要約し、重要なポイントや数字を含めることが可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-27T08:56:22.924229"
-  },
-  {
-    "source": "Qiita",
-    "title": "止まれる自動売買を前提にした AI FX Bot の停止設計",
-    "link": "https://qiita.com/kuwaharayuki12/items/b96fd0560f83ecfe9620",
-    "summary": "この記事は、AI FX Botの実運用において、「どう勝つか」よりも「いつ止まるか」という停止設計が最も重要であると強調しています。最大の危険は、異常相場などで止まるべき局面で停止できないことと捉えられています。\n\nそのため、初期運用では日次損失の拡大防止、想定外ドローダウンの早期検知、スプレッド悪化時の無理な執行回避などを優先。日次損失、最大ドローダウン、異常相場、スプレッド悪化、介入リスクといった複数の観点から自律的な停止判断が組み込まれています。この設計により、Botは単なる売買ロジックの集合ではなく、停止判断を含む総合的な運用システムとして機能することを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-27T08:56:37.638487"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAI、AI生成物の「来歴情報」確認体制を強化　C2PA準拠拡大へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news042.html",
-    "summary": "OpenAIは、AI生成物の信頼性確保と識別精度向上のため、出所確認体制を強化する新施策を発表しました。具体的には、画像や音声に生成元を示すメタデータを付与するオープン標準規格「C2PA」への準拠を拡大し、OpenAIが生成したことを示すデジタル証明を付与する方針です。また、画像に透かしを埋め込む「SynthID」の活用を進めるとともに、AI生成物かを識別する検証機能の試験公開も行う予定です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-26T23:01:12.138860"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "経営幹部の99％が今後2年以内に「AI関連の人員削減」が起こると考えている",
-    "link": "https://gigazine.net/news/20260527-vast-majority-executives-expect-ai-layoffs/",
-    "summary": "世界的な組織・人事マネジメント・コンサルティング会社Mercerの最新レポート「Global Talent Trends 2026」が発表されました。この調査によると、経営幹部の実に99%が、今後2年以内にAI技術の導入に関連する人員削減を含む、ある程度のリストラが行われると予想しています。これは、AIが近い将来、労働市場と企業の人員戦略に大きな影響を与えるという経営層の強い認識を浮き彫りにしています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-05-26T23:01:19.121588"
   }
 ]
