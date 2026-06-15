@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Box CEOが語る「AIによるコンテンツ管理プラットフォームの進化」　同社の優位性を考察",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/15/news092.html",
+    "summary": "コンテンツ管理プラットフォームを提供するBoxのCEOは、AIによる同社プラットフォームの進化について語りました。この進化は、サービス改善だけでなく、今後のコンテンツ管理の未来を形作るものとされています。特に、Boxの動きは、新興のエージェンティックAI市場の形成において画期的な一歩となる可能性を秘めています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-15T11:38:42.322716"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "イスラエル企業「BlackCore」がニューヨーク市議会選挙やスコットランドの選挙に介入した疑い",
+    "link": "https://gigazine.net/news/20260615-israeli-blackcore-meddling-votes/",
+    "summary": "フランスのデジタル干渉監視機関「VIGINUM」は2026年6月11日、イスラエル企業「BlackCore」が複数の選挙に介入した疑いがあると発表しました。同社はニューヨーク市議会選挙やスコットランドの選挙のほか、アフリカのアンゴラやトーゴでも活動していたとされています。VIGINUMは、BlackCoreがフランス地方選挙への干渉も疑っているとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-15T11:38:50.052220"
+  },
+  {
+    "source": "Zenn",
+    "title": "「機能を作るな」は、AI時代には「Issueを積むな」なのかもしれない",
+    "link": "https://zenn.dev/noragrammer/articles/dont-build-features-and-japanese-saas",
+    "summary": "この記事は、従来のソフトウェア開発で重視されてきた「機能を作るな」という格言について考察しています。筆者は、AIが社会に深く浸透する現代において、この原則の意味合いが変化する可能性を提起。そして、AI時代における新たな行動規範として、「Issueを積むな」（問題を積み重ねるな、タスクを溜めるな）という考え方が重要になるかもしれないと示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-15T11:38:58.177110"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIツールのディレクトリサイトを作って分かった「AIでAIをキュレーションする」パイプライン設計",
+    "link": "https://qiita.com/kevin9898/items/4ae201d8ce1264f18fc4",
+    "summary": "AIツールの無料ディレクトリサイト「SoFarBot」の運営者は、サイトを支える半自動パイプライン設計について解説しています。このパイプラインでは、候補収集からAIによる下書き生成、カテゴリ分類といった機械的な作業の約8割をAIが処理します。しかし、「このツールを掲載するかどうか」という最終的な判断と人手レビューは、依然として人間が行っています。これは、「量が多く許容誤差の大きい作業はAIに、量が少なく許容誤差の小さい作業は人に」という原則に基づいています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-15T11:39:07.752352"
+  },
+  {
+    "source": "ITmedia",
     "title": "50％が無許可で公開AIに業務内容を入力するも、“勝手にAIを使う同僚”を許さない日本",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/15/news032.html",
     "summary": "PagerDutyのシャドーAI利用調査により、職場でのAI利用が社内規定の整備を上回っている現状が明らかになりました。従業員の半数（50%）が無許可で公開AIに業務内容や機密情報を入力しており、情報漏洩のリスクが高まっています。これは、多くの従業員が私生活でAIを使い始めていることや、社内規定運用の不公平感が隠れた利用を招いているためです。日本の企業は、AI活用の推進と情報セキュリティ対策のバランスを取る課題に直面しています。",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "news",
     "collected_at": "2026-05-26T23:01:19.121588"
-  },
-  {
-    "source": "Zenn",
-    "title": "【学習用】AIエージェントのテーマ51-100",
-    "link": "https://zenn.dev/somewhere_panda/articles/9453c32b0e8f9a",
-    "summary": "提供されたタイトルは「【学習用】AIエージェントのテーマ51-100」のみで、記事本文がありません。そのため、内容を要約することはできません。記事の内容を要約するためには、本文をご提供いただく必要があります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-26T23:01:25.160956"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claudeエージェントの封じ込め設計：Blast Radius制御の実践知見",
-    "link": "https://qiita.com/picnic/items/1ee63c54817a6704a58e",
-    "summary": "Anthropicは2026年5月26日に公開されたエンジニアリングブログ記事で、AIエージェントの「封じ込め（containment）」設計と「影響範囲（blast radius）」制御に関する実践知見を共有しました。これは、エージェントの高度化に伴う誤動作や予期せぬ挙動による影響の拡大を防ぐためのものです。同社は、claude.ai、Claude Code、Coworkという3製品を横断した構築経験から得たこのノウハウを、自社でエージェントを開発・運用するエンジニアにとって重要な参考情報としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-26T23:01:34.062152"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "具材はかつお節オンリーで「だし」コスト3倍な「日清のどん兵衛 鰹だしの極みうどん／そば」を食べてみた",
-    "link": "https://gigazine.net/news/20260526-nissin-donbei-kiwami-udon-soba/",
-    "summary": "日清食品は、どん兵衛発売50周年を記念し、だしのおいしさを追求した新商品「日清のどん兵衛 鰹だしの極みうどん／そば」を2026年5月25日に発売しました。\n\nこの商品は、通常のどん兵衛のだしに比べて3倍以上のコストをかけ、鰹だしの香りと旨みを最大限に引き出しているのが特徴です。記事では、そのこだわりのだしが実際にどのような味なのかを確かめるため、購入して試食しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-26T09:30:14.875805"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントのツール定義設計原則：スキーマ・命名・レスポンスの実践ガイド",
-    "link": "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
-    "summary": "恐れ入りますが、ご提示いただいたのは記事のタイトルのみで、**記事本文の内容が提供されておりません。**\n\nそのため、内容を読み取って要約を作成することができません。お手数ですが、記事の全文をご提供いただけますでしょうか。そうすれば、要点をまとめて3〜4文で要約いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-26T09:30:22.736186"
   }
 ]
