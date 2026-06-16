@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Claude「Fable 5」が3日で停止　Anthropicが主張する“米国政府の誤解”の正体",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html",
+    "summary": "Anthropicは、AIモデルClaudeの「Fable 5」のサービス提供をリリースからわずか3日で停止しました。これは米国政府からの指令に従ったものです。\n\n同社はこの指令について「政府の誤解に基づくもの」であると主張していますが、その具体的な内容については不明です。この記事は、その「誤解」の正体が何であるかを問いかけています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-16T10:48:15.620488"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "OSSのcurlが異例の「夏休み」を宣言、7月中は脆弱性報告を受け付けず開発者の負担軽減へ",
+    "link": "https://gigazine.net/news/20260616-curl-summer-of-bliss/",
+    "summary": "OSSのデータ転送ツール「curl」の開発チームは、開発者の負担軽減のため、脆弱性報告の受付と対応を一時的に停止すると発表しました。これは相次ぐ報告への対応で負担が高まっていることが理由です。脆弱性報告の受付は2026年7月1日から停止され、同年8月3日に再開される予定です。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-06-16T10:48:27.129176"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code の許可プロンプトを安全網を外さず減らす — 在席と無人で最適解は違う",
+    "link": "https://zenn.dev/kojisumiyoshi/articles/claude-code-permission-prompts-guide",
+    "summary": "この記事は、Claude Code利用時の許可プロンプトの数を、安全性を損なうことなく削減する方法を解説しています。重要な点として、最適なアプローチは人間が介入する「在席」環境と自動で実行される「無人」環境とで異なると指摘されています。安全網を維持しつつ、それぞれの運用状況に合わせた戦略を採用することで、効率的なコード生成AIの利用を目指します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-16T10:48:36.366563"
+  },
+  {
+    "source": "Qiita",
+    "title": "【#4】「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」",
+    "link": "https://qiita.com/yoshiyakato/items/899360ffd48f96c97f31",
+    "summary": "「定額の裏側」連載の第4回である本記事は、AIサブスクとAPIの価格差からフロンティアモデルの経済構造を考察しています。過去の回で価格差の土台や補助金の理由を解説した上で、今回は「APIがなぜ高値で売れ続けるのか」という問いに焦点を当てています。\n\n筆者は、APIが高値で「売れ続ける」ことはないと断言。提供元であるラボ自身がその状況が続かないことを知っているため、今のうちに最大限の利益を回収しようとしていると結論付けています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-16T10:48:44.502262"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoftが6月の月例パッチを公開　BitLockerやExchangeにゼロデイ脆弱性",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news020.html",
     "summary": "Microsoftは2026年6月の月例セキュリティ更新プログラムを公開しました。このパッチはWindows、Office、Azureなど広範な製品が対象で、BitLockerやExchangeに影響する悪用確認済みのゼロデイ脆弱性などが修正されています。同社は、これらの深刻な脆弱性からシステムを保護するため、ユーザーに早急な適用を強く推奨しています。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-05-27T23:09:48.721808"
-  },
-  {
-    "source": "Zenn",
-    "title": "Scoped Meta-Harness: 企業AIエージェントにおける自己改善ループの設計理論",
-    "link": "https://zenn.dev/shark_same_same/articles/e3d4be2d807423",
-    "summary": "提供された内容は記事のタイトル「Scoped Meta-Harness: 企業AIエージェントにおける自己改善ループの設計理論」のみで、記事本文がありません。そのため、記事の内容を要約することはできません。\n\nもし記事本文をご提供いただければ、その内容に基づいて3～4文で簡潔に要約し、重要なポイントや数字を含めることが可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-27T23:09:54.777710"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年5月28日",
-    "link": "https://qiita.com/ishisaka/items/e2a47c788eb3ec79955e",
-    "summary": "「プログラミング雑記 2026年5月28日」では、C#のメモリ安全性を大幅に向上させるための重要な変更が紹介されています。具体的には、既存の`unsafe`キーワードの仕組みが再設計されるとのことです。\n\n新モデルでは、`unsafe`はポインタ操作だけでなく、コンパイラが安全性を検証できない全ての操作を示す契約となります。これにより、`unsafe`メンバーを呼び出す側は常に内側の`unsafe`ブロックで操作を囲む必要があり、シグネチャ上の`unsafe`はその義務を伝播させる役割を担います。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-05-27T23:10:02.831495"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIが生んだ新たな業務、9割が「負担」　AIOpsの“不都合な実態”",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news031.html",
-    "summary": "ある調査によると、AIOpsを導入した情報システム担当者の約75%が業務負荷の軽減を実感しています。しかしその一方で、約9割がAIの活用によって新たに発生する作業を「負担」だと感じていることが明らかになりました。これは、AIが新たな効率化を生む一方で、予期せぬ業務負担も生み出すという「不都合な実態」を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-27T08:56:07.656490"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Wikipediaを運営するウィキメディア財団が元CTOを解雇＆コミュニティ技術チームを解散、労働組合つぶしとの批判も",
-    "link": "https://gigazine.net/news/20260527-wikipedia-anti-labor-fired-union-organizers/",
-    "summary": "Wikipediaを運営するウィキメディア財団が、2026年5月に元CTOを解雇し、そのわずか1週間後にはコミュニティ技術チームも解散させました。この一連の出来事に対し、デジタル活動家であるジェイク・オーロヴィツ氏は、巨大IT企業が行うような「労働組合つぶしだ」と厳しく批判しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-27T08:56:14.624930"
   }
 ]
