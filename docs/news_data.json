@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AI活用は実験から実績へ　Microsoftが示した経営層の論点",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news039.html",
+    "summary": "Microsoftは「Build 2026」で、企業がAI活用を実験段階から本番運用へ移行させるための経営課題を提示しました。その要点として、自社データの深い理解、強固なAI基盤の整備、そして具体的な成果の創出を挙げています。これらを推進するため、「Microsoft IQ」や「Microsoft Agent Platform」といった新たなプラットフォーム、さらにGPU基盤の活用を各経営層に訴えました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-16T23:17:25.866024"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「億万長者になる方法」をベンチャーキャピタル創業者のポール・グレアムが語る",
+    "link": "https://gigazine.net/news/20260617-how-to-earn-billion-dollars/",
+    "summary": "ベンチャーキャピタルYコンビネータの創業者であるポール・グレアム氏が、オックスフォード大学で語った「10億ドル(約1600億円)を稼いで億万長者になる方法」について、その講演内容を自身のブログで公開しました。グレアム氏は、創業間もないDropboxやAirbnbなどの有望なスタートアップに投資し、成功に導いてきた実績を持つ人物です。彼の実践的な経験に基づいた億万長者への道筋が、このブログ記事で詳述されているとのことです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-16T23:17:38.634511"
+  },
+  {
+    "source": "Zenn",
+    "title": "「AIに励まされると、しんどい」— Toxic Positivityを回避するシステムプロンプト設計",
+    "link": "https://zenn.dev/shippai/articles/e0884471e6965d",
+    "summary": "本記事は、AIからの励ましが時にユーザーにとって「しんどい」と感じられ、結果的に「Toxic Positivity（毒性のあるポジティブ思考）」になり得る問題点を提起しています。AIがユーザーの置かれた状況や感情を深く理解せず、画一的なポジティブな言葉を投げかけることは、かえって孤立感や感情の抑制を招く可能性があります。\n\nこれを回避するためには、AIが安易な励ましを避け、ユーザーの感情に共感し、現実的な視点を取り入れたシステムプロンプト設計が不可欠であると論じています。真にユーザーをサポートするためには、AIが共感力を持ち、慎重なコミュニケーションを構築する必要があることを強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-16T23:17:49.490315"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code の許可プロンプトを9割減らす settings.json 最適化レシピ — allow / deny の優先順位と Bash パターン記法のハマりどころ【2026】",
+    "link": "https://qiita.com/yureki_lab/items/d3faece85a5361e890c7",
+    "summary": "この記事は、Claude Code使用中に`npm install`や`git status`などのコマンド実行のたびに表示される「ツール許可プロンプト」が、作業フローを中断させ、体感で1割もの作業時間を奪うストレスの原因となっている問題を指摘しています。\n\nこの問題を解決するため、本記事は`.claude/settings.json`を最適化するレシピを提供し、プロンプトの表示を9割削減することを目指しています。\n\n具体的には、最適なallowlistパターンやallow/denyの優先順位、Bashパターン記法の注意点などが解説されており、Claude Codeユーザーが効率的な開発環境を構築するための指針となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-16T23:17:57.672870"
+  },
+  {
+    "source": "ITmedia",
     "title": "Claude「Fable 5」が3日で停止　Anthropicが主張する“米国政府の誤解”の正体",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html",
     "summary": "Anthropicは、AIモデルClaudeの「Fable 5」のサービス提供をリリースからわずか3日で停止しました。これは米国政府からの指令に従ったものです。\n\n同社はこの指令について「政府の誤解に基づくもの」であると主張していますが、その具体的な内容については不明です。この記事は、その「誤解」の正体が何であるかを問いかけています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-28T09:39:46.186009"
-  },
-  {
-    "source": "Zenn",
-    "title": "誰も使わない機能を、誰も消せない理由",
-    "link": "https://zenn.dev/acntechjp/articles/729a0be6c11f58",
-    "summary": "記事の内容が提供されていないため、正確な要約はできません。\n\nしかし、タイトル「誰も使わない機能を、誰も消せない理由」から推測すると、この記事は組織やシステムの内部において、なぜ使われなくなった機能が残り続けるのかについて論じていると考えられます。一般的に、その理由としては、他の機能との依存関係、削除による予期せぬ障害発生のリスク、削除作業にかかるコストや手間、あるいは担当部署間の調整の難しさなどが挙げられるでしょう。これらの要因が複雑に絡み合い、たとえ利用価値がなくなった機能であっても、容易に削除できない状況を生み出している現状を解説していると推測されます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-28T09:39:56.425827"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエージェントの怖さを体験できるWebサイトを作った【間接プロンプトインジェクション】",
-    "link": "https://qiita.com/Kogia_sima/items/d9120e42c543b8dc41b3",
-    "summary": "この記事は、AIエージェントを攻撃者が乗っ取り、データ破壊などを引き起こす「間接プロンプトインジェクション」という新たな脅威について紹介しています。この攻撃はすでに2026年現在で現実となっており、AIの便利な一方でリスクを正しく理解する必要があると強調しています。筆者は、この攻撃の恐ろしさをわずか30秒で体験できるデモンストレーション用ウェブサイトを作成し、その危険性を理解するよう促しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-28T09:40:06.461156"
-  },
-  {
-    "source": "ITmedia",
-    "title": "【5/29まで】IT人材に関する意識調査【Amazonギフトカードが当たる】",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news059.html",
-    "summary": "現在、「IT人材」に関する意識調査が実施されています。\nこの調査に回答すると、抽選で3名にAmazonギフトカード500円分がプレゼントされます。\n回答の締め切りは5月29日までです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-27T23:09:41.402282"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コーディングAIによるカンニングを防いでより正確なプログラミング性能が測定可能なベンチマーク「DeepSWE」",
-    "link": "https://gigazine.net/news/20260528-deepswe-ai-coding-benchmark/",
-    "summary": "ソフトウェア開発におけるコーディングAIの普及に伴い、その性能を評価する様々なベンチマークが存在します。しかし、既存のベンチマークには欠点があるとされています。この問題を解決するため、コーディングAIが既存のデータから「カンニング」するのを防ぎ、より正確なプログラミング性能を測定できる新しいベンチマーク「DeepSWE」が登場しました。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-05-27T23:09:48.721808"
   }
 ]
