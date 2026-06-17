@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "XR市場ではスマートグラスが主役に、2030年には2730万台規模へ　IDC市場予測",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news107.html",
+    "summary": "IDCの市場予測によると、スマートグラスがXR市場の中心となり、2030年には2730万台規模に達する見込みです。2026年1～3月期には特に画面非搭載機の販売が急伸し、現在Metaが市場を牽引しています。しかし、GoogleやSnap、中国勢などの新規参入により競争が激化し、XR市場は今後も拡大し続けると予測されています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-06-17T10:21:01.756808"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ホンダ・シビックに任意のコードを実行可能な脆弱性「EvilValet」が見つかる",
+    "link": "https://gigazine.net/news/20260617-honda-civic-evil-valet/",
+    "summary": "ホンダ・シビックの車載ヘッドユニットに、「EvilValet」と名付けられた任意のコード実行が可能な脆弱性が発見されました。\nこの脆弱性は、オーディオシステムやナビをUSB経由でアップデートするプロセスに存在します。これにより、攻撃者がシステム上で任意のコードを実行できる可能性があります。\nこの問題は、技術専門家であるエリック・マクドナルド氏によって指摘されました。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-06-17T10:21:10.976559"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントのログが読めないなら、それはまだデモです",
+    "link": "https://zenn.dev/53able/articles/2568a28be61c21",
+    "summary": "「AIエージェントのログが読めないなら、それはまだデモです」という記事は、AIエージェントが実用段階にあるかどうかを判断する上で、ログの可読性が極めて重要であることを強調しています。\n\n筆者は、エージェントの動作を正確に追跡し、理解するためのログがなければ、そのシステムは単なるデモンストレーションの域を出ず、実際の運用には不向きであると主張します。これは、AIエージェントの信頼性、デバッグのしやすさ、そして説明責任を確保するために、透明性の高いログがいかに不可欠であるかを示唆しています。記事中には具体的な数字は含まれていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-17T10:21:26.148197"
+  },
+  {
+    "source": "Qiita",
+    "title": "Gemma4に曜日を聞いたら1日ずれた",
+    "link": "https://qiita.com/sskki/items/9bafbd9a891f7f896297",
+    "summary": "ローカルLLM「Gemma4 (モデルE4B)」に特定の日付の曜日を質問したところ、実際の日付より1日前の曜日を回答する不具合が報告されました。\n具体的には、Ollama (v0.30.8) と OpenWebUI (v0.9.6) の環境で「2026年6月14日（実際は日曜日）」の曜日を尋ねた際、「土曜日」と返答したものです。\n英語での質問や時刻指定を試しても結果は変わらず、記事では原因や解決策は提示されていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-17T10:21:36.788961"
+  },
+  {
+    "source": "ITmedia",
     "title": "AI活用は実験から実績へ　Microsoftが示した経営層の論点",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news039.html",
     "summary": "Microsoftは「Build 2026」で、企業がAI活用を実験段階から本番運用へ移行させるための経営課題を提示しました。その要点として、自社データの深い理解、強固なAI基盤の整備、そして具体的な成果の創出を挙げています。これらを推進するため、「Microsoft IQ」や「Microsoft Agent Platform」といった新たなプラットフォーム、さらにGPU基盤の活用を各経営層に訴えました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-28T23:07:30.011230"
-  },
-  {
-    "source": "Zenn",
-    "title": "ローカルLLM(Ollama)を今更インストール",
-    "link": "https://zenn.dev/aofy/articles/32d301260ee814",
-    "summary": "この記事は、ローカルLLMであるOllamaのインストールについて扱っています。筆者は、そのインストールを「今更」と表現しており、ある程度の時間が経ってから改めてこの技術に触れた背景が示唆されます。提供された情報からは具体的なインストール手順や、それに伴う技術的な詳細、数字などのデータは読み取れません。要約の焦点は、Ollamaの導入とそのタイミングに対する筆者の見解にあります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-28T23:07:39.903512"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.153〜v2.1.154 リリース｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/d42ad8905e76c9b7a0c1",
-    "summary": "Claude Codeのv2.1.153〜v2.1.154リリースでは、新モデルOpus 4.8と複数エージェントを統合するdynamic workflowsが同時に導入されました。\n\nOpus 4.8は最難関タスク向けにデフォルトでhigh effort設定となり、`/effort xhigh`オプションも追加されています。また、Opus 4.8のFast modeは標準の2倍料金で2.5倍速と大幅に性能が向上し、以前より大幅に安価になりました。\n\ndynamic workflowsは数十〜数百のエージェントをバックグラウンドで束ねて1つのタスクを処理する基盤機能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-28T23:07:48.701899"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAI、Anthropicが新会社設立　国内SIerは「黒船襲来」に対抗できるか？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news061.html",
-    "summary": "OpenAIとAnthropicが相次いでAIサービスを担う新会社を設立しました。これは、FDEやApplied AI Engineerを擁する「黒船」の来襲として、国内SIerにとって大きな脅威と見なされています。記事は、この新たな動きに対し、国内SIerがどのような備えをすべきかについて提起しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-28T09:39:35.039603"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「ぶどうを丸ごと飲んでいる」感満点の「Welch’sスパークリング赤」試飲レビュー",
-    "link": "https://gigazine.net/news/20260528-asahi-welchs-sparkling-red-concord-grape/",
-    "summary": "アサヒ飲料の「Welch's」ブランドから、大人向けスパークリングドリンク「Welch'sスパークリング赤」が、2026年5月26日(火)より期間限定で登場しました。この記事は、その新商品の試飲レビューです。タイトルには「ぶどうを丸ごと飲んでいる」ような濃厚な味わいが特徴であると書かれており、その詳細が紹介されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-28T09:39:46.186009"
   }
 ]
