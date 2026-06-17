@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoft、「Copilot Cowork」の一般提供を開始　プロンプト単価は競合比で約4割安価に",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/18/news031.html",
+    "summary": "Microsoftは、Microsoft 365 Copilotの新機能「Copilot Cowork」の一般提供を開始しました。これは、複雑な業務を自動化するエージェント機能です。最大の特長は、プロンプト単価を競合製品と比較して約4割安価に設定している点です。さらに、強力なコスト統制機能も備えています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-17T23:16:27.613446"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Metaが自社の象徴たるエンジニアリング文化を崩壊させてしまった理由とは？",
+    "link": "https://gigazine.net/news/20260618-why-meta-destroying-engineering-organization/",
+    "summary": "Metaは、経営陣主導で「AIを駆使した改革」を自社のエンジニアリング組織において猛烈な勢いで進めています。この動きは、FacebookやInstagramといった主要プロダクトを支える同社の象徴的なエンジニアリング文化を崩壊させつつあると報じられています。記事では、ゲルゲイ・オロス氏がこの大規模な変革の実態とその影響について解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-17T23:16:35.501959"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントでシスコルータのOSPF障害を調査・復旧してみた",
+    "link": "https://zenn.dev/kooshin/articles/20260617_ios-xe-mcp-server1",
+    "summary": "この記事は、AIエージェントを活用してシスコルータのOSPF（Open Shortest Path First）障害を調査し、復旧した取り組みについて報告しています。この実践により、ネットワーク運用における障害対応の自動化や効率化の可能性が示されました。具体的には、AIがOSPFプロトコルに関する問題の特定から解決までを支援した事例となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-17T23:16:47.148439"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIが何者か、少し分かった気がした話",
+    "link": "https://qiita.com/flip-flop/items/f93264c043edd360938b",
+    "summary": "筆者は自治会向けWebアプリ開発にAIを活用する中で、AIへの理解を深めました。当初はプログラマーが不要になる未来を想像していましたが、AIがReactコード生成やエラー特定などで開発スピードを劇的に向上させる強力なツールだと実感。しかし、AIは「何を作るか」「何を解決したいか」といった根本的な課題設定や発想は行わず、技術的な実装を支援する役割に留まることに気づきました。この経験から、AIは人間の創造性や課題発見能力を代替するものではないと筆者は結論付けています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-17T23:16:56.381110"
+  },
+  {
+    "source": "ITmedia",
     "title": "XR市場ではスマートグラスが主役に、2030年には2730万台規模へ　IDC市場予測",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news107.html",
     "summary": "IDCの市場予測によると、スマートグラスがXR市場の中心となり、2030年には2730万台規模に達する見込みです。2026年1～3月期には特に画面非搭載機の販売が急伸し、現在Metaが市場を牽引しています。しかし、GoogleやSnap、中国勢などの新規参入により競争が激化し、XR市場は今後も拡大し続けると予測されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-29T09:00:58.666650"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIで成果物が増えても、判断が進まなければ生産性は上がっていない - 構造で育てるプロダクト組織付録10",
-    "link": "https://zenn.dev/kanaria007/articles/5bf6d09a933166",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 56.798779057s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 56\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-29T09:01:03.252031"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIへの考えまとめ",
-    "link": "https://qiita.com/daigakuseiM/items/061dd38709fcf2cd236b",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 50.53193507s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 50\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-29T09:01:09.519020"
-  },
-  {
-    "source": "ITmedia",
-    "title": "SCS評価制度が問う“組織としての対応力”：経営層を巻き込んだレジリエンス強化の進め方",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/29/news013.html",
-    "summary": "SCS評価制度は、インシデント対応を通じて組織のレジリエンスを強化すると共に、経営層の積極的な関与が不可欠であることを示しています。実効性あるインシデント対応には、技術的な整備に加え、経営層との日常的なコミュニケーションが機能の鍵を握ります。本記事では、IPAが公開する「サイバーレジリエンスのためのコミュニケーション」が提示する「3つの違い」を基に、経営層を巻き込んだレジリエンス強化の具体的な進め方を解説しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-05-28T23:07:22.942477"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "NVIDIAのAI向けCPU「Vera」がAMDのEPYCやIntelのXeonを凌駕する強力な性能を発揮",
-    "link": "https://gigazine.net/news/20260529-nvidia-vera-benchmark/",
-    "summary": "NVIDIAは、2026年後半に稼働開始予定のAI特化CPU「Vera」を開発しています。Linux特化メディアのPhoronixが実施したベンチマークテストの結果、Veraは既存のAMD EPYCやIntel Xeonを凌駕する非常に強力な性能を発揮することが示されました。このベンチマークは、AI分野におけるNVIDIAの技術的な優位性を裏付けるものです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-28T23:07:30.011230"
   }
 ]
