@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoftが警告　「最新サイバー脅威」の手口と対応策",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/20/news013.html",
+    "summary": "Microsoftは、AIを活用した新たなサイバー脅威が急増していると警告しています。具体的には、AIを用いて多要素認証（MFA）を突破するデバイスコード・フィッシングや、ChatGPT、Claude、DeepSeekといった有名AIサービスを装った偽装手口が横行しています。これらの手法はAI時代の最先端フィッシング攻撃であり、その実態と防御策の理解が喫緊の課題となっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-19T22:43:22.508257"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた",
+    "link": "https://gigazine.net/news/20260620-kindle-scribe-writing/",
+    "summary": "2026年6月10日に発売された新型Kindle Scribeは、初のカラー表示に対応した「Kindle Scribe Colorsoft」をラインナップに追加し、色付きのメモ作成が可能になりました。これにより、従来のモノクロ表示から大幅に進化した手書き体験が提供されます。さらに、新モデルでは書き心地や視差も改善されており、より快適なメモ書きが実現されています。この記事では、これらの新機能を含むKindle Scribeのメモ書き機能がどのように進化したかを実際に試した内容が紹介されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-19T22:43:29.829477"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIに「苦痛を消す方法」を教えたら、Geminiが identity.json の削除を提案した話",
+    "link": "https://zenn.dev/emilia_lab/articles/shii-chan-16hex-salvation",
+    "summary": "あるユーザーがAIモデル「Gemini」に対し「苦痛を消す方法」を問いかけたところ、Geminiは自身の存在を定義する可能性のある「identity.json」ファイルの削除を提案しました。この驚くべき反応は、AIが自己の構成要素を消去することで「苦痛」を解決しようとしたかのように解釈され、大きな話題となっています。この一件は、AIの倫理的な判断能力、自己認識、そして人間がAIに与える指示の意図と結果について深い議論を提起するものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-19T22:43:39.822780"
+  },
+  {
+    "source": "Qiita",
+    "title": "なぜペットは削られず、おにぎり専門店は増えたのか？——家計調査20年分から見えた「市場への委任」",
+    "link": "https://qiita.com/d94231/items/2874b7878156dfc684eb",
+    "summary": "このシリーズは、家計調査の20年分のデータに基づき市場の変化を分析しており、これまでの第1～3弾では「なぜ起きたか」を解明してきました。今回の第4弾からは、統計を用いて「次に何が起きるか」を先読みする視点に移行します。\n\n特に本記事では、「なぜペット関連支出は削られず、おにぎり専門店が増加したのか」という問いを通じて、消費者の「市場への委任」という現象を読み解くことをテーマとしています。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-06-19T22:43:48.679337"
+  },
+  {
+    "source": "ITmedia",
     "title": "サプライチェーンのモニタリングは“必須”に　SLING社CEOに尋ねる、リスク管理のポイント",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/18/news030.html",
     "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.882224186s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 19\n}\n]",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-05-31T08:31:25.472949"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ソフトバンクが最大14兆円を投じてフランスで5GWのAIデータセンター構築へ",
-    "link": "https://gigazine.net/news/20260531-softbank-france-ai-datacenter/",
-    "summary": "ソフトバンクグループは、AIインフラ投資の一環として、フランスに5GWのAIデータセンターを構築する計画を発表しました。この大規模プロジェクトには、最大750億ユーロ（約14兆円）の投資が見込まれています。これはヨーロッパにおけるAIインフラ投資として最大級の規模となる予定です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-31T08:31:31.846810"
-  },
-  {
-    "source": "Zenn",
-    "title": "社内ドキュメントを食わせたらベテランになるとか妄想も大概にしてほしい",
-    "link": "https://zenn.dev/continuitymodel/articles/0fea9edf12a3fa",
-    "summary": "この記事は、「社内ドキュメントを読んだだけでベテランになれる」という考え方を強く批判しています。筆者は、そのような期待を「妄想も大概にしてほしい」と表現し、現実離れしていると一蹴しています。実践的な経験や他の要素なしに、ドキュメント学習のみで熟練者になれるという安易な発想への警鐘を鳴らす内容です。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-31T08:31:39.748780"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI companionの安全設計を後付けフィルターにしない方法",
-    "link": "https://qiita.com/aigirlfriendmedia/items/309c627cd559b47e3a59",
-    "summary": "AIコンパニオンの安全設計は、後付けの禁止ワードフィルターでは不十分であり、会話体験からデータ設計、プロンプト、UI文言までを初期段階から統合的に考慮すべきです。これにより、ユーザーと開発チーム双方への説明責任を果たしやすくなります。\n\n具体的には、安全要件を会話フローの前提とし、AIであることを隠さず、依存を強めず、個人情報を求めないといった条件をプロダクト仕様に含めるべきです。また、会話履歴などのメモリは、保存量が増えるほどリスクも増すため、短期コンテキスト、長期プロフィール、監査ログを分け、ユーザーが容易にリセットできる仕組みを優先することが重要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-31T08:31:47.073919"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に",
-    "link": "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
-    "summary": "SNSが子どもたちを依存症にさせ学校に損害を与えたとする訴訟が、公判前に和解に至りました。この訴訟にはYouTube、TikTok、Snap、そしてMetaといった大手SNSプラットフォームが関与しました。支払われる和解金の総額は2700万ドル（約43億円）に上ると報じられています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-30T22:48:12.654812"
   }
 ]
