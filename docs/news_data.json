@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Nothingがメモリ高騰の影響で「CMF Phoneの次世代モデルの2026年発売はナシ」と発表",
+    "link": "https://gigazine.net/news/20260620-nothing-cancels-cmf-phone-ram-prices/",
+    "summary": "独特なデザインで知られるNothing Technologyは、CMF Phoneシリーズの次世代モデルを2026年中に発売しないと発表しました。この決定は、主要部品であるメモリ価格の大幅な高騰が原因とされています。これにより、同社は当初予定していた2026年内のリリース計画を断念した形となります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-20T08:37:07.717735"
+  },
+  {
+    "source": "Zenn",
+    "title": "Windows + PowerShell 5.1 で Claude Code を実運用して踏んだ落とし穴と対策",
+    "link": "https://zenn.dev/equaliainc/articles/claude-code-windows-powershell-tips",
+    "summary": "この記事は、WindowsとPowerShell 5.1の環境で「Claude Code」を実運用する際に直面した具体的な問題点（落とし穴）と、それらに対する解決策（対策）を解説しています。実運用におけるトラブルシューティングや注意点に焦点を当て、スムーズなシステム運用を実現するための情報が提供されていると考えられます。\n\n特に、**Windows + PowerShell 5.1**という特定の環境下でのAIコード（Claude Code）の利用経験に基づいた知見が共有されているため、同様の環境でAIツールの導入を検討している開発者や運用担当者にとって有益な内容となるでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-20T08:37:19.399385"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIを定期実行するベストプラクティス：Cron・launchd・/loop・/schedule・GitHub Actions 徹底比較",
+    "link": "https://qiita.com/degudegu2510/items/e15edc063e19ef82604c",
+    "summary": "この記事は、AIの活用が増える中で「AIを定期実行したい」というニーズが高まっていることを背景に、そのためのベストプラクティスを解説しています。\n\n代表的な**5つの手段**を比較しており、具体例として、サーバーからローカルまで幅広い環境でシンプルな構文で動作する`cron`や、macOSのネイティブなプロセス管理ツールである`launchd`が紹介されています。記事は、これらの方法を比較することで、目的別の最適な選択肢を提示することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-20T08:37:29.902095"
+  },
+  {
     "source": "ITmedia",
     "title": "Microsoftが警告　「最新サイバー脅威」の手口と対応策",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/20/news013.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-05-31T22:49:49.792520"
-  },
-  {
-    "source": "Zenn",
-    "title": "あなたは、自分のために、偶像を造ってはならない。",
-    "link": "https://zenn.dev/cogito/articles/sermon-golden-calf",
-    "summary": "この記事は、「あなたは、自分のために、偶像を造ってはならない」という明確な禁止を提示しています。これは、人間が作り出した像や物質的なものを神の代わりとして崇拝することへの強い戒めです。その目的は、唯一の真の神への純粋な信仰を保ち、自己中心的な理由で信仰の対象を歪めたり、誤った崇拝に陥ったりするのを防ぐことにあります。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-05-31T22:49:57.702312"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIがコードを書く時代だからこそ、ソフトウェアの「設計」の価値が10倍に跳ね上がる理由",
-    "link": "https://qiita.com/fe1ix/items/86fd0d46e83d5aa8326e",
-    "summary": "AIがコードを書く時代だからこそ、ソフトウェアの「設計」の価値は10倍に跳ね上がると記事は主張します。設計が悪い密結合のコードベース（例：1ファイルに3000行のロジック）は、AIのコンテキストウィンドウの限界を超え、その理解力と推論精度を劇的に低下させ、ハルシネーション（もっともらしい嘘）を増やしてプロジェクトの崩壊を招く危険性があるためです。したがって、AIの能力を最大限に引き出し、効率的かつ高品質な開発を実現するためには、人間によるクリーンな設計がこれまで以上に不可欠となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-05-31T22:50:08.422767"
-  },
-  {
-    "source": "ITmedia",
-    "title": "日立はAnthropicと組んで何を狙うのか　従業員29万人へのClaude導入で目指す姿",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
-    "summary": "日立は、AIのミッションクリティカル領域での活用強化を目指し、Anthropicと戦略的パートナーシップを締結しました。この提携は、Anthropicが開発した大規模言語モデル「Claude」を、日立の29万人の全従業員に導入することを核としています。これにより、日立は業務効率の向上と新たなAIソリューションの開発を加速させ、イノベーションを推進する狙いです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-31T08:31:25.472949"
   }
 ]
