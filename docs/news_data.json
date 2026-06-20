@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "氷の池に2時間半沈んだ8歳の子どもが体温7℃・心停止状態から生還、医師らは「人命救助の限界を大きく更新した」と報告",
+    "link": "https://gigazine.net/news/20260621-ice-water-drowning-survival/",
+    "summary": "アメリカで8歳の男の子が氷の張った池に約147分間（2時間半）沈み、体温が約7℃まで低下して心停止状態になりました。しかし、人工呼吸と復温治療により奇跡的に救命されました。\n\n医学研究チームは、この事例を医学文献において生存が確認された最長の水中潜水時間と最低体温の記録と報告しています。これは、心停止性低体温症から救命可能な時間と温度の限界を大きく広げる画期的な事例だとされています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-20T22:57:39.369632"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeに毎朝GitHubを巡回させる ― 有用なOSSとスキルを自動採点",
+    "link": "https://zenn.dev/bokuwalily/articles/github-scout-daily",
+    "summary": "この記事は、AIツール「Claude Code」を活用し、GitHubを毎朝巡回させて有用なOSS（オープンソースソフトウェア）やスキルを自動的に採点するシステムについて解説しています。このシステムは、開発者が最新かつ価値のある技術トレンドやプロジェクトを効率的に発見し、スキルアップに役立てることを目的としています。AIによる自動評価を通じて、日々の情報収集の手間を省き、重要な情報を迅速に入手することが可能になります。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-20T22:57:47.171111"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest: 2026年6月21日 — Fable 5禁止9日目、ShazeerがOpenAIへ、SpaceXが600億ドルでCursor買収",
+    "link": "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f",
+    "summary": "米国政府の輸出規制によりAnthropicのClaude Fable 5は9日間利用不可が続いていますが、DeepSWEで70% PASS@1を達成し、最高のコーディングAIであることが確認されました。AI人材の動きとしては、Google Geminiの共同作成者であるNoam ShazeerがOpenAIに移籍し、AI研究開発における人材獲得競争が激化しています。また、AIコーディングエコシステムでは、SpaceXがAIコーディングアシスタントのCursorを600億ドルで買収し、高度なAIを活用した宇宙探査を加速させる意向を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-20T22:57:56.287776"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Nothingがメモリ高騰の影響で「CMF Phoneの次世代モデルの2026年発売はナシ」と発表",
     "link": "https://gigazine.net/news/20260620-nothing-cancels-cmf-phone-ram-prices/",
     "summary": "独特なデザインで知られるNothing Technologyは、CMF Phoneシリーズの次世代モデルを2026年中に発売しないと発表しました。この決定は、主要部品であるメモリ価格の大幅な高騰が原因とされています。これにより、同社は当初予定していた2026年内のリリース計画を断念した形となります。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-01T11:02:59.992930"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代の記事監修入門 〜TL;DRだと思われないために〜",
-    "link": "https://qiita.com/tkooler_lufar/items/b02e844de83f95b0da88",
-    "summary": "この記事は、AIが生成した記事が読者に「Too Long; Didn't Read (TL;DR)」と評価されないための監修の重要性を説いています。AI生成記事には、本文が長すぎる、AI特有の言葉遣いや整形、重要な情報が箇条書きに偏りすぎるといった問題点があると指摘します。これらの特徴が重なると、筆者が自分の文章を読んでいるのか読者は不安に感じるため、筆者自身が記事を監修し、意図が正しく言語化されているかを確認する必要がある、と強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-01T11:03:08.617984"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AI検索に「お気に入りサイト表示」機能登場　Googleが一次情報を守る新機能をリリース",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news032.html",
-    "summary": "Googleは、AI検索の要約表示とAIモードに「Preferred Sources」機能を導入しました。これは、ユーザーが選んだ「お気に入りサイト」へのリンクを明確に識別できるようにし、一次情報源を保護することを目的としています。さらに、話題の動向を扱う記事を示すカルーセルや、引用頻度の高い記事を示す「Highly Cited」表示も拡充されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-05-31T22:49:39.478009"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "父親になることで脳の構造や活動が劇的に変化するという研究結果",
-    "link": "https://gigazine.net/news/20260601-fatherhood-rewire-brain/",
-    "summary": "女性の脳が妊娠・出産で大きく変化することは知られていましたが、父親の脳に同様の変化が起きるかはこれまで不明でした。しかし、ドイツ・アーヘン工科大学の新たな研究が、父親になった男性の脳でも変化が生じる可能性を示唆しています。\n\nこの研究によると、出産後の数週間から数カ月にかけて、父親の脳の構造や活動が変化する可能性があります。これは、父親も子育てに向けて脳が適応していく可能性を示す画期的な発見です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-05-31T22:49:49.792520"
   }
 ]
