@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
+    "link": "https://gigazine.net/news/20260621-desktop-mode/",
+    "summary": "無料プラグイン「Desktop Mode」が公開され、WordPressの管理画面をデスクトップOSのように利用できるようになります。これにより、投稿編集やメディア確認、設定変更など複数の作業を切り替える手間を軽減できます。このプラグインは無料で利用でき、AI連携機能も搭載しているため、管理画面での作業効率向上が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-21T09:31:38.561289"
+  },
+  {
+    "source": "Zenn",
+    "title": "機能を作るな。では、そのコストは誰が払うのか",
+    "link": "https://zenn.dev/yottayoshida/articles/dont-build-features-conditionally-right",
+    "summary": "ご提示いただいた記事はタイトルと内容が全く同じで、本文の詳細な情報が提供されておりません。そのため、具体的なポイントや数字を含めて要約することができません。\n\nもし記事本文をご提供いただければ、その内容に基づいて3-4文で要約させていただきます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-21T09:31:45.375578"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代、「内製か外注か」はどう変わるのか～SIerの立場から考える、日本のIT市場のこれから～",
+    "link": "https://qiita.com/papi_tokei/items/0813eee16368ebe76c2b",
+    "summary": "日本のシステム開発は長年、SIerを中心とした多重下請けの外注構造が主流でした。これはIT人材が不足する中で、大規模システム開発に必要な多数のエンジニアを必要な期間だけ集める上で合理的とされてきました。\n\nしかし、生成AIやAIコーディングツールの爆発的な普及により、その前提が根本から覆されつつあります。これにより、「開発・運用に大量の人員を必要とする活動」という従来のシステム開発のあり方が大きく変化している現状が示唆されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-21T09:31:53.339350"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "氷の池に2時間半沈んだ8歳の子どもが体温7℃・心停止状態から生還、医師らは「人命救助の限界を大きく更新した」と報告",
     "link": "https://gigazine.net/news/20260621-ice-water-drowning-survival/",
     "summary": "アメリカで8歳の男の子が氷の張った池に約147分間（2時間半）沈み、体温が約7℃まで低下して心停止状態になりました。しかし、人工呼吸と復温治療により奇跡的に救命されました。\n\n医学研究チームは、この事例を医学文献において生存が確認された最長の水中潜水時間と最低体温の記録と報告しています。これは、心停止性低体温症から救命可能な時間と温度の限界を大きく広げる画期的な事例だとされています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-01T23:21:36.143768"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Salesforceの「深謀遠慮」とは？　AIエージェント時代のオープンシステム、主導権争いの行方",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news107.html",
-    "summary": "Salesforceは、AIエージェントが多数稼働する企業の業務システム向けに、新たなソリューションを発表しました。この取り組みは、今後のAIエージェント時代のビジネスシステムを見据えたもので、企業の業務のあり方に深く影響を与えると予想されます。同社のこの動きには、将来的な市場の主導権争いを視野に入れた「深謀遠慮」が込められていると考えられています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-01T11:02:41.233467"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「本当に人間かどうか？」を確認するCloudflare TurnstileでWebGL情報が問題に、フィンガープリント対策で引っかかる環境が続出",
-    "link": "https://gigazine.net/news/20260601-cloudflare-turnstile/",
-    "summary": "Cloudflare Turnstileの「Verify you're human」認証システムが、WebKitGTKベースのプライバシー重視ブラウザ「BadWolf」などで無限ループに陥り、複数のウェブサイトにアクセスできなくなる問題が発生しています。BadWolfの開発者ハエルウェン・モニエ氏がこの状況を報告しました。この問題は、WebGL情報がフィンガープリント対策として機能することで、Turnstileが「本当に人間かどうか？」の判断に失敗している可能性が指摘されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-06-01T11:02:49.776797"
-  },
-  {
-    "source": "Zenn",
-    "title": "生成AI時代に問われるのは「評価する力」である",
-    "link": "https://zenn.dev/shotakikuchi/articles/ai-evaluation-in-generative-ai-era",
-    "summary": "この記事は、「生成AI時代」において最も問われる能力が「評価する力」であると述べています。\n\n生成AIが様々な情報やコンテンツを生み出すようになる中で、その質や真偽、適切性を見極める人間の能力が決定的に重要になると強調しています。単に情報を生成するだけでなく、それを正しく判断し、活用するための洞察力が個人や組織に強く求められる時代が到来することを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-01T11:02:59.992930"
   }
 ]
