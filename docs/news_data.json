@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Claudeをかたる攻撃がアジア太平洋地域で多発　偽広告から不正コード実行へ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/19/news051.html",
+    "summary": "Trend Microの分析によると、Google広告を悪用したマルバタイジング攻撃がアジア太平洋地域で多発しています。攻撃者はAI関連開発ツールを装う偽ページへユーザーを誘導した後、Claudeの共有チャット機能を悪用して認証情報窃取型マルウェアを配布しています。この巧妙な手口により、ユーザーの機密情報が狙われています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-06-21T22:59:52.409729"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "チップの動作や脆弱性を研究するためにMITの研究者らが独自OS「Fractal」を開発",
+    "link": "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
+    "summary": "マサチューセッツ工科大学(MIT)の研究者らは、チップの動作原理や脆弱性を詳細に研究するため、独自OS「Fractal」を開発しました。これまでチップ内部の動作調査にはWindowsやmacOS、Linuxなどの汎用OSが使われてきましたが、これらは日常利用目的のため、チップの正確な内部動作測定には不向きでした。Fractalは、この課題を克服し、チップの内部構造をより精密に調査することを可能にします。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-06-21T22:59:59.575887"
+  },
+  {
+    "source": "Zenn",
+    "title": "お水ちょうだい！マリーゴールドと会話する新しい見守りのカタチ。会話もセンサーも記録できる優れもの",
+    "link": "https://zenn.dev/yuichirominato/articles/d67f165a5630a5",
+    "summary": "「お水ちょうだい！」は、マリーゴールドとの会話を通じて人の状態を見守るという、画期的な新しい見守りの形を提案しています。このシステムは、単に植物と対話するだけでなく、その会話内容やセンサーからの情報も全て記録・管理できる優れた機能を備えています。これにより、対象者の状態を多角的に把握し、より質の高い見守りを実現する「優れもの」として期待されます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-21T23:00:10.667002"
+  },
+  {
+    "source": "Qiita",
+    "title": "【文系合格者がストーリーで解説】G検定「探索・推論・知識表現」入門｜古いAIの暗記がスッと頭に入る",
+    "link": "https://qiita.com/mrmrmr/items/bd517d27f8e94bc4e6b3",
+    "summary": "G検定合格者の文系エンジニアが、G検定で出題される「探索・推論・知識表現」などの古典的AI技術の学習法を解説しています。これらの「古いAI」の概念を単なる暗記ではなく、AIが過去にどのように「賢く」なろうとしたかの歴史的ストーリーとして理解することを提案。記事では、第1次・第2次AIブームの中心だった技術に焦点を当て、「探す→推論する→知識を持つ」というAIの進化の全体像を示すことで、文系学習者の深い理解を促すことを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-21T23:00:21.314971"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
     "link": "https://gigazine.net/news/20260621-desktop-mode/",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-06-02T09:57:16.161991"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft 365 Copilotが新デザインを発表　ExcelでCopilot利用率が33％増加",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news028.html",
-    "summary": "Microsoftは「Microsoft 365 Copilot」の新デザインを発表しました。この新デザインは、段階的開示の設計と、コンテキストを理解し自律駆動する特化型エージェントの導入により、操作性と性能を大幅に向上させています。その結果、特にExcelにおけるCopilotの利用率が33%増加するなど、具体的な成果を上げています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-01T23:21:06.614008"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
-    "link": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
-    "summary": "AI技術の進化により、企業が人間の従業員をAIシステムに置き換える動きが加速しています。哲学・テクノロジーブロガーのオーウェン・マクグラン氏は、このAIによる大規模な人員削減がもたらす社会経済的問題を「死んだ経済理論」と命名しました。この理論は、AIによって引き起こされる市場の壊滅や民主主義体制の揺らぎといった、深刻な事態が起こり得ると指摘しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-01T23:21:17.187862"
-  },
-  {
-    "source": "Zenn",
-    "title": "GitHubのStar数が3日で26に急増した理由を分析する — OSSマーケティングの計測と再現性",
-    "link": "https://zenn.dev/joinclass/articles/github-star-3-26-oss-20260531221018-16399",
-    "summary": "この記事は、GitHubのStar数がわずか3日で26に急増した具体的な事例を取り上げ、その急速な増加の背後にある理由を詳細に分析しています。特に、オープンソースソフトウェア（OSS）プロジェクトにおけるマーケティング効果の計測可能性と、成功事例をいかに再現するかという視点に焦点を当てて考察がなされています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-01T23:21:27.439680"
-  },
-  {
-    "source": "Qiita",
-    "title": "【いまさら聞けない】AIエディタの限界を突破する「MCP（Model Context Protocol）」サーバー超入門",
-    "link": "https://qiita.com/fe1ix/items/e4872d99351e8bf725c7",
-    "summary": "従来のAIエディタは、エディタで開いているファイルしか参照できず、Slackや社内データベースといった外部システムとの連携に限界がありました。この課題を解決するため、Anthropicが提唱し急速に普及しているのがMCP（Model Context Protocol）です。\n\nMCPは、AI（LLM）と外部システムを繋ぐユニバーサルな接続規格であり、AIが外部システムが提供する「ツール」を自律的に利用できるようにします。これによりAIは、Webサイトのスクレイピングやデータベース検索など、より複雑なタスクをこなすことが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-01T23:21:36.143768"
   }
 ]
