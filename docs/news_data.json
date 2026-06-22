@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "生成AIの進化で変わる脆弱性対策　CISA新指針と「SCS評価制度」から探るパッチ適用方針",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news022.html",
+    "summary": "生成AIの進化により脆弱性対策の難易度が急激に高まっており、従来の数カ月ごとの定期メンテナンスによるパッチ適用方針ではもはや通用しません。これまでの対策が通用しなくなった原因は脅威の高度化と高速化にあります。この状況を受け、CISA（サイバーセキュリティ・インフラセキュリティ庁）やIPA（情報処理推進機構）は、新たな防御戦略として「SCS評価制度」などを提示し、パッチ適用を含む脆弱性対策のあり方を見直す動きが進んでいます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-22T23:11:45.408519"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "男性は加齢とともにY染色体を失っているがデメリットはあるのか？",
+    "link": "https://gigazine.net/news/20260623-men-lose-y-chromosome-age-cost/",
+    "summary": "Y染色体は男性のみが持つ性染色体ですが、男性は加齢とともにこのY染色体を徐々に失っていくことが知られています。科学系メディアのScienceAlertは、このY染色体の喪失が男性にもたらすデメリットについて解説しました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-22T23:11:51.943722"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI運用はハーネスだけで語ってよいのか",
+    "link": "https://zenn.dev/paseri_kurosawa/articles/9813c62551a19e",
+    "summary": "このタイトルは、AI運用において「ハーネス」（AIモデルのデプロイ、監視、管理を担う技術的な基盤やツール）が重要な要素である一方で、それだけでAI運用の本質や全体像を語り尽くせるのかという問いを投げかけています。AIを効果的かつ安全に運用するには、ハーネスのような技術的枠組みだけでなく、ガバナンス、倫理、ビジネス戦略、人材育成、データ品質、継続的な改善など、より広範で複合的な側面を考慮する必要があることを示唆しています。したがって、技術的な側面を超えた多角的な視点からAI運用を捉えることの重要性を提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-22T23:12:04.475005"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.186｜bashコマンド出力にClaudeが自動応答｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/c8e4090853e599e25b4a",
+    "summary": "Claude Code v2.1.186では、インラインのbashコマンド実行結果に対し、Claudeが自動で応答する機能がデフォルトで追加されました。これにより、従来の単に実行結果を文脈に加えるだけの挙動から進化し、`respondToBashCommands: false`で従来の動作を維持できます。また、`claude mcp login`/`logout`コマンドが導入され、CLIからMCPサーバーへの認証が可能になり、`--no-browser`オプションでSSH環境からの利用もサポートされます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-22T23:12:12.116618"
+  },
+  {
+    "source": "ITmedia",
     "title": "日立はAX事業にどう臨む？　徳永CEOの話から「成長につなげるための勘所」を探る",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/22/news076.html",
     "summary": "この記事は、企業がAIトランスフォーメーション（AX）にどのように取り組むべきかという問いに対し、日立製作所のAX事業への姿勢からそのヒントを探るものです。特に、徳永CEOの話を通じて、AXを企業の成長に確実につなげるための「勘所」が深掘りされます。これは、AX推進における実践的なアプローチや、課題解決に向けた日立の戦略的視点を知る上で重要な示唆を与える内容です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-03T10:28:42.610368"
-  },
-  {
-    "source": "ITmedia",
-    "title": "MicrosoftとNVIDIAが次世代PCを発表　1ペタフロップス級の「Windows PC」ができること",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news017.html",
-    "summary": "MicrosoftとNVIDIAは、最大1ペタフロップスのAI性能を持つ次世代PCを発表しました。このPCは「NVIDIA RTX Spark」を搭載し、大幅に最適化されたWindows上での動作を想定しています。両社はこれにより、ローカルAIエージェント基盤の構築と、アプリ・ゲームのエコシステム拡大を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-02T23:26:57.447235"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "1億6000万円超を売り上げた自作キーボード用の小型マイコンボード「nice!nano」の開発秘話を本人が語る",
-    "link": "https://gigazine.net/news/20260603-nice-nano-million-dollar-product-dorm-room/",
-    "summary": "自作キーボード用の小型マイコンボード「nice!nano」が、100万ドル(約1億6000万円)を超える売上を達成しました。開発者のニック・ウィナンズ氏は、この成功製品を大学1年生の時に大学の寮で作り出した際の開発秘話をブログで明かしています。この記事では、学生時代のアイデアがいかにして世界的ヒット商品へと成長したかの経緯が語られています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-06-02T23:27:06.848212"
-  },
-  {
-    "source": "Zenn",
-    "title": "CLAUDE.md と毎回のプロンプト、あなたはどこまで知っている？— Claude Codeを約670回実行し推測を明確化した実測記録 —",
-    "link": "https://zenn.dev/shark_same_same/articles/1b36f08d535800",
-    "summary": "この記事は、「CLAUDE.md」ファイルとプロンプトがClaudeの動作に与える影響を深掘りした実測記録です。著者は、約670回にわたるClaude Codeの実行を通じて、その振る舞いやプロンプトの効果に関するこれまでの推測を具体的に検証し、明確化しました。これにより、Claudeの利用者は、その挙動についてより正確な理解を得ることができます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-02T23:27:14.657380"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.159〜v2.1.161 リリース｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/1c20a1401487b278ecc9",
-    "summary": "Claude Codeは、v2.1.159からv2.1.161までの計3つのリリースを発表しました。これらの更新は主にセキュリティとユーザー制御の強化に焦点を当てており、特にv2.1.160では、シェル起動ファイル（例：.zshenv）やビルドツール設定ファイル（例：.npmrc）への書き込み時にユーザー確認を挟むガードが追加されました。また、v2.1.161では`claude mcp`コマンドが認証ヘッダやURL内の秘密情報を伏字化し、端末に表示しないようにすることで、プライバシーが向上しています。さらに、並列ツール呼び出しの改善も含まれています。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-06-02T23:27:26.231327"
   }
 ]
