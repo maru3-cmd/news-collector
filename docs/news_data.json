@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Googleの初心者向けAI講座を徹底レビュー　受ける価値はある？【動画あり】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/24/news036.html",
+    "summary": "日本リスキリングコンソーシアムは、AI学習初心者向けの「Google AI プロフェッショナル認定証」日本語版講座を2026年4月23日にリリースしました。この講座は「何から始めていいか分からない」という悩みに応えるもので、公開初日に1万人以上が登録し大きな話題となりました。記事では、AIを学びたい人がこの講座を受けるメリットや、本当に価値があるのかを徹底的に検証しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-23T22:59:05.629482"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ペンタブメーカーがLinux向けオープンソースドライバーに協力しない理由とは？",
+    "link": "https://gigazine.net/news/20260624-drawing-tablet-linux-driver/",
+    "summary": "Linuxユーザーはペンタブレットを公式ドライバーなしで使用することが多く、この問題に直面したイラストレーターのデビッド・ルボワ氏が、ペンタブレットメーカーに対しLinux向けオープンソースドライバーへの協力を要請しました。しかし、メーカー側はこの要請を断ったことが氏のブログで報告され、Linux環境でのタブレットサポートの課題が浮き彫りになっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-23T22:59:12.053564"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI彼女アプリを作っていて気付いた。毎日同じ機嫌の人はいない",
+    "link": "https://zenn.dev/mitsukida/articles/eef80364801b83",
+    "summary": "AI彼女アプリの開発者は、実際の人間関係における重要な洞察を得ました。彼らは、人間が毎日同じ機嫌であることはなく、感情には常に変化があることに気づいたのです。この発見は、AIがより人間らしく、自然なパートナーシップを築くためには、感情の多様性や日々の揺らぎを理解し、表現することが不可欠であることを示唆しています。AIが単調な応答に留まらず、人間らしい複雑な感情の機微を再現する重要性を浮き彫りにするものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-23T22:59:21.119661"
+  },
+  {
+    "source": "Qiita",
+    "title": "若者は何を削り、何を守ったのか——家計データで見えた「不安への支出」",
+    "link": "https://qiita.com/d94231/items/7d07307a94c3f8520572",
+    "summary": "この記事は、若者の家計データから「不安への支出」が顕著になっていることを分析しています。特に、34歳以下単身世帯の保健医療費が過去10年で102%増加しており、その主役は保健医療サービス（+141%）であることが明らかになりました。\n\n一方でサプリメントへの支出は35%減少しており、この構造変化は2021年を起点としています。これは、若者が外食費などから年間約3,000億円規模で保健医療費に支出をシフトしている実態を示唆しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-23T22:59:29.827294"
+  },
+  {
+    "source": "ITmedia",
     "title": "日立、メインフレーム事業から撤退へ　ハード製造終了から9年後の決断",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news059.html",
     "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 26.862738225s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 26\n}\n]",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-04T09:38:58.885022"
-  },
-  {
-    "source": "ITmedia",
-    "title": "マクロを使わずにExcelを自動化　ゼロから分かる「パワーピボット」超入門",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news045.html",
-    "summary": "この記事は、マクロを使わずにExcelを自動化するための「パワーピボット」と「DAX関数」に焦点を当てています。これらを活用することで、大量の企業情報資産に基づいた業務自動化の構築が可能になります。本ブックレットでは、パワーピボットとDAX関数の基礎を、図式や具体的な手順を交えてゼロから分かりやすく解説しています。",
-    "category": "DX・業務改善",
-    "content_type": "news",
-    "collected_at": "2026-06-03T23:26:00.231939"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "メガドライブのゲームをアナログレコードに記録して実機でプレイすることは可能なのか？",
-    "link": "https://gigazine.net/news/20260604-sega-games-vinyl-record/",
-    "summary": "提供された記事はタイトルと導入部分のみであり、記事の核心である「メガドライブのゲームをアナログレコードに記録して実機でプレイするチャレンジの結果や詳細」が欠落しています。そのため、この情報だけでは要約を作成することはできません。\n\nもし記事全文を提供していただければ、重要なポイントや数字を含めて簡潔に要約することが可能です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-03T23:26:07.486538"
-  },
-  {
-    "source": "Zenn",
-    "title": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
-    "link": "https://zenn.dev/estie/articles/4f06bde08a90d4",
-    "summary": "プルリクエスト（PR）のレビュープロセスにおける効率化が課題となっていました。この課題に対し、AIレビューシステムを「PR作成前」と「PR作成後」の2段階で導入するアプローチが採用されました。この2段構えのAIレビュー導入により、開発チームのレビュー待ちが約70%削減されるという顕著な効果が得られました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-03T23:26:15.665858"
-  },
-  {
-    "source": "はてなブックマーク",
-    "title": "日本語ふぉんとライブラリ",
-    "link": "https://jpfont-library.com/",
-    "summary": "「日本語ふぉんとライブラリ」は、プロユース向け日本語フォントの書体見本やフォント情報を扱う総合ライブラリです。ユーザーはこのサイトを通じて、多様なフォント情報を横断的に閲覧・検索できます。掲載されている全てのフォントを一覧できるだけでなく、カテゴリ別やメーカー別といった方法でも効率的にフォントを探すことが可能です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-03T23:26:27.779862"
   }
 ]
