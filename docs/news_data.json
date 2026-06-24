@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "フルーティな酸味を感じる爽やかなリンゴ風味のエナドリ「モンスター バッドアップル」を飲んでみた",
+    "link": "https://gigazine.net/news/20260624-monster-energy-bad-apple/",
+    "summary": "モンスターエナジーの果汁入りブランド「果汁モンスター」から、初のアップルフレーバーとなるエナジードリンク「モンスター バッドアップル」が2026年6月30日(火)に発売されます。この新製品は、ドライなアップルの風味とフルーティな酸味を感じる爽やかさが特徴です。記事では、編集部が発売に先駆けてその味を詳しくレビューしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-24T08:49:14.214628"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Flutter】金融アプリのVRTをAIと組み合わせて運用してみた",
+    "link": "https://zenn.dev/bloomo_tech/articles/c8235d169f8bf0",
+    "summary": "Flutter製金融アプリの開発において、ビジュアルリグレッションテスト (VRT) にAI技術を導入し、その運用事例が紹介されています。従来のVRTでは、UIの意図しない変更を検出できるものの、些細な差異による誤検出が多く、レビュー工数が課題でした。\n\n本取り組みでは、AIが変更箇所の重要度を判断することで誤検出を大幅に削減し、効率的なUI品質保証を実現しています。これにより、特に厳格な正確性が求められる金融アプリの品質管理と開発効率の向上が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-24T08:49:27.461650"
+  },
+  {
+    "source": "Qiita",
+    "title": "RAG を全体像から理解する",
+    "link": "https://qiita.com/imi-glenn/items/b96f31b9047d1642ef3d",
+    "summary": "RAG（Retrieval-Augmented Generation）は、大規模言語モデル（LLM）が特定のドキュメント（例：社員ハンドブック）に基づいた質問に回答するための技術です。従来のLLMは、「新入社員の有給休暇日数」といった質問に対し、一般的な知識に頼ってしまう課題がありました。RAGはこの問題を解決し、LLMが外部の正確な情報源から情報を取得し、それに基づいて回答を生成する流れを可能にします。これにより、より信頼性の高い回答が得られます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-24T08:49:37.038244"
+  },
+  {
     "source": "ITmedia",
     "title": "Googleの初心者向けAI講座を徹底レビュー　受ける価値はある？【動画あり】",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/24/news036.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-04T09:38:32.067912"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ノートPCで動くGoogle製「Gemma 4 12B」がエンコーダー不要で画像＆音声を処理する仕組みとは？",
-    "link": "https://gigazine.net/news/20260604-gemma-4-12b-encoder-free/",
-    "summary": "Googleは2026年6月3日、ノートPCでも動作する軽量AIモデル「Gemma 4 12B」を公開しました。このモデルは16GBのVRAMまたはユニファイドメモリで動作し、画像と音声をエンコーダーなしで処理できるマルチモーダル機能が最大の特長です。この画期的な「エンコーダーなし」の仕組みとその意義については、Google DeepMindの社員が詳細な解説記事で説明しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-04T09:38:39.922970"
-  },
-  {
-    "source": "Zenn",
-    "title": "GitHub Copilot の Custom Agent で Azure Updates をまとめてみる",
-    "link": "https://zenn.dev/microsoft/articles/zenn-agent-azure-updates",
-    "summary": "この記事は、GitHub CopilotのCustom Agentを活用し、Microsoft Azureの最新アップデート情報を効率的に整理・要約する方法について解説しています。\n\n膨大な量のAzureアップデートの中から、開発者やITプロフェッショナルが必要な情報を素早く収集し、理解を深めるための実践的なアプローチが紹介されています。これにより、最新のサービスや機能変更に容易に追従し、情報収集の負担を軽減することを目指しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-04T09:38:50.061458"
-  },
-  {
-    "source": "Qiita",
-    "title": "「知識ストア」から「AIエージェントの記憶基盤」へ — memory type を増やさずに4つのプリミティブで埋めた設計の話",
-    "link": "https://qiita.com/kiyotaman/items/1d3c18282a85edb745fe",
-    "summary": "Kagura Memory Cloudは、もともとハイブリッド検索やニューラルグラフなどを備えた高性能な「知識ストア」として機能していました。しかし、自律AIエージェントのループを円滑に回すには、従来の知識ストアでは4つの機能的な不足点があることが判明しました。\n\nそこで開発チームは、安易に多数の個別の記憶タイプを追加するのではなく、「いつ情報を配るか（delivery）」と「情報の信頼度（trust）」という2つの観点から、汎用的な4つのプリミティブ（基本要素）を設計・実装しました。このアプローチにより、Kagura Memory Cloudは「AIエージェントの記憶基盤」へと進化を遂げました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-04T09:38:58.885022"
   }
 ]
