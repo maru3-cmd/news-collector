@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ClaudeがSlackメンバーの一員に　コード生成やデータ調査などを自律処理",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news035.html",
+    "summary": "Anthropicは、AIアシスタントのClaudeをSlackのチームメンバーとして共有できる新機能「Claude Tag」のβ版を提供開始しました。この機能により、Claudeはチームの会話を引き継ぎ、様々なタスクを自律的かつ非同期に処理します。具体的には、コード生成やデータ調査といった業務を効率的に行えるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-24T22:58:51.984806"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "警察署長が「Flock」のナンバープレート追跡システムを使って元恋人をストーキングしていたことが判明",
+    "link": "https://gigazine.net/news/20260625-police-flock-stalking/",
+    "summary": "米国の警察署長が、署に導入された「Flock」ナンバープレート追跡システムを悪用し、3人の元恋人をストーキングしていたことが発覚しました。このシステムはもともと市民からの反発があったにもかかわらず導入されており、署長による悪用が明らかになったことで、その監視システムの倫理性と本来の意義が問われています。今回の事件は、テクノロジーの悪用リスクと、監視技術の適切な導入・運用に関する広範な議論を呼び起こしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-24T22:59:00.645206"
+  },
+  {
+    "source": "Zenn",
+    "title": "「賢いSkill」が「ただのテキストファイル」に負けた話（Vercelの実験データ）",
+    "link": "https://zenn.dev/ju571n/articles/agents-md-beats-skills",
+    "summary": "Vercelの実験データによると、高度な技術や複雑な「賢いSkill」を用いたシステムが、シンプルに「ただのテキストファイル」をベースとするアプローチに劣る結果が出ました。これは、パフォーマンスやコスト効率といった側面において、複雑な技術の導入が必ずしも最良の選択ではなく、むしろシンプルな構成が優位に立つ場合があることを示唆しています。具体的な数値は記事に委ねられますが、このデータはプロジェクトの要件によっては、より基本的なアプローチが優れた結果をもたらし得ることを強調しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-24T22:59:13.429938"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest — 2026年6月25日：GPT-5.5-Cyber、Colossus 2、AlphaFoldの流出",
+    "link": "https://qiita.com/lhjjjk4/items/cd5a8b4d3a36d5b84762",
+    "summary": "OpenAIは、サイバーセキュリティに特化した新モデル「GPT-5.5-Cyber」を発表しました。このモデルはCyberGymベンチマークで85.6%という最高スコアを記録し、大規模なコードベースにおける脆弱性の発見、攻撃経路の追跡、パッチ生成に特化しています。しかし、本モデルは一般公開されず、「Trusted Access for Cyber」プログラムを通じてAkamaiやCiscoなどの認定組織のみが利用可能です。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-06-24T22:59:20.753318"
+  },
+  {
     "source": "GIGAZINE",
     "title": "フルーティな酸味を感じる爽やかなリンゴ風味のエナドリ「モンスター バッドアップル」を飲んでみた",
     "link": "https://gigazine.net/news/20260624-monster-energy-bad-apple/",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-06-04T23:01:15.450540"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "63％の人々が心理的なサポートを求めてAIを利用したことがあり42％はAIのアドバイスに常に従うとの調査結果",
-    "link": "https://gigazine.net/news/20260605-people-turn-to-ai-psychological-support/",
-    "summary": "ChatGPTやGeminiのようなAIは人間のような対話が可能で、日々の相談相手や話し相手として活用されています。フランスの金融・保険グループのアクサと市場調査企業のIPSOSが発表したレポートによると、63%もの人々が心理的なサポートを求めてAIを利用した経験があることが明らかになりました。さらに、この調査では42%の人々がAIのアドバイスに常に従っていることも報告されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-04T23:01:25.909303"
-  },
-  {
-    "source": "Zenn",
-    "title": "claude ワーカーがサボってそうで怖い — claude -p を無人運用するための「思考の生中継」と落とし穴",
-    "link": "https://zenn.dev/zaico/articles/75c02c8d7c507f",
-    "summary": "本記事は、AIエージェント「Claude-P」の無人運用において、AIワーカーが指示をサボる可能性への懸念を提示しています。この問題への対策として、AIの思考プロセスを逐次出力させる「思考の生中継」が提案されています。しかし、この手法はAIが思考を生成するコストを増大させ、パフォーマンス低下を招くなど、いくつかの「落とし穴」が存在することが指摘されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-04T23:01:34.624112"
-  },
-  {
-    "source": "Qiita",
-    "title": "3Dアセット探しを爆速にするWebアプリ『MODL AI』を個人開発した話【Lovable × AI検索】",
-    "link": "https://qiita.com/reodesuxz/items/73e68db38e26f7961511",
-    "summary": "インディーゲーム開発者が直面する3Dアセット探しの非効率性を解決するため、個人開発者がAI検索を活用したWebアプリ『MODL』を開発・公開しました。\nこのツールは、複数の3Dアセットサイトを横断的に検索し、必要な3Dモデルを瞬時に見つけ出すことを目的としています。\nユーザーはゲームのコンセプトを入力するだけで、直接`.glb`形式で3Dモデルをダウンロードすることが可能です。\nこれにより、何時間もかかっていたアセット探しの時間を大幅に短縮し、インディーゲーム開発のプロトタイプ制作を加速させます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-04T23:01:47.999923"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
-    "summary": "ServiceNowとAccentureは、エージェント型AIの全社展開を支援する新プログラム「FDE」を開始しました。このプログラムは、AI導入が実証実験の段階で止まり、企業全体の成果に繋がらないという課題を解決することを目的としています。両社はFDEを通じて、エージェント型AIの導入を加速させ、組織全体でのビジネス価値創出を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-04T09:38:32.067912"
   }
 ]
