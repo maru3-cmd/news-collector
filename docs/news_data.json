@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "KDDIメール基盤から最大で1422万件漏えい　ニフティやBIGLOBEなど6社に波及",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news043.html",
+    "summary": "KDDIはISP向けメール基盤への不正アクセスにより、最大で1422万件のメールアドレスとパスワードが漏えいした可能性があると発表しました。この漏えいはニフティやBIGLOBEなど、合計6社に波及しています。関係各社は、ユーザーにパスワードの変更を呼びかけるとともに、引き続き調査と対応を進めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-25T08:43:24.401640"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "揚げ物たっぷり＆つゆ2倍で塩分補給も可能なほっかほっか亭「スタミナ天ぷら冷し梅おろしうどん」試食レビュー",
+    "link": "https://gigazine.net/news/20260625-hokkahokka-tei-stamina-udon-summer/",
+    "summary": "ほっかほっか亭は、「夏のカラダメンテ飯」として「スタミナ天ぷら冷し梅おろしうどん」を2026年7月1日に発売します。\nこの冷しうどんは、ソーセージやごぼうのサクサク天ぷらが特徴で、塩分補給を可能にするため通常より2倍となる2袋のうどんつゆが付属するのが大きなポイントです。\n発売に先立つ先行試食会では、その構成や味が詳しくレビューされました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-25T08:43:35.700482"
+  },
+  {
+    "source": "Zenn",
+    "title": "Spring Boot で Claude のストリーミング応答を SSE でブラウザへ流す",
+    "link": "https://zenn.dev/propagandist/articles/0002-spring-boot-claude-streaming",
+    "summary": "この記事は、Spring Bootアプリケーションを用いて、AnthropicのAIモデルClaudeからのストリーミング応答をリアルタイムでブラウザに表示する方法を解説しています。具体的には、サーバーサイドでClaudeからの連続的なテキスト生成を受け取り、これをSSE（Server-Sent Events）プロトコルを利用して効率的にクライアントブラウザへ配信する手法を紹介しています。これにより、ユーザーはAIの生成応答を待つことなく、文字が生成されるそばから順次確認できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-25T08:43:44.400837"
+  },
+  {
+    "source": "Qiita",
+    "title": "git worktree で複数のAIコーディングエージェントを並列実行する — 競合ゼロのハンズオン",
+    "link": "https://qiita.com/kai_kou/items/a40ca46ae1777c12253a",
+    "summary": "複数のAIコーディングエージェントを同じリポジトリで並行実行すると、作業ディレクトリの競合により、ファイルの破損やブランチの混線といった問題が発生します。この問題は`git worktree`で解決でき、1つの`.git`オブジェクトストアを共有しつつ、ブランチごとに独立した作業ディレクトリを切り出すことで、ディスクや履歴の二重化なしに並列作業が可能になります。\n\n本記事は、標準の`git worktree`コマンドを用いて2つのエージェントを競合なく並列実行する最短ワークフローをハンズオンで示し、`node_modules`や`.env`のハマりどころ、差分レビュー、マージ、後片付けまでを解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-25T08:43:53.248774"
+  },
+  {
+    "source": "ITmedia",
     "title": "ClaudeがSlackメンバーの一員に　コード生成やデータ調査などを自律処理",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news035.html",
     "summary": "Anthropicは、AIアシスタントのClaudeをSlackのチームメンバーとして共有できる新機能「Claude Tag」のβ版を提供開始しました。この機能により、Claudeはチームの会話を引き継ぎ、様々なタスクを自律的かつ非同期に処理します。具体的には、コード生成やデータ調査といった業務を効率的に行えるようになります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-05T09:00:40.004899"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Google検索に「公式プロフィール」機能が登場、サイトやSNSへの投稿を1か所で追えるように",
-    "link": "https://gigazine.net/news/20260605-google-search-profile/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 15.783091095s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 15\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-05T09:00:44.306871"
-  },
-  {
-    "source": "Zenn",
-    "title": "フロントエンド開発で使えるMCPサーバーを徹底的にまとめてみた",
-    "link": "https://zenn.dev/actbe_tech/articles/a0f1f3609cfc9d",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 11.231603301s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 11\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-05T09:00:48.858826"
-  },
-  {
-    "source": "Qiita",
-    "title": "TPUはなぜ流行らないのか — トークン単価が安いのに誰も使わない理由",
-    "link": "https://qiita.com/toyama0919/items/ecfe49f2627b1ca4b44d",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 6.711076127s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 6\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-05T09:00:53.380426"
-  },
-  {
-    "source": "ITmedia",
-    "title": "M365のデータ保護は誰の責任？　Hornetsecurityが提示する包括的セキュリティ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news017.html",
-    "summary": "Hornetsecurityは、Microsoft 365 (M365) 環境向けの包括的なデータ保護ソリューション「365 Total Backup」の国内提供を開始しました。このソリューションは、M365インフラから完全に独立したデータセンターでデータを保管することで、高いセキュリティを実現します。さらに、「セルフサービス復元」機能などにより、管理者の負荷を大幅に軽減しつつ、堅牢なデータ保護を提供します。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-06-04T23:01:15.450540"
   }
 ]
