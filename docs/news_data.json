@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "終わらない「レガシー延命」が命取りに　AI時代のサイバー危機にセキュリティ機関が声明",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news105.html",
+    "summary": "ファイブアイズは共同声明で、AIの急速な発展によりサイバーリスクが月単位で激変している現状に警鐘を鳴らしました。彼らは、サイバーセキュリティ問題がもはや技術課題ではなく、企業経営に直結する重要な「経営リスク」であると指摘。このため、経営層に対し、即時の対応と防御強化を強く求めています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-25T23:07:25.720488"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "どのヘルメットが衝撃吸収に優れているのかがわかるヘルメット評価ランキングサイト",
+    "link": "https://gigazine.net/news/20260626-virginia-tech-helmet-ratings/",
+    "summary": "アメリカのバージニア工科大学の研究者らが、工事現場、スポーツ、自転車など、様々な用途のヘルメットの衝撃吸収性能を評価したランキングを公開しています。このランキングは、脳しんとうを防ぐのに最も効果的なヘルメットを特定することを目的としています。消費者は、このウェブサイトを通じて、それぞれのヘルメットの安全性に関する詳細な評価を確認し、より安全な製品を選ぶための参考にできます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-25T23:07:32.772557"
+  },
+  {
+    "source": "Zenn",
+    "title": "この春、PV201のLPを毎朝AIに見てもらい「触らない」SEO運用を作った",
+    "link": "https://zenn.dev/seeda_yuto/articles/side-project-ai-maintenance-habit",
+    "summary": "この春、ある企業が特定のランディングページ（PV201のLP）に対し、革新的なSEO運用を開始しました。その運用は、AIが毎日ページの状態を監視・分析するという特徴を持ちます。これにより、人間が頻繁に介入することなく最適化される「触らない」SEOモデルが実現され、効率的なウェブサイト改善が図られています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-25T23:07:41.613680"
+  },
+  {
+    "source": "Qiita",
+    "title": "【初心者向け】普通のClaudeと何が違うの？噂の「Claude Code」がプログラミング初心者の「最強の相棒」になる理由",
+    "link": "https://qiita.com/chuandujiusi/items/dce76ec1557f6de69a55",
+    "summary": "「Claude Code」はプログラミング初心者の「最強の相棒」として注目されており、通常のWeb版Claudeとの決定的な違いは「作業の距離感」にあります。\n\nWeb版ClaudeがWebブラウザでテキストベースのアドバイスを行う「電話越しの優秀なアドバイザー」だとすると、Claude Codeはターミナル上で動作し、PC内のファイルや状況を把握して、コードの修正・実行・動作確認まで直接行えます。\n\nこれにより、まるで「隣に座ってくれる先輩エンジニア」のように開発環境と一体化した実践的なサポートを提供するため、初心者のプログラミング学習や開発効率を飛躍的に向上させると期待されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-06-25T23:07:51.236291"
+  },
+  {
+    "source": "ITmedia",
     "title": "KDDIメール基盤から最大で1422万件漏えい　ニフティやBIGLOBEなど6社に波及",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news043.html",
     "summary": "KDDIはISP向けメール基盤への不正アクセスにより、最大で1422万件のメールアドレスとパスワードが漏えいした可能性があると発表しました。この漏えいはニフティやBIGLOBEなど、合計6社に波及しています。関係各社は、ユーザーにパスワードの変更を呼びかけるとともに、引き続き調査と対応を進めています。",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "news",
     "collected_at": "2026-06-05T22:57:57.207341"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能",
-    "link": "https://gigazine.net/news/20260605-sw-dlt-youtube-download/",
-    "summary": "「SW-DLT」は、iPhoneやiPadからYouTube動画を無料で直接ダウンロード・保存できるショートカットツールです。YouTubeアプリからわずか数タップで動画を保存でき、GitHubで公開されているショートカットをインストールするだけで導入可能です。導入にはターミナルアプリ「a-Shell」のインストールが前提となりますが、動画だけでなく音声や画像などの保存にも対応しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-06-05T22:58:06.022015"
-  },
-  {
-    "source": "Zenn",
-    "title": "ひとり開発の強力な相棒は Kiro に決まり？",
-    "link": "https://zenn.dev/ryusei_nomi/articles/997666169d45bb",
-    "summary": "提供された記事はタイトルと内容が同一で、「ひとり開発の強力な相棒は Kiro に決まり？」という問いかけのみで構成されています。\n\nこの記事は、個人開発（ひとり開発）において「Kiro」がどのような役割を果たすのか、特にそれが「強力な相棒」となる可能性について焦点を当てています。具体的な内容が提示されていないため、Kiroが果たし得る機能やメリットについては言及がありません。しかし、タイトル自体が問いかけの形をとっていることから、Kiroが今後の個人開発において重要な存在となり得るかを探る趣旨であると推察されます。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-05T22:58:16.183747"
-  },
-  {
-    "source": "Qiita",
-    "title": "【開発日誌 Day10】AI時代のメモは、整理して書かない方がいい",
-    "link": "https://qiita.com/simplememo/items/9314764226c535e21cdf",
-    "summary": "この記事は、AI時代におけるメモの取り方について、一般的な「整理して書け」という通説に異を唱えています。筆者は半年間の個人開発でメモアプリを制作する中で、「整理して書くほど、メモはむしろ捕まえ損ねる」という結論に至りました。これは、1960年代に9万枚のカードを番号とリンクで整理したニクラス・ルーマンのZettelkastenや、1980年代のGTD（Getting Things Done）のように、体系的な整理を推奨してきた従来の作法とは正反対の考え方です。筆者は、その結論に至った理由を実装の判断と共に順に説明すると述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-05T22:58:24.797581"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIで思考力が奪われる？　世界の研究が警告するAIバカの壁【動画あり】",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news037.html",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.086693612s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 20\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-05T09:00:40.004899"
   }
 ]
