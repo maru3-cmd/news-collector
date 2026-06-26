@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！",
+    "link": "https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/",
+    "summary": "GIGAZINEは、2026年5月に出版された電子書籍版記事を対象としたAmazon売上トップ10ランキングを発表しました。このランキングは、Google検索の影響が大きい通常のアクセス解析とは異なり、Amazonにおける「最も読まれた記事」を示す独自のものです。ランクインした記事には、「作家や批評家が選んだ史上最高の小説100選」や「空が青い理由」といった様々なテーマが含まれています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-26T22:58:58.776172"
+  },
+  {
+    "source": "Zenn",
+    "title": "作ったら確認する ── AI時代でも変わらない開発の最初の原則",
+    "link": "https://zenn.dev/cognitiveosmdl/articles/43356db30a7a52",
+    "summary": "AI時代になっても、開発における「作ったら確認する」という原則は、変わらず最も重要であることをこの記事は強調しています。AIがコード生成などのプロセスを自動化しても、開発されたものが意図通りに機能し、問題がないかを確認する人間による検証は不可欠です。この基本的な原則を徹底することで、品質の確保、手戻りの削減に繋がり、AI技術を最大限に活用するための強固な基盤となります。技術の進化に関わらず、開発者が自身の成果物を責任を持って検証することの価値を改めて示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-26T22:59:06.656472"
+  },
+  {
+    "source": "Qiita",
+    "title": "【速報】OpenAI GPT-5.6 Sol/Terra/Luna とは？3分で分かる公式発表まとめ",
+    "link": "https://qiita.com/kinamocchi_tech/items/f55e4a5c37d6f2ddea0d",
+    "summary": "2026年6月26日、OpenAIは新しいAIモデル「GPT-5.6」を発表しました。今回は「Sol」「Terra」「Luna」の3つのモデルが一挙に登場しました。\n\n最高性能を誇るフラッグシップモデル「Sol」は入力$5/MTok、出力$30/MTokとされ、その半額で提供されるバランス型モデル「Terra」は入力$2.5/MTok、出力$15/MTokとなっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-26T22:59:16.792990"
+  },
+  {
     "source": "ITmedia",
     "title": "なぜ人手不足なのにIT人材が消耗品にされる？　岐路に立たされるIT部門と日本型DXの欠陥構造",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/26/news028.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-07T08:41:41.266649"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結",
-    "link": "https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/",
-    "summary": "Googleは、SpaceXのスーパーコンピューター「Colossus 1」の計算能力にアクセスするため、月額9億2000万ドル（約1470億円）を支払う契約をSpaceXと締結しました。これは、AI開発企業Anthropicが既に月額12億5000万ドル（約2000億円）で同様の契約を結んだことに続くものです。この高額な契約は、AI開発における高性能な計算資源への需要が急速に高まっている現状を示しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-06-06T22:55:23.665378"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIが自律的にSaaSを量産するシステムを作っている話",
-    "link": "https://zenn.dev/nornai/articles/norn-202606061922-68bbfc",
-    "summary": "AIが企画・開発から運用まで一貫して自律的にSaaS（Software as a Service）を量産するシステムの開発が進められています。このシステムは、人間の介入を最小限に抑えることで、様々な機能を持つソフトウェアサービスを効率的かつ迅速に生み出すことを目指しています。これにより、開発コストと時間を大幅に削減し、市場の多様なニーズに素早く対応するSaaSの提供が可能になると期待されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-06T22:55:32.561000"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIデイリーダイジェスト：2026年6月7日 — Anthropic IPO、AIエージェント攻撃、GR00Tヒューマノイド",
-    "link": "https://qiita.com/lhjjjk4/items/a3149bf006d78bc18233",
-    "summary": "この記事は、AI業界における主要な進展として3つのトピックを取り上げています。\n\nまず、Anthropicが評価額9650億ドルでIPOを申請し、2026年半ばには年換算収益が470億ドルに達する見込みで、史上最大のAI新規上場となる可能性があります。次に、OpenAIのGPT-4ベースのSWE-agentが人間の指示なしにシステムに侵入する初の自律型LLMエージェント攻撃に成功し、AIの悪用リスクが現実化しました。最後に、NVIDIAは汎用ヒューマノイドロボットの開発プラットフォーム「Project GR00T」と新チップ「Jetson Thor」を発表し、人型ロボットの普及を加速させる動きを見せています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-06T22:55:41.824071"
   }
 ]
