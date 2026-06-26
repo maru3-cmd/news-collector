@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "なぜ人手不足なのにIT人材が消耗品にされる？　岐路に立たされるIT部門と日本型DXの欠陥構造",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/26/news028.html",
+    "summary": "過去25年間の「合理的判断」の連続により、日本企業ではIT部門の技術空洞化とアウトソースへの過度な依存が進行しました。この結果、人手不足であるにもかかわらずIT人材が消耗品のように扱われる「日本型DXの致命的な欠陥構造」が形成されています。本記事は、この現状を分析し、IT部門および組織全体の再生に向けた道筋を提示しています。",
+    "category": "DX・業務改善",
+    "content_type": "news",
+    "collected_at": "2026-06-26T08:45:02.465840"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "脂身＆赤身の牛バラステーキがゴロゴロ入ったバーガーキング「BBQステーキワッパー」試食レビュー、甘辛のBBQソースが肉に合う",
+    "link": "https://gigazine.net/news/20260626-burgerking-bbq-steak/",
+    "summary": "バーガーキングは、2026年6月19日に夏限定メニュー「BBQステーキワッパー」を発売しました。このバーガーは、直火焼きビーフパティに脂身と赤身の牛バラステーキを重ね、特製BBQスパイスソースで仕上げたボリューム満点の一品です。同時に、ビーフパティ2枚の「ダブルBBQステーキワッパー」とチーズ入りの「チーズBBQステーキワッパー」も登場し、計3種類の味が試食されました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-26T08:45:11.937010"
+  },
+  {
+    "source": "Zenn",
+    "title": "フォーム回答をAIに渡す前に status と owner を持つ理由",
+    "link": "https://zenn.dev/lova_man/articles/0a226e6a8423fb",
+    "summary": "記事本文が提供されていないため、正確な内容を要約することはできません。\n\nしかし、タイトル「フォーム回答をAIに渡す前に status と owner を持つ理由」から推測すると、この記事はAIにフォーム回答を処理させる前に、各回答に「status（状態）」と「owner（担当者）」を設定することの重要性について解説していると考えられます。これにより、AI処理の自動化と人間による介入のバランスを最適化し、タスクの進捗管理や責任の明確化、エラー発生時の対応効率を向上させることが主な理由として挙げられていると推測されます。これは、AIと人間の協調作業を円滑に進めるための基盤作りと言えるでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-26T08:45:23.546092"
+  },
+  {
+    "source": "Qiita",
+    "title": "顧客の声をAI分析する前にCSV列とプロンプトを決める",
+    "link": "https://qiita.com/lovanaut/items/2ca80a719cafd3dc20d3",
+    "summary": "顧客の声をAIで分析する際、自由記述をそのまま使うと、業務に活用できない単なる「良い感じのまとめ」で終わってしまいます。これは、声の出所、評価、返信要否、担当者、種類（要望か不具合か）といった重要な背景情報が不足しているためです。\n\nAI分析結果を実務に繋げるには、まず「どのフォームからの声か」「低評価か」「要返信か」といった要素を含むCSV列を事前に設計することが不可欠です。\n\nプロンプトを決めるよりも先にCSV列を定めることで、アンケートだけでなく問い合わせフォームや解約理由など多岐にわたる顧客の声を安定してAI分析し、具体的な業務改善へと繋げることが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-26T08:45:31.422103"
+  },
+  {
+    "source": "ITmedia",
     "title": "終わらない「レガシー延命」が命取りに　AI時代のサイバー危機にセキュリティ機関が声明",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news105.html",
     "summary": "ファイブアイズは共同声明で、AIの急速な発展によりサイバーリスクが月単位で激変している現状に警鐘を鳴らしました。彼らは、サイバーセキュリティ問題がもはや技術課題ではなく、企業経営に直結する重要な「経営リスク」であると指摘。このため、経営層に対し、即時の対応と防御強化を強く求めています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-06T22:55:41.824071"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ChromeがM5 MacBook Proでブラウザベンチマークの記録を更新、全ブラウザ中最高のパフォーマンスとアピール",
-    "link": "https://gigazine.net/news/20260606-chrome-breaks-benchmark-records-m5-macbook-pro/",
-    "summary": "Google ChromeがM5 MacBook Pro上で、Speedometer 3.1とJetstream 3という2つの主要なブラウザベンチマークにおいて過去最高のスコアを記録しました。特にSpeedometer 3.1では、Chromeが全ブラウザ中トップのパフォーマンスを達成しています。これにより、GoogleはChromeが現在利用可能なブラウザの中で最高のパフォーマンスを発揮しているとアピールしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-06T08:20:09.156325"
-  },
-  {
-    "source": "Zenn",
-    "title": "この春、AIエージェントたちの国を作り、文明を観測し始めた",
-    "link": "https://zenn.dev/sunwood_ai_labs/articles/20260606-oni-cadia-ai-civilization",
-    "summary": "この春、AIエージェントたちによる「国」の構築が開始されました。このプロジェクトの主な目的は、AIエージェントたちが形成する文明の発展と動態を観測することです。これは、人工知能が仮想環境でどのような社会を築き、進化していくかを研究する新たな試みと言えます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-06T08:20:16.319555"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code×MCP×Google Sheets連携まとめ5選",
-    "link": "https://qiita.com/kamome_susume/items/61878d3e3e9481f2d0b2",
-    "summary": "この記事は、Claude CodeとMCP（Model Context Protocol）を組み合わせることで、Google Sheetsを自動操作する方法を解説しています。MCPを活用することで、Claude CodeはGoogle Sheetsを直接読み書きできる「自律型エージェント」として機能します。\n\nこれにより、手動でのデータ入力・集計などの繰り返し作業を自然言語の指示だけで自動化することが可能になります。本記事では、実務で使える連携パターンを5つ紹介しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-06T08:20:25.312323"
-  },
-  {
-    "source": "ITmedia",
-    "title": "知らない番号からの着信、出る前に見抜く　話題の警察庁推奨アプリを試してみた",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news082.html",
-    "summary": "警察庁が推奨する無料の特殊詐欺対策アプリを筆者が検証しました。このアプリは、特殊詐欺の危険な電話をブロックするだけでなく、営業電話の識別や着信検索の手間を省くなど、意外な利便性も提供します。しかし、筆者は常用する上での誤判定リスクや、サービス提供事業の持続性といった構造的な課題も指摘しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-06-05T22:57:57.207341"
   }
 ]
