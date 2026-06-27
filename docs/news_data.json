@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「AIに機密データは使えない」はもう古い？　Googleが「機密AI」を拡充",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news026.html",
+    "summary": "Googleは、Confidential Computingの新機能を発表し、AIにおける機密データ利用の課題解決に乗り出しています。具体的には、高性能なG4系機密VMやプロンプト暗号化SDKを公開し、AI処理時の秘匿性と検証性を大幅に強化しました。これにより、「AIに機密データは使えない」という認識を覆し、Appleとの協業を通じて機密基盤の拡充も進めています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-27T22:54:37.299633"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」",
+    "link": "https://gigazine.net/news/20260627-setpose-3d/",
+    "summary": "無料でログイン不要の3Dポーズ作成ツール「SetPose」が登場しました。このツールは、3Dデッサン人形を自由自在に動かし、体の各パーツをドラッグするだけで簡単に様々なポーズを作成できます。直感的な操作でポーズの参考にできるため、イラストや漫画などの創作活動に大いに役立ちます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-27T22:54:44.538790"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIが「できる」と言ったから作ったら、思ったより大変だった話【さくらレビュー検出Chrome拡張】",
+    "link": "https://zenn.dev/yosiki/articles/sakura-review-detector-dev-story",
+    "summary": "AIが「できる」と示したことをきっかけに、「さくらレビュー検出Chrome拡張」の開発が始まりました。しかし、実際にプロジェクトを進めてみると、AIが可能だと言っていたにもかかわらず、予想以上に多くの困難に直面しました。この話は、AIの指示だけで開発がスムーズに進むとは限らず、現実のシステム構築には多大な労力と試行錯誤が必要であることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-27T22:54:52.688758"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest — 2026年6月28日：OpenAI Jalapeñoチップ、人材流出、SKハイニックスIPO",
+    "link": "https://qiita.com/lhjjjk4/items/24121cad76b6a93a1639",
+    "summary": "2026年6月28日のAIダイジェストでは、OpenAIがBroadcomと共同で初のカスタムAIチップ「Jalapeño」を6月24日に発表したことが主要なニュースです。このASICはOpenAI自身のLLMを活用し、わずか9ヶ月という記録的な速さで開発され、ワットあたりの性能は現在の市場リーダーを大幅に上回るとのことです。2026年末からギガワット級データセンターでの展開が始まります。\n\nまた、AI業界では人材争奪戦が激化しており、AnthropicがGoogleから最優秀人材を引き抜いたことが報じられています。この記事は、ハードウェア開発競争と人材獲得競争が現在のAIセクターの動向を形作っていることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-27T22:55:02.316938"
+  },
+  {
     "source": "GIGAZINE",
     "title": "超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？",
     "link": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-08T10:11:43.379081"
-  },
-  {
-    "source": "ITmedia",
-    "title": "なぜ本番環境のAIは失敗するのか？　Datadog調査で判明した「運用の壁」と打開策",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news040.html",
-    "summary": "Datadogが発表した「2026年版 AI Engineering調査レポート」によると、本番環境でAIを運用する組織において、AIリクエストの約5%が失敗している現状が明らかになりました。\n\nこれは、AI導入の急速な進展とデータ量の増加に伴い、運用の複雑性が増しているためです。本調査は、本番環境におけるAI運用の困難さと、それに伴う失敗率の高さを浮き彫りにしています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-07T22:54:10.741994"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
-    "link": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
-    "summary": "AIブームを牽引するOpenAI、Claude開発元のAnthropic、そしてイーロン・マスク氏率いるSpaceX（傘下にxAIを持つ）の主要3社が、株式市場への上場を検討していると報じられています。これらAI業界の注目企業は、それぞれChatGPT、Claude、Grokといったプロダクトを擁し、史上最大級の株式市場デビューとなる可能性を秘めています。\n\n世界的な経済紙The Economistは、これほど大規模なAI企業が相次いで上場した場合、市場がその規模を受け止めきれるのか、そしてその影響について議論しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-07T22:54:19.162660"
-  },
-  {
-    "source": "Zenn",
-    "title": "【Claude Code】AIエージェントに\"部下\"を持たせたら手が空いた ── サブエージェント3人で\"財布\"が焼けた話",
-    "link": "https://zenn.dev/i_ichi/articles/claude-code-subagent-cost",
-    "summary": "記事は、Claude Codeを用いてメインのAIエージェントに3人のサブエージェントを「部下」として割り当てた実験について述べています。この分業体制により、筆者はメインエージェントの作業負担を軽減し、効率的にタスクを処理できるようになったと報告しています。しかし、この効果的なAIの多段階活用は、3人のサブエージェントの利用に伴う計算コストが大幅に増加し、「財布が焼ける」ほどの高額な出費につながったと結んでいます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-07T22:54:27.897591"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code × tmux でバックグラウンド実行とエージェント管理を整理する",
-    "link": "https://qiita.com/goki602/items/4a44eceb28c5cbbcbab6",
-    "summary": "AIコーディングエージェントに長時間タスクを任せる際、タスクをバックグラウンド実行させ、離席できる環境の整備が課題となっています。この解決策として、2007年から存在するターミナルマルチプレクサ「tmux」が再注目されています。\n\n実際、2026年6月4日には「tmuxがコーディングエージェントのランタイム」と解説する記事が267ブックマークを集め、その関心の高さを示しました。\n\n本記事は、Claude Codeとtmuxを組み合わせることで、エージェントのバックグラウンド実行と管理を効率化し、長時間タスク運用における課題を解決するための情報を提供することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-07T22:54:35.062987"
   }
 ]
