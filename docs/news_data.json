@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？",
+    "link": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/",
+    "summary": "ニュー・サウス・ウェールズ大学のフランシスコ・トルヒーリョ氏率いる研究チームが、高周波超音波を利用した新しいエスプレッソ抽出方法を開発しました。この革新的な手法は、従来のエスプレッソマシンと比較して、同じ飲料濃度で消費エネルギーを約75％削減できる可能性を示しています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-06-27T08:22:28.166982"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code + GTDに切り替えたら、タスク管理が育ち始めた",
+    "link": "https://zenn.dev/tottoko_hamu/articles/2026-06-03-114832",
+    "summary": "この記事は、筆者がタスク管理の手法を「Claude Code + GTD」という組み合わせに切り替えた経験について述べています。この変更の結果、筆者のタスク管理は「育ち始めた」、つまり改善し、効果的になったと報告されています。特定のツールと手法を組み合わせることで、タスク管理がより進化し、成長を実感できるようになったことを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-27T08:22:38.533172"
+  },
+  {
+    "source": "Qiita",
+    "title": "PyCharmのJunieって何ができるの？AIエージェントを使ってみた",
+    "link": "https://qiita.com/harupython/items/e90e41de4c526357d3e5",
+    "summary": "PyCharmのJunieは、単なるAIチャットではなく、プロジェクト全体を理解し、コード生成・修正・テスト実行まで自律的に行う「AIエージェント」です。AI Assistantがコードの質問や補完を行う補助ツールであるのに対し、Junieは実際にコードを動かして完成させます。記事は、多くの人が誤解する「JetBrains AI = Junie」ではないと強調し、JetBrains AIが特定のエージェントに縛られないプラットフォームであることを説明しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-27T08:22:48.064749"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！",
     "link": "https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/",
     "summary": "GIGAZINEは、2026年5月に出版された電子書籍版記事を対象としたAmazon売上トップ10ランキングを発表しました。このランキングは、Google検索の影響が大きい通常のアクセス解析とは異なり、Amazonにおける「最も読まれた記事」を示す独自のものです。ランクインした記事には、「作家や批評家が選んだ史上最高の小説100選」や「空が青い理由」といった様々なテーマが含まれています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-07T22:54:35.062987"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でローカルAIに再試行を促す機能・ステップの強制・エラー回復・VRAMを考慮したコンテキスト管理などのガードレールを追加できる「forge」",
-    "link": "https://gigazine.net/news/20260607-forge/",
-    "summary": "AIモデルはハルシネーションや処理中のタイムアウト・ループといったエラーリスクがあり、常に正確な出力をするとは限りません。「forge」は、セルフホスト型LLM向けの信頼性レイヤーとして、これらの課題に対応します。再試行を促す機能、ステップの強制、エラー回復、VRAMを考慮したコンテキスト管理などの「ガードレール」を適用することで、モデルの精度を向上させることができます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-07T08:41:26.905232"
-  },
-  {
-    "source": "Zenn",
-    "title": "【Cursor / Claude Code対応】最新のMCPサーバーを作って、AIに「忘れられない長期記憶層」を与えるハンズオン",
-    "link": "https://zenn.dev/kawacodejp/articles/50f80d7dbb006e",
-    "summary": "このハンズオン記事は、AIに「忘れられない長期記憶層」を付与するための具体的な方法を解説しています。最新のMCPサーバーを構築することでこれを実現し、CursorやClaude CodeといったAI開発ツールとの連携に対応しています。実践的な手順を通じて、AIの記憶能力を大幅に向上させるための技術を学ぶことができます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-07T08:41:33.645181"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026年版】AIコーディングツール徹底比較：Claude Code vs Gemini CLI vs Kiro",
-    "link": "https://qiita.com/devex12/items/197deb2b3143be03d457",
-    "summary": "2026年、AIコーディングツールは開発者の生産性を大幅に向上させており、この記事では「Claude Code」「Gemini CLI」「Kiro」の3つの主要ツールが比較されています。\n\nAnthropicのClaude Codeは有料（API課金）で高精度なコード生成と理解力が強みです。GoogleのGemini CLIは無料枠があり、Google製AIをCLIで利用できます。AWSのKiroは現在無料プレビュー中で、IDE統合型でSpec駆動開発を特徴としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-07T08:41:41.266649"
   }
 ]
