@@ -1,5 +1,32 @@
 [
   {
+    "source": "ITmedia",
+    "title": "トークン消費の爆発をどう防ぐ？　HPEとAMDが示す「自社データセンター回帰」という現実解",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news021.html",
+    "summary": "AIエージェントの普及に伴うトークンコストの爆発が課題となる中、HPEとAMDは「自社データセンター回帰」を現実的な解決策として提示しています。HPEのルッソCTOは、外部モデルへの依存による隠れたコストを指摘。推論処理を自社データセンターで行うためのインフラ戦略の重要性を強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-28T22:54:10.625141"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Amazonの闇賄賂の実態、販売停止解除や競合排除を請け負うAmazon従業員へ仲介する業者の存在が明らかに",
+    "link": "https://gigazine.net/news/20260629-amazon-shadow-industry/",
+    "summary": "Amazonマーケットプレイスにおいて、販売停止処分を受けた業者のアカウントを復旧させるため、Amazon社員への賄賂を仲介する業者の存在が明らかになりました。これらの仲介業者は、賄賂と引き換えにAmazon社員が内部情報や権限を不正利用し、アカウント復旧だけでなく競合排除も請け負っていた実態が報じられています。ある販売業者がAmazonへ証拠を提出したことで、Amazon社員による不正行為が横行する「闇市場」の存在が浮上しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-06-28T22:54:20.379990"
+  },
+  {
+    "source": "Zenn",
+    "title": "【6/15当日撤回】Claude Agent SDK・claude -p のサブスク別枠化は何だったのか",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-agent-sdk-billing-split-paused-2026-06",
+    "summary": "Claude Agent SDKおよび`claude -p`のサブスクリプション（購読）サービスに関して、新たな別枠化が計画されていました。しかし、この変更は2024年6月15日に発表されたものの、同日中に撤回される異例の事態となりました。この急な発表と撤回は、その意図や背景に関して大きな疑問を投げかける出来事として注目されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-28T22:54:28.108510"
+  },
+  {
     "source": "GIGAZINE",
     "title": "PlayStationはユーザーが購入した映像コンテンツをライブラリから削除している、「ターミネーター2」「死霊のはらわた」など人気作品も",
     "link": "https://gigazine.net/news/20260628-playstation-pulling-previously-purchased-digital-movies/",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-06-08T23:07:59.380472"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI人材",
-    "link": "https://zenn.dev/sunyang/articles/56981574197269",
-    "summary": "ご提示いただいた記事はタイトルと内容が共に「AI人材」のみであるため、一般的な「AI人材」に関する議論を要約します。\n\nAI人材とは、人工知能技術の開発、運用、活用を担う専門家を指し、企業のデジタルトランスフォーメーション（DX）推進や新たなビジネス価値創出に不可欠な存在です。AI技術の急速な進化と普及に伴い、世界的にAI人材の需要が急増しており、その育成と確保は多くの組織にとって喫緊の課題となっています。このような人材の確保が、企業の競争力向上や社会全体の発展に直結すると考えられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-08T23:08:11.932081"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年6月9日",
-    "link": "https://qiita.com/ishisaka/items/14189c81db2135910830",
-    "summary": "Go言語のGCは、「Target heap memoryへの到達」「GOMEMLIMITへの到達」「runtime.GC()の明示的呼び出し」「最後のGCから2分経過」という4つのタイミングで発火します。GCは自動で動作しますが、これらの発火タイミングを理解しないと、ループ内で大量のメモリを確保するようなコードでOOM（Out Of Memory）が発生する可能性があります。Goアプリケーションの安定稼働のためには、GOGCやGOMEMLIMITといったパラメータを適切に調整することが重要です。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-08T23:08:19.156658"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「業務の前提そのもの」をどうアップデートする？　IBMが説く「AXの要件」を考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news088.html",
-    "summary": "IBMは、企業におけるビジネス変革（AX）の新たな指針として「AIオペレーティングモデル」を打ち出しました。これは、AIを活用した業務プロセスのアップデートを前提とするものです。本記事は、そのAIオペレーティングモデルの内容から、企業がAX推進に向けて取り組むべき重要な要件について考察しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-08T10:11:26.557527"
   }
 ]
