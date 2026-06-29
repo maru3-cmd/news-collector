@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIを「人と同じ基準」で管理せよ　アトラシアン製品開発トップが語る、AIネイティブ組織へのロードマップ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news035.html",
+    "summary": "アトラシアンは、AIの精度向上に欠かせない「ビジネスコンテキスト」を武器とする新戦略を発表しました。これは、日本企業が直面する部門間のサイロ化やセキュリティの懸念といった課題を克服するためのものです。\n\n同社は、AIを「人と同じ基準」で管理することを提唱し、企業が「AIネイティブ組織」へと変革するための現実的なロードマップを提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-29T22:45:42.691847"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
+    "link": "https://gigazine.net/news/20260630-wayfinder/",
+    "summary": "タスクの難易度に応じてローカルAIとクラウドAIを自動で切り替えるオープンソースツール「Wayfinder Router」がGitHubで公開されました。これは、短い文章の要約や誤字修正は手元のAIに、複雑な推論や長いコードの解析は高性能なクラウドAIに自動で振り分けるものです。切り替え判断にAIを使わないことで、運用コストの削減に貢献します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-29T22:45:50.170154"
+  },
+  {
+    "source": "Qiita",
+    "title": "Oracle GDAI で実現するグローバル分散 AI データベースを整理してみてみた",
+    "link": "https://qiita.com/shirok/items/ed7856c563798df39a27",
+    "summary": "近年、データレジデンシ、高可用性、低レイテンシなどを実現するため、グローバル分散データベースや分散SQLへの関心が高まっています。Oracleは、このトレンドに対応するソリューションとして「Globally Distributed Autonomous AI Database」（GDAI）を提供しています。GDAIは、その名の通り、グローバルにデータを分散管理し、自律的な運用が可能で、さらにAI機能を内蔵した先進的なデータベースです。これにより、マルチリージョン・マルチクラウド環境でのAI活用を効率的にサポートします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-29T22:45:59.303384"
+  },
+  {
+    "source": "はてなブックマーク",
+    "title": "「Firefox」内蔵の無償VPN、日本にも展開？　どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
+    "summary": "記事内容が提供されていないため、要約を作成することができません。\n\nもし記事内容をご提供いただければ、「Firefox」の無償VPNサービス「Mozilla VPN」に関する情報を、日本の展開状況、プライバシー保護機能、重要なポイントや数字を含めて3-4文で簡潔に要約いたします。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-29T22:46:05.109176"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIエージェントの投資優先順位、どう決める？　Gartnerが「投資スコア」の作り方を公開",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
     "summary": "ガートナージャパンの亦賀忠明氏のWebセミナーでは、業務におけるAIエージェントへの投資優先順位をどのように決定すべきかが議論されました。Gartnerは、各業務・業種におけるAIエージェントの進化を見据え、投資判断を助ける「投資スコア」の作成方法を公開しています。企業はこのスコアを活用することで、AIエージェント導入の効率的な優先順位付けが可能になります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-09T23:10:39.924761"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code のコスト削減を実測に落とす — 1施策ずつ段階投入して前週比を測る運用設計",
-    "link": "https://zenn.dev/ojt/articles/claude-code-cost-reduction-canary-measurement",
-    "summary": "この記事は、Claude Codeの利用コスト削減を実測で実現するための具体的な運用設計について解説しています。一度に複数の施策を投入するのではなく、コスト削減施策を**1つずつ段階的に導入**していくアプローチを提案。これにより、各施策の効果を**前週比で詳細に測定**し、確実なコスト削減へと繋げる運用を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-09T23:10:47.688296"
-  },
-  {
-    "source": "Qiita",
-    "title": "Zork I を Python で自動翻訳しながら英語と日本語を併記して遊んでみた",
-    "link": "https://qiita.com/tako-two/items/11f36b02f915127dc96e",
-    "summary": "著者は、英語テキストアドベンチャーゲーム「Zork I」を、Pythonを用いたAI翻訳で日本語に自動翻訳し、英語と日本語を併記してプレイすることを試みました。これは、小説のようなニュアンスの読み取りが困難な自身の英語力を補うため、オープンソース化されたZorkのソースコードをAI翻訳にかけるというアイデアから生まれました。しかし、記事の時点では、公開されたリポジトリでゲームのソースコードが直接見つからないという最初の課題に直面しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-09T23:10:55.959569"
-  },
-  {
-    "source": "ITmedia",
-    "title": "コンサルの品質、なぜ「バラつく」のか？　ガートナーが背景を解説",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news066.html",
-    "summary": "国内企業がコンサルティングサービスを利用する際、「期待以上」の成果を実感する企業は半数に満たないことが明らかになっています。最大の不満要因は「品質のバラつき」であり、この記事ではその発生原因について解説しています。加えて、顧客企業がコンサルティング品質のバラつきに対処するために取るべき手立てについても提示しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-09T08:54:37.054970"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ベリーの甘酸っぱさやマンゴーの南国感を楽しめるスタバの「FRUITY CHEERS TORORI ストロベリーベリーベルガモット／マンゴーパッションフルーツ」を飲んでみた",
-    "link": "https://gigazine.net/news/20260609-starbucks-fruity-cheers-torori-strawberry-mango/",
-    "summary": "スターバックスは、フルーツ・ティー・ミルクを組み合わせた新シリーズ「FRUITY CHEERS TORORI」を発売します。ストロベリーベリーベルガモットとマンゴーパッションフルーツの2フレーバーが、2026年6月16日(火)からセブン‐イレブン限定で登場。果汁の明るい味わい、ティーの爽やかさ、ミルクの満足感を特徴としており、記事ではその味を先行して確かめています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-09T08:54:48.893987"
   }
 ]
