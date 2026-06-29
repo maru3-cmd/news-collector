@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIエージェントの投資優先順位、どう決める？　Gartnerが「投資スコア」の作り方を公開",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
+    "summary": "ガートナージャパンの亦賀忠明氏のWebセミナーでは、業務におけるAIエージェントへの投資優先順位をどのように決定すべきかが議論されました。Gartnerは、各業務・業種におけるAIエージェントの進化を見据え、投資判断を助ける「投資スコア」の作成方法を公開しています。企業はこのスコアを活用することで、AIエージェント導入の効率的な優先順位付けが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-29T10:15:40.065804"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "DeepSeekがAI言語モデルの生成速度を最大85％向上させる「DSpark」を公開",
+    "link": "https://gigazine.net/news/20260629-deepseek-dspark/",
+    "summary": "DeepSeekは、AI言語モデルの文章生成速度を大幅に向上させる投機的デコード技術「DSpark」を発表しました。この技術は、新しい言語モデルではなく、既存のDeepSeek-V4-FlashおよびDeepSeek-V4-Proにモジュールとして追加されます。DeepSeekの報告によると、DSparkは実際の運用環境で、従来の方式と比較してユーザーあたりの生成速度を最大85％向上させることができました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-29T10:15:47.230367"
+  },
+  {
+    "source": "Zenn",
+    "title": "【CakePHPの学習 LOG-03】：ルーティング設定（config/routes.php）について",
+    "link": "https://zenn.dev/como/articles/cakephp_day-03_routing-config",
+    "summary": "CakePHPのルーティングは、URLを特定のコントローラのアクションにマッピングするための設定で、`config/routes.php`ファイルで定義されます。主に`Router::connect()`メソッドを使用し、URLパターンと、対応するコントローラやアクションなどの要素を指定してルーティングルールを記述します。また、`Router::scope()`を用いることで、URLのプレフィックス（例: `/admin`）ごとにルーティング設定をグループ化でき、プレフィックスルーティングやRESTルーティングなど、多様なルーティング機能を提供します。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-06-29T10:15:58.098159"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIクリエイティブツールを試すときの簡単なチェックリスト",
+    "link": "https://qiita.com/shenghaowu97/items/3e20d4a9fe648241df54",
+    "summary": "AIクリエイティブツールを選ぶ際、ツール名だけで判断すると手戻りが増えるため、以下の3点が重要なチェックリストとして推奨されています。まず、短いプロンプトや画像1枚で試せる「入力の軽さ」を確認し、次にEC画像やラフ確認などで元画像との「変更前後を見比べやすいか」を重視します。最後に、髪型プレビューのように、うまくいった案だけでなく「失敗例を保存できるか」も効率的なツール選定の鍵となります。これらのポイントを確認することで、AIツールの効果的な活用が可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-29T10:16:06.752753"
+  },
+  {
+    "source": "ITmedia",
     "title": "トークン消費の爆発をどう防ぐ？　HPEとAMDが示す「自社データセンター回帰」という現実解",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news021.html",
     "summary": "AIエージェントの普及に伴うトークンコストの爆発が課題となる中、HPEとAMDは「自社データセンター回帰」を現実的な解決策として提示しています。HPEのルッソCTOは、外部モデルへの依存による隠れたコストを指摘。推論処理を自社データセンターで行うためのインフラ戦略の重要性を強調しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-06-09T08:54:48.893987"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code + freee-mcpで請求書作成してみた",
-    "link": "https://zenn.dev/mohhh_ok/articles/freee-mcp-invoice-creation",
-    "summary": "この記事は、「Claude Code」と「freee-mcp」という二つのツールを連携させ、実際に請求書を作成する試みについて報告しています。具体的には、AIコーディングアシスタントであるClaude Codeと、会計ソフトfreeeの連携機能であるfreee-mcpを組み合わせ、請求書作成プロセスをどのように実現したのかを検証しています。筆者は、この実践を通して得られた具体的な手法や結果を記事内で詳細に解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-09T08:55:04.732701"
-  },
-  {
-    "source": "Qiita",
-    "title": "iPhoneで20Bモデルが動く時代へ！WWDC26で発表されたCore AIとFoundation Models総まとめ！",
-    "link": "https://qiita.com/nolanlover0527/items/89e7f73f8edaa30112b6",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 50.812102716s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 50\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-09T08:55:09.245936"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「会話がスマホに盗聴されている」の真相　スマホセキュリティで守るべきルールとは？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/09/news040.html",
-    "summary": "スマートフォンでの会話内容がWeb広告に反映される現象から、「会話がスマホに盗聴されているのでは」という懸念がたびたび上がります。しかし、記事によると、広告表示を目的としたスマホによる会話の盗聴が真実である可能性は「極めて低い」とされています。これは、一般的に認識されているような盗聴は行われていないという見解を示しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-06-08T23:07:52.056932"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「テレビ史上最高のショット」と語り継がれる映像とは？",
-    "link": "https://gigazine.net/news/20260609-greatest-shot-in-television/",
-    "summary": "テレビの定期放送は1936年にイギリスで始まり、その後世界中で膨大な数の番組が放送されてきました。その歴史の中で、ある特定の映像が「テレビ史上最高のショット」と語り継がれています。このショットは、イギリスの科学史家であるジェームズ・バーク氏がBBCのドキュメンタリー番組『Connections』の中で見せたシーンだとされています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-08T23:07:59.380472"
   }
 ]
