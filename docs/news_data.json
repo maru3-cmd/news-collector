@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "非エンジニア利用が増える「Codex」、何がすごいのか　OpenAIが公表した活用の実態",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news051.html",
+    "summary": "OpenAIが自社データ分析論文を公表し、AI「Codex」の活用実態を明らかにした。同論文によると、非エンジニアによるCodexの利用が増加傾向にあるという。AIの活用方法は、従来のチャットボットのような質問応答型から、長時間の業務を委ねる「エージェント型」へと移行が進んでいると指摘されている。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-06-30T23:03:02.855342"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "お金を扱うソフトウェアで「1円のズレ」も起こさないための設計原則をまとめた「Fintech Engineering Handbook」とは？",
+    "link": "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
+    "summary": "「Fintech Engineering Handbook」は、お金を扱うソフトウェアで「1円のズレ」すら起こさないための設計原則をまとめたハンドブックです。このハンドブックは、お金の二重移動や端数の勝手な消去を防ぎ、全ての処理が後から説明できる形で記録されるよう、厳格なルールを定めています。フィンテック分野で信頼性の高いシステムを構築する上で不可欠な、重要な考え方を整理し、提示しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-06-30T23:03:09.521650"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントの提案を全部採用したら売上が下がった — AI提案の取捨選択基準",
+    "link": "https://zenn.dev/joinclass/articles/ai-ai-20260629220005-29493",
+    "summary": "AIエージェントの提案を全て採用した結果、かえって売上が減少した事例が紹介されています。この経験は、AIの提案を盲目的に実行するのではなく、適切な取捨選択基準の必要性を浮き彫りにしました。記事は、AIの得意分野を活かしつつ、人間のビジネス判断や専門知識と組み合わせることで、より効果的なAI運用と売上向上に繋がることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-30T23:03:18.448513"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Sonnet 5とは？Anthropic公式発表を3分で速報解説",
+    "link": "https://qiita.com/kinamocchi_tech/items/2cb3394859a63c024d36",
+    "summary": "Anthropicは2026年6月30日（米国時間）に、新AIモデル「Claude Sonnet 5」を公式発表しました。\nこの記事は、その最新情報を速報として解説するものです。\nAI学習中のハムスター「もっちー」と解説役のセキセイインコ「きなこ」による親しみやすい対話形式で、モデルの概要が伝えられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-06-30T23:03:29.911092"
+  },
+  {
+    "source": "ITmedia",
     "title": "日経225企業の96％が情報漏えいを経験　最も漏えい率の高い業界は",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news043.html",
     "summary": "ある調査によると、日経225構成企業の96.4％が過去3年間に情報漏えいを経験していたことが明らかになりました。この情報漏えい率は業界によって大きな差があり、最も高い業界の漏えい率は最も低い業界の23倍を超えています。これは、日本を代表する企業の大多数が情報セキュリティ上の課題に直面している現状を示しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-10T23:18:56.724661"
-  },
-  {
-    "source": "Zenn",
-    "title": "Frontend Nation 2026 の発表から見る、フロントエンド開発の現在地",
-    "link": "https://zenn.dev/abalol/articles/1f067e7346d185",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 58.736587589s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 58\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-10T23:19:01.307358"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年6月11日",
-    "link": "https://qiita.com/ishisaka/items/634137bc903b037e11d2",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 54.259087763s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 54\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-10T23:19:05.787027"
-  },
-  {
-    "source": "ITmedia",
-    "title": "大阪ガスが日本IBM、オージス総研とパートナーシップ締結　AIを軸としたシステム変革とは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/10/news036.html",
-    "summary": "大阪ガスは、日本IBMおよびオージス総研と共創パートナーシップを締結しました。この提携は、AIを軸とした次世代ITシステムへの大規模な変革を目指すものです。具体的には、既存システムのモダナイゼーション、AI駆動開発の導入、セキュリティ対策の強化、そして関連する人材育成などが検討・試行されます。これにより、AI技術を活用したシステム全体の最適化と効率化を図ります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-10T09:35:40.549994"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "なか卯の旨辛親子丼「赤の親子丼」全3種を食べ比べてみた、辛いだけじゃない旨辛ダレが魅力的",
-    "link": "https://gigazine.net/news/20260610-nakau-umakara-red-oyakodon/",
-    "summary": "なか卯は2026年6月10日に、特製旨辛ダレを使用した「赤の親子丼」を発売しました。このタレはコチュジャンやおろし生姜、にんにく、ラー油などで作られ、単調ではない重層的な辛さが魅力です。商品は、シンプルな「辛旨赤の親子丼」に加え、温たまをのせたもの、チーズをトッピングしたものを含め全3種類が展開されています。この記事では、これら3種類を食べ比べ、その旨辛な味わいを検証しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-10T09:35:51.194103"
   }
 ]
