@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "激辛カップまぜそば「辛め辛辛魚まぜそば」試食レビュー、辛いだけじゃなくて魚粉や豚骨のうま味も感じられる秀逸な出来栄え",
+    "link": "https://gigazine.net/news/20260701-karakarauo-karame-mazesoba/",
+    "summary": "人気の激辛カップ麺「辛辛魚らーめん」をさらに辛くしたまぜそば版、「麺処井の庄監修 辛め辛辛魚まぜそば」が2026年6月29日に登場しました。この商品は「ひとくちめのインパクトから持続する辛味」が特徴です。魚介の風味を強化することで、辛いだけでなく深みのある味に仕上がっており、記事ではその味と辛さについて試食レビューを行っています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-01T09:24:14.274391"
+  },
+  {
+    "source": "Zenn",
+    "title": "Webデザイン初心者の私が最近使ってよかったAIツール3選",
+    "link": "https://zenn.dev/pingu_00/articles/27ebf01e2ecd02",
+    "summary": "Webデザイン初心者の筆者が、作業効率化やデザイン品質向上に役立ったAIツールを3つ厳選して紹介する記事です。これらのAIツールは、デザインのアイデア出しから具体的な要素作成、さらにはコーディング補助まで、初心者が直面する様々な課題を効果的に解決します。特に、デザインスキルに自信がない初心者にとって、AIのサポートは学習プロセスの加速と自信に繋がり、Webデザインをよりスムーズに進めるための強力な味方となるでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-01T09:24:23.310317"
+  },
+  {
+    "source": "Qiita",
+    "title": "ChatGPTに建設コンサルのWord帳票を貼る前に確認したい情報",
+    "link": "https://qiita.com/ijiDX/items/9308f64b0757200c6250",
+    "summary": "ChatGPTなどのAIは建設コンサルのWord帳票整理や業務経歴の要約に有用ですが、そのままAIに貼り付ける前には慎重な確認が必要です。これらの帳票には、業務名、発注者名、技術者氏名、資格登録番号、業務経歴、契約・入札に関する情報、連絡先といった個人情報や機密情報が含まれている場合があります。情報漏洩を防ぐため、AI利用前にこれらの多岐にわたる情報を必ず確認し、適切な処理を行うことが重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-01T09:24:35.084610"
+  },
+  {
     "source": "ITmedia",
     "title": "非エンジニア利用が増える「Codex」、何がすごいのか　OpenAIが公表した活用の実態",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news051.html",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-06-11T09:59:21.066365"
-  },
-  {
-    "source": "Qiita",
-    "title": "情シス向けAI APIコスト管理：GASで部門別予算枠を実装する",
-    "link": "https://qiita.com/drasenas/items/91d7961fa63a52c769d3",
-    "summary": "この記事は、Gemini、Claude、OpenAIといった複数のAI APIを部門横断で利用する企業で、月次のコスト超過に悩む情シス担当者向けです。各部門が個別にAPIを利用することでコスト管理が後手に回りがちな現状を解決するため、Google Workspace（GWS）環境でGAS（Google Apps Script）とスプレッドシートを組み合わせた部門別予算枠管理の設計パターンを解説しています。これにより、AI APIコストの「後手対応」を防ぎ、事前管理体制を構築することを目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-11T09:59:30.094517"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AI単独の導入は“失敗のレシピ”だ」　ServiceNowの製品トップが語る、企業AIの盲点",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news010.html",
-    "summary": "ServiceNowの製品トップは、企業がAIの挙動に抱く不安は「土台なしのAI単独導入」が生むリスクであり、「失敗のレシピ」だと指摘しています。同社はこれを打開策として、AIを適切に管理・統合する「AI制御塔戦略」に注力。この戦略の真意や企業買収の背景が、Knowledge 2026で語られました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-10T23:18:51.872107"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "トランプ大統領やその一家は仮想通貨で約3700億円の利益を上げたが投資家は約3600億円の大損を被ったとの調査結果",
-    "link": "https://gigazine.net/news/20260611-trump-family-always-wins-crypto/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 3.318814727s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 3\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-10T23:18:56.724661"
   }
 ]
