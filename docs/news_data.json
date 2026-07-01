@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ダークウェブ分析の韓国S2Wが日本法人設立、今日本で事業注力する理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/01/news038.html",
+    "summary": "韓国のセキュリティ企業S2Wは、日本法人を設立し、日本市場への本格的な事業注力を発表しました。これは、巧妙化するサイバー攻撃に対し、被害発生前にリスクを把握する「プロアクティブなインテリジェンス」の必要性が高まっているためです。同社は今後、日本での営業・サポート体制を強化していきます。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-01T23:02:06.698133"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "EUが推進するデジタル身分証明システム「デジタルIDウォレット」はGoogleやAppleの独占を強化するとの指摘",
+    "link": "https://gigazine.net/news/20260702-european-digital-id-wallets-google-apple/",
+    "summary": "EUは、スマートフォンでデジタルID、住所、年齢、資格情報などを一元管理する「デジタルIDウォレット」の導入を推進しています。しかし、テクノロジーと社会を研究するWaag Futurelabは、このシステムが、EUが批判してきたGoogleやAppleなどの巨大テクノロジー企業の独占をかえって強化する可能性を指摘しました。これは、EU自身の非難する独占状態を助長する結果となるという懸念が示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-01T23:02:15.447191"
+  },
+  {
+    "source": "Zenn",
+    "title": "簡素にAIの環境を提供するためCloudflare AI Gatewayを検証してみた",
+    "link": "https://zenn.dev/mediba/articles/63b4418282c85c",
+    "summary": "申し訳ありませんが、記事のタイトル「簡素にAIの環境を提供するためCloudflare AI Gatewayを検証してみた」は提供されていますが、**記事の本文が提供されていないため、内容を要約することはできません。**\n\nもし記事本文を共有していただければ、3〜4文で簡潔に要約させていただきます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-01T23:02:21.610759"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.198｜背景エージェントがdraft PRまで自走｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/181b45d5e97df7012263",
+    "summary": "Claude CodeのChangelog v2.1.198では、`claude agents`の背景エージェントが大幅に強化されました。これにより、背景エージェントはworktreeでの作業完了後、確認なしにcommit、push、そしてドラフトPRの作成まで自走するようになり、入力待ちや完了を知らせる`Notification`フックも追加されています。また、ブラウザ上で動く「Claude in Chrome」がプレビュー版から正式な一般公開となりました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-01T23:02:31.657656"
+  },
+  {
     "source": "GIGAZINE",
     "title": "激辛カップまぜそば「辛め辛辛魚まぜそば」試食レビュー、辛いだけじゃなくて魚粉や豚骨のうま味も感じられる秀逸な出来栄え",
     "link": "https://gigazine.net/news/20260701-karakarauo-karame-mazesoba/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-11T23:14:21.388168"
-  },
-  {
-    "source": "Qiita",
-    "title": "なぜ3D CADは普及したのにAIは普及しないのか",
-    "link": "https://qiita.com/massy0123/items/13e5873565710b733dbd",
-    "summary": "20年以上メカ設計に携わる筆者は、3D CADが多くの企業に浸透した一方でAIはなかなか普及しないという課題意識を抱いています。この違いを考察するため、まず2D CADが普及した理由に焦点を当てています。\n\n筆者は、2D CADが普及した主因として、設計者自身の作業効率が大幅に向上した点を挙げています。具体的には、コピー＆ペーストによる修正の容易さ、図面管理の簡便さ、そして過去図面の再利用が可能になったことなどがその理由です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-11T23:14:30.642620"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「DX銘柄2026」事例レポート公開　51社のAI活用事例を掲載",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news020.html",
-    "summary": "IPAは、「DX銘柄2026」選定企業のDX事例をまとめたレポートを公開しました。このレポートには、51社のAI活用事例が掲載されています。グランプリ企業3社をはじめとするDX事例の他、東証上場企業289社を対象とした調査結果も紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-11T09:58:54.756613"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "高速かつ高精度な視覚言語モデル「Zamba2-VL」が登場、Transformerより高速なアーキテクチャで開発",
-    "link": "https://gigazine.net/news/20260611-zamba2-vl-zyphra/",
-    "summary": "AI開発企業Zyphraが、高速かつ高精度な新しい視覚言語モデル（VLM）「Zamba2-VL」を発表しました。このモデルは、従来のTransformerよりも高速な独自アーキテクチャで開発されています。Zamba2-VLは、同規模のVLMと比較して画像認識処理をより迅速に行うことが可能です。これにより、高速な応答が求められる多様なアプリケーションでの活用が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-11T09:59:10.821616"
-  },
-  {
-    "source": "Zenn",
-    "title": "【Fable 5 vs Opus 4.8】ベンチマークでは分からないので同じプロンプトでWebアプリ作らせ比較検証",
-    "link": "https://zenn.dev/yukurash/articles/16c378dbbb4c95",
-    "summary": "この記事では、Fable 5とOpus 4.8のモデル性能を比較検証しています。従来のベンチマークでは実力が測りきれないとの考えから、両者に同じプロンプトを与えてWebアプリを作成させるという独自の手法を採用しました。これは、より実践的なシナリオで両者の開発能力や出力品質を詳細に比較することを目的としています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-11T09:59:21.066365"
   }
 ]
