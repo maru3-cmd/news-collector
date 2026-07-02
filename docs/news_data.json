@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に",
+    "link": "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
+    "summary": "2026年6月30日、Qualcomm製IoT向けSoC搭載機器向けのLinuxソリューション「Qualcomm Linux 2.0」の一般提供が始まりました。これは2024年に発表されたQualcomm Linuxの大型アップデートにあたり、複数のSoCや製品で使える共通のLinux基盤、オープンな開発体制、本番環境を意識した構成が特徴です。このプラットフォームにより、AIカメラから産業用PCまで、さまざまなIoTデバイスを単一の基盤で開発できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-02T22:56:33.073733"
+  },
+  {
+    "source": "Zenn",
+    "title": "『離散数学のすゝめ』〜情報世界を動かすエンジニアの新教養〜",
+    "link": "https://zenn.dev/albatrosary/articles/21bbd7bc8d1ba6",
+    "summary": "この記事は、「情報世界を動かすエンジニアの新教養」として、離散数学を学ぶことの重要性を説いています。デジタル化が進む現代において、論理的思考力やアルゴリズムの基礎を支える離散数学は、もはや専門知識に留まらず、広範な技術分野で必須となっています。\n\nそのため、情報技術に携わるエンジニアにとって、これは新たな基礎教養として不可欠であり、積極的に習得すべきであると提言されています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-02T22:56:45.502853"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIに書かせたコードで実際に腐った5つ。半年運用でわかったNG例と直し方",
+    "link": "https://qiita.com/Rapls/items/80bde83c214d6c437973",
+    "summary": "AIが生成したコードを半年間運用した経験から、保守性を損なう5つのNG例とその修正方法が解説されています。具体的には、コードを言い換えるだけのコメント過多、早すぎる共通化、巨大な単一関数、エラーを握り潰すtry/catch、そしてテストなしでのAIコードの盲信が挙げられます。\n\nこれらはAIが生成しがちな特徴であり、後の保守性を確保するためには、開発者がコードの意図を明確にし、適切なテストを導入することが重要であると筆者は指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-02T22:56:53.824770"
+  },
+  {
     "source": "ITmedia",
     "title": "KDDIの最大1422万件の情報漏えい事件　その裏には陸自USB問題と同様に中国の影？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/02/news079.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-06-12T23:07:32.278899"
-  },
-  {
-    "source": "ITmedia",
-    "title": "NEC社長が説く“SIerの勝者の条件”　2026年度の国内IT需要の行方",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/12/news044.html",
-    "summary": "NECの森田隆之社長は、AI革命と新たな安全保障環境が到来する中でITサービスがどのように変化するかを分析しています。この記事では、変化の激しい時代においてSIerが勝ち残るための「勝者の条件」を説いています。2026年度の国内IT需要の行方を見据え、企業がこれらの新たな課題にどう向き合うべきかを探る内容となっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-12T09:51:32.495457"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年6月12日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20260612-headline/",
-    "summary": "TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』のプロモーションビデオ第4弾が公開されました。本作は士郎正宗による漫画を原作とする新作で、2026年7月7日(火)より放送開始予定です。カンテレ・フジテレビ系全国ネットの「火アニバル!!」枠にて、毎週火曜23時から放送されます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-12T09:51:39.532339"
-  },
-  {
-    "source": "Zenn",
-    "title": "Snowflake Summit 2026 参加レポート",
-    "link": "https://zenn.dev/yuto16/articles/snowflake-summit-2026",
-    "summary": "「Snowflake Summit 2026 参加レポート」というタイトルが提示されています。このレポートは、データクラウド企業Snowflakeが開催する年次イベント「Snowflake Summit 2026」への参加体験をまとめたものです。しかし、提供された内容には具体的なイベントの詳細や、発表された重要なポイント、関連する数字は含まれていません。そのため、イベントの具体的な内容や成果については不明です。",
-    "category": "クラウド・インフラ",
-    "content_type": "article",
-    "collected_at": "2026-06-12T09:51:49.043909"
   }
 ]
