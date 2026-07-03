@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Google Chromeで「Perplexity」を偽装する悪質拡張機能が発見　Microsoftが警告",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/03/news022.html",
+    "summary": "Microsoftは、Google Chrome上でAIサービス「Perplexity」を偽装する悪質な拡張機能が発見されたことを警告しました。この不正な拡張機能は、Microsoftからの報告を受けてGoogleによって削除されました。利用者は、拡張機能の導入元や要求される権限を常に確認するよう促されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-03T22:54:21.728891"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ",
+    "link": "https://gigazine.net/news/20260703-everest-green-boots/",
+    "summary": "エベレストの標高8500m地点にある有名な遺体「グリーンブーツ」の身元が、DNA鑑定によって確認されました。この遺体は、インドチベット国境警察(ITBP)の登山隊員だったドルジェ・モルップ氏であることが判明。インド当局は、モルップ氏の遺体を回収するミッションを検討しているとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-03T22:54:30.735263"
+  },
+  {
+    "source": "Zenn",
+    "title": "ソフトウェア開発は次元変換である —— 責務をトレースして、AI生成の異常を捉えられるか",
+    "link": "https://zenn.dev/cognitiveosmdl/articles/ba595e845a4c60",
+    "summary": "この記事は、ソフトウェア開発を、要件から実装へと情報が形を変える「次元変換」であると捉えています。この複雑なプロセスにおいて、各コンポーネントの「責務」を明確にし、その繋がりを追跡するトレーサビリティが極めて重要だと強調しています。\n\nそして、AIがコードなどを生成する現代において、生成された成果物の中に潜む予期せぬ「異常」や不具合を、この責務のトレース能力を用いていかに特定し、品質を確保していくかが大きな課題であると提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-03T22:54:39.847564"
+  },
+  {
+    "source": "Qiita",
+    "title": "マーガレット・アトウッドが語ったAIの「ゴミを入れればゴミが出る」：Claudeの誤答から考える生成AIの確かめ方",
+    "link": "https://qiita.com/quotidia/items/ca9348ac6cacf3ae91f1",
+    "summary": "作家のマーガレット・アトウッドはAIを「ゴミを入れればゴミが出る（garbage in, garbage out）」と評しました。この記事は、Claudeの誤答を例に、生成AIの確かめ方について考察しています。運営サイト「AI Quotidia」は、AIの精度そのものよりも、生成AIが間違いを犯しても「気づかれにくい」という点に特に着目し、その問題提起を行っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-03T22:54:46.815630"
+  },
+  {
+    "source": "ITmedia",
     "title": "2026年、サプライチェーンを変える「8つの技術」とは？ Gartner予測",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/03/news036.html",
     "summary": "Gartnerは、サプライチェーン領域でのAI活用が本格化する中、2026年までにサプライチェーンを変革するトップトレンドとして「8つの技術」を特定しました。これらの技術は、特定の3つのテーマに沿って分類されています。本予測は、企業が将来のサプライチェーン戦略と投資判断を行う上での重要な指針となるとされています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-13T22:54:07.657442"
-  },
-  {
-    "source": "Qiita",
-    "title": "llcore 検証 arc (#41) — verified-plasticity = ラングトンの蟻の幻を見抜く眼: 「賢くなった/安定した」をどう検証するか、3 回分の honest disclosure を 1 本に束ねる capstone",
-    "link": "https://qiita.com/furuse-kazufumi/items/29b100b00f0d58306886",
-    "summary": "この記事（#41）は、「llcore 検証 arc」シリーズ（#38〜#40）の最終章として、「賢くなった/安定した」とされるAIが本物か幻かを検証するものです。\n「ラングトンの蟻の幻を見抜く眼」という比喩を用いて、単純な決定論的ルールが見せかけの秩序を生み出すという点を、これまでの3回分の「honest disclosure」を束ねて総括しています。\n「使うほど賢くなるAI」や「世界モデルによる安全」といった見出しは魅力的ですが、経験は外見に騙されやすいため、健全な証明（sound certificate）によってのみ、真の安定性や進歩を偽証可能な形で確認できると主張しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-13T22:54:20.679019"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Steamの運営元Valveが1日で13トンのVRヘッドセットを輸入、間もなく発売のSteam Frameの初期出荷分か",
-    "link": "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
-    "summary": "Steamの運営元であるValveは、2026年夏に発売予定のスタンドアローン型VRヘッドセット「Steam Frame」の初期出荷分とみられる製品をアメリカ国内に輸入していることが報じられました。テクノロジーメディアのThe Vergeによると、その輸入量は1日でなんと13トンにも上ります。これは、発売に向けての準備が着々と進められていることを示唆しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-13T08:42:57.016808"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code の /goal で「完了まで自律実行」を実現する",
-    "link": "https://zenn.dev/tatsuqumo/articles/d10494cb4a440e",
-    "summary": "「Claude Code」は、新機能として「/goal」を導入しました。この機能の主な目的は、ユーザーが設定したタスクや目標を、人間の介入なしに「完了まで自律実行」することです。これにより、開発プロセスにおける自動化を推進し、作業効率を大幅に向上させることが期待されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-13T08:43:05.444074"
-  },
-  {
-    "source": "Qiita",
-    "title": "セルフホストLLMとオンラインLLM APIの価格差とスピード",
-    "link": "https://qiita.com/leolui2004/items/7d39212b54ec12f4e63c",
-    "summary": "本記事は、LLMの利用方法としてセルフホスト（オンプレミス/クラウドVM）とオンラインLLM APIを挙げ、特にクラウドVMとオンラインAPI間での生成スピードと価格差に焦点を当てています。比較対象として、オンラインLLM APIからGemini 3 Flash Preview（思考あり）とClaude 4.5 Sonnet（思考あり）、オープンソースモデルからGemma 4 31B（思考あり）とQwen3.6 27B（思考あり）が選定されています。これらのモデルは「賢さにそれほど大きな差がない」とされています。しかし、記事は比較対象の提示で終わっており、具体的な価格差やスピードに関する分析結果はまだ共有されていません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-13T08:43:15.552174"
   }
 ]
