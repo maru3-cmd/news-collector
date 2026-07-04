@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "「真珠ボタン」がアメリカ中西部のボタン産業を築いた一方で地元の二枚貝を絶滅寸前まで追い込んだ歴史",
+    "link": "https://gigazine.net/news/20260705-button-maker-searche-shell/",
+    "summary": "1880年代後半にドイツからアメリカへ移住したジョン・ベップルは、貝殻の真珠層から作られる「真珠ボタン」により、アメリカ中西部に一大産業の礎を築きました。しかし、この産業は同時に地元の淡水二枚貝の個体数を壊滅的なまでに減少させ、絶滅寸前まで追い込みました。その結果、わずか半世紀ほどでこの産業は衰退したと、Smithsonian magazineがその歴史を解説しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-04T22:47:01.102163"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI に学ばせるな、読ませない経路を引け — 判定 AI を壊さない物理防御の設計",
+    "link": "https://zenn.dev/cnative_tkb/articles/492b282c36a73a",
+    "summary": "本記事は、判定AIの正確性と信頼性を維持するため、AIが不正な情報や不要な情報を学習したり読み込んだりすることを防ぐ重要性を説いています。そのために「読ませない経路を引く」という概念を提唱し、AIに誤った判断をさせないための「物理防御」の設計方法を提案しています。これは、AIシステム自体を破壊することなく、その判断ロジックを保護する新しいアプローチです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-04T22:47:09.472632"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest · 2026年7月5日 — AI投資額が5,100億ドル、Claude Sonnet 5、Kling AIが28億ドル調達",
+    "link": "https://qiita.com/lhjjjk4/items/c21ef38c7f1aace599ff",
+    "summary": "2026年上半期のグローバルAI投資額は過去最高の5,100億ドルに達し、Q2のスタートアップ資金の70%超がAI企業に集中しました。OpenAIが1,220億ドル、Anthropicが650億ドルを調達し、両社だけで上半期のAI資金の43%を占めました。\n\n特にAnthropicは評価額9,650億ドルに達し、Kling AIも28億ドルの資金を調達するなど、AI分野への大規模な投資が続いています。また、この記事はClaude Sonnet 5の発表にも触れており、AI市場の活況を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-04T22:47:20.281725"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "「Nikon Z6 III」の無線機能非搭載モデルが個人でも購入可能な状態で販売されている",
     "link": "https://gigazine.net/news/20260704-nikon-z6-iii-no-wireless-connectivity/",
     "summary": "ミラーレスカメラ「Nikon Z6 III」は通常、スマートフォンやPCとの無線接続用にWi-Fi・Bluetooth機能を搭載しています。しかし、これらの無線通信機能を取り除いた特別版が存在します。この無線機能非搭載モデルは、カメラ通販サイトのB＆Hで個人でも購入可能な状態で販売されています。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-06-14T22:59:19.386424"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年6月15日",
-    "link": "https://qiita.com/ishisaka/items/9ccdb004e95bf4bfda4d",
-    "summary": "2026年6月15日のプログラミング雑記では、主に.NET関連の最新技術ニュースが厳選して紹介されています。\n\nJetBrains発行の「dotInsights 2026年6月号」では、C#のUnion型解説、EF Core 11のパフォーマンス改善、.NET 10・11の新機能に関する記事がコミュニティリンクとして取り上げられました。\n\nまた、JetBrainsのニュースとして、Rider 2026.2 EAPにおいてAIエージェント向けの品質チェック機能が導入されたことが報じられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-14T22:59:27.046865"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "最大6690万画素の「α7R VI」で猫を撮影しまくりレビュー、猫の瞳にズバッとピントが合いホワイトバランスも勝手にいい感じにしてくれてベストショットを量産可能",
-    "link": "https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/",
-    "summary": "2026年6月5日に登場したソニーのフルサイズミラーレス一眼「α7R VI」は、最大6690万画素センサーを搭載し、動物の瞳追跡AF、秒間30枚のブラックアウトフリー連写が可能です。\nこのカメラは、秒間60回のAF/AE演算、機械学習による高精度オートホワイトバランス、中央8.5段の手ブレ補正など、高度な機能を備えています。\n猫カフェでのレビューでは、猫の瞳に正確にピントが合い、自動で最適なホワイトバランスが設定されることで、高品位なベストショットを容易に量産できることが実証されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-14T08:58:38.730603"
-  },
-  {
-    "source": "Zenn",
-    "title": "Spec Kitで仕様駆動開発を始めよう",
-    "link": "https://zenn.dev/haru_iida/articles/github-spec-kit-guide",
-    "summary": "「Spec Kitで仕様駆動開発を始めよう」というタイトルから、この記事はSpec Kitというツールやフレームワークを用いて、ソフトウェア開発における仕様駆動開発（Specification-Driven Development: SDD）の導入方法や実践のヒントについて解説していると推測されます。\n\nしかし、記事の具体的な内容や本文が提供されていないため、その重要なポイント、詳細な手順、具体的な数字などを含んだ3-4文での要約を作成することはできません。\n\nもし記事の全文をご提供いただければ、ご要望に応じて正確な要約をいたします。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-14T08:58:47.314497"
   }
 ]
