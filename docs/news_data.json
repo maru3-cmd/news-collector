@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「Nikon Z6 III」の無線機能非搭載モデルが個人でも購入可能な状態で販売されている",
+    "link": "https://gigazine.net/news/20260704-nikon-z6-iii-no-wireless-connectivity/",
+    "summary": "ミラーレスカメラ「Nikon Z6 III」は通常、スマートフォンやPCとの無線接続用にWi-Fi・Bluetooth機能を搭載しています。しかし、これらの無線通信機能を取り除いた特別版が存在します。この無線機能非搭載モデルは、カメラ通販サイトのB＆Hで個人でも購入可能な状態で販売されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-04T08:17:20.697937"
+  },
+  {
+    "source": "Zenn",
+    "title": "1週間限定のClaude Fable 5で何をすべきか - 7月7日まで",
+    "link": "https://zenn.dev/yun_bow/articles/99512afc69bcf8",
+    "summary": "記事の具体的な内容が提供されていないため、要約することはできません。\n\nしかし、提示されたタイトル「1週間限定のClaude Fable 5で何をすべきか - 7月7日まで」から推測するに、Claude Fable 5というものが7月7日までの1週間限定で利用可能であり、その期間中に何をするべきかに関する情報が含まれていたと考えられます。重要なポイントや具体的な行動指示、数字などは、記事本文がなければ不明です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-04T08:17:27.558628"
+  },
+  {
+    "source": "Qiita",
+    "title": "プロンプトを磨くのはもう古い?「コンテキストエンジニアリング」に片足を突っ込む話",
+    "link": "https://qiita.com/shoka-jp/items/770dc588dee277d7b36b",
+    "summary": "この記事は、従来のプロンプトエンジニアリングがLLMへの入力の一部に過ぎないと指摘し、「コンテキストエンジニアリング」という新たなアプローチを提唱しています。LLMが見ているのは、ユーザーが入力したプロンプトだけでなく、システムメッセージや過去の会話、ツールの出力など多岐にわたる情報です。\n\nプロンプトエンジニアリングが「最後の一言をどう書くか」であるのに対し、コンテキストエンジニアリングは「AIへ何を見せるか」を考えるものです。例えば、エージェントによっては人間が書いた100トークンよりもツールが取得した数万トークンの方が圧倒的に多く、AIに与える情報全体を設計することの重要性が強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-04T08:17:35.305187"
+  },
+  {
     "source": "ITmedia",
     "title": "Google Chromeで「Perplexity」を偽装する悪質拡張機能が発見　Microsoftが警告",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/03/news022.html",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-06-14T08:58:47.314497"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエージェントに日本の法人番号を引かせる 6 つの選択肢を比較する — 国税庁 Web-API・ChatGPT プラグイン・Custom GPT・商用 SaaS・OSS・AI ネイティブ wrapper",
-    "link": "https://qiita.com/yosikawa-techwell/items/69240d8c0ff13aee6048",
-    "summary": "この記事は、AIエージェントが日本の法人番号（13桁の識別子）を取得する際の最適な方法を、客観的に比較・検討しています。具体的には、国税庁Web-APIの直接利用、ChatGPTプラグイン・Custom GPT、商用SaaS、OSS、AIネイティブwrapperの計6つの選択肢を対象としています。前回の記事で指摘された「国税庁Web-API直叩きでの落とし穴」を踏まえ、AIエージェントの観点からそれぞれの選択肢のメリット・デメリットを評価しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-14T08:58:56.409805"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
-    "link": "https://gigazine.net/news/20260613-kdp-pre-orders/",
-    "summary": "GIGAZINEがAmazonのKDPでマンガなどをリリースする際に利用する「予約注文」機能でトラブルが発生しました。この問題により、彼らは「1年間予約注文用の設定が不可」という禁止状態に陥ってしまいます。記事では、Amazonに問い合わせを行い、その禁止状態が解除されるまでの詳細な経緯がまとめられています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-13T22:53:58.437605"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI Agentは実装前に1コマンド打て",
-    "link": "https://zenn.dev/tadkud/articles/ai-agent-environment-verification-rule",
-    "summary": "この記事は、AIエージェントの開発において、本格的な実装に着手する前に「1コマンド」打ってテストすることの重要性を強調しています。これは、開発者が考案したエージェントのアイデアや動作原理が実際に機能するかを、最小限の労力で事前に検証することを意味します。この簡単な事前確認により、大規模な実装後の手戻りを効果的に防ぎ、開発プロセス全体の効率を大幅に向上させることが可能となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-13T22:54:07.657442"
   }
 ]
