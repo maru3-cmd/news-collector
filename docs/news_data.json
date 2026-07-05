@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "たった1件の不備でマイナス1万点　AIの物量攻撃に耐える“基礎の強度”",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/03/news012.html",
+    "summary": "激変するセキュリティ環境とAIによる物量攻撃が常態化する中、企業は「たった1件の不備でマイナス1万点」という致命的なリスクに直面しています。これに対処するには、漫然とした基礎対応から脱却し、セキュリティ対策の“練度”を向上させることが不可欠です。さらに、ITとセキュリティの運用を組織的に統合し、システム全体の“基礎の強度”を高める実務的なアプローチが求められています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-05T22:52:13.990584"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AI時代に大学のコンピューターサイエンス学科はどうやって学生を教育すればいいのか？",
+    "link": "https://gigazine.net/news/20260706-university-in-the-ai-era/",
+    "summary": "AIの普及により、多くの大学生がAIを利用しており、学力評価に影響が出始めています。具体的には、持ち帰り試験で平均96点だったクラスが、対面試験では平均48点に落ち込む事例も発生しています。この事態を受け、モンタナ州立大学のカーソン・グロス氏は、AI時代における大学の価値と、適切な教育方法について考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-05T22:52:21.056045"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI エージェントに API を JPYC で売る — HTTP 402 決済を 2 円で試す",
+    "link": "https://zenn.dev/masia02/articles/b977969767e7ee",
+    "summary": "この記事は、AIエージェントがAPIを利用する際の支払いメカニズムとして、HTTP 402 (Payment Required) 決済を導入する試みについて述べています。具体的には、日本円ステーブルコインであるJPYCを用いて、わずか2円という小額で決済を行う実験を行います。これにより、将来的にAIエージェントが自律的にサービスを売買するWeb3エコシステムにおけるマイクロペイメントの実現可能性を探ることが目的です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-05T22:52:28.906882"
+  },
+  {
+    "source": "Qiita",
+    "title": "grill-me がバズった Matt Pocock の Claude Code skills リポジトリを一通り眺めてみた",
+    "link": "https://qiita.com/kirozero/items/28a20168ace6f0299763",
+    "summary": "Total TypeScriptで知られるMatt Pocock氏が、自身のAI (Claude) 向けスキル集リポジトリ「mattpocock/skills」を公開しました。特に、AIが実装前に人間を「尋問」し計画を固めるスキル`/grill-me`がXでバズったことで大きな注目を集めました。その結果、このリポジトリは公開からわずか5ヶ月で157K starと13.5K forkを達成する人気を博し、38個のスキルが6つのバケットに整理されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-05T22:52:37.160846"
+  },
+  {
     "source": "GIGAZINE",
     "title": "2050年の渋谷を舞台にした近未来SFアニメ『レベルロボチカ』ティザーPV公開、総監督：大沼心＆シリーズ構成：吉上亮＆テーマ・挿入歌：梶浦由記らメインスタッフ情報も解禁",
     "link": "https://gigazine.net/news/20260705-rebel-robotica/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-15T23:28:50.001122"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Box CEOが語る「AIによるコンテンツ管理プラットフォームの進化」　同社の優位性を考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/15/news092.html",
-    "summary": "コンテンツ管理プラットフォームを提供するBoxのCEOは、AIによる同社プラットフォームの進化について語りました。この進化は、サービス改善だけでなく、今後のコンテンツ管理の未来を形作るものとされています。特に、Boxの動きは、新興のエージェンティックAI市場の形成において画期的な一歩となる可能性を秘めています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-15T11:38:42.322716"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "イスラエル企業「BlackCore」がニューヨーク市議会選挙やスコットランドの選挙に介入した疑い",
-    "link": "https://gigazine.net/news/20260615-israeli-blackcore-meddling-votes/",
-    "summary": "フランスのデジタル干渉監視機関「VIGINUM」は2026年6月11日、イスラエル企業「BlackCore」が複数の選挙に介入した疑いがあると発表しました。同社はニューヨーク市議会選挙やスコットランドの選挙のほか、アフリカのアンゴラやトーゴでも活動していたとされています。VIGINUMは、BlackCoreがフランス地方選挙への干渉も疑っているとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-15T11:38:50.052220"
-  },
-  {
-    "source": "Zenn",
-    "title": "「機能を作るな」は、AI時代には「Issueを積むな」なのかもしれない",
-    "link": "https://zenn.dev/noragrammer/articles/dont-build-features-and-japanese-saas",
-    "summary": "この記事は、従来のソフトウェア開発で重視されてきた「機能を作るな」という格言について考察しています。筆者は、AIが社会に深く浸透する現代において、この原則の意味合いが変化する可能性を提起。そして、AI時代における新たな行動規範として、「Issueを積むな」（問題を積み重ねるな、タスクを溜めるな）という考え方が重要になるかもしれないと示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-15T11:38:58.177110"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIツールのディレクトリサイトを作って分かった「AIでAIをキュレーションする」パイプライン設計",
-    "link": "https://qiita.com/kevin9898/items/4ae201d8ce1264f18fc4",
-    "summary": "AIツールの無料ディレクトリサイト「SoFarBot」の運営者は、サイトを支える半自動パイプライン設計について解説しています。このパイプラインでは、候補収集からAIによる下書き生成、カテゴリ分類といった機械的な作業の約8割をAIが処理します。しかし、「このツールを掲載するかどうか」という最終的な判断と人手レビューは、依然として人間が行っています。これは、「量が多く許容誤差の大きい作業はAIに、量が少なく許容誤差の小さい作業は人に」という原則に基づいています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-15T11:39:07.752352"
   }
 ]
