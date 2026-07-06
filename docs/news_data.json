@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「AIの暴走を止められない」　CISO座談会で見えたAIセキュリティの限界",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news035.html",
+    "summary": "企業がAI活用を加速する中、従来の防御モデルでは対応しきれない新たなセキュリティリスクが浮上し、AIセキュリティの限界が露呈しています。Darktraceが実施したCISO座談会では、AIエージェントの暴走やシャドーAIのまん延など、具体的な課題が指摘されました。これらの問題を含む「5つの主要課題」が、企業のAIセキュリティにおける喫緊の課題となっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-06T22:57:49.707982"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "中国がEVで成功してもジェットエンジンで苦戦する理由とは？",
+    "link": "https://gigazine.net/news/20260707-china-jet-engine-industrial-policy/",
+    "summary": "中国はEV、バッテリー、再生可能エネルギー、自動車・家電向けレガシーチップなどの分野で急速に存在感を高めています。しかし、民間航空機や軍用機に使われるジェットエンジン開発においては、欧米メーカーと同等の水準に達するまで苦戦が続いています。これは、中国の産業政策の限界を示すものとして、「The Tanzimat Diaries」のアーカシュ・ジャピ氏が論じています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-07-06T22:57:56.380115"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code を使い始めたら最初にやること — ステップ別初期設定ガイド",
+    "link": "https://zenn.dev/okzaq/articles/claude-code-onboarding-first-steps",
+    "summary": "このガイドは、AIコーディングアシスタントであるClaude Codeを使い始めるユーザー向けに、初期設定のステップを網羅的に解説しています。\n\n利用開始に必要な認証設定や開発環境の準備方法が段階的に示されており、スムーズな導入を支援します。\n\nこれにより、ユーザーはClaude Codeを効率的に導入し、その機能を最大限に活用して開発作業を開始できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-06T22:58:04.428171"
+  },
+  {
+    "source": "Qiita",
+    "title": "生成AIと2週間壁打ちして実装2日で公開 ─ sql.js × Go × PostgreSQLで作るSQL学習サービスkufu:SQL",
+    "link": "https://qiita.com/matsutomu/items/41fe7bd49cb6188a50df",
+    "summary": "PostgreSQLのチューニング経験から、SQLを実践的に学べる学習サービス「kufu:SQL」が開発されました。このサービスは、コンセプトやアーキテクチャ、プログラミング言語の選定において、生成AIと2週間かけて設計を固めました。その結果、当初2ヶ月と見込まれた実装期間は、設計が確立していたことでわずか2日に短縮され、そのまま本番公開に至りました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-06T22:58:13.404507"
+  },
+  {
+    "source": "ITmedia",
     "title": "FDEとリコーの新コンサルサービス、どこが違う？　AXのパートナー選びを考察",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news054.html",
     "summary": "この記事は、企業がAX（AIトランスフォーメーション）を推進する際に、どのようなベンダーをパートナーとして選ぶべきかについて考察しています。\n\n特に、リコーが新たに設立したAIコンサル会社と、近年よく聞かれる「FDE」というアプローチとの共通点や相違点を詳細に分析しています。\n\nその比較を通じて、企業が自身の目的や状況に最も適したパートナーを選定するための示唆を提供しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-16T23:17:57.672870"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Claude「Fable 5」が3日で停止　Anthropicが主張する“米国政府の誤解”の正体",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html",
-    "summary": "Anthropicは、AIモデルClaudeの「Fable 5」のサービス提供をリリースからわずか3日で停止しました。これは米国政府からの指令に従ったものです。\n\n同社はこの指令について「政府の誤解に基づくもの」であると主張していますが、その具体的な内容については不明です。この記事は、その「誤解」の正体が何であるかを問いかけています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-16T10:48:15.620488"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "OSSのcurlが異例の「夏休み」を宣言、7月中は脆弱性報告を受け付けず開発者の負担軽減へ",
-    "link": "https://gigazine.net/news/20260616-curl-summer-of-bliss/",
-    "summary": "OSSのデータ転送ツール「curl」の開発チームは、開発者の負担軽減のため、脆弱性報告の受付と対応を一時的に停止すると発表しました。これは相次ぐ報告への対応で負担が高まっていることが理由です。脆弱性報告の受付は2026年7月1日から停止され、同年8月3日に再開される予定です。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-06-16T10:48:27.129176"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code の許可プロンプトを安全網を外さず減らす — 在席と無人で最適解は違う",
-    "link": "https://zenn.dev/kojisumiyoshi/articles/claude-code-permission-prompts-guide",
-    "summary": "この記事は、Claude Code利用時の許可プロンプトの数を、安全性を損なうことなく削減する方法を解説しています。重要な点として、最適なアプローチは人間が介入する「在席」環境と自動で実行される「無人」環境とで異なると指摘されています。安全網を維持しつつ、それぞれの運用状況に合わせた戦略を採用することで、効率的なコード生成AIの利用を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-16T10:48:36.366563"
-  },
-  {
-    "source": "Qiita",
-    "title": "【#4】「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」",
-    "link": "https://qiita.com/yoshiyakato/items/899360ffd48f96c97f31",
-    "summary": "「定額の裏側」連載の第4回である本記事は、AIサブスクとAPIの価格差からフロンティアモデルの経済構造を考察しています。過去の回で価格差の土台や補助金の理由を解説した上で、今回は「APIがなぜ高値で売れ続けるのか」という問いに焦点を当てています。\n\n筆者は、APIが高値で「売れ続ける」ことはないと断言。提供元であるラボ自身がその状況が続かないことを知っているため、今のうちに最大限の利益を回収しようとしていると結論付けています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-16T10:48:44.502262"
   }
 ]
