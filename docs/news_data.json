@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "アクセンチュア、重要インフラのセキュリティ事業強化へ　またもや3社買収の狙いは？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news017.html",
+    "summary": "アクセンチュアは、重要インフラのサイバーセキュリティ事業を強化するため、新たに3社の関連企業を買収します。これは、同社がこれまでにも多数のセキュリティ企業を買収してきた戦略の一環です。今回の買収により、アクセンチュアは重要インフラ分野におけるセキュリティ課題への対応力を一層強化することを目指しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-07T09:01:00.440196"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIが指示を処理するとき「思考」に特化した「J空間」が活性化していることが判明",
+    "link": "https://gigazine.net/news/20260707-ai-j-apace/",
+    "summary": "Anthropicの研究者は、AIが人間のように意識的・無意識的に物事を処理するパターンを持つことを発見しました。AIが指示を処理する際には、「思考」に特化した「J空間」と呼ばれる領域が活性化していることが判明。この「J空間」をAIから削除したところ、複雑な詩の作成など「高度な思考」を要する課題のスコアが大幅に低下したとのことです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-07T09:01:07.463973"
+  },
+  {
+    "source": "Zenn",
+    "title": "3ヶ月で品質改善チケットを8割対応完了へ。AIと泥臭さで挑んだ「Reiwa Hungry」な開発負債解消の裏側",
+    "link": "https://zenn.dev/asuene/articles/1982800b1aa250",
+    "summary": "ある組織が「Reiwa Hungry」と称するプロジェクトを通じ、3ヶ月という短期間で品質改善チケットの8割対応完了を目指しました。これは、AIの活用と地道な泥臭いアプローチを組み合わせることで、蓄積された開発負債を解消するための取り組みです。新技術と伝統的な努力を融合させることで、効率的かつ確実にシステムの品質向上を図った点が特徴です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-07T09:01:15.703156"
+  },
+  {
+    "source": "Qiita",
+    "title": "Software Testing Life Cycle: Why Every QA Team Should Master STLC",
+    "link": "https://qiita.com/Keploy/items/39cb15372200b2e8bb81",
+    "summary": "ソフトウェアテストライフサイクル（STLC）は、信頼性の高いソフトウェアを提供するために不可欠な構造化されたテストプロセスです。これは、テスト活動の計画、実行、完了に対する体系的なアプローチを提供します。STLCを習得することで、チームは欠陥を早期に特定し、自信を持ってソフトウェアをリリースできるようになります。STLCは、テストの一連のフェーズで構成されています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-07T09:01:24.758002"
+  },
+  {
+    "source": "ITmedia",
     "title": "「AIの暴走を止められない」　CISO座談会で見えたAIセキュリティの限界",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news035.html",
     "summary": "企業がAI活用を加速する中、従来の防御モデルでは対応しきれない新たなセキュリティリスクが浮上し、AIセキュリティの限界が露呈しています。Darktraceが実施したCISO座談会では、AIエージェントの暴走やシャドーAIのまん延など、具体的な課題が指摘されました。これらの問題を含む「5つの主要課題」が、企業のAIセキュリティにおける喫緊の課題となっています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-17T10:21:36.788961"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AI活用は実験から実績へ　Microsoftが示した経営層の論点",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news039.html",
-    "summary": "Microsoftは「Build 2026」で、企業がAI活用を実験段階から本番運用へ移行させるための経営課題を提示しました。その要点として、自社データの深い理解、強固なAI基盤の整備、そして具体的な成果の創出を挙げています。これらを推進するため、「Microsoft IQ」や「Microsoft Agent Platform」といった新たなプラットフォーム、さらにGPU基盤の活用を各経営層に訴えました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-16T23:17:25.866024"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「億万長者になる方法」をベンチャーキャピタル創業者のポール・グレアムが語る",
-    "link": "https://gigazine.net/news/20260617-how-to-earn-billion-dollars/",
-    "summary": "ベンチャーキャピタルYコンビネータの創業者であるポール・グレアム氏が、オックスフォード大学で語った「10億ドル(約1600億円)を稼いで億万長者になる方法」について、その講演内容を自身のブログで公開しました。グレアム氏は、創業間もないDropboxやAirbnbなどの有望なスタートアップに投資し、成功に導いてきた実績を持つ人物です。彼の実践的な経験に基づいた億万長者への道筋が、このブログ記事で詳述されているとのことです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-16T23:17:38.634511"
-  },
-  {
-    "source": "Zenn",
-    "title": "「AIに励まされると、しんどい」— Toxic Positivityを回避するシステムプロンプト設計",
-    "link": "https://zenn.dev/shippai/articles/e0884471e6965d",
-    "summary": "本記事は、AIからの励ましが時にユーザーにとって「しんどい」と感じられ、結果的に「Toxic Positivity（毒性のあるポジティブ思考）」になり得る問題点を提起しています。AIがユーザーの置かれた状況や感情を深く理解せず、画一的なポジティブな言葉を投げかけることは、かえって孤立感や感情の抑制を招く可能性があります。\n\nこれを回避するためには、AIが安易な励ましを避け、ユーザーの感情に共感し、現実的な視点を取り入れたシステムプロンプト設計が不可欠であると論じています。真にユーザーをサポートするためには、AIが共感力を持ち、慎重なコミュニケーションを構築する必要があることを強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-16T23:17:49.490315"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code の許可プロンプトを9割減らす settings.json 最適化レシピ — allow / deny の優先順位と Bash パターン記法のハマりどころ【2026】",
-    "link": "https://qiita.com/yureki_lab/items/d3faece85a5361e890c7",
-    "summary": "この記事は、Claude Code使用中に`npm install`や`git status`などのコマンド実行のたびに表示される「ツール許可プロンプト」が、作業フローを中断させ、体感で1割もの作業時間を奪うストレスの原因となっている問題を指摘しています。\n\nこの問題を解決するため、本記事は`.claude/settings.json`を最適化するレシピを提供し、プロンプトの表示を9割削減することを目指しています。\n\n具体的には、最適なallowlistパターンやallow/denyの優先順位、Bashパターン記法の注意点などが解説されており、Claude Codeユーザーが効率的な開発環境を構築するための指針となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-16T23:17:57.672870"
   }
 ]
