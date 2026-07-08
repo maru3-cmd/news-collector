@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「大企業の知見を成長企業に」　アクセンチュア新事業、日本での“攻め方”は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/08/news007.html",
+    "summary": "アクセンチュアは、年商30億ドル未満の成長企業を対象とした新事業「Accenture Edge」の設立を発表しました。この事業は、同社が大企業向けサービスで培ってきた豊富な知見やノウハウを、成長フェーズにある企業に提供することを目的としています。日本市場においても、この新たなサービスを通じて成長企業への支援を強化していく方針を示しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-07-08T08:03:10.918317"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIへの画像入力は解像度を下げると逆にコストが増えることがあるという実験結果",
+    "link": "https://gigazine.net/news/20260708-llm-image-cost/",
+    "summary": "AIモデルへの画像入力のコスト削減策として、入力画像の解像度を低くするアイデアが広まっています。しかし、AIのAPI提供サービスを行うOpenRouterの実験結果によると、この通説に反する事実が判明しました。OpenRouterの報告では、解像度を低くした画像をAIに入力すると、**逆にコストが増大する**ことが明らかになっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-08T08:03:18.671321"
+  },
+  {
+    "source": "Zenn",
+    "title": "Fable 5の利用量を抑えて、Fable 5の効果を最大限引き出すハーネスを作ってみた",
+    "link": "https://zenn.dev/emuni/articles/f18bbe0d598719",
+    "summary": "この記事は、「Fable 5」の利用方法を最適化する新しい「ハーネス」の開発について述べています。このハーネスは、Fable 5の消費量を抑えながら、その効果や性能を最大限に引き出すことを目的としています。これにより、Fable 5の効率的な運用と、より効果的な活用が可能になることが期待されています。具体的な数字は記載されていません。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-07-08T08:03:28.258392"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code の常時ロードが 3,366 行に膨れていた話 ─ CLAUDE.md は守っていたのに気づかず肥大化していた",
+    "link": "https://qiita.com/vincentmango_wen/items/a96d69be89695d1a8c85",
+    "summary": "Claude Codeの運用において、公式推奨の200行を遵守していたCLAUDE.md本体とは別に、毎セッション自動ロードされるルールファイル群が17ファイル・3,366行・約207KBにまで肥大化していました。筆者はこの肥大化に気づき、実測と設計を通じて、常時ロード層を1ファイル73行の「ルーター表」に集約。詳細なルールは必要な時に読み込む構造へと変更しました。この記事は、この問題の発見から解決に至るまでの実録を詳細に解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-08T08:03:43.523984"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIインフラのスピードと予算の壁をどう超える？　日本のSIer依存を見据えた、デルの戦略を聞いた",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/08/news020.html",
     "summary": "AIの進化に伴い、ITインフラのスピードと予算が深刻な課題となっており、特に日本ではSIerへの依存が状況分析や投資判断を遅らせる要因となっています。この記事では、デル・テクノロジーズがこうしたAIインフラの課題に対し、どのような戦略で応えるのかを探ります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-18T10:01:15.690616"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft、「Copilot Cowork」の一般提供を開始　プロンプト単価は競合比で約4割安価に",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/18/news031.html",
-    "summary": "Microsoftは、Microsoft 365 Copilotの新機能「Copilot Cowork」の一般提供を開始しました。これは、複雑な業務を自動化するエージェント機能です。最大の特長は、プロンプト単価を競合製品と比較して約4割安価に設定している点です。さらに、強力なコスト統制機能も備えています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-17T23:16:27.613446"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Metaが自社の象徴たるエンジニアリング文化を崩壊させてしまった理由とは？",
-    "link": "https://gigazine.net/news/20260618-why-meta-destroying-engineering-organization/",
-    "summary": "Metaは、経営陣主導で「AIを駆使した改革」を自社のエンジニアリング組織において猛烈な勢いで進めています。この動きは、FacebookやInstagramといった主要プロダクトを支える同社の象徴的なエンジニアリング文化を崩壊させつつあると報じられています。記事では、ゲルゲイ・オロス氏がこの大規模な変革の実態とその影響について解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-17T23:16:35.501959"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントでシスコルータのOSPF障害を調査・復旧してみた",
-    "link": "https://zenn.dev/kooshin/articles/20260617_ios-xe-mcp-server1",
-    "summary": "この記事は、AIエージェントを活用してシスコルータのOSPF（Open Shortest Path First）障害を調査し、復旧した取り組みについて報告しています。この実践により、ネットワーク運用における障害対応の自動化や効率化の可能性が示されました。具体的には、AIがOSPFプロトコルに関する問題の特定から解決までを支援した事例となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-17T23:16:47.148439"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIが何者か、少し分かった気がした話",
-    "link": "https://qiita.com/flip-flop/items/f93264c043edd360938b",
-    "summary": "筆者は自治会向けWebアプリ開発にAIを活用する中で、AIへの理解を深めました。当初はプログラマーが不要になる未来を想像していましたが、AIがReactコード生成やエラー特定などで開発スピードを劇的に向上させる強力なツールだと実感。しかし、AIは「何を作るか」「何を解決したいか」といった根本的な課題設定や発想は行わず、技術的な実装を支援する役割に留まることに気づきました。この経験から、AIは人間の創造性や課題発見能力を代替するものではないと筆者は結論付けています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-17T23:16:56.381110"
   }
 ]
