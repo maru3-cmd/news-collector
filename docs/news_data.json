@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「全自動にできるがやらない」　OpsRamp創業者が語る、インフラ自律化の超えられない一線",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/09/news016.html",
+    "summary": "HPEのイベントでOpsRamp創業者ヴァルマ・クナパラジュ氏は、AIインフラ運用と新発表のコパイロットがもたらす自律化の現在地について語りました。彼は、技術的にはインフラを全自動にできるとしながらも、人間が介在することの重要性を強く強調。その結果、「全自動にできるがやらない」という一線を引く考え方を示し、完全な自律化には人間が介在するべきだという見解を明らかにしました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-08T22:55:22.131319"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "EU内で販売される車への顔認証カメラの搭載が義務づけ開始",
+    "link": "https://gigazine.net/news/20260709-eu-car-camera-systems/",
+    "summary": "2026年7月7日以降、欧州連合(EU)で販売されるすべての新車に、運転者の顔に向けたドライバーモニタリングカメラの搭載が義務づけられます。これは脇見運転による交通事故の削減を目的とした制度です。しかし、収集された映像やデータの取り扱いに関する規制が不十分であるため、プライバシー侵害への懸念が指摘されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-08T22:55:28.789691"
+  },
+  {
+    "source": "Zenn",
+    "title": "RAGをDXの中心に置く幻想をそろそろやめる",
+    "link": "https://zenn.dev/continuitymodel/articles/743a39ece6f295",
+    "summary": "記事「RAGをDXの中心に置く幻想をそろそろやめる」は、企業がRAG（検索拡張生成）技術をデジタルトランスフォーメーション（DX）推進の核と見なす傾向に警鐘を鳴らしています。\n\nRAGは大規模言語モデル（LLM）の回答精度を高める有効な手段であるものの、それ単独でDXが達成されるわけではなく、あくまで多くの技術要素の一つに過ぎないと指摘。真のDXを実現するには、業務プロセス改革やデータ戦略、組織変革といった広範かつ包括的なアプローチが必要不可欠です。\n\nしたがって、RAGに過度な期待をせず、その限界と適切な位置づけを理解することが、DX成功への鍵であると強調しています。",
+    "category": "DX・業務改善",
+    "content_type": "article",
+    "collected_at": "2026-07-08T22:55:41.528367"
+  },
+  {
+    "source": "Qiita",
+    "title": "初の「AI実行ランサムウェア」、標的を選んだのはやはり人間だった",
+    "link": "https://qiita.com/quotidia/items/013402d0018300206893",
+    "summary": "初の「AI実行ランサムウェア」攻撃が発生しましたが、報じられた内容によると、その実行時には「キーボードの前に人間はひとりもいなかった」とされています。しかし、この攻撃の標的選択には人間が関与しており、AIが完全に独立して攻撃を実行したわけではありません。この事例は、AIによる自動化がどこまで進み、人間の役割がどこに残るのか、その境界線について重要な問いを投げかけています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-08T22:55:50.758363"
+  },
+  {
+    "source": "ITmedia",
     "title": "「大企業の知見を成長企業に」　アクセンチュア新事業、日本での“攻め方”は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/08/news007.html",
     "summary": "アクセンチュアは、年商30億ドル未満の成長企業を対象とした新事業「Accenture Edge」の設立を発表しました。この事業は、同社が大企業向けサービスで培ってきた豊富な知見やノウハウを、成長フェーズにある企業に提供することを目的としています。日本市場においても、この新たなサービスを通じて成長企業への支援を強化していく方針を示しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-18T23:28:14.794724"
-  },
-  {
-    "source": "Qiita",
-    "title": "【文系合格者が図解】G検定「誤差逆伝播法・勾配消失問題」攻略｜ニューラルネットワークが学習する仕組みを一気に理解",
-    "link": "https://qiita.com/mrmrmr/items/c0e345a753a2e34dba93",
-    "summary": "このG検定攻略記事は、文系出身の合格者がニューラルネットワークの学習における「誤差逆伝播法（バックプロパゲーション）」と「勾配消失問題」を分かりやすく解説しています。これらの概念はニューラルネットワークが学習する仕組みそのものであり、G検定において超重要パートとされています。数式ではなく「答え合わせの繰り返し」という全体像で、文系出身者でも理解しやすいストーリーで学習メカニズムを整理することを目的としています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-06-18T23:28:23.154122"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年6月18日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20260618-headline/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 53.226334873s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 53\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-18T10:01:06.788887"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code から一度もダッシュボードを開かずに、FastAPI アプリを KamuiDash へデプロイしてみた",
-    "link": "https://zenn.dev/kamuidash/articles/6a673850634039",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 48.737541162s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 48\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-18T10:01:11.277755"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026年版】日本語対応AIチェッカーを徹底比較！エンジニア必見のAI検出ツールガイド",
-    "link": "https://qiita.com/peggykang/items/b288848d09e3ff791a79",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 44.326769014s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 44\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-18T10:01:15.690616"
   }
 ]
