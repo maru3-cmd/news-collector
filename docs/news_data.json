@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "開発者はAIで減るどころか増える？　Gartnerが予測する少人数チーム時代",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news039.html",
+    "summary": "ガートナーは、AIの普及によりソフトウェア開発チームが少人数化し、2029年には6割の組織がこれを本格導入すると予測しています。しかし同社は、このトレンドを誤解した企業は長期的な競争力を失う危険性があると警告しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-09T23:02:33.145098"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ネアンデルタール人とホモ・サピエンスが狩猟や石器についての知識や文化を共有していた可能性",
+    "link": "https://gigazine.net/news/20260710-modern-humans-neanderthals-shared-culture/",
+    "summary": "ネアンデルタール人は約4万年前まで生存し、現生人類(ホモ・サピエンス)と交配して現代人にそのDNAが受け継がれていることが知られています。しかし、日本、トルコ、フランスなどの研究者による新たな研究では、これら二つの人類種が遺伝子だけでなく文化も共有していた可能性が示唆されました。この発見は、ネアンデルタール人とホモ・サピエンスの相互作用に関する従来の理解を深めるものです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-09T23:02:42.492584"
+  },
+  {
+    "source": "Zenn",
+    "title": "GA4とSearch Consoleの月次解析をClaude Codeのコマンド1発にした",
+    "link": "https://zenn.dev/shunaibuilder/articles/ga4-gsc-monthly-report-command",
+    "summary": "この記事では、ウェブサイトの月次データ解析プロセスを効率化した取り組みについて紹介されています。具体的には、GA4（Google Analytics 4）とSearch Consoleから得られる重要なデータ解析を対象としています。\n\nAIアシスタントのClaude Codeを活用することで、これまで手間がかかっていた月次解析作業を大幅に簡素化。これにより、複数のツールからのデータ解析が「コマンド1発」で可能となり、自動化と作業時間の短縮を実現したと述べています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-09T23:02:51.666393"
+  },
+  {
+    "source": "Qiita",
+    "title": "【文系でも3分で理解】G検定「説明可能AI（XAI）」攻略｜LIME・SHAP・Grad-CAMの違いをスッキリ整理",
+    "link": "https://qiita.com/mrmrmr/items/4ce0acdcdc511a6d87ef",
+    "summary": "この記事は、G検定のシラバスで重要度を増す「説明可能AI（XAI）」について、文系出身者でも理解しやすいよう解説しています。\n特に、混同されがちなLIME、SHAP、Grad-CAMといった主要な手法の違いを整理することを目的としています。\nAIが「ブラックボックス」と言われる理由と、それをどのように説明するのかという流れで理解することで、各手法の役割が明確になると筆者は述べています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-09T23:03:02.052698"
+  },
+  {
+    "source": "ITmedia",
     "title": "DX人材が\"お手並み拝見\"される日本企業　人と制度が生む停滞の正体",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/09/news025.html",
     "summary": "日本企業ではDX人材を採用しても「お手並み拝見」と孤立させ、生成AIを導入しても成果につながらず、DXが5年間停滞しています。この停滞の根本原因は、30年間変わらない人事制度と組織文化にあると指摘されています。記事では、現場支援の実例とPwCの最新調査に基づき、この状況を断ち切る道筋を探ります。",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "article",
     "collected_at": "2026-06-19T22:43:48.679337"
-  },
-  {
-    "source": "ITmedia",
-    "title": "サプライチェーンのモニタリングは“必須”に　SLING社CEOに尋ねる、リスク管理のポイント",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/18/news030.html",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.882224186s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 19\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-19T10:07:40.135195"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アメリカのAI企業が独自開発モデル「Laguna M.1」をオープンモデルとして公開、高性能だが中国製オープンモデルには劣る",
-    "link": "https://gigazine.net/news/20260619-laguna-m1-ai-open/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 15.682581793s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 15\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-19T10:07:44.334766"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeのコストとプラン枠を常時見える化する ― statusline実装",
-    "link": "https://zenn.dev/bokuwalily/articles/cost-visibility",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 9.969947812s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 9\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-19T10:07:50.046881"
-  },
-  {
-    "source": "Qiita",
-    "title": "RNN・Transformer・State Space Models（Mamba）の比較：AIメモリの未来",
-    "link": "https://qiita.com/tuanpk1977/items/056143b2255392c74176",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 5.505161828s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 5\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-19T10:07:54.511569"
   }
 ]
