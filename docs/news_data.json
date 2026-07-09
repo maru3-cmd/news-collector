@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "DX人材が\"お手並み拝見\"される日本企業　人と制度が生む停滞の正体",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/09/news025.html",
+    "summary": "日本企業ではDX人材を採用しても「お手並み拝見」と孤立させ、生成AIを導入しても成果につながらず、DXが5年間停滞しています。この停滞の根本原因は、30年間変わらない人事制度と組織文化にあると指摘されています。記事では、現場支援の実例とPwCの最新調査に基づき、この状況を断ち切る道筋を探ります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-09T08:59:19.653687"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "カップ焼そばが三島のふりかけとコラボした「三島のゆかり使用塩焼そば」「三島のひでき使用醤油焼そば」試食レビュー",
+    "link": "https://gigazine.net/news/20260709-acecook-mishima-yukari-hideki-yakisoba/",
+    "summary": "エースコックは、三島食品の代表的ふりかけ「ゆかり」と、2026年1月に新登場したひじきごはんのもと「ひでき」とのコラボカップ焼そばを、2026年7月6日に発売しました。\nラインナップは「三島のゆかり使用塩焼そば」と「三島のひでき使用醤油焼そば」の2種類です。\n本記事は、夏にぴったりの焼そばとして登場したこれらの商品を実際に購入し、試食したレビューを紹介しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-09T08:59:28.021617"
+  },
+  {
+    "source": "Zenn",
+    "title": "マニュアルを取り込むと、出典付きで答える。自社SaaS「マニュアルさん」を公開しました",
+    "link": "https://zenn.dev/pri_system_dev/articles/manualsan-product-launch",
+    "summary": "この度、自社SaaS「マニュアルさん」が公開されました。本サービスは、ユーザーが取り込んだ社内マニュアルなどの情報源に基づいて、質問に回答する機能を提供します。特に、回答の際にその情報の出典を明示する点が大きな特徴です。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-09T08:59:35.589443"
+  },
+  {
+    "source": "ITmedia",
     "title": "「全自動にできるがやらない」　OpsRamp創業者が語る、インフラ自律化の超えられない一線",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/09/news016.html",
     "summary": "HPEのイベントでOpsRamp創業者ヴァルマ・クナパラジュ氏は、AIインフラ運用と新発表のコパイロットがもたらす自律化の現在地について語りました。彼は、技術的にはインフラを全自動にできるとしながらも、人間が介在することの重要性を強く強調。その結果、「全自動にできるがやらない」という一線を引く考え方を示し、完全な自律化には人間が介在するべきだという見解を明らかにしました。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-19T10:07:54.511569"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ネットワークもエージェント型へ　HPEのArubaとMistの共通化で運用はどう変わる",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/19/news034.html",
-    "summary": "HPEは、AIファクトリー、データセンター、企業エッジを含む全域に、自律型ネットワーク戦略を拡張する新施策を発表しました。この施策には、AIデータセンター向けネットワークとルーティング、Agentic AIOps、セキュリティ分野の新機能が含まれます。これにより、分散化が進むAI活用環境において、運用の簡素化と性能向上を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-18T23:27:59.837011"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ゲーム開発ではなぜファイルのマージよりも「ロック」を多用して開発を進めるのか？",
-    "link": "https://gigazine.net/news/20260619-game-dev-dont-merge-files/",
-    "summary": "ゲーム開発では、一般的なソフトウェア開発と異なり、複数ファイルの変更を統合する「マージ」ではなく「ロック」が多用されます。これは、画像や3Dモデルのようなバイナリファイルの編集が複雑で、さらに巨大なデータ容量を扱う必要があるためです。ゲーム開発者のアレックス・クリリン氏が解説するように、こうした要因がゲーム開発特有の作業手順を生み出しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-06-18T23:28:06.830917"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントの記憶は「夢」で整理する — TiDB Cloud に観測2,218件を溜めた8週間の実録",
-    "link": "https://zenn.dev/hakaru/articles/memdream-tidb-vector-ai-memory",
-    "summary": "この実録では、AIエージェントの膨大な記憶を効率的に整理するため、「夢」のようなメカニズムを用いる革新的な手法が提案され、その実践結果が報告されています。この記憶整理システムはTiDB Cloudを基盤として構築・運用されました。8週間の実証期間中に2,218件もの観測データが蓄積され、その具体的なプロセスと成果が詳細にまとめられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-18T23:28:14.794724"
   }
 ]
