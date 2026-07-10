@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+    "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+    "summary": "この記事は、Cloudflare Tunnelを使ってローカルPCで動くAIサービスを外部から安全に利用可能にする設定方法を紹介しています。Cloudflare Tunnelはルーターのポート開放なしでサービスを公開できる利点がありますが、これだけでは誰でもアクセスできてしまうというセキュリティ上の課題があります。そこで、Cloudflare Accessを追加することで、公開されたURLに認証機能を持たせ、アクセスを制限します。これにより、ローカルのAIサービスを外部から安全に利用できるようになります。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-10T22:50:40.826442"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIに3案出させても似た案しか出ない原因、軸を先に固定して分岐させる",
+    "link": "https://zenn.dev/every_ai_recipe/articles/ai-idea-options-3-axes",
+    "summary": "このタイトルは、AIに複数のアイデア（例えば3案）を出させても、結果的に似たような案しか出てこないという問題提起をしています。その原因として、AIが案を生成する際の「軸」が事前に固定されていないことを示唆しています。\n\n記事では、この問題を解決するため、まず核となる「軸」を先に設定し、そこからアイデアを分岐させていく方法を提唱しています。これにより、より多様で独創的な提案をAIから引き出すことが可能になると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-10T22:50:50.147372"
+  },
+  {
+    "source": "Qiita",
+    "title": "トークンとコンテキストウィンドウの基礎：LLMが「文字数」では測らない理由",
+    "link": "https://qiita.com/YushiYamamoto/items/63951470a18884266761",
+    "summary": "LLMではAPI料金や入力上限が「トークン数」という単位で測られ、これは日本語の「文字数」とは異なります。トークンとは、LLMがテキストを処理する際の最小単位であり、OpenAIのドキュメントでは「単語の断片」と表現されます。LLMはトークナイザーを用いてテキストをトークンの列に変換してから処理を行います。したがって、LLMのコスト試算やプロンプト設計を行う際は、文字数ではなくトークン数で考えることが重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-10T22:50:58.672347"
+  },
+  {
     "source": "ITmedia",
     "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり　ガートナー、「SaaSの終焉」で独自見解を披露",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news054.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-20T22:57:56.287776"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Nothingがメモリ高騰の影響で「CMF Phoneの次世代モデルの2026年発売はナシ」と発表",
-    "link": "https://gigazine.net/news/20260620-nothing-cancels-cmf-phone-ram-prices/",
-    "summary": "独特なデザインで知られるNothing Technologyは、CMF Phoneシリーズの次世代モデルを2026年中に発売しないと発表しました。この決定は、主要部品であるメモリ価格の大幅な高騰が原因とされています。これにより、同社は当初予定していた2026年内のリリース計画を断念した形となります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-20T08:37:07.717735"
-  },
-  {
-    "source": "Zenn",
-    "title": "Windows + PowerShell 5.1 で Claude Code を実運用して踏んだ落とし穴と対策",
-    "link": "https://zenn.dev/equaliainc/articles/claude-code-windows-powershell-tips",
-    "summary": "この記事は、WindowsとPowerShell 5.1の環境で「Claude Code」を実運用する際に直面した具体的な問題点（落とし穴）と、それらに対する解決策（対策）を解説しています。実運用におけるトラブルシューティングや注意点に焦点を当て、スムーズなシステム運用を実現するための情報が提供されていると考えられます。\n\n特に、**Windows + PowerShell 5.1**という特定の環境下でのAIコード（Claude Code）の利用経験に基づいた知見が共有されているため、同様の環境でAIツールの導入を検討している開発者や運用担当者にとって有益な内容となるでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-20T08:37:19.399385"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIを定期実行するベストプラクティス：Cron・launchd・/loop・/schedule・GitHub Actions 徹底比較",
-    "link": "https://qiita.com/degudegu2510/items/e15edc063e19ef82604c",
-    "summary": "この記事は、AIの活用が増える中で「AIを定期実行したい」というニーズが高まっていることを背景に、そのためのベストプラクティスを解説しています。\n\n代表的な**5つの手段**を比較しており、具体例として、サーバーからローカルまで幅広い環境でシンプルな構文で動作する`cron`や、macOSのネイティブなプロセス管理ツールである`launchd`が紹介されています。記事は、これらの方法を比較することで、目的別の最適な選択肢を提示することを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-20T08:37:29.902095"
   }
 ]
