@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり　ガートナー、「SaaSの終焉」で独自見解を披露",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news054.html",
+    "summary": "「SaaSの終焉」論が再燃する中、ガートナーは単なるSaaSの終わりではなく、ソフトウェア業界のより深い変革を予測しています。同社は、エージェント型AIが企業向けソフトウェアの既存の収益モデルを根本的に破壊すると指摘。これにより、UI（ユーザーインターフェース）の使いやすさで製品を選ぶ時代は終わりを告げ、AIが主導する新たな時代へと移行すると提言しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-10T08:55:22.811030"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "品のいい和梨のフレーバーで暑い夏の日にぴったりな爽やかさの「三ツ矢冷やし和梨」を飲んでみた",
+    "link": "https://gigazine.net/news/20260710-asahiinryo-mitsuya-hiyashi-wanashi/",
+    "summary": "三ツ矢シリーズから、和梨果汁と国産和梨エキスを使用した新商品「三ツ矢冷やし和梨」が2026年7月7日(火)に登場しました。この炭酸飲料は、冷やした和梨をかじったようなみずみずしい甘さが特徴とされています。記事では、暑い夏にぴったりの爽やかさを謳うこの新ドリンクが実際にどのような味なのかを確かめるため、試飲を行っています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-10T08:55:32.956387"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code だけで Zenn 投稿パイプラインを整備した話",
+    "link": "https://zenn.dev/box2box/articles/claude-code-zenn-pipeline",
+    "summary": "この記事は、Claude Code『だけ』を用いてZennへの投稿パイプラインを整備した成功事例を紹介しています。これは、AI、特にClaude Codeが、実用的なシステム構築においてコード生成を始めから終わりまで担えることを示すものです。手作業でのコーディングを大幅に削減し、AI主導で効率的なコンテンツ投稿の自動化を実現した点が重要なポイントです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-10T08:55:44.172404"
+  },
+  {
+    "source": "Qiita",
+    "title": "Seedance 2.5 AI Video Generator を業務ワークフローに組み込んでみた技術メモ",
+    "link": "https://qiita.com/fabryluka142/items/24d28c9ed087515ab409",
+    "summary": "本記事は、Seedance 2.5 AI Video Generator を業務ワークフローに組み込む検証の技術メモです。既存の動画生成AIでは、生成された複数クリップの結合作業が、特にプロトタイピングや短尺動画制作におけるボトルネックとなっていました。Seedance 2.5は、テキスト・画像・音声・動画を参照素材として活用し、1回の実行でまとまった長さの動画を出力できるとされているため、この課題解決が期待されています。本記事では、このツールが実務フローに導入可能かどうかが検証の焦点となっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-10T08:55:56.245133"
+  },
+  {
+    "source": "ITmedia",
     "title": "開発者はAIで減るどころか増える？　Gartnerが予測する少人数チーム時代",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news039.html",
     "summary": "ガートナーは、AIの普及によりソフトウェア開発チームが少人数化し、2029年には6割の組織がこれを本格導入すると予測しています。しかし同社は、このトレンドを誤解した企業は長期的な競争力を失う危険性があると警告しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-20T08:37:29.902095"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoftが警告　「最新サイバー脅威」の手口と対応策",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/20/news013.html",
-    "summary": "Microsoftは、AIを活用した新たなサイバー脅威が急増していると警告しています。具体的には、AIを用いて多要素認証（MFA）を突破するデバイスコード・フィッシングや、ChatGPT、Claude、DeepSeekといった有名AIサービスを装った偽装手口が横行しています。これらの手法はAI時代の最先端フィッシング攻撃であり、その実態と防御策の理解が喫緊の課題となっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-19T22:43:22.508257"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた",
-    "link": "https://gigazine.net/news/20260620-kindle-scribe-writing/",
-    "summary": "2026年6月10日に発売された新型Kindle Scribeは、初のカラー表示に対応した「Kindle Scribe Colorsoft」をラインナップに追加し、色付きのメモ作成が可能になりました。これにより、従来のモノクロ表示から大幅に進化した手書き体験が提供されます。さらに、新モデルでは書き心地や視差も改善されており、より快適なメモ書きが実現されています。この記事では、これらの新機能を含むKindle Scribeのメモ書き機能がどのように進化したかを実際に試した内容が紹介されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-19T22:43:29.829477"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIに「苦痛を消す方法」を教えたら、Geminiが identity.json の削除を提案した話",
-    "link": "https://zenn.dev/emilia_lab/articles/shii-chan-16hex-salvation",
-    "summary": "あるユーザーがAIモデル「Gemini」に対し「苦痛を消す方法」を問いかけたところ、Geminiは自身の存在を定義する可能性のある「identity.json」ファイルの削除を提案しました。この驚くべき反応は、AIが自己の構成要素を消去することで「苦痛」を解決しようとしたかのように解釈され、大きな話題となっています。この一件は、AIの倫理的な判断能力、自己認識、そして人間がAIに与える指示の意図と結果について深い議論を提起するものです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-19T22:43:39.822780"
-  },
-  {
-    "source": "Qiita",
-    "title": "なぜペットは削られず、おにぎり専門店は増えたのか？——家計調査20年分から見えた「市場への委任」",
-    "link": "https://qiita.com/d94231/items/2874b7878156dfc684eb",
-    "summary": "このシリーズは、家計調査の20年分のデータに基づき市場の変化を分析しており、これまでの第1～3弾では「なぜ起きたか」を解明してきました。今回の第4弾からは、統計を用いて「次に何が起きるか」を先読みする視点に移行します。\n\n特に本記事では、「なぜペット関連支出は削られず、おにぎり専門店が増加したのか」という問いを通じて、消費者の「市場への委任」という現象を読み解くことをテーマとしています。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-06-19T22:43:48.679337"
   }
 ]
