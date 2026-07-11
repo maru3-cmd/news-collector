@@ -1,5 +1,32 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ChatGPTは利用者減、なのにシェア上昇　AIアプリ「併用しない」実態とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news014.html",
+    "summary": "ChatGPTの米国市場シェアが11ヶ月ぶりに上昇しましたが、これは利用者数の減少と並行して起こった現象であり、成長による反転ではありません。この奇妙な動きは、利用者が複数のAIチャットボットを「併用しない」実態や、それらのアプリをどのように使い分けているのかという疑問を提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-11T22:37:08.214229"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "暑い季節にぐっすり眠るための8つの方法",
+    "link": "https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather/",
+    "summary": "暑い季節には、寝つきが悪くなったり夜中に目覚めたりするなど、睡眠の質が低下しがちです。ノッティンガム・トレント大学の研究者、アミン・アル・ハバイベ氏とフランチェスコ・ルーク・シエナ氏が、この問題への対策を解説しています。彼らは、暑い日にぐっすり眠るための**8つの方法**を提示しており、快適な夜の睡眠をサポートします。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-11T22:37:21.831744"
+  },
+  {
+    "source": "Zenn",
+    "title": "「Claudeが決算を読む」— 無料の財務データAPIとLLMで作る日本株AIアナリストを本にまとめた",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-earnings-analyst-book",
+    "summary": "「Claudeが決算を読む」は、LLM「Claude」と無料の財務データAPIを組み合わせ、日本株の決算情報を分析するAIアナリストを構築する手法を解説した書籍です。この本は、費用をかけずにAIを活用した投資支援ツールを自作するための具体的な方法論を提供します。読者は、AIが企業の決算データを読み解き、投資判断に役立つ洞察を得るシステムを構築するノウハウを習得できます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-11T22:37:29.324659"
+  },
+  {
     "source": "GIGAZINE",
     "title": "親が「スマホに気を取られている」と感じる子どもほど親との愛着関係が不安定な傾向にあるという研究結果",
     "link": "https://gigazine.net/news/20260711-parent-phone-use-child-attachment/",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-21T23:00:21.314971"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
-    "link": "https://gigazine.net/news/20260621-desktop-mode/",
-    "summary": "無料プラグイン「Desktop Mode」が公開され、WordPressの管理画面をデスクトップOSのように利用できるようになります。これにより、投稿編集やメディア確認、設定変更など複数の作業を切り替える手間を軽減できます。このプラグインは無料で利用でき、AI連携機能も搭載しているため、管理画面での作業効率向上が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-21T09:31:38.561289"
-  },
-  {
-    "source": "Zenn",
-    "title": "機能を作るな。では、そのコストは誰が払うのか",
-    "link": "https://zenn.dev/yottayoshida/articles/dont-build-features-conditionally-right",
-    "summary": "ご提示いただいた記事はタイトルと内容が全く同じで、本文の詳細な情報が提供されておりません。そのため、具体的なポイントや数字を含めて要約することができません。\n\nもし記事本文をご提供いただければ、その内容に基づいて3-4文で要約させていただきます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-06-21T09:31:45.375578"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代、「内製か外注か」はどう変わるのか～SIerの立場から考える、日本のIT市場のこれから～",
-    "link": "https://qiita.com/papi_tokei/items/0813eee16368ebe76c2b",
-    "summary": "日本のシステム開発は長年、SIerを中心とした多重下請けの外注構造が主流でした。これはIT人材が不足する中で、大規模システム開発に必要な多数のエンジニアを必要な期間だけ集める上で合理的とされてきました。\n\nしかし、生成AIやAIコーディングツールの爆発的な普及により、その前提が根本から覆されつつあります。これにより、「開発・運用に大量の人員を必要とする活動」という従来のシステム開発のあり方が大きく変化している現状が示唆されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-21T09:31:53.339350"
   }
 ]
