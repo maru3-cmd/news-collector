@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "親が「スマホに気を取られている」と感じる子どもほど親との愛着関係が不安定な傾向にあるという研究結果",
+    "link": "https://gigazine.net/news/20260711-parent-phone-use-child-attachment/",
+    "summary": "親のデバイス使用が子どもの心身に与える影響は研究されていますが、親子関係への影響は十分に分かっていませんでした。Newport Healthcareのドン・グラント氏らの研究は、親がデバイスに気を取られることが青年期の子どもの親との愛着傾向にどう関連するかを調査しました。その結果、親がスマートフォンに気を取られていると感じる子どもほど、親との愛着関係が不安定になる傾向があることが示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-11T07:28:35.150681"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code が一晩で200万トークン溶かしたので、フライトレコーダーを作った",
+    "link": "https://zenn.dev/kamihork/articles/f70a08364ef151",
+    "summary": "「Claude Code」が、一晩で予期せぬ大量のトークンを消費する事態が発生しました。具体的には、わずか一晩で200万トークンものコストがかかったことが判明しています。この莫大なトークン消費を監視し、その原因を究明するため、「フライトレコーダー」と呼ばれる新しいツールが開発されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-11T07:28:42.797643"
+  },
+  {
+    "source": "Qiita",
+    "title": "おうちAI構築報告：OpenCodeをインストールしてローカルLLM(llama.cpp)に接続",
+    "link": "https://qiita.com/katz_engineer/items/028fcaff36296d059e05",
+    "summary": "この記事は、自宅のローカルAI環境構築の一環として、OpenCodeをインストールし、既存のローカルLLMであるllama.cppに接続する手順を報告しています。筆者は、以前にコンテナ上でQwen3.5-9B-UD-Q4_K_XLモデルを動かすllama.cppサーバーを構築しており、今回はこれとは別のコンテナにOpenCodeを導入して接続を試みています。この作業は、ProxmoxVE(9.1.5)がインストールされたマシン上で進められています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-11T07:28:52.872963"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
     "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
     "summary": "この記事は、Cloudflare Tunnelを使ってローカルPCで動くAIサービスを外部から安全に利用可能にする設定方法を紹介しています。Cloudflare Tunnelはルーターのポート開放なしでサービスを公開できる利点がありますが、これだけでは誰でもアクセスできてしまうというセキュリティ上の課題があります。そこで、Cloudflare Accessを追加することで、公開されたURLに認証機能を持たせ、アクセスを制限します。これにより、ローカルのAIサービスを外部から安全に利用できるようになります。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-21T09:31:53.339350"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "氷の池に2時間半沈んだ8歳の子どもが体温7℃・心停止状態から生還、医師らは「人命救助の限界を大きく更新した」と報告",
-    "link": "https://gigazine.net/news/20260621-ice-water-drowning-survival/",
-    "summary": "アメリカで8歳の男の子が氷の張った池に約147分間（2時間半）沈み、体温が約7℃まで低下して心停止状態になりました。しかし、人工呼吸と復温治療により奇跡的に救命されました。\n\n医学研究チームは、この事例を医学文献において生存が確認された最長の水中潜水時間と最低体温の記録と報告しています。これは、心停止性低体温症から救命可能な時間と温度の限界を大きく広げる画期的な事例だとされています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-20T22:57:39.369632"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeに毎朝GitHubを巡回させる ― 有用なOSSとスキルを自動採点",
-    "link": "https://zenn.dev/bokuwalily/articles/github-scout-daily",
-    "summary": "この記事は、AIツール「Claude Code」を活用し、GitHubを毎朝巡回させて有用なOSS（オープンソースソフトウェア）やスキルを自動的に採点するシステムについて解説しています。このシステムは、開発者が最新かつ価値のある技術トレンドやプロジェクトを効率的に発見し、スキルアップに役立てることを目的としています。AIによる自動評価を通じて、日々の情報収集の手間を省き、重要な情報を迅速に入手することが可能になります。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-20T22:57:47.171111"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest: 2026年6月21日 — Fable 5禁止9日目、ShazeerがOpenAIへ、SpaceXが600億ドルでCursor買収",
-    "link": "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f",
-    "summary": "米国政府の輸出規制によりAnthropicのClaude Fable 5は9日間利用不可が続いていますが、DeepSWEで70% PASS@1を達成し、最高のコーディングAIであることが確認されました。AI人材の動きとしては、Google Geminiの共同作成者であるNoam ShazeerがOpenAIに移籍し、AI研究開発における人材獲得競争が激化しています。また、AIコーディングエコシステムでは、SpaceXがAIコーディングアシスタントのCursorを600億ドルで買収し、高度なAIを活用した宇宙探査を加速させる意向を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-20T22:57:56.287776"
   }
 ]
