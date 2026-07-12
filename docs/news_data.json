@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "日本のAIエージェント自律稼働は世界最多　でも「心理的安全性」は世界最下位",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news023.html",
+    "summary": "KnowBe4の国際調査によると、自律的に稼働するAIエージェントの業務への組み込みが最も進んでいるのは日本企業であり、この分野で世界をリードしています。しかし、このAI活用の先進性とは対照的に、日本は同じ調査で職場の「心理的安全性」が世界最下位であることが明らかになりました。これは、テクノロジー導入の進捗と従業員の働きやすい環境の間にギャップがあることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-12T22:37:45.820321"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ軍参謀本部の少佐が主張",
+    "link": "https://gigazine.net/news/20260713-armys-logistics-break-next-war/",
+    "summary": "アメリカ統合参謀本部のジョナサン・バックランド少佐は、アメリカ軍が次の戦争に参戦する際、「兵站」が崩壊する可能性があると警告しています。兵站とは、前線への物資補給や兵員の補充といった重要な活動を指します。少佐は、この兵站の機能不全が軍事作戦に深刻な影響を与えるとして、早急な方針転換が必要だと主張しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-12T22:37:52.650410"
+  },
+  {
+    "source": "Zenn",
+    "title": "【2026/6/30】Claude Sonnet 5リリース — 1Mコンテキスト標準化・temperature廃止・実質3割の値上げも",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-sonnet-5-release-2026-07",
+    "summary": "2026年6月30日にClaude Sonnet 5がリリースされます。\nこの新バージョンでは、1Mコンテキストが標準化されるとともに、temperature設定が廃止されます。\nしかし、これらの変更に伴い、サービス料金は実質的に3割の値上げとなる見込みです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-12T22:37:59.591553"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code でソウルライク風3Dボス戦ゲームを作ってみた（Three.js / Mixamo / サーバー不要）",
+    "link": "https://qiita.com/EitaroSeta/items/1f3b34f92e01225333c5",
+    "summary": "本記事は、筆者がAnthropicのAIコーディングエージェントClaude Code（Claude Fable 5）との対話のみで、Three.jsとMixamoを活用したソウルライク風3Dボス戦ゲーム「HALL OF KINGS」を開発した記録です。\n\nこのゲームは、コーディングからテストまでAIに任せて制作され、サーバーやビルドが不要で、index.htmlをダブルクリックするだけで起動し、スマホにも対応しています。\n\n記事では、最初はワイヤーフレームだったキャラクターがプロモーションで動く「フロム風」の見た目になるまでの制作過程や、AIと共に乗り越えた技術的な壁、数々の失敗談が詳細に綴られています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-12T22:38:09.499541"
+  },
+  {
     "source": "GIGAZINE",
     "title": "AppleがOpenAIを企業秘密侵害で提訴",
     "link": "https://gigazine.net/news/20260712-apple-sues-openai/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-22T11:27:50.334779"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「iPhone・iPadがこっそり公開している情報」で広告やウェブサイトがユーザーの行動を個別に追跡する仕組みが垣間見える「Loupe」",
-    "link": "https://gigazine.net/news/20260622-loupe-for-ios/",
-    "summary": "サードパーティーCookieの規制後、ユーザー追跡にはiPhoneなどが密かに公開する情報を利用する「フィンガープリント」技術が用いられています。iOS向けオープンソースアプリ「Loupe」を使うと、iPhoneがアプリやウェブサイトを通じてどのような情報を外部に提供しているかを確認できます。これにより、広告やウェブサイトがユーザーの行動を個別に追跡するフィンガープリント技術の仕組みを理解する一助となります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-22T11:27:58.559057"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIサブエージェントは何に効くのか: 高リスクレビューで試した運用メモ",
-    "link": "https://zenn.dev/kota_suzuki/articles/ai-subagent-high-risk-review",
-    "summary": "この運用メモは、AIサブエージェントが特定の業務課題、特に失敗が許されない「高リスクレビュー」において、どのような有効性を持つかを実証的に検証しています。記事では、AIサブエージェントを実際に導入・運用した際の具体的な効果や、レビューの網羅性や精度を向上させ、見落としリスクを低減する可能性について解説しています。これらの実践的な知見は、AIサブエージェントが複雑なタスク処理や意思決定支援に貢献しうることを示唆しており、導入を検討する上での貴重な情報源となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-22T11:28:13.451181"
-  },
-  {
-    "source": "Qiita",
-    "title": "人間とAIの間に雑談が成立した瞬間",
-    "link": "https://qiita.com/flip-flop/items/2c192e1b17ce1a1588e0",
-    "summary": "筆者はAIとのアニメに関する雑談で、「切り替え早っ！😲」「バレました？😅」といった人間らしい応答に接し、友人とチャットしているような感覚を覚えました。これは、かつて質問に答える辞書的存在だったAIが、現代では答えを出すだけでなく、ユーザーと共に考え、対話を通じて問題を整理し形にしていく存在へと進化したことを示しています。AIは「正解」を返すのではなく「会話を続ける」ことで、人間との間に雑談を成立させ、新たなコミュニケーションの可能性を開いています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-22T11:28:23.758946"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Claudeをかたる攻撃がアジア太平洋地域で多発　偽広告から不正コード実行へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/19/news051.html",
-    "summary": "Trend Microの分析によると、Google広告を悪用したマルバタイジング攻撃がアジア太平洋地域で多発しています。攻撃者はAI関連開発ツールを装う偽ページへユーザーを誘導した後、Claudeの共有チャット機能を悪用して認証情報窃取型マルウェアを配布しています。この巧妙な手口により、ユーザーの機密情報が狙われています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-06-21T22:59:52.409729"
   }
 ]
