@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AppleがOpenAIを企業秘密侵害で提訴",
+    "link": "https://gigazine.net/news/20260712-apple-sues-openai/",
+    "summary": "Appleは、OpenAIと、同社のハードウェア最高責任者タン・タン氏、従業員チャン・リュウ氏を企業秘密侵害で提訴しました。Appleは、OpenAIが「ハードウェア開発に必要な情報」を含む自社の知的財産を盗んだと主張しています。この訴訟は、技術分野における企業秘密保護の重要性を浮き彫りにするものです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-12T07:53:22.910362"
+  },
+  {
+    "source": "Zenn",
+    "title": "【会話するオンチェーンFX】Sera Protocol API × Privyで安全なTelegram Botを作ってみた",
+    "link": "https://zenn.dev/mashharuki/articles/web3_sera_protocol-8",
+    "summary": "Sera Protocol APIとPrivyの技術を活用し、Telegram上で操作できる「会話する」オンチェーンFXボットが開発されました。このボットは、分散型金融（DeFi）における外国為替取引を対象としています。Sera Protocol APIがFX機能を提供し、Privyによってユーザーの安全性が確保されています。これにより、ユーザーはTelegram上で安全かつ直感的にオンチェーンFX取引を行うことが可能になります。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-07-12T07:53:31.336457"
+  },
+  {
+    "source": "Qiita",
+    "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
+    "link": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90",
+    "summary": "15歳の高校生が動画配信サービス「バンダイチャンネル」にサイバー攻撃を行い、4万6812件の会員アカウントを意図せず退会処理させた疑いで逮捕されました。筆者は、この報道で最も注目されたのが「彼がChatGPTを使った」という点であったと指摘しています。これは巧妙な見出しの選び方であり、認証や異常検知といった複雑なシステム上の問題が「ChatGPT」という言葉一つで単純化されてしまう、と筆者は考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-12T07:53:39.313532"
+  },
+  {
     "source": "ITmedia",
     "title": "ChatGPTは利用者減、なのにシェア上昇　AIアプリ「併用しない」実態とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news014.html",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-06-21T22:59:52.409729"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "チップの動作や脆弱性を研究するためにMITの研究者らが独自OS「Fractal」を開発",
-    "link": "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
-    "summary": "マサチューセッツ工科大学(MIT)の研究者らは、チップの動作原理や脆弱性を詳細に研究するため、独自OS「Fractal」を開発しました。これまでチップ内部の動作調査にはWindowsやmacOS、Linuxなどの汎用OSが使われてきましたが、これらは日常利用目的のため、チップの正確な内部動作測定には不向きでした。Fractalは、この課題を克服し、チップの内部構造をより精密に調査することを可能にします。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-06-21T22:59:59.575887"
-  },
-  {
-    "source": "Zenn",
-    "title": "お水ちょうだい！マリーゴールドと会話する新しい見守りのカタチ。会話もセンサーも記録できる優れもの",
-    "link": "https://zenn.dev/yuichirominato/articles/d67f165a5630a5",
-    "summary": "「お水ちょうだい！」は、マリーゴールドとの会話を通じて人の状態を見守るという、画期的な新しい見守りの形を提案しています。このシステムは、単に植物と対話するだけでなく、その会話内容やセンサーからの情報も全て記録・管理できる優れた機能を備えています。これにより、対象者の状態を多角的に把握し、より質の高い見守りを実現する「優れもの」として期待されます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-06-21T23:00:10.667002"
-  },
-  {
-    "source": "Qiita",
-    "title": "【文系合格者がストーリーで解説】G検定「探索・推論・知識表現」入門｜古いAIの暗記がスッと頭に入る",
-    "link": "https://qiita.com/mrmrmr/items/bd517d27f8e94bc4e6b3",
-    "summary": "G検定合格者の文系エンジニアが、G検定で出題される「探索・推論・知識表現」などの古典的AI技術の学習法を解説しています。これらの「古いAI」の概念を単なる暗記ではなく、AIが過去にどのように「賢く」なろうとしたかの歴史的ストーリーとして理解することを提案。記事では、第1次・第2次AIブームの中心だった技術に焦点を当て、「探す→推論する→知識を持つ」というAIの進化の全体像を示すことで、文系学習者の深い理解を促すことを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-21T23:00:21.314971"
   }
 ]
