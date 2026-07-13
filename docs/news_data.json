@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "人に残る「クリエイティブな仕事」とは？　Adobeの“人×AI”の取り組みから探る",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news061.html",
+    "summary": "生成AIが広告制作などのクリエイティブ業務で広範囲に利用され、一部でクリエイターの仕事が奪われる事態が発生しています。Adobeは「AIが全てを決める世界を目指しているのではない」と明言し、人とAIが共存するクリエイティブの未来を模索しています。この記事は、Adobeの新たな取り組みを通して、AI時代におけるクリエイティブ業務における人とAIの最適な関係性を考察することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-13T08:40:19.968876"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
+    "link": "https://gigazine.net/news/20260713-neo-hands/",
+    "summary": "1X Technologiesは、人型家事ロボット「NEO」向けに、新型ハンド「NEO's Hands」を発表しました。このハンドは25自由度(DOF)を備え、人間の腱のように自在に駆動する特徴を持ちます。NEO's Handsの導入により、「NEO」は人間とほぼ同等の器用さ、力強さ、安全性、信頼性を実現することを目指しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-13T08:40:27.367494"
+  },
+  {
+    "source": "Zenn",
+    "title": "Spring Boot で Claude の応答を JSON で受けてカテゴリ分類する",
+    "link": "https://zenn.dev/propagandist/articles/0018-spring-boot-claude-structured-output",
+    "summary": "この記事は、Spring Bootアプリケーションにおいて、Anthropic社のAIモデルであるClaudeからの応答を効果的に処理する方法について解説しています。特に、Claudeが生成する応答をJSON形式で受け取り、これを適切に解析する手順が示されています。最終的な目的は、このJSONデータに含まれる情報を基に、コンテンツを特定のカテゴリに分類することにあります。これにより、AIの応答を活用した自動分類システムを構築する手法が紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-13T08:40:34.461309"
+  },
+  {
+    "source": "Qiita",
+    "title": "Chrome拡張を個人開発してWeb Storeに公開するまで｜英語メールに30分溶かしていた非エンジニアの話【デモ動画付き】",
+    "link": "https://qiita.com/zhonglin9894/items/1c551f860af8f0d07356",
+    "summary": "非エンジニアの個人開発者が、海外向けサービスで英語メール作成に1通あたり30分以上かかる非効率性に悩んでいました。この課題を解決するため、選択したテキストを`Alt+Q`で自然な英語に書き直せるChrome拡張機能「NativeProse」を自作。同拡張機能は現在Chrome Web Storeで公開されており、同様の悩みを持つ人々やChrome拡張開発に興味がある人々の参考となることを目指しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-07-13T08:40:42.777801"
+  },
+  {
+    "source": "ITmedia",
     "title": "日本のAIエージェント自律稼働は世界最多　でも「心理的安全性」は世界最下位",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news023.html",
     "summary": "KnowBe4の国際調査によると、自律的に稼働するAIエージェントの業務への組み込みが最も進んでいるのは日本企業であり、この分野で世界をリードしています。しかし、このAI活用の先進性とは対照的に、日本は同じ調査で職場の「心理的安全性」が世界最下位であることが明らかになりました。これは、テクノロジー導入の進捗と従業員の働きやすい環境の間にギャップがあることを示唆しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-22T23:11:45.408519"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "男性は加齢とともにY染色体を失っているがデメリットはあるのか？",
-    "link": "https://gigazine.net/news/20260623-men-lose-y-chromosome-age-cost/",
-    "summary": "Y染色体は男性のみが持つ性染色体ですが、男性は加齢とともにこのY染色体を徐々に失っていくことが知られています。科学系メディアのScienceAlertは、このY染色体の喪失が男性にもたらすデメリットについて解説しました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-22T23:11:51.943722"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI運用はハーネスだけで語ってよいのか",
-    "link": "https://zenn.dev/paseri_kurosawa/articles/9813c62551a19e",
-    "summary": "このタイトルは、AI運用において「ハーネス」（AIモデルのデプロイ、監視、管理を担う技術的な基盤やツール）が重要な要素である一方で、それだけでAI運用の本質や全体像を語り尽くせるのかという問いを投げかけています。AIを効果的かつ安全に運用するには、ハーネスのような技術的枠組みだけでなく、ガバナンス、倫理、ビジネス戦略、人材育成、データ品質、継続的な改善など、より広範で複合的な側面を考慮する必要があることを示唆しています。したがって、技術的な側面を超えた多角的な視点からAI運用を捉えることの重要性を提起しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-22T23:12:04.475005"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.186｜bashコマンド出力にClaudeが自動応答｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/c8e4090853e599e25b4a",
-    "summary": "Claude Code v2.1.186では、インラインのbashコマンド実行結果に対し、Claudeが自動で応答する機能がデフォルトで追加されました。これにより、従来の単に実行結果を文脈に加えるだけの挙動から進化し、`respondToBashCommands: false`で従来の動作を維持できます。また、`claude mcp login`/`logout`コマンドが導入され、CLIからMCPサーバーへの認証が可能になり、`--no-browser`オプションでSSH環境からの利用もサポートされます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-22T23:12:12.116618"
-  },
-  {
-    "source": "ITmedia",
-    "title": "日立はAX事業にどう臨む？　徳永CEOの話から「成長につなげるための勘所」を探る",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/22/news076.html",
-    "summary": "この記事は、企業がAIトランスフォーメーション（AX）にどのように取り組むべきかという問いに対し、日立製作所のAX事業への姿勢からそのヒントを探るものです。特に、徳永CEOの話を通じて、AXを企業の成長に確実につなげるための「勘所」が深掘りされます。これは、AX推進における実践的なアプローチや、課題解決に向けた日立の戦略的視点を知る上で重要な示唆を与える内容です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-22T11:27:50.334779"
   }
 ]
