@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "OpenAIが「GPT-5.6」一般提供　3モデルの価格と新たな利用条件は",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/11/news013.html",
+    "summary": "OpenAIは、新AIモデル群「GPT-5.6」の一般提供を開始しました。このモデルは、性能と効率が向上している点が特徴です。また、企業ユーザーに影響を及ぼす複数の利用条件変更が含まれており、その詳細が注目されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-13T22:44:22.049429"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "第一子が娘の父親は男女平等に肯定的な傾向が強いことが日本の研究で判明",
+    "link": "https://gigazine.net/news/20260714-first-daughter-effect-japan/",
+    "summary": "早稲田大学とマカオ大学の研究チームが日本の大規模社会調査を分析した結果、第一子が娘である父親は男女平等に肯定的な傾向が強いことが判明しました。この研究は、子どもの性別が父親のジェンダー平等意識や政策支持に影響を与え、政治的価値観が親から子へだけでなく、子から親へも伝わる可能性を示唆しています。この成果は2026年6月12日付で学術誌「Public Opinion Quarterly」に掲載されました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-13T22:44:29.307408"
+  },
+  {
+    "source": "Zenn",
+    "title": "【2026/7/1】Fable 5が19日ぶりに復活 — 輸出規制解除の経緯と、「無料期間」が「クレジット制」に変わった話",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-fable-5-restored-2026-07",
+    "summary": "2026年7月1日、Fable 5が19日間の停止期間を経てサービスを再開しました。この復活は、輸出規制が解除されたことによるものです。また、今回の再開に伴い、これまでのアクセスモデルが変更され、「無料期間」が「クレジット制」へと移行しました。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-13T22:44:38.500799"
+  },
+  {
+    "source": "ITmedia",
     "title": "人に残る「クリエイティブな仕事」とは？　Adobeの“人×AI”の取り組みから探る",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news061.html",
     "summary": "生成AIが広告制作などのクリエイティブ業務で広範囲に利用され、一部でクリエイターの仕事が奪われる事態が発生しています。Adobeは「AIが全てを決める世界を目指しているのではない」と明言し、人とAIが共存するクリエイティブの未来を模索しています。この記事は、Adobeの新たな取り組みを通して、AI時代におけるクリエイティブ業務における人とAIの最適な関係性を考察することを目的としています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-23T08:53:37.400855"
-  },
-  {
-    "source": "Zenn",
-    "title": "フォーム回答ダッシュボードをイベントログから作る設計",
-    "link": "https://zenn.dev/lova_man/articles/f8a98f05bba188",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 18.108876324s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 18\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-23T08:53:41.914242"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude codeとBlenderでモデルを生成しようじゃないか",
-    "link": "https://qiita.com/mittsuuuu/items/c1e53e7e8f8690d6ad71",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 13.396224857s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 13\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-23T08:53:46.624529"
-  },
-  {
-    "source": "ITmedia",
-    "title": "生成AIの進化で変わる脆弱性対策　CISA新指針と「SCS評価制度」から探るパッチ適用方針",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news022.html",
-    "summary": "生成AIの進化により脆弱性対策の難易度が急激に高まっており、従来の数カ月ごとの定期メンテナンスによるパッチ適用方針ではもはや通用しません。これまでの対策が通用しなくなった原因は脅威の高度化と高速化にあります。この状況を受け、CISA（サイバーセキュリティ・インフラセキュリティ庁）やIPA（情報処理推進機構）は、新たな防御戦略として「SCS評価制度」などを提示し、パッチ適用を含む脆弱性対策のあり方を見直す動きが進んでいます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-22T23:11:45.408519"
   }
 ]
