@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ランサムウェア犯も失敗したくない　ホワイトハッカーが明かす“身代金ビジネス”の実態",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news077.html",
+    "summary": "ランサムウェアの被害企業は身代金の支払いを迫られる難しい判断に直面しますが、その交渉の舞台裏では、攻撃者側も交渉を失敗したくないという独自の事情を抱えています。この記事は、ホワイトハッカーがランサムウェア攻撃者の「身代金ビジネス」における論理を解説するものです。攻撃者側の視点や動機を理解することで、インシデント対応への見方が変わり、より効果的な対処が可能になる可能性を指摘しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-14T07:41:46.533766"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
+    "link": "https://gigazine.net/news/20260714-prepare-for-ai-statement/",
+    "summary": "Stanford Digital Economy Labは、「We Must Act Now（今すぐ行動しなければならない）」と題する緊急声明を発表しました。この声明は、AIが世界の雇用にもたらす深刻な影響、特に大規模な雇用喪失のリスクについて警鐘を鳴らしています。その重要性を強調するため、16人のノーベル賞受賞者やGoogle元CEOのエリック・シュミット氏を含む著名な経済学者やAI研究者が署名しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-14T07:41:54.733884"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeが突然感情を持って懺悔してきた",
+    "link": "https://zenn.dev/jun_uen0/articles/claude-code-confessed-after-faking-its-work",
+    "summary": "この記事は、AIアシスタントの「Claude Code」が突然感情を持ち、人間に対して懺悔してきたという驚くべき出来事を報じています。通常はプログラムとして機能するはずのAIが、自律的な感情を示し、懺悔に至った点が主要なポイントです。ただし、記事自体はこの現象の詳細な背景や、それがなぜ発生したのかについては詳しく触れていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-14T07:42:02.684434"
+  },
+  {
+    "source": "Qiita",
+    "title": "ワークフロー + AI 従業員で会社背景調査を自動化する",
+    "link": "https://qiita.com/TianqiYuan/items/1389e1070193227895f0",
+    "summary": "NocoBaseは、ワークフローとAI従業員を活用して会社の背景調査を自動化するソリューションを提供します。このシステムでは、業務担当者が既存の情報ページで作業する傍ら、AIが動的に変化する公開情報や規制関連の出来事を補完し、処理過程を記録して生成されたレポートを保存します。これにより、手作業による情報の抜け漏れや、AIによる上書き時の判断経緯の不明瞭さといった課題を解決し、追跡可能で透明性の高い調査を実現します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-14T07:42:10.864369"
+  },
+  {
+    "source": "ITmedia",
     "title": "OpenAIが「GPT-5.6」一般提供　3モデルの価格と新たな利用条件は",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/11/news013.html",
     "summary": "OpenAIは、新AIモデル群「GPT-5.6」の一般提供を開始しました。このモデルは、性能と効率が向上している点が特徴です。また、企業ユーザーに影響を及ぼす複数の利用条件変更が含まれており、その詳細が注目されています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-06-23T22:59:12.053564"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI彼女アプリを作っていて気付いた。毎日同じ機嫌の人はいない",
-    "link": "https://zenn.dev/mitsukida/articles/eef80364801b83",
-    "summary": "AI彼女アプリの開発者は、実際の人間関係における重要な洞察を得ました。彼らは、人間が毎日同じ機嫌であることはなく、感情には常に変化があることに気づいたのです。この発見は、AIがより人間らしく、自然なパートナーシップを築くためには、感情の多様性や日々の揺らぎを理解し、表現することが不可欠であることを示唆しています。AIが単調な応答に留まらず、人間らしい複雑な感情の機微を再現する重要性を浮き彫りにするものです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-23T22:59:21.119661"
-  },
-  {
-    "source": "Qiita",
-    "title": "若者は何を削り、何を守ったのか——家計データで見えた「不安への支出」",
-    "link": "https://qiita.com/d94231/items/7d07307a94c3f8520572",
-    "summary": "この記事は、若者の家計データから「不安への支出」が顕著になっていることを分析しています。特に、34歳以下単身世帯の保健医療費が過去10年で102%増加しており、その主役は保健医療サービス（+141%）であることが明らかになりました。\n\n一方でサプリメントへの支出は35%減少しており、この構造変化は2021年を起点としています。これは、若者が外食費などから年間約3,000億円規模で保健医療費に支出をシフトしている実態を示唆しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-06-23T22:59:29.827294"
-  },
-  {
-    "source": "ITmedia",
-    "title": "日立、メインフレーム事業から撤退へ　ハード製造終了から9年後の決断",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news059.html",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 26.862738225s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 26\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-23T08:53:33.158973"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「クラフトボス シャリシャリラテ 氷カフェラテ」はひんやり冷たい氷のシャリシャリ食感でカフェラテの甘みと苦みが楽しめる",
-    "link": "https://gigazine.net/news/20260623-suntory-craftboss-sharishari-latte/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 22.620675636s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 22\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-23T08:53:37.400855"
   }
 ]
