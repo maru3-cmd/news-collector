@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Fable 5とGPT-5.6を3社課金の記者が比べたら、賢さでは勝敗をつけられなかった",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news033.html",
+    "summary": "3つの主要AI（ChatGPT、Claude、Gemini）に課金する記者が、不備のある条件を含むタスクを投げかけました。これにより、指示通りに失敗するAIと、黙って問題を修正するAIという、異なる「性格」が浮かび上がりました。3つのタスクを通じてAIの特性が明らかになったものの、賢さにおいては明確な優劣はつけられなかったとしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-15T22:48:44.529925"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など有名な小説の冒頭部分がランダムで表示される「Verba Prima」",
+    "link": "https://gigazine.net/news/20260716-verba-prima-famous-literary-works-opening/",
+    "summary": "「Verba Prima」は、SNSで話題になることが多い「印象に残った小説の冒頭」というテーマに応えるシンプルなウェブサイトです。このサイトでは、『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など、有名な文学作品の冒頭部分がランダムに表示されます。ユーザーは気軽に様々な名作の書き出しを楽しむことができます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-15T22:48:53.714574"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude CodeでおなじみのAgent Skills、Microsoft Agent Frameworkで正式版になった",
+    "link": "https://zenn.dev/kazu_aiengineer/articles/agent-framework-skills-stable",
+    "summary": "Claude Codeで広く知られていた「Agent Skills」が、Microsoft Agent Frameworkの一部として正式にリリースされました。これにより、これまでClaudeの環境で利用されていた強力なエージェント機能が、Microsoftのプラットフォーム上でも活用できるようになります。この「正式版」としての登場は、当該機能の安定性と広範な利用可能性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-15T22:49:06.184578"
+  },
+  {
+    "source": "Qiita",
+    "title": "ロジカルシンキングの次は何か──思考法の系譜の次に置く「未来思考」という軸",
+    "link": "https://qiita.com/RiriEnu-Lab/items/1e86d172ec0d29c04e61",
+    "summary": "ロジカルシンキングやクリティカルシンキングなど、エンジニアに普及している既存の思考法は、論理や前提、関係性といった異なる視点から「今あるもの」を理解することに特化しています。これらは「現在」という既にあるものを分析し、鮮明に読み解くためのレンズとして機能します。しかし、この思考法の系譜には「時間」、特に「未来」を見る視点が欠けており、筆者はその次に「未来思考」という新たな軸の必要性を提起しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-15T22:49:13.807559"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIエージェントのコスト、どこに「消えて」いる？　Google Cloud調査で浮上した“クラウド利用の盲点”",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
     "summary": "AIエージェントの本番運用において、多くの企業が想定外のコスト問題に直面しています。Google Cloudの調査によると、このコスト増の主な原因は、AIエージェントがITインフラに与える高い負荷にあることが浮上しました。これは、クラウド利用における「盲点」となっており、企業はAIエージェントの運用コストを抑制するための具体的な対策を講じる必要があります。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-06-25T08:43:24.401640"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "揚げ物たっぷり＆つゆ2倍で塩分補給も可能なほっかほっか亭「スタミナ天ぷら冷し梅おろしうどん」試食レビュー",
-    "link": "https://gigazine.net/news/20260625-hokkahokka-tei-stamina-udon-summer/",
-    "summary": "ほっかほっか亭は、「夏のカラダメンテ飯」として「スタミナ天ぷら冷し梅おろしうどん」を2026年7月1日に発売します。\nこの冷しうどんは、ソーセージやごぼうのサクサク天ぷらが特徴で、塩分補給を可能にするため通常より2倍となる2袋のうどんつゆが付属するのが大きなポイントです。\n発売に先立つ先行試食会では、その構成や味が詳しくレビューされました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-25T08:43:35.700482"
-  },
-  {
-    "source": "Zenn",
-    "title": "Spring Boot で Claude のストリーミング応答を SSE でブラウザへ流す",
-    "link": "https://zenn.dev/propagandist/articles/0002-spring-boot-claude-streaming",
-    "summary": "この記事は、Spring Bootアプリケーションを用いて、AnthropicのAIモデルClaudeからのストリーミング応答をリアルタイムでブラウザに表示する方法を解説しています。具体的には、サーバーサイドでClaudeからの連続的なテキスト生成を受け取り、これをSSE（Server-Sent Events）プロトコルを利用して効率的にクライアントブラウザへ配信する手法を紹介しています。これにより、ユーザーはAIの生成応答を待つことなく、文字が生成されるそばから順次確認できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-25T08:43:44.400837"
-  },
-  {
-    "source": "Qiita",
-    "title": "git worktree で複数のAIコーディングエージェントを並列実行する — 競合ゼロのハンズオン",
-    "link": "https://qiita.com/kai_kou/items/a40ca46ae1777c12253a",
-    "summary": "複数のAIコーディングエージェントを同じリポジトリで並行実行すると、作業ディレクトリの競合により、ファイルの破損やブランチの混線といった問題が発生します。この問題は`git worktree`で解決でき、1つの`.git`オブジェクトストアを共有しつつ、ブランチごとに独立した作業ディレクトリを切り出すことで、ディスクや履歴の二重化なしに並列作業が可能になります。\n\n本記事は、標準の`git worktree`コマンドを用いて2つのエージェントを競合なく並列実行する最短ワークフローをハンズオンで示し、`node_modules`や`.env`のハマりどころ、差分レビュー、マージ、後片付けまでを解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-25T08:43:53.248774"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ClaudeがSlackメンバーの一員に　コード生成やデータ調査などを自律処理",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news035.html",
-    "summary": "Anthropicは、AIアシスタントのClaudeをSlackのチームメンバーとして共有できる新機能「Claude Tag」のβ版を提供開始しました。この機能により、Claudeはチームの会話を引き継ぎ、様々なタスクを自律的かつ非同期に処理します。具体的には、コード生成やデータ調査といった業務を効率的に行えるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-24T22:58:51.984806"
   }
 ]
