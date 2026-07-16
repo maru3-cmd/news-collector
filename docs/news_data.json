@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "読者289人が選んだ「2026年に取りたいIT資格」とAI時代の学び直し",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news030.html",
+    "summary": "読者289人への調査で、「2026年に取りたいIT資格」として基本情報や応用情報といった国家資格を抑え、ベンダー認定資格が上位に選ばれました。これは、AIがコーディングを担う時代において、エンジニアにはより実践的で専門性の高い知識が求められているトレンドを示唆しています。記事では、この調査結果を基にAI時代のエンジニアの学び直しについて考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-16T07:50:24.325931"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
+    "link": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
+    "summary": "Puter Labsは、ウェブブラウザのタブ内でMozilla Firefox全体を起動できる「Firefox in WebAssembly」を公開しました。これは外観だけでなく、レンダリングエンジンのGeckoやJavaScriptエンジンのSpiderMonkeyもWebAssembly上で動作するという画期的な技術です。この開発にはAIが大量に用いられ、トークンの使用料は2万5000ドル（約400万円）以上に相当したとのことです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-16T07:50:31.617563"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIに毎回コンテキストを渡すworkspaceテンプレートを作った",
+    "link": "https://zenn.dev/lnest_knowledge/articles/cc0a11567155fe",
+    "summary": "提供されたタイトル「AIに毎回コンテキストを渡すworkspaceテンプレートを作った」のみを基に要約します。\n\nこの記事は、AIとの対話において、以前のやり取りや関連情報（コンテキスト）を毎回自動的に引き渡すための「workspaceテンプレート」を開発したことを報告しています。筆者はこのテンプレートを通じて、AIが常に状況を認識し、より一貫性のある高精度な応答を生成できるようにすることを目指しています。これにより、AIの活用効率が向上し、ユーザーはよりスムーズにAIとの共同作業を進められるようになると推測されます。具体的な機能や使用ツールに関する詳細は本文に記述されていると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-16T07:50:42.092657"
+  },
+  {
+    "source": "Qiita",
+    "title": "Pull Request中心の開発サイクルにAIコードレビューを導入する",
+    "link": "https://qiita.com/aqwas/items/ecc2110015af6833c97c",
+    "summary": "GitHubを用いたチーム開発では、Pull Request（PR）を中心とした開発サイクルが一般的で、コードレビューや自動テストなどの多くのメリットを提供します。近年では、GitHub Copilotのような生成AIを活用し、PRに対する自動コードレビューを導入できるようになっています。本記事は、PR開発サイクルやGitHubの設定ルールに加え、AIコードレビューの導入方法、安全な運用ポイント、そして段階的な導入戦略について解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-16T07:50:49.677927"
+  },
+  {
+    "source": "ITmedia",
     "title": "Fable 5とGPT-5.6を3社課金の記者が比べたら、賢さでは勝敗をつけられなかった",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news033.html",
     "summary": "3つの主要AI（ChatGPT、Claude、Gemini）に課金する記者が、不備のある条件を含むタスクを投げかけました。これにより、指示通りに失敗するAIと、黙って問題を修正するAIという、異なる「性格」が浮かび上がりました。3つのタスクを通じてAIの特性が明らかになったものの、賢さにおいては明確な優劣はつけられなかったとしています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-25T23:07:25.720488"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "どのヘルメットが衝撃吸収に優れているのかがわかるヘルメット評価ランキングサイト",
-    "link": "https://gigazine.net/news/20260626-virginia-tech-helmet-ratings/",
-    "summary": "アメリカのバージニア工科大学の研究者らが、工事現場、スポーツ、自転車など、様々な用途のヘルメットの衝撃吸収性能を評価したランキングを公開しています。このランキングは、脳しんとうを防ぐのに最も効果的なヘルメットを特定することを目的としています。消費者は、このウェブサイトを通じて、それぞれのヘルメットの安全性に関する詳細な評価を確認し、より安全な製品を選ぶための参考にできます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-25T23:07:32.772557"
-  },
-  {
-    "source": "Zenn",
-    "title": "この春、PV201のLPを毎朝AIに見てもらい「触らない」SEO運用を作った",
-    "link": "https://zenn.dev/seeda_yuto/articles/side-project-ai-maintenance-habit",
-    "summary": "この春、ある企業が特定のランディングページ（PV201のLP）に対し、革新的なSEO運用を開始しました。その運用は、AIが毎日ページの状態を監視・分析するという特徴を持ちます。これにより、人間が頻繁に介入することなく最適化される「触らない」SEOモデルが実現され、効率的なウェブサイト改善が図られています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-25T23:07:41.613680"
-  },
-  {
-    "source": "Qiita",
-    "title": "【初心者向け】普通のClaudeと何が違うの？噂の「Claude Code」がプログラミング初心者の「最強の相棒」になる理由",
-    "link": "https://qiita.com/chuandujiusi/items/dce76ec1557f6de69a55",
-    "summary": "「Claude Code」はプログラミング初心者の「最強の相棒」として注目されており、通常のWeb版Claudeとの決定的な違いは「作業の距離感」にあります。\n\nWeb版ClaudeがWebブラウザでテキストベースのアドバイスを行う「電話越しの優秀なアドバイザー」だとすると、Claude Codeはターミナル上で動作し、PC内のファイルや状況を把握して、コードの修正・実行・動作確認まで直接行えます。\n\nこれにより、まるで「隣に座ってくれる先輩エンジニア」のように開発環境と一体化した実践的なサポートを提供するため、初心者のプログラミング学習や開発効率を飛躍的に向上させると期待されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-06-25T23:07:51.236291"
-  },
-  {
-    "source": "ITmedia",
-    "title": "KDDIメール基盤から最大で1422万件漏えい　ニフティやBIGLOBEなど6社に波及",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news043.html",
-    "summary": "KDDIはISP向けメール基盤への不正アクセスにより、最大で1422万件のメールアドレスとパスワードが漏えいした可能性があると発表しました。この漏えいはニフティやBIGLOBEなど、合計6社に波及しています。関係各社は、ユーザーにパスワードの変更を呼びかけるとともに、引き続き調査と対応を進めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-25T08:43:24.401640"
   }
 ]
