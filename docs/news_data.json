@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
+    "link": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
+    "summary": "メジャーリーグ(MLB)は、ベンチに配備されているiPadを介した生成AIへのアクセスを禁止しました。これは、2016年から全チームに提供されているiPadを、複数チームが試合中の戦略立案に利用していたためです。この措置により、今後の試合中におけるAIを用いた戦略支援は認められなくなります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-17T22:38:41.235954"
+  },
+  {
+    "source": "Zenn",
+    "title": "スマホで使えるAIアプリおすすめ7選+通信量とプラン設計【2026年】",
+    "link": "https://zenn.dev/mameresearcher/articles/ai-mobile-app-recommend",
+    "summary": "この記事は、2026年時点でのスマートフォン向けAIアプリ活用に焦点を当てています。具体的には、おすすめのAIアプリを7種類紹介し、それらを快適に利用するための通信量と料金プランの設計について解説しています。AIアプリの利用に伴うデータ消費の増加を踏まえ、個々の利用状況に合わせた最適なプラン選びが重要であることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-17T22:38:50.406801"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIエンジニアが2種類に分かれる時代、あなたのキャリアはどちらを目指すべきか",
+    "link": "https://qiita.com/syun136_616/items/14cf1b7e1fd28679235c",
+    "summary": "AIエンジニアは「AIを作る人（Builder）」と「AIで作る人（User）」の2種類に分化しつつあります。日本の多くのエンジニアが目指すべきは後者の「User」ですが、その中にも「高付加価値層」と「代替可能層」の差が生まれています。2025〜2026年時点で自身のキャリアを守り、伸ばすためには、「AIとドメイン知識の掛け算」が最も重要なスキルになると提言されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-17T22:38:57.750890"
+  },
+  {
     "source": "ITmedia",
     "title": "なぜ、JFEスチールは「非ITエンジニア9割」でシステムモダナイズに挑んだのか？　刷新成功の舞台裏",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news056.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-27T22:55:02.316938"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？",
-    "link": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/",
-    "summary": "ニュー・サウス・ウェールズ大学のフランシスコ・トルヒーリョ氏率いる研究チームが、高周波超音波を利用した新しいエスプレッソ抽出方法を開発しました。この革新的な手法は、従来のエスプレッソマシンと比較して、同じ飲料濃度で消費エネルギーを約75％削減できる可能性を示しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-06-27T08:22:28.166982"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code + GTDに切り替えたら、タスク管理が育ち始めた",
-    "link": "https://zenn.dev/tottoko_hamu/articles/2026-06-03-114832",
-    "summary": "この記事は、筆者がタスク管理の手法を「Claude Code + GTD」という組み合わせに切り替えた経験について述べています。この変更の結果、筆者のタスク管理は「育ち始めた」、つまり改善し、効果的になったと報告されています。特定のツールと手法を組み合わせることで、タスク管理がより進化し、成長を実感できるようになったことを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-27T08:22:38.533172"
-  },
-  {
-    "source": "Qiita",
-    "title": "PyCharmのJunieって何ができるの？AIエージェントを使ってみた",
-    "link": "https://qiita.com/harupython/items/e90e41de4c526357d3e5",
-    "summary": "PyCharmのJunieは、単なるAIチャットではなく、プロジェクト全体を理解し、コード生成・修正・テスト実行まで自律的に行う「AIエージェント」です。AI Assistantがコードの質問や補完を行う補助ツールであるのに対し、Junieは実際にコードを動かして完成させます。記事は、多くの人が誤解する「JetBrains AI = Junie」ではないと強調し、JetBrains AIが特定のエージェントに縛られないプラットフォームであることを説明しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-27T08:22:48.064749"
   }
 ]
