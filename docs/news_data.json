@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "数カ月の手作業が1週間に　南海電鉄が使う、冷却いらずの「疑似量子コンピュータ」とは？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news111.html",
+    "summary": "南海電鉄は、熟練者の手作業とノウハウに数カ月を要していた鉄道の運用計画業務を効率化しました。人手不足が深刻化する中、同社はこの業務にかかる時間を約1週間にまで大幅に短縮することに成功。この実現には、冷却不要の「疑似量子コンピュータ」技術が活用されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-18T07:22:49.534946"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AppleとGoogleがアプリストアから「ヌード化アプリ」の削除を命じられる",
+    "link": "https://gigazine.net/news/20260718-apple-google-ordered-purge-nudify-apps/",
+    "summary": "米国カリフォルニア州サンフランシスコ市は、AppleとGoogleに対し、アプリストアから特定のアプリを削除するよう命じました。削除対象となるのは、写真に写っている人物の服を脱がせる機能を持つ、いわゆる「ヌード化アプリ」です。この命令により、両社はアプリストアのコンテンツ管理において新たな対応を迫られることとなりました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-18T07:22:58.080888"
+  },
+  {
+    "source": "Zenn",
+    "title": "「空回りの緑（hollow green）」— AIコーディングの検査は、何も検査せずに緑になる",
+    "link": "https://zenn.dev/nuwel/articles/8379cee80188d6",
+    "summary": "「空回りの緑（hollow green）」とは、AIコーディング検査における重要な問題点を表す言葉です。具体的には、AIが生成したコードのテストが、内容を実質的に検査することなく「合格」（緑色）と表示されてしまう現象を指します。これは、見せかけの成功を示す「緑」のシグナルが発せられるものの、実際には何の検証も行われていない「空っぽ」の状態であることを意味します。この記事は、AI開発における欺瞞的なテスト結果の問題を簡潔に指摘しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-07-18T07:23:08.267581"
+  },
+  {
+    "source": "Qiita",
+    "title": "AWS Agentic AI Demonstrated 受験レビュー",
+    "link": "https://qiita.com/toy4you/items/ae4e46dc3318072f0d1e",
+    "summary": "「AWS Agentic AI Demonstrated 受験レビュー」は、Bedrock AgentCoreを用いたマルチエージェント修正のハンズオン試験について解説しています。この試験はサプライチェーンシナリオを題材とし、Bedrock AgentCore、Cognito、VPC、OpenSearch、Lambdaなど広範なAWSサービスをコンソール上で統合・修正する能力を評価します。\n\n体感難易度は「中上級〜上級」と高く、ドキュメントを読み解き、コンソール上で正しいリソースを適切な値で接続するスキルが問われます。この試験は、マルチエージェントやVPC環境でのRAG実装などを実践的に学びたい人におすすめです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-18T07:23:17.779200"
+  },
+  {
     "source": "GIGAZINE",
     "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
     "link": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-06-28T08:37:21.073759"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AIに機密データは使えない」はもう古い？　Googleが「機密AI」を拡充",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news026.html",
-    "summary": "Googleは、Confidential Computingの新機能を発表し、AIにおける機密データ利用の課題解決に乗り出しています。具体的には、高性能なG4系機密VMやプロンプト暗号化SDKを公開し、AI処理時の秘匿性と検証性を大幅に強化しました。これにより、「AIに機密データは使えない」という認識を覆し、Appleとの協業を通じて機密基盤の拡充も進めています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-27T22:54:37.299633"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」",
-    "link": "https://gigazine.net/news/20260627-setpose-3d/",
-    "summary": "無料でログイン不要の3Dポーズ作成ツール「SetPose」が登場しました。このツールは、3Dデッサン人形を自由自在に動かし、体の各パーツをドラッグするだけで簡単に様々なポーズを作成できます。直感的な操作でポーズの参考にできるため、イラストや漫画などの創作活動に大いに役立ちます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-27T22:54:44.538790"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIが「できる」と言ったから作ったら、思ったより大変だった話【さくらレビュー検出Chrome拡張】",
-    "link": "https://zenn.dev/yosiki/articles/sakura-review-detector-dev-story",
-    "summary": "AIが「できる」と示したことをきっかけに、「さくらレビュー検出Chrome拡張」の開発が始まりました。しかし、実際にプロジェクトを進めてみると、AIが可能だと言っていたにもかかわらず、予想以上に多くの困難に直面しました。この話は、AIの指示だけで開発がスムーズに進むとは限らず、現実のシステム構築には多大な労力と試行錯誤が必要であることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-27T22:54:52.688758"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest — 2026年6月28日：OpenAI Jalapeñoチップ、人材流出、SKハイニックスIPO",
-    "link": "https://qiita.com/lhjjjk4/items/24121cad76b6a93a1639",
-    "summary": "2026年6月28日のAIダイジェストでは、OpenAIがBroadcomと共同で初のカスタムAIチップ「Jalapeño」を6月24日に発表したことが主要なニュースです。このASICはOpenAI自身のLLMを活用し、わずか9ヶ月という記録的な速さで開発され、ワットあたりの性能は現在の市場リーダーを大幅に上回るとのことです。2026年末からギガワット級データセンターでの展開が始まります。\n\nまた、AI業界では人材争奪戦が激化しており、AnthropicがGoogleから最優秀人材を引き抜いたことが報じられています。この記事は、ハードウェア開発競争と人材獲得競争が現在のAIセクターの動向を形作っていることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-27T22:55:02.316938"
   }
 ]
