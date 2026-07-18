@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Meta「Muse Spark 1.1」　新APIで開発者提供、企業のエージェント基盤に",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news105.html",
+    "summary": "Metaは、エージェント業務やPC操作、コーディング、マルチモーダル理解を強化した「Muse Spark 1.1」を公開しました。この新バージョンは、100万トークンもの文脈管理や複数エージェントの統括に対応しています。開発者向けには新設の「Meta Model API」の公開プレビューとして提供され、企業のエージェント基盤としての活用を目指します。Meta AIでも利用可能です。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-07-18T22:38:27.262905"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Appleが日本でiPhone・Apple Music・Apple Oneに続きiCloud＋も値上げ",
+    "link": "https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/",
+    "summary": "Appleは、日本を含む8カ国でクラウドストレージサービス「iCloud＋」の値上げを実施しました。この値上げは、同社が日本で過去に実施したiPhone、Apple Music、Apple Oneといった他のサービスの価格改定に続くものです。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-07-18T22:38:38.345135"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIの出力が期待とズレる理由、自然言語での形式指定が効かない原理と防ぐ運用",
+    "link": "https://zenn.dev/every_ai_recipe/articles/ai-output-format-mismatch-3-tips",
+    "summary": "AIの出力が期待と異なる、特に自然言語による厳密な形式指定が機能しにくいという課題があります。これは、AIが自然言語の指示を人間のように絶対的な命令としてではなく、統計的な関連性に基づいて解釈するため、指定された形式を無視したり、意図しない情報を含んだりすることが原因です。\n\nこの問題を避けるためには、プロンプトを曖トルと具体的に記述し、制約条件を明確に示すことや、出力例を併記するなどの工夫が重要です。AIの特性を理解し、プロンプトを改善することで、より期待に沿った出力を得られる運用を目指すべきです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-18T22:38:47.589769"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.214｜permission チェックの穴が一斉に塞がる｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/6c6646ec2759b63216c5",
+    "summary": "Claude Codeのv2.1.214リリースでは、主にpermissionチェックのバグ修正と悪用対策が強化されました。これまで`Edit(src/**)`のようなallowルールがツリー内の任意の`src/`への書き込みを自動承認していた問題が修正され、より厳密な承認プロンプトが表示されるようになります。また、悪質な利用や脱獄試行に対し、Claude側からセッションを終了できる`EndConversation`ツールが新たに追加されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-18T22:38:54.849173"
+  },
+  {
+    "source": "ITmedia",
     "title": "数カ月の手作業が1週間に　南海電鉄が使う、冷却いらずの「疑似量子コンピュータ」とは？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news111.html",
     "summary": "南海電鉄は、熟練者の手作業とノウハウに数カ月を要していた鉄道の運用計画業務を効率化しました。人手不足が深刻化する中、同社はこの業務にかかる時間を約1週間にまで大幅に短縮することに成功。この実現には、冷却不要の「疑似量子コンピュータ」技術が活用されています。",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "news",
     "collected_at": "2026-06-28T22:54:20.379990"
-  },
-  {
-    "source": "Zenn",
-    "title": "【6/15当日撤回】Claude Agent SDK・claude -p のサブスク別枠化は何だったのか",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-agent-sdk-billing-split-paused-2026-06",
-    "summary": "Claude Agent SDKおよび`claude -p`のサブスクリプション（購読）サービスに関して、新たな別枠化が計画されていました。しかし、この変更は2024年6月15日に発表されたものの、同日中に撤回される異例の事態となりました。この急な発表と撤回は、その意図や背景に関して大きな疑問を投げかける出来事として注目されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-28T22:54:28.108510"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "PlayStationはユーザーが購入した映像コンテンツをライブラリから削除している、「ターミネーター2」「死霊のはらわた」など人気作品も",
-    "link": "https://gigazine.net/news/20260628-playstation-pulling-previously-purchased-digital-movies/",
-    "summary": "PlayStation Storeで過去に購入した映画やアニメなどの映像コンテンツが、一部ユーザーのライブラリから削除されていると報告されています。PlayStation Storeでは2021年8月まで映像コンテンツの販売・レンタルを行っており、サービス終了後も購入済み作品は引き続き視聴可能でした。しかし、現在では「ターミネーター2」や「死霊のはらわた」といった人気作品を含むコンテンツが、購入履歴から消え、アクセスできなくなっている事例が挙がっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-28T08:37:04.995854"
-  },
-  {
-    "source": "Zenn",
-    "title": "日本語入力システムSumibiの開発 part19: mozcとLLMのハイブリッド変換",
-    "link": "https://zenn.dev/kiyoka/articles/japanese-input-method-sumibi-19",
-    "summary": "日本語入力システムSumibiの開発パート19では、既存のmozcと大規模言語モデル（LLM）を組み合わせた「ハイブリッド変換」が中心テーマです。このアプローチは、mozcの堅実な変換能力とLLMの高度な文脈理解・自然な文章生成能力を融合させることを目指しています。これにより、より高品質で文脈に即した変換が実現され、ユーザーにこれまでにないスムーズな入力体験を提供することが期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-28T08:37:12.825904"
-  },
-  {
-    "source": "Qiita",
-    "title": "【Kaggle_2回目】台風で家にこもってスマホみて一日終わる…よりは！Kaggleで少しでも”やった感”を得た",
-    "link": "https://qiita.com/gorillagorilla/items/7db449410d47884c771c",
-    "summary": "この記事では、台風で外出できない状況をきっかけに、筆者が2回目のKaggleコンペ「Spaceship Titanic」に挑戦した経緯が紹介されています。このコンペのお題は、宇宙船タイタニック号の乗客が「異次元に転送されて行方不明になったか（True）」または「無事だったか（False）」を予測することです。参加者は、訓練データを用いてAIに学習させ、テストデータから乗客の行方不明フラグを予測した提出ファイルを作成し、その予測正解率を競います。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-28T08:37:21.073759"
   }
 ]
