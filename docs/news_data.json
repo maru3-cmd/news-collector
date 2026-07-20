@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "ナンバー検知のミスで盗難車の誤検知が大量発生しロス市警がシステム開発企業との契約を終了、試乗レビュー中に盗難車と間違えられる事態も",
+    "link": "https://gigazine.net/news/20260720-automatic-license-plate-reader-system/",
+    "summary": "ロサンゼルス市警察は、盗難車の誤検知が大量発生したことを理由に、Flock Safety社が提供するナンバープレート自動読みとりシステム(ALPR)との契約を終了しました。このシステムは、試乗レビュー中の車まで盗難車と誤認する事態を引き起こしていました。アメリカ各地に配備されているこのALPRシステムの信頼性について、大きな懸念が示されています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-07-20T08:32:40.118763"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI生成物をチェックせずに人に見せることは非難されるべきか",
+    "link": "https://zenn.dev/shotaro_tsuji/articles/0b27e9d89d4618",
+    "summary": "提示された記事は、「AI生成物をチェックせずに人に見せることは非難されるべきか」という重要な問いを提起しています。この問いは、AIが生成するコンテンツの信頼性、正確性、および潜在的な誤情報や偏見のリスクに関する倫理的議論の必要性を示唆しています。AIの利用者がその出力に対して負うべき責任と、情報を受け取る側が期待する信頼性との間のバランスが、現代社会において課題となっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-20T08:32:49.523907"
+  },
+  {
+    "source": "Qiita",
+    "title": "そのSKILL.md、別のスキルと発火が被ってない？ 衝突と壊れた参照をCIで落とすリンタを作った",
+    "link": "https://qiita.com/maronsan611/items/2f7e75db76cfee35e646",
+    "summary": "ClaudeのAgent Skills（`SKILL.md`）が増加すると、参照の腐敗（リネームされたファイルパスへの未更新の参照）と、似た説明文によるスキル間の発火の被りという二つの問題が静かに発生し、エージェントの誤動作を引き起こすことが指摘されています。\nこれらの課題を解決するため、筆者はPR段階でCI（継続的インテグレーション）上で機械的にチェックし、壊れた参照やトリガーの衝突を検出する`skills-lint`というリンターツールを開発しました。\nトリガーの衝突検出を行う先行ツールは存在するものの、`skills-lint`は両方の問題を包括的に自動検知し、未然に事故を防ぐことを目指します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-20T08:33:02.602899"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！",
     "link": "https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/",
     "summary": "GIGAZINEは、2026年6月に出版された電子書籍版記事のAmazonにおける読者ランキングを発表しました。これは、Google検索の影響を受ける通常のアクセス解析とは異なり、Amazonユーザーの実際の関心を反映したトップ10ランキングです。ランキング上位には、「AI疑惑のホラー小説出版停止騒動」や「昔は良かった企業が変貌する理由」といった注目度の高いテーマが含まれています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-06-29T22:45:50.170154"
-  },
-  {
-    "source": "Qiita",
-    "title": "Oracle GDAI で実現するグローバル分散 AI データベースを整理してみてみた",
-    "link": "https://qiita.com/shirok/items/ed7856c563798df39a27",
-    "summary": "近年、データレジデンシ、高可用性、低レイテンシなどを実現するため、グローバル分散データベースや分散SQLへの関心が高まっています。Oracleは、このトレンドに対応するソリューションとして「Globally Distributed Autonomous AI Database」（GDAI）を提供しています。GDAIは、その名の通り、グローバルにデータを分散管理し、自律的な運用が可能で、さらにAI機能を内蔵した先進的なデータベースです。これにより、マルチリージョン・マルチクラウド環境でのAI活用を効率的にサポートします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-29T22:45:59.303384"
-  },
-  {
-    "source": "はてなブックマーク",
-    "title": "「Firefox」内蔵の無償VPN、日本にも展開？　どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
-    "summary": "記事内容が提供されていないため、要約を作成することができません。\n\nもし記事内容をご提供いただければ、「Firefox」の無償VPNサービス「Mozilla VPN」に関する情報を、日本の展開状況、プライバシー保護機能、重要なポイントや数字を含めて3-4文で簡潔に要約いたします。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-29T22:46:05.109176"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェントの投資優先順位、どう決める？　Gartnerが「投資スコア」の作り方を公開",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
-    "summary": "ガートナージャパンの亦賀忠明氏のWebセミナーでは、業務におけるAIエージェントへの投資優先順位をどのように決定すべきかが議論されました。Gartnerは、各業務・業種におけるAIエージェントの進化を見据え、投資判断を助ける「投資スコア」の作成方法を公開しています。企業はこのスコアを活用することで、AIエージェント導入の効率的な優先順位付けが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-29T10:15:40.065804"
   }
 ]
