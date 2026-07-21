@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIエージェントの「形骸化」を先回りで回避　開発時に押さえるべき10の勘所",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/22/news002.html",
+    "summary": "この記事では、AIエージェントが「作っても使われない」という形骸化を回避し、現場で真に機能するよう開発するための指針を提供します。そのために、開発時に押さえるべき**10の勘所**を具体的に解説しています。Microsoft Copilot Studioを用いた効率的な構築ステップから、M365連携による成果創出のポイントまで詳解されており、実用的なAIエージェント構築への道筋を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-21T22:44:35.295175"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "GoogleのAIモードで「Google検索」の自己引用が8.4倍に急増",
+    "link": "https://gigazine.net/news/20260722-google-ai-mode-shift-to-citing/",
+    "summary": "Google検索のAIモードに関する調査で、2026年4月から6月の3ヶ月間に「google.com」の引用シェアが大幅に増加したことが明らかになりました。この期間中、「google.com」の引用シェアは8.4倍に急増し、ドメインランキングで2位に浮上しました。これは、GoogleのAIが自身の検索結果やコンテンツを情報源として引用する、自己引用の傾向が顕著になっていることを示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-21T22:44:41.856133"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code OTelパイプラインをSplunk Observability Cloudに接続してみた（Splunk入門つき）",
+    "link": "https://zenn.dev/thegatebreaker/articles/claude_code_splunk_observability_otel",
+    "summary": "この記事は、AIアシスタント「Claude Code」を用いて構築したOpenTelemetry（OTel）パイプラインをSplunk Observability Cloudへ接続する実践的な方法を解説しています。AI生成コードの可観測性を高めるため、OTelパイプラインを通じてアプリケーションから収集される観測データをSplunk Observability Cloudへ送信するプロセスが示されています。また、Splunk Observability Cloudの導入や利用を検討している初心者向けに、Splunkの基本的な入門情報も含まれています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-21T22:44:51.703924"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.216〜v2.1.217｜サブエージェントの無制限増殖に上限｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/2ad6f36fd302017b9267",
+    "summary": "Claude Codeのv2.1.217アップデートにより、サブエージェントの無制限な増殖を防ぐための重要な制限が導入されました。具体的には、サブエージェントの同時実行数がデフォルトで20並列に制限され、ネストしたサブエージェントの生成もデフォルトで無効化されています。これにより、環境変数を明示しない限り、1メッセージから際限なくエージェントが増える構成は組めなくなりました。また、`--max-budget-usd`オプションが上限到達時にバックグラウンドサブエージェントも停止させるようになり、コスト管理が強化されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-21T22:45:00.008514"
+  },
+  {
+    "source": "ITmedia",
     "title": "米海軍、データとAIを軍事運用へ　判断の権限を現場へ委ねるガバナンスとは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/21/news022.html",
     "summary": "米海軍省は、データとAIを軍事運用に統合する新戦略を発表しました。これは、迅速な意思決定を実現することを目的としています。具体的には、インフラを標準化しつつ、リスク判断の権限を現場に委ねる新しいガバナンスに刷新することで、前線の部隊がより迅速な判断を下せるようになるでしょう。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-07-01T09:24:14.274391"
-  },
-  {
-    "source": "Zenn",
-    "title": "Webデザイン初心者の私が最近使ってよかったAIツール3選",
-    "link": "https://zenn.dev/pingu_00/articles/27ebf01e2ecd02",
-    "summary": "Webデザイン初心者の筆者が、作業効率化やデザイン品質向上に役立ったAIツールを3つ厳選して紹介する記事です。これらのAIツールは、デザインのアイデア出しから具体的な要素作成、さらにはコーディング補助まで、初心者が直面する様々な課題を効果的に解決します。特に、デザインスキルに自信がない初心者にとって、AIのサポートは学習プロセスの加速と自信に繋がり、Webデザインをよりスムーズに進めるための強力な味方となるでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-01T09:24:23.310317"
-  },
-  {
-    "source": "Qiita",
-    "title": "ChatGPTに建設コンサルのWord帳票を貼る前に確認したい情報",
-    "link": "https://qiita.com/ijiDX/items/9308f64b0757200c6250",
-    "summary": "ChatGPTなどのAIは建設コンサルのWord帳票整理や業務経歴の要約に有用ですが、そのままAIに貼り付ける前には慎重な確認が必要です。これらの帳票には、業務名、発注者名、技術者氏名、資格登録番号、業務経歴、契約・入札に関する情報、連絡先といった個人情報や機密情報が含まれている場合があります。情報漏洩を防ぐため、AI利用前にこれらの多岐にわたる情報を必ず確認し、適切な処理を行うことが重要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-01T09:24:35.084610"
-  },
-  {
-    "source": "ITmedia",
-    "title": "非エンジニア利用が増える「Codex」、何がすごいのか　OpenAIが公表した活用の実態",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news051.html",
-    "summary": "OpenAIが自社データ分析論文を公表し、AI「Codex」の活用実態を明らかにした。同論文によると、非エンジニアによるCodexの利用が増加傾向にあるという。AIの活用方法は、従来のチャットボットのような質問応答型から、長時間の業務を委ねる「エージェント型」へと移行が進んでいると指摘されている。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-06-30T23:03:02.855342"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "お金を扱うソフトウェアで「1円のズレ」も起こさないための設計原則をまとめた「Fintech Engineering Handbook」とは？",
-    "link": "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
-    "summary": "「Fintech Engineering Handbook」は、お金を扱うソフトウェアで「1円のズレ」すら起こさないための設計原則をまとめたハンドブックです。このハンドブックは、お金の二重移動や端数の勝手な消去を防ぎ、全ての処理が後から説明できる形で記録されるよう、厳格なルールを定めています。フィンテック分野で信頼性の高いシステムを構築する上で不可欠な、重要な考え方を整理し、提示しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-30T23:03:09.521650"
   }
 ]
