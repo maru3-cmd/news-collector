@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "米海軍、データとAIを軍事運用へ　判断の権限を現場へ委ねるガバナンスとは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/21/news022.html",
+    "summary": "米海軍省は、データとAIを軍事運用に統合する新戦略を発表しました。これは、迅速な意思決定を実現することを目的としています。具体的には、インフラを標準化しつつ、リスク判断の権限を現場に委ねる新しいガバナンスに刷新することで、前線の部隊がより迅速な判断を下せるようになるでしょう。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-21T08:02:33.287627"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AppleのApp Store上に「ブラジルのIPアドレスからアクセスするとギャンブルアプリに変身する偽装アプリ」が60個以上あることが調査で発覚",
+    "link": "https://gigazine.net/news/20260721-disguised-gambling-apps-app-store-brazil/",
+    "summary": "Apple関連メディア9to5Macの調査により、App Store上にブラジルのIPアドレスからアクセスするとギャンブルアプリに変身する偽装アプリが60個以上存在することが明らかになりました。これらのアプリは巧妙な手口で規制を回避しており、数十種類のアプリが規制されないまま配信され続けています。この状況は、AppleのApp Storeにおけるアプリ審査体制の不備を浮き彫りにしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-21T08:02:41.594308"
+  },
+  {
+    "source": "Zenn",
+    "title": "主要AI企業5社の違いがわかる徹底ガイド｜OpenAI・Anthropic・Google・Microsoft・NVIDIA【2026年版】",
+    "link": "https://zenn.dev/mameresearcher/articles/ai-openai-anthropic-google-microsoft-20260707",
+    "summary": "提供されたタイトルから判断すると、このガイド記事は2026年を展望し、主要なAI企業5社（OpenAI、Anthropic、Google、Microsoft、NVIDIA）に焦点を当てています。各社が持つ独自の強み、戦略、および提供するAI技術やサービスの明確な違いを徹底的に比較分析しています。これにより、読者は進化するAI業界におけるこれらの企業の現状と将来の動向を深く理解できる構成となっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-21T08:02:52.064684"
+  },
+  {
+    "source": "Qiita",
+    "title": "情報過多で結局何も残らない、AI時代に取り残されたくない新人の焦りの末路",
+    "link": "https://qiita.com/prumnn/items/f3695454f0de13aa8d7f",
+    "summary": "AI時代に取り残されたくないという焦りから、新人のぷらむんはAI関連本やビジネス系YouTube、ニュースといった大量の情報をインプットしていました。しかし、いざ実務で活かそうとすると何も出てこず、費やした時間に対して頭に何も残っていないことに気づきます。この経験を通じ、情報収集の「量」よりも「先に決めること」が重要だと認識し、そのプロセスを共有しようとしています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-21T08:02:59.800348"
+  },
+  {
+    "source": "ITmedia",
     "title": "ニチレイへのサイバー攻撃はなぜ起きた？　「たまたま選ばれる」被害の構造",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/21/news028.html",
     "summary": "ニチレイがサイバー攻撃を受け、冷凍食品の出荷や冷蔵倉庫の入出庫が停止する事態が発生しました。この影響は取引先にも広がり、事業活動に大きな支障をきたしています。記事は、誰が、なぜ攻撃するのか、そしてどうすれば防げたのかという問いを投げかけ、「たまたま選ばれる」被害の構造に焦点を当てています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-06-30T23:03:09.521650"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントの提案を全部採用したら売上が下がった — AI提案の取捨選択基準",
-    "link": "https://zenn.dev/joinclass/articles/ai-ai-20260629220005-29493",
-    "summary": "AIエージェントの提案を全て採用した結果、かえって売上が減少した事例が紹介されています。この経験は、AIの提案を盲目的に実行するのではなく、適切な取捨選択基準の必要性を浮き彫りにしました。記事は、AIの得意分野を活かしつつ、人間のビジネス判断や専門知識と組み合わせることで、より効果的なAI運用と売上向上に繋がることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-30T23:03:18.448513"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Sonnet 5とは？Anthropic公式発表を3分で速報解説",
-    "link": "https://qiita.com/kinamocchi_tech/items/2cb3394859a63c024d36",
-    "summary": "Anthropicは2026年6月30日（米国時間）に、新AIモデル「Claude Sonnet 5」を公式発表しました。\nこの記事は、その最新情報を速報として解説するものです。\nAI学習中のハムスター「もっちー」と解説役のセキセイインコ「きなこ」による親しみやすい対話形式で、モデルの概要が伝えられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-06-30T23:03:29.911092"
-  },
-  {
-    "source": "ITmedia",
-    "title": "日経225企業の96％が情報漏えいを経験　最も漏えい率の高い業界は",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news043.html",
-    "summary": "ある調査によると、日経225構成企業の96.4％が過去3年間に情報漏えいを経験していたことが明らかになりました。この情報漏えい率は業界によって大きな差があり、最も高い業界の漏えい率は最も低い業界の23倍を超えています。これは、日本を代表する企業の大多数が情報セキュリティ上の課題に直面している現状を示しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-06-30T08:51:04.882617"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ダシの香りとゴボウのシャキシャキ感がたまらない「日清の最強どん兵衛 博多ごぼ天うどん」試食レビュー",
-    "link": "https://gigazine.net/news/20260630-donbei-hakata-goboten-udon/",
-    "summary": "2026年6月29日、日清食品から新製品「日清の最強どん兵衛 博多ごぼ天うどん」が発売されました。\nこの商品は、6種類のあわせだしと福岡県醸造醤油を加えた特製のつゆが最大の特徴です。\n本記事では、ダシの香りとゴボウのシャキシャキ感がたまらないというこの新作うどんの味を、実際に試食してレビューしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-06-30T08:51:12.331384"
   }
 ]
