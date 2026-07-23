@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AI作成メールのクリック率は人間と同等に　年1回のセキュリティ教育では防御困難か",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/23/news043.html",
+    "summary": "Adaptive Securityによると、生成AIの普及により、AI作成メールのクリック率が人間作成のメールと同等になっています。これにより、精巧なフィッシングやビジネスメール詐欺、ディープフェイクが拡大しており、年1回のセキュリティ教育では防御が困難であると指摘されています。記事は、従来の技術的対策だけでなく、継続的な教育とヒューマンリスク管理が極めて重要だと強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-23T08:05:51.690533"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "細かいミルクプディングが入った「スターバックス DELIGHT ME ピーチミルクwithクリーミープディング」を飲んでみた",
+    "link": "https://gigazine.net/news/20260723-starbucks-peach-milk-creamy-pudding/",
+    "summary": "2026年7月21日、スターバックスから新商品「DELIGHT ME ピーチミルクwithクリーミープディング」が登場しました。このドリンクは、ジューシーなピーチの甘さとコクのあるミルクがやさしく重なり合う味わいが特徴で、細かいミルクプディングも入っています。記事では、この魅力的な新作を実際に飲んでみた感想が紹介されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-23T08:06:01.631005"
+  },
+  {
+    "source": "Zenn",
+    "title": "2026年最新AI SEOツール徹底比較ガイド",
+    "link": "https://zenn.dev/gptmelo/articles/337b9821f1713d",
+    "summary": "提示された情報によると、この記事は2026年時点での最新AI SEOツールを徹底的に比較するガイドです。AIを活用したSEOツールの機能、特徴、メリット・デメリットなどを詳細に評価し、ユーザーがそれぞれのニーズに最適なツールを選べるようにすることを目的としています。これにより、効果的なSEO戦略の立案と検索エンジンでの上位表示を目指すための貴重な情報が提供されると推測されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-23T08:06:12.461342"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIが見つけた「wp2shell」、何をどうやって見つけたのか",
+    "link": "https://qiita.com/harupython/items/c4f8d102b647dc2a0408",
+    "summary": "2026年7月17日、世界で最も使われるCMSであるWordPressに、標準構成でも未認証の攻撃者がリモートでコードを実行できる深刻な脆弱性「wp2shell」が発見されました。この脆弱性は、AI（大規模言語モデル）を用いた解析によって見つけられたと報じられています。ただし、AIが自律的にハッキングしたわけではなく、Searchlight Cyber傘下のセキュリティ研究者の解析作業を助けるツールとして使用されたものです。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-07-23T08:06:20.052983"
+  },
+  {
+    "source": "ITmedia",
     "title": "Windows 11、Dell製PCの不具合を修正する緊急パッチを配信　自動配信の条件と手動の導入手順は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/23/news035.html",
     "summary": "Microsoftは、Windows 11（バージョン25H2および24H2）向けに緊急更新プログラム「KB5121767」を公開しました。このパッチは、Intel IPF搭載のDell製PCなどで発生していた性能低下や更新の制限といった不具合を解消します。ユーザーは、自動配信またはオプション更新を通じてこの重要な修正プログラムを入手可能です。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-03T08:43:22.834250"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に",
-    "link": "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
-    "summary": "2026年6月30日、Qualcomm製IoT向けSoC搭載機器向けのLinuxソリューション「Qualcomm Linux 2.0」の一般提供が始まりました。これは2024年に発表されたQualcomm Linuxの大型アップデートにあたり、複数のSoCや製品で使える共通のLinux基盤、オープンな開発体制、本番環境を意識した構成が特徴です。このプラットフォームにより、AIカメラから産業用PCまで、さまざまなIoTデバイスを単一の基盤で開発できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-02T22:56:33.073733"
-  },
-  {
-    "source": "Zenn",
-    "title": "『離散数学のすゝめ』〜情報世界を動かすエンジニアの新教養〜",
-    "link": "https://zenn.dev/albatrosary/articles/21bbd7bc8d1ba6",
-    "summary": "この記事は、「情報世界を動かすエンジニアの新教養」として、離散数学を学ぶことの重要性を説いています。デジタル化が進む現代において、論理的思考力やアルゴリズムの基礎を支える離散数学は、もはや専門知識に留まらず、広範な技術分野で必須となっています。\n\nそのため、情報技術に携わるエンジニアにとって、これは新たな基礎教養として不可欠であり、積極的に習得すべきであると提言されています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-02T22:56:45.502853"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIに書かせたコードで実際に腐った5つ。半年運用でわかったNG例と直し方",
-    "link": "https://qiita.com/Rapls/items/80bde83c214d6c437973",
-    "summary": "AIが生成したコードを半年間運用した経験から、保守性を損なう5つのNG例とその修正方法が解説されています。具体的には、コードを言い換えるだけのコメント過多、早すぎる共通化、巨大な単一関数、エラーを握り潰すtry/catch、そしてテストなしでのAIコードの盲信が挙げられます。\n\nこれらはAIが生成しがちな特徴であり、後の保守性を確保するためには、開発者がコードの意図を明確にし、適切なテストを導入することが重要であると筆者は指摘しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-02T22:56:53.824770"
-  },
-  {
-    "source": "ITmedia",
-    "title": "KDDIの最大1422万件の情報漏えい事件　その裏には陸自USB問題と同様に中国の影？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/02/news079.html",
-    "summary": "KDDIで発生した最大1422万件の情報漏えい事件は、単なる脆弱性悪用ではなく、攻撃者の明確な狙いがあることが示唆されています。記事は、この事件の背後に陸上自衛隊のUSB問題と同様に「中国の影」がある可能性に言及しています。\n\nダークWebやOSINT（公開情報調査）を駆使し、流出データの行方や政府系サイバー攻撃との接点を追跡。専門家が今後想定されるリスクについて解説します。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-02T08:37:32.799326"
   }
 ]
