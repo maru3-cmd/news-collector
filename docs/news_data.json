@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "「Windows+R」は絶対に押さないで！　2026年Q1「Microsoft」記事トップ10",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/25/news007.html",
+    "summary": "この記事は、2026年第1四半期（4月～6月）にMicrosoft製品に関して最もアクセスを集めた記事のトップ10を紹介しています。読者からの反響が特に大きかったトピックを振り返るもので、その中には「Windows+R」キーの利用に関する注意喚起も含まれています。これは、同期間におけるMicrosoft関連の注目トレンドを反映したランキングとなっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-24T22:52:50.056143"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
+    "link": "https://gigazine.net/news/20260725-claude-opus-5/",
+    "summary": "Anthropicは2026年7月25日に「Claude Opus 5」をリリースしました。この新モデルは、既存の「Claude Fable 5」と同等以上の性能を持ちながら、価格は半額に設定されています。第三者機関によるテストでも「Claude Fable 5」を上回る性能が確認されており、優れたコストパフォーマンスが特徴です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-24T22:52:56.790625"
+  },
+  {
+    "source": "Zenn",
+    "title": "【2026/7/20】Fable 5「クレジット化」が着地 — Max系は恒久無料50%、Pro系は$100クレジット→$10/$50従量",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-fable-5-usage-credits-2026-07",
+    "summary": "2026年7月20日より、Fable 5の「クレジット化」モデルが導入されます。\nこれにより、Max系のユーザーは恒久的に50%無料でサービスを利用できるようになります。\n一方、Pro系のユーザーにはまず100ドルのクレジットが付与され、その後は10ドルまたは50ドルの従量課金制に移行します。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-24T22:53:04.087854"
+  },
+  {
+    "source": "ITmedia",
     "title": "大手コンサル15社も「対応できない」　なぜ、ある大企業はシステム刷新を断られたのか？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/24/news032.html",
     "summary": "ある企業が数億円規模のSAP刷新案件を国内主要ITベンダー15社に打診したところ、全社から提案辞退の返答を受けました。これは、大手コンサルを含むこれら企業が「対応できない」と判断するほど、プロジェクトが極めて困難であることを示唆しています。\n記事では、この異例の事態に至った背景を深掘りしつつ、同様の「移行難民」とならないための道筋を提示します。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-04T22:47:20.281725"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「Nikon Z6 III」の無線機能非搭載モデルが個人でも購入可能な状態で販売されている",
-    "link": "https://gigazine.net/news/20260704-nikon-z6-iii-no-wireless-connectivity/",
-    "summary": "ミラーレスカメラ「Nikon Z6 III」は通常、スマートフォンやPCとの無線接続用にWi-Fi・Bluetooth機能を搭載しています。しかし、これらの無線通信機能を取り除いた特別版が存在します。この無線機能非搭載モデルは、カメラ通販サイトのB＆Hで個人でも購入可能な状態で販売されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-04T08:17:20.697937"
-  },
-  {
-    "source": "Zenn",
-    "title": "1週間限定のClaude Fable 5で何をすべきか - 7月7日まで",
-    "link": "https://zenn.dev/yun_bow/articles/99512afc69bcf8",
-    "summary": "記事の具体的な内容が提供されていないため、要約することはできません。\n\nしかし、提示されたタイトル「1週間限定のClaude Fable 5で何をすべきか - 7月7日まで」から推測するに、Claude Fable 5というものが7月7日までの1週間限定で利用可能であり、その期間中に何をするべきかに関する情報が含まれていたと考えられます。重要なポイントや具体的な行動指示、数字などは、記事本文がなければ不明です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-04T08:17:27.558628"
-  },
-  {
-    "source": "Qiita",
-    "title": "プロンプトを磨くのはもう古い?「コンテキストエンジニアリング」に片足を突っ込む話",
-    "link": "https://qiita.com/shoka-jp/items/770dc588dee277d7b36b",
-    "summary": "この記事は、従来のプロンプトエンジニアリングがLLMへの入力の一部に過ぎないと指摘し、「コンテキストエンジニアリング」という新たなアプローチを提唱しています。LLMが見ているのは、ユーザーが入力したプロンプトだけでなく、システムメッセージや過去の会話、ツールの出力など多岐にわたる情報です。\n\nプロンプトエンジニアリングが「最後の一言をどう書くか」であるのに対し、コンテキストエンジニアリングは「AIへ何を見せるか」を考えるものです。例えば、エージェントによっては人間が書いた100トークンよりもツールが取得した数万トークンの方が圧倒的に多く、AIに与える情報全体を設計することの重要性が強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-04T08:17:35.305187"
   }
 ]
