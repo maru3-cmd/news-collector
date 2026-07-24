@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "大手コンサル15社も「対応できない」　なぜ、ある大企業はシステム刷新を断られたのか？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/24/news032.html",
+    "summary": "ある企業が数億円規模のSAP刷新案件を国内主要ITベンダー15社に打診したところ、全社から提案辞退の返答を受けました。これは、大手コンサルを含むこれら企業が「対応できない」と判断するほど、プロジェクトが極めて困難であることを示唆しています。\n記事では、この異例の事態に至った背景を深掘りしつつ、同様の「移行難民」とならないための道筋を提示します。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-24T08:02:31.825584"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "トロピカルなパインの風味にブラッドオレンジのさっぱりした酸味で暑い日にゴクゴク飲みたくなる「三ツ矢トロピカルMix」試飲レビュー",
+    "link": "https://gigazine.net/news/20260724-mitsuya-cider-tropical-mix/",
+    "summary": "アサヒ飲料は、人気シリーズ「三ツ矢サイダー」から期間限定の新商品「三ツ矢トロピカルMix」を発売しました。この炭酸飲料は2026年7月21日(火)に登場し、パイナップルとブラッドオレンジの果汁をブレンドしています。記事では、暑い日にゴクゴク飲みたくなるようなトロピカルな風味を実際に試飲し、その味をレビューしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-24T08:02:42.151195"
+  },
+  {
+    "source": "Zenn",
+    "title": "Vercel AI SDK（@ai-sdk/vue）と Reka UI で作るAIチャットボットのフロントエンド",
+    "link": "https://zenn.dev/asuene/articles/a144d100d2d49f",
+    "summary": "この記事は、Vercel AI SDKのVue向けライブラリである「@ai-sdk/vue」と「Reka UI」を組み合わせることで、AIチャットボットのフロントエンドを構築する方法について解説しています。特に、これら二つの技術を活用し、効率的かつモダンなユーザーインターフェースを持つAIチャットボットの開発を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-24T08:02:49.714307"
+  },
+  {
+    "source": "Qiita",
+    "title": "タスク分解で毎回半日溶かしていたので、下書きをAIに任せてみた",
+    "link": "https://qiita.com/spina1/items/1156791ae961e4edcd83",
+    "summary": "筆者は、仕様書からのタスク分解作業に毎回半日を費やし、仕様書と課題登録画面の往復による集中力の途切れや、抜け漏れへの不安、単純な作業量の多さに悩んでいました。この作業は、画面・API・テスト・影響範囲まで洗い出す必要があり、頭を使わない割に多くの時間を浪費していました。\n\nそこで、この記事ではAIにタスク分解の下書きを任せることで、この非効率な工程を改善した方法を紹介しています。具体的なツールとして、ONES.comの「ONES Wiki」などが挙げられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-24T08:02:57.604994"
+  },
+  {
+    "source": "ITmedia",
     "title": "MCPにも対応、NTTデータの国産仮想化基盤に「AIレディ」な導入・運用支援サービス",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/24/news031.html",
     "summary": "NTTデータ先端技術は、国産KVM仮想化基盤「Prossione Virtualization」向けに、導入・運用支援サービスを開始しました。このサービスは、システムの設計から移行、保守までを一貫して対応します。特に、AIOps連携による障害対応の自動化を提供することで、仮想化コストの削減と運用効率の向上を図ります。これにより、顧客の「AIレディ」なインフラ環境構築を支援します。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-04T08:17:35.305187"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google Chromeで「Perplexity」を偽装する悪質拡張機能が発見　Microsoftが警告",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/03/news022.html",
-    "summary": "Microsoftは、Google Chrome上でAIサービス「Perplexity」を偽装する悪質な拡張機能が発見されたことを警告しました。この不正な拡張機能は、Microsoftからの報告を受けてGoogleによって削除されました。利用者は、拡張機能の導入元や要求される権限を常に確認するよう促されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-03T22:54:21.728891"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ",
-    "link": "https://gigazine.net/news/20260703-everest-green-boots/",
-    "summary": "エベレストの標高8500m地点にある有名な遺体「グリーンブーツ」の身元が、DNA鑑定によって確認されました。この遺体は、インドチベット国境警察(ITBP)の登山隊員だったドルジェ・モルップ氏であることが判明。インド当局は、モルップ氏の遺体を回収するミッションを検討しているとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-03T22:54:30.735263"
-  },
-  {
-    "source": "Zenn",
-    "title": "ソフトウェア開発は次元変換である —— 責務をトレースして、AI生成の異常を捉えられるか",
-    "link": "https://zenn.dev/cognitiveosmdl/articles/ba595e845a4c60",
-    "summary": "この記事は、ソフトウェア開発を、要件から実装へと情報が形を変える「次元変換」であると捉えています。この複雑なプロセスにおいて、各コンポーネントの「責務」を明確にし、その繋がりを追跡するトレーサビリティが極めて重要だと強調しています。\n\nそして、AIがコードなどを生成する現代において、生成された成果物の中に潜む予期せぬ「異常」や不具合を、この責務のトレース能力を用いていかに特定し、品質を確保していくかが大きな課題であると提起しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-03T22:54:39.847564"
-  },
-  {
-    "source": "Qiita",
-    "title": "マーガレット・アトウッドが語ったAIの「ゴミを入れればゴミが出る」：Claudeの誤答から考える生成AIの確かめ方",
-    "link": "https://qiita.com/quotidia/items/ca9348ac6cacf3ae91f1",
-    "summary": "作家のマーガレット・アトウッドはAIを「ゴミを入れればゴミが出る（garbage in, garbage out）」と評しました。この記事は、Claudeの誤答を例に、生成AIの確かめ方について考察しています。運営サイト「AI Quotidia」は、AIの精度そのものよりも、生成AIが間違いを犯しても「気づかれにくい」という点に特に着目し、その問題提起を行っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-03T22:54:46.815630"
   }
 ]
