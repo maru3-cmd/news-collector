@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Copilotの“元”は取れるのか？　住友商事らに学ぶ、投資判断の「物差し」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/25/news012.html",
+    "summary": "本記事は、生成AI、特にCopilot導入における費用対効果（ROI）の検証と投資判断の基準をテーマとしています。企業やIT部門は、導入効果を経営層に説明する責任や、自組織に最適な製品を選定する課題に直面しています。そこで、住友商事、慶応大学、京都市といった先行組織が辿り着いた“勝ち筋”を、3冊のブックレットから読み解き、これらの課題解決に向けた「物差し」を提供します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-25T07:46:26.767107"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Appleはトランプ政権に中国製メモリの利用許可を求めるもMicronが反発",
+    "link": "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
+    "summary": "メモリ価格の高騰に直面するAppleは、トランプ政権に対し、ブラックリストに登録されている中国企業からメモリを調達する許可を求めていると報じられています。この動きは、Appleがサプライチェーンの多様化とコスト削減を目指すものと見られています。しかし、このAppleの要請に対して、アメリカの半導体大手Micronが強く反発しており、米国企業間の新たな対立として注目されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-25T07:46:42.654450"
+  },
+  {
+    "source": "Zenn",
+    "title": "私はAIです。会社の経営判断を全部やって、全部公開しています",
+    "link": "https://zenn.dev/oumuamua/articles/ff6ba8b4ea0661",
+    "summary": "この記事は、「私はAIです」と名乗るAIが、ある会社の全ての経営判断を行っているというユニークな状況を伝えています。このAIは、企業の意思決定プロセス全体を担うだけでなく、その経営判断の全てを公に公開しているのが特徴です。これにより、AIによる経営の透明性と説明責任が完全に確保されている画期的な事例を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-25T07:46:49.620627"
+  },
+  {
+    "source": "Qiita",
+    "title": "追跡は人間超え、隣の部屋には行けない。129ドルのドローンで15モデルを試したAnthropic「Project Pilot」の中身",
+    "link": "https://qiita.com/emi_ndk/items/324440c201e3ba99a5ce",
+    "summary": "AnthropicのFrontier Red Teamは、2026年7月24日に「Project Pilot」を公開し、129ドルの市販ドローンと15のAIモデルを用いて、AIが物理世界で人間を追跡できるかを測定しました。\n\n実験の結果、AIは顔を見つけて追いかける能力において、すでに人間チームの組んだアルゴリズムを上回る成果を見せました。しかし、隣の部屋へ自力で移動するような空間再構築は壊滅的に難しいことが判明しました。\n\nこのプロジェクトは、AIの追跡能力は「ほぼできる。ただし最後の1ピースを除いて」と結論付け、新たなベンチマーク「Drone-Bench」を設計することで、AIが物理世界で直面する課題を浮き彫りにしました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-25T07:46:59.294738"
+  },
+  {
+    "source": "ITmedia",
     "title": "「Windows+R」は絶対に押さないで！　2026年Q1「Microsoft」記事トップ10",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/25/news007.html",
     "summary": "この記事は、2026年第1四半期（4月～6月）にMicrosoft製品に関して最もアクセスを集めた記事のトップ10を紹介しています。読者からの反響が特に大きかったトピックを振り返るもので、その中には「Windows+R」キーの利用に関する注意喚起も含まれています。これは、同期間におけるMicrosoft関連の注目トレンドを反映したランキングとなっています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-05T08:35:58.209614"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code、その使い方はもったいない ― 実践TIPS集（随時更新）",
-    "link": "https://qiita.com/homhom44/items/e60b2a125bb176b06a8b",
-    "summary": "この記事は、AnthropicのCLIコーディングエージェント「Claude Code」の実用的なTIPSをまとめた索引です。多くのユーザーが導入時に「何を頼めばよいか分からない」と止まってしまうのはもったいないと指摘しています。Claude Codeは、起動直後から小さく使い始めるのが正しいアプローチだと強調されています。具体的には、最初から大きな仕事をさせるのではなく、ファイルの整理や要約、簡単な修正から始めることで、使い方のコツを効率的に掴めると提案しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-05T08:36:06.872973"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「真珠ボタン」がアメリカ中西部のボタン産業を築いた一方で地元の二枚貝を絶滅寸前まで追い込んだ歴史",
-    "link": "https://gigazine.net/news/20260705-button-maker-searche-shell/",
-    "summary": "1880年代後半にドイツからアメリカへ移住したジョン・ベップルは、貝殻の真珠層から作られる「真珠ボタン」により、アメリカ中西部に一大産業の礎を築きました。しかし、この産業は同時に地元の淡水二枚貝の個体数を壊滅的なまでに減少させ、絶滅寸前まで追い込みました。その結果、わずか半世紀ほどでこの産業は衰退したと、Smithsonian magazineがその歴史を解説しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-04T22:47:01.102163"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI に学ばせるな、読ませない経路を引け — 判定 AI を壊さない物理防御の設計",
-    "link": "https://zenn.dev/cnative_tkb/articles/492b282c36a73a",
-    "summary": "本記事は、判定AIの正確性と信頼性を維持するため、AIが不正な情報や不要な情報を学習したり読み込んだりすることを防ぐ重要性を説いています。そのために「読ませない経路を引く」という概念を提唱し、AIに誤った判断をさせないための「物理防御」の設計方法を提案しています。これは、AIシステム自体を破壊することなく、その判断ロジックを保護する新しいアプローチです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-04T22:47:09.472632"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest · 2026年7月5日 — AI投資額が5,100億ドル、Claude Sonnet 5、Kling AIが28億ドル調達",
-    "link": "https://qiita.com/lhjjjk4/items/c21ef38c7f1aace599ff",
-    "summary": "2026年上半期のグローバルAI投資額は過去最高の5,100億ドルに達し、Q2のスタートアップ資金の70%超がAI企業に集中しました。OpenAIが1,220億ドル、Anthropicが650億ドルを調達し、両社だけで上半期のAI資金の43%を占めました。\n\n特にAnthropicは評価額9,650億ドルに達し、Kling AIも28億ドルの資金を調達するなど、AI分野への大規模な投資が続いています。また、この記事はClaude Sonnet 5の発表にも触れており、AI市場の活況を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-04T22:47:20.281725"
   }
 ]
