@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「フロンティアAI」の脅威にどう立ち向かう？　Gartnerが次世代セキュリティを提言",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news027.html",
+    "summary": "Gartnerは、フロンティアAI時代に合わせたセキュリティ戦略の再構築が必要だと提言しました。企業は、シャドーAIの利用実態を把握し、CTEM（継続的な脅威エクスポージャー管理）への発展や実行時のリアルタイム監視といった能動的な防御姿勢を取るべきとしています。これにより、攻撃を予測・阻止する「先制的セキュリティ」への転換を図ることが重要だと強調しました。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-26T22:50:04.237581"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Appleのワイヤレスイヤホン「AirPods」をフリスビーに搭載してモーショントラッカーにする猛者が登場",
+    "link": "https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/",
+    "summary": "AppleのワイヤレスイヤホンAirPodsをフリスビーのモーショントラッカーとして利用するユニークな方法が報告されました。これは、フリスビーに開けた穴にAirPodsを挿し込むことで実現されており、フリスビーの動きを追跡することを可能にします。この事例は、AirPodsが単なるオーディオデバイスとしてだけでなく、意外な形で活用できる可能性を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-26T22:50:11.535068"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Opus 5リリース — Fable 5に迫る性能を半額で、thinkingデフォルトON化で破壊的変更も",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-opus-5-release-2026-07",
+    "summary": "最新のAIモデル「Claude Opus 5」がリリースされました。\nこの新バージョンは、競合の「Fable 5」に匹敵する高性能を持ちながら、半額という大幅に低いコストで利用できる点が大きな特徴です。\n特に、思考機能（thinking）がデフォルトでオンになったことで、AIの動作やユーザー体験に破壊的な変更をもたらす可能性があり、注目を集めています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-26T22:50:20.921739"
+  },
+  {
+    "source": "Qiita",
+    "title": "OpenAI の「少ない例示だけで学習する言語モデル（GPT-3）」を理解する",
+    "link": "https://qiita.com/sato_7411/items/9dcc70e7d1d9893489b1",
+    "summary": "この記事は、OpenAIのGPT-3がどのように多言語に対応しているかを説明しています。GPT-3は主に英語のデータセットで学習されていますが、**7%**の他の言語テキストも含まれており、複数の言語を理解する基礎を築いています。さらに、単語や文といった様々なレベルで言語が自然に混在した混合データを用いることで、特定の言語に限定されず多言語を扱う能力を獲得しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-26T22:50:27.810310"
+  },
+  {
     "source": "GIGAZINE",
     "title": "美しすぎるフリーレンたちをワンフェス2026[夏]の会場で見てきた",
     "link": "https://gigazine.net/news/20260726-frieren-wf2026s/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-06T22:58:04.428171"
-  },
-  {
-    "source": "Qiita",
-    "title": "生成AIと2週間壁打ちして実装2日で公開 ─ sql.js × Go × PostgreSQLで作るSQL学習サービスkufu:SQL",
-    "link": "https://qiita.com/matsutomu/items/41fe7bd49cb6188a50df",
-    "summary": "PostgreSQLのチューニング経験から、SQLを実践的に学べる学習サービス「kufu:SQL」が開発されました。このサービスは、コンセプトやアーキテクチャ、プログラミング言語の選定において、生成AIと2週間かけて設計を固めました。その結果、当初2ヶ月と見込まれた実装期間は、設計が確立していたことでわずか2日に短縮され、そのまま本番公開に至りました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-06T22:58:13.404507"
-  },
-  {
-    "source": "ITmedia",
-    "title": "FDEとリコーの新コンサルサービス、どこが違う？　AXのパートナー選びを考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news054.html",
-    "summary": "この記事は、企業がAX（AIトランスフォーメーション）を推進する際に、どのようなベンダーをパートナーとして選ぶべきかについて考察しています。\n\n特に、リコーが新たに設立したAIコンサル会社と、近年よく聞かれる「FDE」というアプローチとの共通点や相違点を詳細に分析しています。\n\nその比較を通じて、企業が自身の目的や状況に最も適したパートナーを選定するための示唆を提供しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-06T09:48:57.230509"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "肉×揚げ物×ガーリックなバーガーキング「ビッグマウスダーティ」試食レビュー、ハッシュドポテトやフライドチキンを挟んだボリューム満点バーガー",
-    "link": "https://gigazine.net/news/20260706-burgerking-big-mouth-dirty/",
-    "summary": "バーガーキングは人気シリーズ「ビッグマウス」の新作として、ハッシュドポテトを挟んだ「ダブルビーフ＆ハッシュ」とフライドチキンを挟んだ「ビーフ＆チキン」の2種類の「ビッグマウスダーティ」を2026年7月3日に発売しました。これらのバーガーは、パンチのある「特製ガーリックマヨソース」をふんだんに使用し、肉と揚げ物の組み合わせでボリューム満点なのが特徴です。本記事は、この新作バーガー2種類を実際に試食し、その魅力をレビューしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-06T09:49:04.503971"
-  },
-  {
-    "source": "Zenn",
-    "title": "Snowflake CoCo を Snowsight で触ってみた ― 自然言語でどこまで頼めるか",
-    "link": "https://zenn.dev/mochitec_tech/articles/5cf8fdf8bc4975",
-    "summary": "この日本語記事は、Snowflake CoCoをSnowsight環境で実際に操作してみた体験を報告しています。\n主な目的は、自然言語による指示がCoCoにどこまで通用し、作業を任せられるかを検証することです。\nデータ操作や分析タスクにおいて、CoCoの自然言語処理能力とその信頼性を探る内容となっています。\n記事は、自然言語インターフェースの実用性と限界に焦点を当てています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-06T09:49:15.214469"
   }
 ]
