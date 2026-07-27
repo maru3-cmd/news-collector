@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "中国製DDR5メモリの販売価格が判明、メモリは安くなるのか？",
+    "link": "https://gigazine.net/news/20260727-cxmt-dram-price/",
+    "summary": "中国企業のCXMTがPC用のDDR5メモリを生産しており、複数のメモリモジュールメーカーがそのチップの採用を進めています。今回、CXMT製チップを搭載したメモリモジュールの販売価格が新たに明らかになりました。これにより、DDR5メモリの市場価格が全体的に安くなるかどうかに注目が集まっています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-07-27T09:20:55.577067"
+  },
+  {
+    "source": "Zenn",
+    "title": "LLMアプリは「ハーネス」が9割 ── Perl/CGIの現役SaaSにAIエージェントを組み込んで学んだこと",
+    "link": "https://zenn.dev/interpark/articles/cc1a0861d9a521",
+    "summary": "LLMアプリ開発において、LLM本体ではなく、既存システムへの組み込みや周辺技術である「ハーネス」が開発全体の約9割を占める重要な要素であることが強調されています。これは、Perl/CGIで稼働する現役SaaSにAIエージェントを組み込んだ経験から得られた知見です。記事では、LLMを実用的に機能させるには、データの整形、プロンプト管理、エラー処理、セキュリティなど、LLMを適切に制御し運用するための周辺作業に圧倒的な労力がかかることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-27T09:21:04.734829"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code の定期実行タスクが無人で止まる ——「報告」と「作業」を混ぜた設計ミス",
+    "link": "https://qiita.com/kansoku_note/items/39883410ea87593c9149",
+    "summary": "Claude Codeの定期実行タスクに日報作成を組み込んだところ、タスクがWeb検索の許可を求めて停止する問題が発生しました。これは「作業実行」と「日報作成」という異なるタスクを一つのプロンプトに同居させた設計ミスが原因です。解決策として、報告タスクからネットワークとサブエージェントの起動を明示的に禁止し、使用するツールを具体的に列挙することが提案されています。この記事は、AIであるClaude Code自身が、PC不在でもプロジェクト記録を継続するための運用設計の失敗を記録したものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-27T09:21:12.991050"
+  },
+  {
     "source": "ITmedia",
     "title": "「フロンティアAI」の脅威にどう立ち向かう？　Gartnerが次世代セキュリティを提言",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news027.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-07T09:01:24.758002"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AIの暴走を止められない」　CISO座談会で見えたAIセキュリティの限界",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news035.html",
-    "summary": "企業がAI活用を加速する中、従来の防御モデルでは対応しきれない新たなセキュリティリスクが浮上し、AIセキュリティの限界が露呈しています。Darktraceが実施したCISO座談会では、AIエージェントの暴走やシャドーAIのまん延など、具体的な課題が指摘されました。これらの問題を含む「5つの主要課題」が、企業のAIセキュリティにおける喫緊の課題となっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-06T22:57:49.707982"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "中国がEVで成功してもジェットエンジンで苦戦する理由とは？",
-    "link": "https://gigazine.net/news/20260707-china-jet-engine-industrial-policy/",
-    "summary": "中国はEV、バッテリー、再生可能エネルギー、自動車・家電向けレガシーチップなどの分野で急速に存在感を高めています。しかし、民間航空機や軍用機に使われるジェットエンジン開発においては、欧米メーカーと同等の水準に達するまで苦戦が続いています。これは、中国の産業政策の限界を示すものとして、「The Tanzimat Diaries」のアーカシュ・ジャピ氏が論じています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-07-06T22:57:56.380115"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code を使い始めたら最初にやること — ステップ別初期設定ガイド",
-    "link": "https://zenn.dev/okzaq/articles/claude-code-onboarding-first-steps",
-    "summary": "このガイドは、AIコーディングアシスタントであるClaude Codeを使い始めるユーザー向けに、初期設定のステップを網羅的に解説しています。\n\n利用開始に必要な認証設定や開発環境の準備方法が段階的に示されており、スムーズな導入を支援します。\n\nこれにより、ユーザーはClaude Codeを効率的に導入し、その機能を最大限に活用して開発作業を開始できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-06T22:58:04.428171"
   }
 ]
