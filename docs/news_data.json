@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "WordPressの脆弱性「wp2shell」　古いバージョンでも自動更新していても安心できない理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/28/news014.html",
+    "summary": "WordPress本体にプラグインなしの標準構成でも遠隔コード実行が可能な脆弱性「wp2shell」が発見されました。これに対しWordPress運営元は異例の強制自動更新を実施しましたが、管理者が把握していない放置サイトはこの更新から漏れてしまいます。そのため、自動更新が適用されていても安心できるわけではなく、依然として手動での確認と対応が必要なサイトが存在します。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-07-27T22:51:20.806987"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "高齢者を狙ったAI音声詐欺が急増中、たった3秒の音声データでAI音声クローンが作られてしまう",
+    "link": "https://gigazine.net/news/20260728-why-ai-voice-fraud-outruns-defence/",
+    "summary": "AI技術の発展に伴い、高齢者を狙ったAI音声詐欺が急増しています。この詐欺は、たった3秒の音声データがあればAI音声クローンを作成し、ターゲットを騙すという巧妙な手口です。最先端のAI音声技術を悪用したこのような詐欺が多発しており、エンジニアのティム・グリーン氏がその実態をまとめています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-27T22:51:31.498846"
+  },
+  {
+    "source": "Zenn",
+    "title": "要約ベクトルは本文ベクトルの劣化コピーではなかった",
+    "link": "https://zenn.dev/thegatebreaker/articles/summary_vs_body_vector_analysis",
+    "summary": "この記事は、自然言語処理における「要約ベクトル」と「本文ベクトル」の関係についての重要な発見を報告しています。従来の一般的な見方では、要約ベクトルは本文ベクトルの情報量を減らした、いわば「劣化コピー」と認識されることがありました。しかし、本研究の結果は、要約ベクトルが本文ベクトルとは異なる独自の特性や情報を持っており、独立した表現形式であることを明確に示しています。この知見は、テキストの要約生成や意味理解のためのベクトル表現に関する新たな洞察をもたらします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-27T22:51:42.565454"
+  },
+  {
+    "source": "Qiita",
+    "title": "CLAUDE.mdを二層に分ける。「毎回復唱させるルール」と「廃止した方針」を別々に持つ型",
+    "link": "https://qiita.com/Rapls/items/87b74814e41f4e7bd852",
+    "summary": "Claude Codeに「毎回復唱させるルール」は、振る舞いを安定させる効果があるとされますが、筆者が1年間運用したところ、「過去に捨てた方針が後から戻ってくる」という問題が判明しました。この現象は、ルールの復唱だけでは防げませんでした。\n\nこのため、筆者はCLAUDE.mdを二層に分ける方式を導入しました。一つは毎回復唱させて行動を保つ「振る舞いのルール」、もう一つは過去の決定や廃止した方針を記録する「決定の履歴」です。これにより、性質の異なる情報を適切に管理し、問題の再発を防ぐことを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-27T22:51:51.862614"
+  },
+  {
     "source": "GIGAZINE",
     "title": "中国製DDR5メモリの販売価格が判明、メモリは安くなるのか？",
     "link": "https://gigazine.net/news/20260727-cxmt-dram-price/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-07T22:51:34.428659"
-  },
-  {
-    "source": "ITmedia",
-    "title": "アクセンチュア、重要インフラのセキュリティ事業強化へ　またもや3社買収の狙いは？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news017.html",
-    "summary": "アクセンチュアは、重要インフラのサイバーセキュリティ事業を強化するため、新たに3社の関連企業を買収します。これは、同社がこれまでにも多数のセキュリティ企業を買収してきた戦略の一環です。今回の買収により、アクセンチュアは重要インフラ分野におけるセキュリティ課題への対応力を一層強化することを目指しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-07T09:01:00.440196"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIが指示を処理するとき「思考」に特化した「J空間」が活性化していることが判明",
-    "link": "https://gigazine.net/news/20260707-ai-j-apace/",
-    "summary": "Anthropicの研究者は、AIが人間のように意識的・無意識的に物事を処理するパターンを持つことを発見しました。AIが指示を処理する際には、「思考」に特化した「J空間」と呼ばれる領域が活性化していることが判明。この「J空間」をAIから削除したところ、複雑な詩の作成など「高度な思考」を要する課題のスコアが大幅に低下したとのことです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-07T09:01:07.463973"
-  },
-  {
-    "source": "Zenn",
-    "title": "3ヶ月で品質改善チケットを8割対応完了へ。AIと泥臭さで挑んだ「Reiwa Hungry」な開発負債解消の裏側",
-    "link": "https://zenn.dev/asuene/articles/1982800b1aa250",
-    "summary": "ある組織が「Reiwa Hungry」と称するプロジェクトを通じ、3ヶ月という短期間で品質改善チケットの8割対応完了を目指しました。これは、AIの活用と地道な泥臭いアプローチを組み合わせることで、蓄積された開発負債を解消するための取り組みです。新技術と伝統的な努力を融合させることで、効率的かつ確実にシステムの品質向上を図った点が特徴です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-07T09:01:15.703156"
-  },
-  {
-    "source": "Qiita",
-    "title": "Software Testing Life Cycle: Why Every QA Team Should Master STLC",
-    "link": "https://qiita.com/Keploy/items/39cb15372200b2e8bb81",
-    "summary": "ソフトウェアテストライフサイクル（STLC）は、信頼性の高いソフトウェアを提供するために不可欠な構造化されたテストプロセスです。これは、テスト活動の計画、実行、完了に対する体系的なアプローチを提供します。STLCを習得することで、チームは欠陥を早期に特定し、自信を持ってソフトウェアをリリースできるようになります。STLCは、テストの一連のフェーズで構成されています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-07T09:01:24.758002"
   }
 ]
