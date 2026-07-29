@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "東京ラーメンストリートの煮干しラーメン「玉」はこんな感じ",
+    "link": "https://gigazine.net/news/20260729-gyoku-tokyo-ramen-street/",
+    "summary": "東京駅の地下には、ラーメンの名店が集まる「東京ラーメンストリート」があります。筆者はイベント取材で東京に滞在した際、このストリート内のラーメン店「玉」を訪れました。そこで煮干しラーメンを味わい、記事ではその味に関する詳細なレポートがされています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-29T08:13:42.700393"
+  },
+  {
+    "source": "Zenn",
+    "title": "Udemy動画自動生成で審査落ちする3つのパターンと対策",
+    "link": "https://zenn.dev/jqca/articles/24cd22d51705",
+    "summary": "Udemyで自動生成された動画コンテンツは、プラットフォームの品質基準やガイドラインに適合せず、審査落ちするリスクがあります。この記事では、特に「3つのパターン」に分類される典型的な審査落ちの事例を具体的に解説しています。さらに、これらの問題に対処し、Udemyの要件を満たす動画を作成するための効果的な対策が詳しく提案されています。これにより、出品者は自動生成の利便性を享受しつつ、コンテンツの品質を確保するための実践的なヒントを得られます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-07-29T08:13:51.415392"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeスキルのインストール数トップ10、作者はわずか3組だった:Matt Pocock 5本、Vercel 4本、Anthropic 1本(7月29日データ)",
+    "link": "https://qiita.com/Skillselion/items/288a4ff6ea585663145b",
+    "summary": "7月29日時点の集計によると、Claude Codeスキルの累計インストール数トップ10は、わずか3組の作者によって独占されています。具体的には、Matt Pocock氏が5本、Vercel Labsが4本、そしてスキル形式を開発したAnthropicが1本を占めました。このランキングは、[Skillselion](https://skillselion.com/)が実際のインストール数に基づいて集計したものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-29T08:13:58.684533"
+  },
+  {
     "source": "ITmedia",
     "title": "フィッシング92％減の裏でTeamsの通話攻撃が10倍に　Microsoft分析",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news093.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-07-08T22:55:22.131319"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "EU内で販売される車への顔認証カメラの搭載が義務づけ開始",
-    "link": "https://gigazine.net/news/20260709-eu-car-camera-systems/",
-    "summary": "2026年7月7日以降、欧州連合(EU)で販売されるすべての新車に、運転者の顔に向けたドライバーモニタリングカメラの搭載が義務づけられます。これは脇見運転による交通事故の削減を目的とした制度です。しかし、収集された映像やデータの取り扱いに関する規制が不十分であるため、プライバシー侵害への懸念が指摘されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-08T22:55:28.789691"
-  },
-  {
-    "source": "Zenn",
-    "title": "RAGをDXの中心に置く幻想をそろそろやめる",
-    "link": "https://zenn.dev/continuitymodel/articles/743a39ece6f295",
-    "summary": "記事「RAGをDXの中心に置く幻想をそろそろやめる」は、企業がRAG（検索拡張生成）技術をデジタルトランスフォーメーション（DX）推進の核と見なす傾向に警鐘を鳴らしています。\n\nRAGは大規模言語モデル（LLM）の回答精度を高める有効な手段であるものの、それ単独でDXが達成されるわけではなく、あくまで多くの技術要素の一つに過ぎないと指摘。真のDXを実現するには、業務プロセス改革やデータ戦略、組織変革といった広範かつ包括的なアプローチが必要不可欠です。\n\nしたがって、RAGに過度な期待をせず、その限界と適切な位置づけを理解することが、DX成功への鍵であると強調しています。",
-    "category": "DX・業務改善",
-    "content_type": "article",
-    "collected_at": "2026-07-08T22:55:41.528367"
-  },
-  {
-    "source": "Qiita",
-    "title": "初の「AI実行ランサムウェア」、標的を選んだのはやはり人間だった",
-    "link": "https://qiita.com/quotidia/items/013402d0018300206893",
-    "summary": "初の「AI実行ランサムウェア」攻撃が発生しましたが、報じられた内容によると、その実行時には「キーボードの前に人間はひとりもいなかった」とされています。しかし、この攻撃の標的選択には人間が関与しており、AIが完全に独立して攻撃を実行したわけではありません。この事例は、AIによる自動化がどこまで進み、人間の役割がどこに残るのか、その境界線について重要な問いを投げかけています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-08T22:55:50.758363"
   }
 ]
