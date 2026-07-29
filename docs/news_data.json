@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "なぜAIのコストは想定以上に高くなるのか？　企業に迫られる「推論設計」への転換",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/30/news010.html",
+    "summary": "AIモデルの単価は低下しているにもかかわらず、企業のAIコストは想定以上に増大しています。これは、エージェンティックAIの普及に伴う「推論爆発」が主な原因であると指摘されています。本記事では、このコスト膨張の仕組みを解き明かし、課題を解決するために企業が「推論アーキテクチャ設計」に転換する必要があると解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-29T22:49:52.640514"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
+    "link": "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
+    "summary": "近年、AIを含む従業員監視ツールが企業で増えていますが、アメリカ最大規模の医療サービス組織であるカイザーパーマネンテの看護師らが、その導入によって患者へのケアが悪化していると主張しています。\n\n彼女たちは、職場に導入された監視ツールや評価AIが、かえって患者の健康と安全を損ねていると訴えています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-29T22:50:02.515049"
+  },
+  {
+    "source": "Zenn",
+    "title": ".claude/agentsに置いたのに、サブエージェントが直接呼べなかった話",
+    "link": "https://zenn.dev/homiebridge/articles/9cf74c81adde02",
+    "summary": "記事本文が提供されていないため、内容を要約することはできません。\n\nタイトル「.claude/agentsに置いたのに、サブエージェントが直接呼べなかった話」からは、Claude AIのエージェント機能において、サブエージェントを特定のディレクトリに配置しても直接呼び出せないという技術的な問題について言及されていると推測されます。しかし、具体的な問題点、原因、解決策、あるいは関連する数字などは不明です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-29T22:50:12.124091"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年7月30日",
+    "link": "https://qiita.com/ishisaka/items/13d79ae83d47f055e008",
+    "summary": "2026年7月30日のプログラミング雑記は、プログラミング言語Rubyの開発者であるまつもとゆきひろ氏へのインタビューを紹介しています。まつもと氏は、生成AIエージェントによって自身の開発作業が大きく効率化されたと述べています。\n\nしかし、AIエージェントが途中で作業を諦めることが多いため、人間がAIに仕事をやり切らせる能力が今後も重要だと指摘しています。\n\nさらに、AIが簡単にコードを書ける「バイブコーディング」の時代でも、学校でプログラミングを学ぶ意義は失われないと語っています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-07-29T22:50:20.765440"
+  },
+  {
     "source": "GIGAZINE",
     "title": "東京ラーメンストリートの煮干しラーメン「玉」はこんな感じ",
     "link": "https://gigazine.net/news/20260729-gyoku-tokyo-ramen-street/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-09T23:03:02.052698"
-  },
-  {
-    "source": "ITmedia",
-    "title": "DX人材が\"お手並み拝見\"される日本企業　人と制度が生む停滞の正体",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/09/news025.html",
-    "summary": "日本企業ではDX人材を採用しても「お手並み拝見」と孤立させ、生成AIを導入しても成果につながらず、DXが5年間停滞しています。この停滞の根本原因は、30年間変わらない人事制度と組織文化にあると指摘されています。記事では、現場支援の実例とPwCの最新調査に基づき、この状況を断ち切る道筋を探ります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-09T08:59:19.653687"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "カップ焼そばが三島のふりかけとコラボした「三島のゆかり使用塩焼そば」「三島のひでき使用醤油焼そば」試食レビュー",
-    "link": "https://gigazine.net/news/20260709-acecook-mishima-yukari-hideki-yakisoba/",
-    "summary": "エースコックは、三島食品の代表的ふりかけ「ゆかり」と、2026年1月に新登場したひじきごはんのもと「ひでき」とのコラボカップ焼そばを、2026年7月6日に発売しました。\nラインナップは「三島のゆかり使用塩焼そば」と「三島のひでき使用醤油焼そば」の2種類です。\n本記事は、夏にぴったりの焼そばとして登場したこれらの商品を実際に購入し、試食したレビューを紹介しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-09T08:59:28.021617"
-  },
-  {
-    "source": "Zenn",
-    "title": "マニュアルを取り込むと、出典付きで答える。自社SaaS「マニュアルさん」を公開しました",
-    "link": "https://zenn.dev/pri_system_dev/articles/manualsan-product-launch",
-    "summary": "この度、自社SaaS「マニュアルさん」が公開されました。本サービスは、ユーザーが取り込んだ社内マニュアルなどの情報源に基づいて、質問に回答する機能を提供します。特に、回答の際にその情報の出典を明示する点が大きな特徴です。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-09T08:59:35.589443"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「全自動にできるがやらない」　OpsRamp創業者が語る、インフラ自律化の超えられない一線",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/09/news016.html",
-    "summary": "HPEのイベントでOpsRamp創業者ヴァルマ・クナパラジュ氏は、AIインフラ運用と新発表のコパイロットがもたらす自律化の現在地について語りました。彼は、技術的にはインフラを全自動にできるとしながらも、人間が介在することの重要性を強く強調。その結果、「全自動にできるがやらない」という一線を引く考え方を示し、完全な自律化には人間が介在するべきだという見解を明らかにしました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-08T22:55:22.131319"
   }
 ]
