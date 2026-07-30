@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「データ品質に問題あり」から「予測精度95％」へ　Umiosは販売計画をどう自動化した？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news023.html",
+    "summary": "Umios（旧マルハニチロ）は、年間約4200時間を要していた販売計画作成の自動化に成功しました。自動化にあたり、全国の支社で入力ルールがバラバラだった「データの品質」問題を解消しました。その結果、同社は販売予測において95％という高い精度を実現しました。",
+    "category": "DX・業務改善",
+    "content_type": "news",
+    "collected_at": "2026-07-30T08:02:06.551815"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "すき家「まぐろ鉄火丼」＆「まぐろたたき丼」試食レビュー、まぐろの切り身をたっぷり楽しめる一杯",
+    "link": "https://gigazine.net/news/20260730-sukiya-maguro-tekka/",
+    "summary": "すき家は2026年7月28日、新メニューとして「まぐろ鉄火丼」を発売しました。\nこの新メニューは、マグロの切り身をご飯の上にたっぷり盛り付けた一品です。\nまた、定番の「まぐろたたき丼」と組み合わせた「鉄火たたき丼」も同時にラインナップに加わりました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-30T08:02:15.662965"
+  },
+  {
+    "source": "Zenn",
+    "title": "Goooo：予測市場時代のスーパー・ルーターと取引ターミナル",
+    "link": "https://zenn.dev/goooo/articles/ad50ea0cea8e1e",
+    "summary": "記事本文が提供されていないため、内容を要約することはできません。\n\nもし記事の本文をご提供いただければ、「Goooo」が予測市場時代においてどのようなスーパー・ルーターや取引ターミナルとして機能するのか、その重要なポイントや関連する数字を含めて要約いたします。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-07-30T08:02:22.725850"
+  },
+  {
+    "source": "Qiita",
+    "title": "BobとNIMインストール設定を確認してみた",
+    "link": "https://qiita.com/tom_m_m/items/9d9897d85c668921b2a2",
+    "summary": "本記事は、AIXのNIM（Network Installation Management）インストールにおけるSMIT画面の複雑な多数のパラメータ設定という課題に焦点を当てています。筆者はこの課題を解決するため、AIエージェントであるIBM Bobを使用し、「AIX Version 7.3 Installing」の公式ドキュメントを参照しながら設定項目の詳細を整理・検証させました。\n\nBobは設定内容の生成だけでなく、サブタスクでその正確性を検証し、誤りを修正するところまで実施しています。記事では、この一連のプロセスと確認された設定項目が紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-30T08:02:33.326503"
+  },
+  {
+    "source": "ITmedia",
     "title": "なぜAIのコストは想定以上に高くなるのか？　企業に迫られる「推論設計」への転換",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/30/news010.html",
     "summary": "AIモデルの単価は低下しているにもかかわらず、企業のAIコストは想定以上に増大しています。これは、エージェンティックAIの普及に伴う「推論爆発」が主な原因であると指摘されています。本記事では、このコスト膨張の仕組みを解き明かし、課題を解決するために企業が「推論アーキテクチャ設計」に転換する必要があると解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-10T08:55:56.245133"
-  },
-  {
-    "source": "ITmedia",
-    "title": "開発者はAIで減るどころか増える？　Gartnerが予測する少人数チーム時代",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news039.html",
-    "summary": "ガートナーは、AIの普及によりソフトウェア開発チームが少人数化し、2029年には6割の組織がこれを本格導入すると予測しています。しかし同社は、このトレンドを誤解した企業は長期的な競争力を失う危険性があると警告しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-09T23:02:33.145098"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ネアンデルタール人とホモ・サピエンスが狩猟や石器についての知識や文化を共有していた可能性",
-    "link": "https://gigazine.net/news/20260710-modern-humans-neanderthals-shared-culture/",
-    "summary": "ネアンデルタール人は約4万年前まで生存し、現生人類(ホモ・サピエンス)と交配して現代人にそのDNAが受け継がれていることが知られています。しかし、日本、トルコ、フランスなどの研究者による新たな研究では、これら二つの人類種が遺伝子だけでなく文化も共有していた可能性が示唆されました。この発見は、ネアンデルタール人とホモ・サピエンスの相互作用に関する従来の理解を深めるものです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-09T23:02:42.492584"
-  },
-  {
-    "source": "Zenn",
-    "title": "GA4とSearch Consoleの月次解析をClaude Codeのコマンド1発にした",
-    "link": "https://zenn.dev/shunaibuilder/articles/ga4-gsc-monthly-report-command",
-    "summary": "この記事では、ウェブサイトの月次データ解析プロセスを効率化した取り組みについて紹介されています。具体的には、GA4（Google Analytics 4）とSearch Consoleから得られる重要なデータ解析を対象としています。\n\nAIアシスタントのClaude Codeを活用することで、これまで手間がかかっていた月次解析作業を大幅に簡素化。これにより、複数のツールからのデータ解析が「コマンド1発」で可能となり、自動化と作業時間の短縮を実現したと述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-09T23:02:51.666393"
-  },
-  {
-    "source": "Qiita",
-    "title": "【文系でも3分で理解】G検定「説明可能AI（XAI）」攻略｜LIME・SHAP・Grad-CAMの違いをスッキリ整理",
-    "link": "https://qiita.com/mrmrmr/items/4ce0acdcdc511a6d87ef",
-    "summary": "この記事は、G検定のシラバスで重要度を増す「説明可能AI（XAI）」について、文系出身者でも理解しやすいよう解説しています。\n特に、混同されがちなLIME、SHAP、Grad-CAMといった主要な手法の違いを整理することを目的としています。\nAIが「ブラックボックス」と言われる理由と、それをどのように説明するのかという流れで理解することで、各手法の役割が明確になると筆者は述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-09T23:03:02.052698"
   }
 ]
