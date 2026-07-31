@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「9カ月かかる作業を3日に短縮」　IBM、レガシー刷新ワークフローをIBM Bobに追加",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
+    "summary": "IBMは、生成AIの適用が難しいとされてきたレガシー環境刷新の自動化に本格的に乗り出します。同社は、IBM Bobにレガシー環境向けの専用パッケージとワークフローを追加。これにより、これまで9カ月を要していた作業をわずか3日に短縮することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-31T22:51:22.241819"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」",
+    "link": "https://gigazine.net/news/20260731-anthropeum/",
+    "summary": "メトロポリタン美術館の歴史的遺物がいつどこで作られたかを推測するゲーム「Anthropeum」が公開されました。このゲームでは、同美術館が所蔵する50万点以上の遺物の中から毎日10問が出題されます。プレイヤーは表示される遺物の見た目をもとに、制作年代と国・地域を推理します。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-07-31T22:51:28.641078"
+  },
+  {
+    "source": "Zenn",
+    "title": "「AIっぽい」レビューコメントは文体チェックでは見抜けなかった",
+    "link": "https://zenn.dev/mskbhd/articles/lab-213-no-ai-slop",
+    "summary": "「AIっぽい」レビューコメントは、文体チェック（スタイロメトリ分析）では見抜けなかったと報じられています。\nこれは、AIが生成したテキストが人間の書き方を高度に模倣しており、文体分析だけではその真偽を判別することが困難な現状を示しています。\nこの結果は、レビューの信頼性を文体から判断することの限界を浮き彫りにしました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-31T22:51:38.859985"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest — 2026年8月1日：ARC-AGI-3ハーネス発見、EUのAIギガファクトリー、Devin SWE-1.7",
+    "link": "https://qiita.com/lhjjjk4/items/ea5c79b36f22e01ac4c7",
+    "summary": "OpenAIは、GPT-5.6 SolがAIベンチマークARC-AGI-3で低スコアだった原因が、内部推論を破棄しモデルに毎回ゼロからパズルのルールを理解させる評価ハーネスの設定にあることを明らかにしました。\n\nResponses APIで「推論の保持」と「コンテキスト圧縮」設定を有効にしたところ、Solのスコアは公開タスクセットで13.3%から38.3%へと約3倍に向上しました。さらに、出力トークンは約6分の1に削減され、効率も大幅に改善しました。この最適化されたハーネスにより、GPT-5.6 SolはARC-AGI-3の全6レベルをクリアしました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-31T22:51:50.995146"
+  },
+  {
+    "source": "ITmedia",
     "title": "リホストを選ぶ企業は63％　モダナイゼーションの「第一歩」のはずが、なぜ終着点に変わるのか？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html",
     "summary": "国産メインフレームの提供終了を受け、レガシーシステム移行は企業にとって「期限のある経営課題」となっています。しかし、モダナイゼーションの一環としてリホストを選ぶ企業は63%に上るものの、これが「第一歩」で終わらず「終着点」となってしまう問題が指摘されています。ITRの入谷光浩氏は、移行プロジェクトにおいて移行技術やアーキテクチャ「以外の」問題が立ちはだかり、モダナイゼーションがリホストで止まる構造を解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-07-11T22:37:21.831744"
-  },
-  {
-    "source": "Zenn",
-    "title": "「Claudeが決算を読む」— 無料の財務データAPIとLLMで作る日本株AIアナリストを本にまとめた",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-earnings-analyst-book",
-    "summary": "「Claudeが決算を読む」は、LLM「Claude」と無料の財務データAPIを組み合わせ、日本株の決算情報を分析するAIアナリストを構築する手法を解説した書籍です。この本は、費用をかけずにAIを活用した投資支援ツールを自作するための具体的な方法論を提供します。読者は、AIが企業の決算データを読み解き、投資判断に役立つ洞察を得るシステムを構築するノウハウを習得できます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-11T22:37:29.324659"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "親が「スマホに気を取られている」と感じる子どもほど親との愛着関係が不安定な傾向にあるという研究結果",
-    "link": "https://gigazine.net/news/20260711-parent-phone-use-child-attachment/",
-    "summary": "親のデバイス使用が子どもの心身に与える影響は研究されていますが、親子関係への影響は十分に分かっていませんでした。Newport Healthcareのドン・グラント氏らの研究は、親がデバイスに気を取られることが青年期の子どもの親との愛着傾向にどう関連するかを調査しました。その結果、親がスマートフォンに気を取られていると感じる子どもほど、親との愛着関係が不安定になる傾向があることが示されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-11T07:28:35.150681"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code が一晩で200万トークン溶かしたので、フライトレコーダーを作った",
-    "link": "https://zenn.dev/kamihork/articles/f70a08364ef151",
-    "summary": "「Claude Code」が、一晩で予期せぬ大量のトークンを消費する事態が発生しました。具体的には、わずか一晩で200万トークンものコストがかかったことが判明しています。この莫大なトークン消費を監視し、その原因を究明するため、「フライトレコーダー」と呼ばれる新しいツールが開発されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-11T07:28:42.797643"
-  },
-  {
-    "source": "Qiita",
-    "title": "おうちAI構築報告：OpenCodeをインストールしてローカルLLM(llama.cpp)に接続",
-    "link": "https://qiita.com/katz_engineer/items/028fcaff36296d059e05",
-    "summary": "この記事は、自宅のローカルAI環境構築の一環として、OpenCodeをインストールし、既存のローカルLLMであるllama.cppに接続する手順を報告しています。筆者は、以前にコンテナ上でQwen3.5-9B-UD-Q4_K_XLモデルを動かすllama.cppサーバーを構築しており、今回はこれとは別のコンテナにOpenCodeを導入して接続を試みています。この作業は、ProxmoxVE(9.1.5)がインストールされたマシン上で進められています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-11T07:28:52.872963"
   }
 ]
