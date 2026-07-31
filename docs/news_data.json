@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "リホストを選ぶ企業は63％　モダナイゼーションの「第一歩」のはずが、なぜ終着点に変わるのか？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html",
+    "summary": "国産メインフレームの提供終了を受け、レガシーシステム移行は企業にとって「期限のある経営課題」となっています。しかし、モダナイゼーションの一環としてリホストを選ぶ企業は63%に上るものの、これが「第一歩」で終わらず「終着点」となってしまう問題が指摘されています。ITRの入谷光浩氏は、移行プロジェクトにおいて移行技術やアーキテクチャ「以外の」問題が立ちはだかり、モダナイゼーションがリホストで止まる構造を解説しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-07-31T08:27:10.086942"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "LinkedInに「AIスロップ通報ボタン」が登場",
+    "link": "https://gigazine.net/news/20260731-linkedin-seems-like-ai-slop-button/",
+    "summary": "ビジネス向けSNSのLinkedInに、AIが生成した低品質なコンテンツ、通称「AIスロップ」を通報するための新機能が追加されました。具体的には、「Seems Like AI Slop」という通報ボタンが導入され、ユーザーが不適切だと判断したAIコンテンツを報告できるようになりました。この機能は、プラットフォームのコンテンツ品質維持への取り組みの一環です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-07-31T08:27:16.462932"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエンジニアが技術書の外に出るべき理由と、読んでおきたい5冊",
+    "link": "https://zenn.dev/koukyo/articles/20260731_ai_engineer_beyond_tech_books_5",
+    "summary": "AIエンジニアは、技術書に留まらず、ビジネスや倫理、コミュニケーションといった幅広い非技術的知識を習得することが重要だと提唱されています。これは、AI技術を実社会に導入し、その価値を最大化するためには、技術的な専門性だけでなく、社会やビジネスの深い理解が不可欠であるためです。記事では、AI技術を効果的に活用するために必要とされる、これらの多角的な視点や洞察を得るためのおすすめ書籍が5冊紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-31T08:27:24.350105"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code × herdr で「ファイル開いて」と言うだけで隣のペインにCUIエディタを開かせる",
+    "link": "https://qiita.com/r12tkmt/items/6814e146ee5d56190f51",
+    "summary": "この記事は、AIコーディングエージェント「Claude Code」で作業中に、生成・編集したファイルを「開いて」と指示するだけで、隣のペインにCUIエディタ（nvimなど）を自動で開かせたいという課題を解決します。\n従来のファイルパスをコピーし、手動でペイン分割してエディタを起動する手間を省き、会話の流れでシームレスな操作を目指しています。\n解決策として、AIエージェント連携に特化したターミナルワークスペースマネージャ「herdr」が導入されています。\nherdrが持つCLI APIを利用することで、Claude Codeがプログラム的にペインを操作し、指定されたファイルをCUIエディタで開く自動化を実現します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-07-31T08:27:34.583462"
+  },
+  {
+    "source": "ITmedia",
     "title": "エラー解消のつもりが自ら攻撃を実行する「ClickFix」が108％増　日本の割合が最多14％",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2607/30/news071.html",
     "summary": "利用者自身に偽のエラー表示を見せて不正な命令を実行させる詐欺「ClickFix」の検知数が、半年間で108%と大幅に増加しました。特に日本の割合が14%で最も高く、被害の深刻化が指摘されています。攻撃の足場は生成AIの画面やブラウザ拡張機能、Microsoftアカウントのサインインなど、多岐にわたるプラットフォームへと拡大しているため、警戒が必要です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-11T07:28:52.872963"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
-    "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
-    "summary": "この記事は、Cloudflare Tunnelを使ってローカルPCで動くAIサービスを外部から安全に利用可能にする設定方法を紹介しています。Cloudflare Tunnelはルーターのポート開放なしでサービスを公開できる利点がありますが、これだけでは誰でもアクセスできてしまうというセキュリティ上の課題があります。そこで、Cloudflare Accessを追加することで、公開されたURLに認証機能を持たせ、アクセスを制限します。これにより、ローカルのAIサービスを外部から安全に利用できるようになります。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-10T22:50:40.826442"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIに3案出させても似た案しか出ない原因、軸を先に固定して分岐させる",
-    "link": "https://zenn.dev/every_ai_recipe/articles/ai-idea-options-3-axes",
-    "summary": "このタイトルは、AIに複数のアイデア（例えば3案）を出させても、結果的に似たような案しか出てこないという問題提起をしています。その原因として、AIが案を生成する際の「軸」が事前に固定されていないことを示唆しています。\n\n記事では、この問題を解決するため、まず核となる「軸」を先に設定し、そこからアイデアを分岐させていく方法を提唱しています。これにより、より多様で独創的な提案をAIから引き出すことが可能になると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-10T22:50:50.147372"
-  },
-  {
-    "source": "Qiita",
-    "title": "トークンとコンテキストウィンドウの基礎：LLMが「文字数」では測らない理由",
-    "link": "https://qiita.com/YushiYamamoto/items/63951470a18884266761",
-    "summary": "LLMではAPI料金や入力上限が「トークン数」という単位で測られ、これは日本語の「文字数」とは異なります。トークンとは、LLMがテキストを処理する際の最小単位であり、OpenAIのドキュメントでは「単語の断片」と表現されます。LLMはトークナイザーを用いてテキストをトークンの列に変換してから処理を行います。したがって、LLMのコスト試算やプロンプト設計を行う際は、文字数ではなくトークン数で考えることが重要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-10T22:50:58.672347"
-  },
-  {
-    "source": "ITmedia",
-    "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり　ガートナー、「SaaSの終焉」で独自見解を披露",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news054.html",
-    "summary": "「SaaSの終焉」論が再燃する中、ガートナーは単なるSaaSの終わりではなく、ソフトウェア業界のより深い変革を予測しています。同社は、エージェント型AIが企業向けソフトウェアの既存の収益モデルを根本的に破壊すると指摘。これにより、UI（ユーザーインターフェース）の使いやすさで製品を選ぶ時代は終わりを告げ、AIが主導する新たな時代へと移行すると提言しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-10T08:55:22.811030"
   }
 ]
