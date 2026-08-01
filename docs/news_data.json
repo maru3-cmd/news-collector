@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "薬局チェーンが業務効率化のためにAIを導入したところ遅延・誤った情報提供・プライバシー問題などが発生",
+    "link": "https://gigazine.net/news/20260802-pharmacy-chain-ai/",
+    "summary": "アメリカの薬局チェーン「Kinney Drugs」は、処方箋の問い合わせや薬の再処方受付を効率化するためAIアシスタントを導入しました。しかし、導入後には薬の受け渡し遅延や誤った再処方といった問題が頻発。さらに、患者情報の取り扱いに関するプライバシー問題への懸念も生じ、顧客の不満が高まっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-01T22:43:54.398978"
+  },
+  {
+    "source": "Zenn",
+    "title": "確率的生成器に規範は預けられない — Loopの成果物側に検疫を組む",
+    "link": "https://zenn.dev/cognitiveosmdl/articles/b75bad629b669b",
+    "summary": "記事の内容が提供されていないため、要約を作成することができません。\n\n恐れ入りますが、記事の本文をご提供いただけますでしょうか。本文があれば、3-4文で簡潔に要約し、重要なポイントや数字を含めてお伝えします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-01T22:44:00.499593"
+  },
+  {
+    "source": "Qiita",
+    "title": "APIキーを挿しに行ったら、鍵のほうが要らなくなった ── 眠っていたYouTube一覧ブックをGASで生き返らせた話",
+    "link": "https://qiita.com/shu15511551/items/4963391b416328a9d8ac",
+    "summary": "この記事は、Google ドライブで見つかった自作のExcelマクロ「YouTube動画一覧ブック」について語っています。このブックは、指定したチャンネルの全動画（タイトル、再生回数、長さ、投稿日）をYouTube Data API経由で取得し、41本のマクロと正規表現を駆使して一覧表示する高機能なものでした。しかし、APIキーの取得にクレジットカード登録が必要で「お金の匂い」がすることから、他人に勧められないと判断され、長らく使用されずに眠っていた経緯が説明されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-08-01T22:44:09.864771"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "電子ペーパーに1枚だけ画像を記録できるDIYカメラ「reFrame」",
     "link": "https://gigazine.net/news/20260801-epaper-camera-reframe/",
     "summary": "Googleのエンジニアであるカロヤン・コレフ氏が、電子ペーパー搭載のDIYカメラ「reFrame」を開発しました。\nこのユニークなカメラは、電子ペーパーに画像を1枚だけ記録できるのが特徴です。\nコレフ氏は、「reFrame」の設計情報をオープンソースとして公開しており、誰でも自作できるようにしています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-12T22:37:59.591553"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code でソウルライク風3Dボス戦ゲームを作ってみた（Three.js / Mixamo / サーバー不要）",
-    "link": "https://qiita.com/EitaroSeta/items/1f3b34f92e01225333c5",
-    "summary": "本記事は、筆者がAnthropicのAIコーディングエージェントClaude Code（Claude Fable 5）との対話のみで、Three.jsとMixamoを活用したソウルライク風3Dボス戦ゲーム「HALL OF KINGS」を開発した記録です。\n\nこのゲームは、コーディングからテストまでAIに任せて制作され、サーバーやビルドが不要で、index.htmlをダブルクリックするだけで起動し、スマホにも対応しています。\n\n記事では、最初はワイヤーフレームだったキャラクターがプロモーションで動く「フロム風」の見た目になるまでの制作過程や、AIと共に乗り越えた技術的な壁、数々の失敗談が詳細に綴られています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-12T22:38:09.499541"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AppleがOpenAIを企業秘密侵害で提訴",
-    "link": "https://gigazine.net/news/20260712-apple-sues-openai/",
-    "summary": "Appleは、OpenAIと、同社のハードウェア最高責任者タン・タン氏、従業員チャン・リュウ氏を企業秘密侵害で提訴しました。Appleは、OpenAIが「ハードウェア開発に必要な情報」を含む自社の知的財産を盗んだと主張しています。この訴訟は、技術分野における企業秘密保護の重要性を浮き彫りにするものです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-12T07:53:22.910362"
-  },
-  {
-    "source": "Zenn",
-    "title": "【会話するオンチェーンFX】Sera Protocol API × Privyで安全なTelegram Botを作ってみた",
-    "link": "https://zenn.dev/mashharuki/articles/web3_sera_protocol-8",
-    "summary": "Sera Protocol APIとPrivyの技術を活用し、Telegram上で操作できる「会話する」オンチェーンFXボットが開発されました。このボットは、分散型金融（DeFi）における外国為替取引を対象としています。Sera Protocol APIがFX機能を提供し、Privyによってユーザーの安全性が確保されています。これにより、ユーザーはTelegram上で安全かつ直感的にオンチェーンFX取引を行うことが可能になります。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-07-12T07:53:31.336457"
   }
 ]
