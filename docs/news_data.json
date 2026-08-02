@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "SBOMの最小要素が5年ぶり改訂　何が必須になるのか",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news018.html",
+    "summary": "CISA（米国のサイバーセキュリティ・インフラセキュリティ庁）は、ソフトウェア部品表（SBOM）の最小要素に関する改訂版を公開しました。これは5年ぶりの改訂で、2021年に定められた既存の要件を置き換えるものです。この変更により、ソフトウェアを調達・運用する企業は、取引先に求めるSBOMの内容について新たな基準を適用することになります。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-08-02T22:44:41.564912"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "潜水艦が初めて地球一周を達成した「サンドブラスト作戦」とは？",
+    "link": "https://gigazine.net/news/20260803-operation-sandblast/",
+    "summary": "1960年、アメリカ海軍の原子力潜水艦「トライトン(USS Triton)」は、「サンドブラスト作戦」として知られる画期的なミッションを実施しました。この作戦は、潜水艦が世界で初めて地球を完全に水中航行で一周するという偉業を達成しました。これは潜水艦戦の歴史において、極めて重要なマイルストーンとして記憶されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-02T22:44:48.368509"
+  },
+  {
+    "source": "Zenn",
+    "title": "確認プロンプトを減らしたら、安全になった。Claude Code の auto モードとサンドボックスを1か月運用した設計",
+    "link": "https://zenn.dev/rapls/articles/60ec866663ddbd",
+    "summary": "この記事は、Claude Code の運用において、確認プロンプトを減らす設計が安全性の向上に寄与したことを報告しています。具体的には、auto モードとサンドボックスという新しい設計を導入し、1ヶ月間運用した結果、この効果が確認されました。ユーザーへの頻繁な確認を減らしつつも、内部的な安全機構の強化によって全体のセキュリティレベルが向上した点が重要なポイントです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-02T22:44:55.878673"
+  },
+  {
+    "source": "Qiita",
+    "title": "レコメンド技術の進化を俯瞰する",
+    "link": "https://qiita.com/obx_y_ueno/items/f36088400bb53440c7f8",
+    "summary": "本記事は、パーソナライズされた体験とビジネス成果に不可欠なレコメンド技術の約25年にわたる進化を俯瞰します。レコメンド技術は、古典的な手法からDeep Learning、Transformer、そしてLLM（大規模言語モデル）を活用した最先端のアプローチへと変遷してきました。2025年時点の主要なアルゴリズムやその実装アプローチを解説することで、技術の包括的な理解を深めることを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-02T22:45:02.806082"
+  },
+  {
     "source": "GIGAZINE",
     "title": "ほくろを3Dマッピングして病変発見に役立てるロボットカメラ「OpenDerm」",
     "link": "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-13T22:44:38.500799"
-  },
-  {
-    "source": "ITmedia",
-    "title": "人に残る「クリエイティブな仕事」とは？　Adobeの“人×AI”の取り組みから探る",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news061.html",
-    "summary": "生成AIが広告制作などのクリエイティブ業務で広範囲に利用され、一部でクリエイターの仕事が奪われる事態が発生しています。Adobeは「AIが全てを決める世界を目指しているのではない」と明言し、人とAIが共存するクリエイティブの未来を模索しています。この記事は、Adobeの新たな取り組みを通して、AI時代におけるクリエイティブ業務における人とAIの最適な関係性を考察することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-13T08:40:19.968876"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
-    "link": "https://gigazine.net/news/20260713-neo-hands/",
-    "summary": "1X Technologiesは、人型家事ロボット「NEO」向けに、新型ハンド「NEO's Hands」を発表しました。このハンドは25自由度(DOF)を備え、人間の腱のように自在に駆動する特徴を持ちます。NEO's Handsの導入により、「NEO」は人間とほぼ同等の器用さ、力強さ、安全性、信頼性を実現することを目指しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-13T08:40:27.367494"
-  },
-  {
-    "source": "Zenn",
-    "title": "Spring Boot で Claude の応答を JSON で受けてカテゴリ分類する",
-    "link": "https://zenn.dev/propagandist/articles/0018-spring-boot-claude-structured-output",
-    "summary": "この記事は、Spring Bootアプリケーションにおいて、Anthropic社のAIモデルであるClaudeからの応答を効果的に処理する方法について解説しています。特に、Claudeが生成する応答をJSON形式で受け取り、これを適切に解析する手順が示されています。最終的な目的は、このJSONデータに含まれる情報を基に、コンテンツを特定のカテゴリに分類することにあります。これにより、AIの応答を活用した自動分類システムを構築する手法が紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-13T08:40:34.461309"
-  },
-  {
-    "source": "Qiita",
-    "title": "Chrome拡張を個人開発してWeb Storeに公開するまで｜英語メールに30分溶かしていた非エンジニアの話【デモ動画付き】",
-    "link": "https://qiita.com/zhonglin9894/items/1c551f860af8f0d07356",
-    "summary": "非エンジニアの個人開発者が、海外向けサービスで英語メール作成に1通あたり30分以上かかる非効率性に悩んでいました。この課題を解決するため、選択したテキストを`Alt+Q`で自然な英語に書き直せるChrome拡張機能「NativeProse」を自作。同拡張機能は現在Chrome Web Storeで公開されており、同様の悩みを持つ人々やChrome拡張開発に興味がある人々の参考となることを目指しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-07-13T08:40:42.777801"
   }
 ]
