@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "ほくろを3Dマッピングして病変発見に役立てるロボットカメラ「OpenDerm」",
+    "link": "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/",
+    "summary": "皮膚がんの早期発見には、ほくろの変化を定期的に観察する方法が注目されています。ロボットカメラ「OpenDerm」は、設計図やソフトウェアが公開されているオープンソースの3D肌マッピングシステムです。このシステムは、カメラで肌の写真を自動撮影し、肌の経時変化を観察することで病変の発見に貢献します。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-02T07:58:49.078213"
+  },
+  {
+    "source": "Zenn",
+    "title": "Graph Engineeringとは何か――AIエージェントを「会話」から「実行可能な設計図」へ",
+    "link": "https://zenn.dev/acrosstudioblog/articles/e983127c19594e",
+    "summary": "提供されたタイトルから判断すると、この記事は「Graph Engineeringとは何か」を主題としています。これは、AIエージェントが単なる「会話」を通じて情報交換する段階から、より具体的で直接利用可能な「実行可能な設計図」を生成できるようになる技術を指します。Graph Engineeringにより、AIは対話に留まらず、システムの設計や具体的なタスク実行のための構造化されたアウトプットを自律的に生み出すことが期待されます。これにより、AIエージェントの能力と実用性が飛躍的に向上する可能性を秘めていると推測されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-02T07:58:59.776568"
+  },
+  {
+    "source": "Qiita",
+    "title": "Pythonで〇×ゲームのAIを一から作成する　その239　強化学習としての原始モンテカルロ法とプレイアウトに関するプログラムの修正",
+    "link": "https://qiita.com/ysgeso/items/465e87467cff526f54ff",
+    "summary": "この記事は、Pythonで〇×ゲームのAIを一から作成する連載の239回目にあたり、強化学習の一種である原始モンテカルロ法とプレイアウトに関するプログラムの修正について解説しています。プログラムはPython 3.13とnumpy 2.3.5で実行されており、`marubatsu.py`でゲームクラスを、`ai.py`でAI関連の関数を定義しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-02T07:59:08.861110"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "薬局チェーンが業務効率化のためにAIを導入したところ遅延・誤った情報提供・プライバシー問題などが発生",
     "link": "https://gigazine.net/news/20260802-pharmacy-chain-ai/",
     "summary": "アメリカの薬局チェーン「Kinney Drugs」は、処方箋の問い合わせや薬の再処方受付を効率化するためAIアシスタントを導入しました。しかし、導入後には薬の受け渡し遅延や誤った再処方といった問題が頻発。さらに、患者情報の取り扱いに関するプライバシー問題への懸念も生じ、顧客の不満が高まっています。",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-07-13T08:40:42.777801"
-  },
-  {
-    "source": "ITmedia",
-    "title": "日本のAIエージェント自律稼働は世界最多　でも「心理的安全性」は世界最下位",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news023.html",
-    "summary": "KnowBe4の国際調査によると、自律的に稼働するAIエージェントの業務への組み込みが最も進んでいるのは日本企業であり、この分野で世界をリードしています。しかし、このAI活用の先進性とは対照的に、日本は同じ調査で職場の「心理的安全性」が世界最下位であることが明らかになりました。これは、テクノロジー導入の進捗と従業員の働きやすい環境の間にギャップがあることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-12T22:37:45.820321"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ軍参謀本部の少佐が主張",
-    "link": "https://gigazine.net/news/20260713-armys-logistics-break-next-war/",
-    "summary": "アメリカ統合参謀本部のジョナサン・バックランド少佐は、アメリカ軍が次の戦争に参戦する際、「兵站」が崩壊する可能性があると警告しています。兵站とは、前線への物資補給や兵員の補充といった重要な活動を指します。少佐は、この兵站の機能不全が軍事作戦に深刻な影響を与えるとして、早急な方針転換が必要だと主張しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-12T22:37:52.650410"
-  },
-  {
-    "source": "Zenn",
-    "title": "【2026/6/30】Claude Sonnet 5リリース — 1Mコンテキスト標準化・temperature廃止・実質3割の値上げも",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-sonnet-5-release-2026-07",
-    "summary": "2026年6月30日にClaude Sonnet 5がリリースされます。\nこの新バージョンでは、1Mコンテキストが標準化されるとともに、temperature設定が廃止されます。\nしかし、これらの変更に伴い、サービス料金は実質的に3割の値上げとなる見込みです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-12T22:37:59.591553"
   }
 ]
