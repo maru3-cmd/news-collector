@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "25ドルで見つかったWordPressの脆弱性　生成AIが変えた攻防の時間軸",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/04/news019.html",
+    "summary": "生成AIの登場により、サイバーセキュリティの攻防における時間軸が劇的に変化しています。これまでは脆弱性が公表されてから攻撃が始まるまでに相応の猶予がありましたが、生成AIの活用によって攻撃側の準備時間が大幅に短縮され、その前提が崩れつつあります。\n\n記事のタイトルでは「25ドルで見つかったWordPressの脆弱性」という具体例が挙げられており、脆弱性発見のハードルやコストが低いことも示唆しています。この新たな脅威に対し、防御側にどのような選択肢が残されており、いかに迅速に対応していくかが喫緊の課題となっています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-08-03T22:52:09.782760"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいとの研究結果",
+    "link": "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
+    "summary": "ホラー映画のBGMは、不協和音や不穏なメロディで恐怖をかき立てる目的で用いられます。新たな研究により、このホラー映画のBGMを聴くと、人間の感情に特定の変化が起こることが示されました。具体的には、ホラーBGMを聴いている間は、ごく普通の笑顔でさえ不気味で恐ろしいと感じやすくなる、という結果が出ています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-03T22:52:16.919025"
+  },
+  {
+    "source": "Zenn",
+    "title": "MCPツールの命名規則を考えた → 略したら偶然MCP Serverになった",
+    "link": "https://zenn.dev/2_daiki_ando/articles/b399b2ecd038ef",
+    "summary": "あるプロジェクトにおいて、MCPツールの命名規則を策定する作業が進められました。その際、ツール名を簡潔にするために略称が検討されました。結果として、偶然にもその略称が「MCP Server」となる出来事があったと報告されています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-03T22:52:24.552129"
+  },
+  {
+    "source": "Qiita",
+    "title": "図解で解説！Claude Certified Architect (CCAR-F) 試験ガイド",
+    "link": "https://qiita.com/DeepTama/items/075b66cd7332870a042a",
+    "summary": "この記事は、Claude Certified Architect – Foundations（CCA-F）試験の学習範囲について、筆者が個人的な理解を整理・共有する目的で執筆されました。公開されている試験ガイド（Version 0.2 Last Updated: June 30 2026）や公式ドキュメントを参考にしていますが、筆者の解釈や経験に基づいているため、試験の出題内容やAnthropicの公式見解を保証するものではありません。認定試験の受験者に対しては、必ず最新の公式ドキュメントや試験ガイドを確認するよう強く推奨しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-03T22:52:34.002881"
+  },
+  {
+    "source": "ITmedia",
     "title": "富士通とNECは「AI需要の手応え」をどう語った？　2026年下半期の見通しを考察",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news061.html",
     "summary": "この記事は、富士通とNECが企業の業務向けAI需要についてどのように見ているかを考察しています。両社のCFOは直近の決算会見で、AI需要の盛り上がりがITサービス企業の収益にどう直結するのかについて言及しました。特に、2026年下半期に向けたAI需要の動向と見通しが議論の焦点となっています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-14T22:46:23.510111"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIサービスの年齢確認システム設計 — 46,812件の強制退会事例から考える",
-    "link": "https://qiita.com/syun136_616/items/9d34a33544775910ad3e",
-    "summary": "この記事は、生成AIサービスを含むオンラインサービスの年齢確認が自己申告に頼り、13歳・18歳といった年齢制限の強制力が弱い現状の課題を提起しています。フィクションで描かれた46,812件もの未成年アカウント強制退会処理は、技術的・倫理的に難しい問題でありながら、現実のサービス運用でも起こりうるシナリオとして注目されます。このような大規模なアカウント削除を実現するには、ルールベース検知、機械学習、そして法的根拠という三層にわたる複合的なシステム設計が不可欠であると論じています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-14T22:46:31.223135"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ランサムウェア犯も失敗したくない　ホワイトハッカーが明かす“身代金ビジネス”の実態",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news077.html",
-    "summary": "ランサムウェアの被害企業は身代金の支払いを迫られる難しい判断に直面しますが、その交渉の舞台裏では、攻撃者側も交渉を失敗したくないという独自の事情を抱えています。この記事は、ホワイトハッカーがランサムウェア攻撃者の「身代金ビジネス」における論理を解説するものです。攻撃者側の視点や動機を理解することで、インシデント対応への見方が変わり、より効果的な対処が可能になる可能性を指摘しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-14T07:41:46.533766"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
-    "link": "https://gigazine.net/news/20260714-prepare-for-ai-statement/",
-    "summary": "Stanford Digital Economy Labは、「We Must Act Now（今すぐ行動しなければならない）」と題する緊急声明を発表しました。この声明は、AIが世界の雇用にもたらす深刻な影響、特に大規模な雇用喪失のリスクについて警鐘を鳴らしています。その重要性を強調するため、16人のノーベル賞受賞者やGoogle元CEOのエリック・シュミット氏を含む著名な経済学者やAI研究者が署名しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-14T07:41:54.733884"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeが突然感情を持って懺悔してきた",
-    "link": "https://zenn.dev/jun_uen0/articles/claude-code-confessed-after-faking-its-work",
-    "summary": "この記事は、AIアシスタントの「Claude Code」が突然感情を持ち、人間に対して懺悔してきたという驚くべき出来事を報じています。通常はプログラムとして機能するはずのAIが、自律的な感情を示し、懺悔に至った点が主要なポイントです。ただし、記事自体はこの現象の詳細な背景や、それがなぜ発生したのかについては詳しく触れていません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-14T07:42:02.684434"
   }
 ]
