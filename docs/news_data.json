@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "VMware製品にCVSS 9.8の脆弱性、回避策なし　速やかなアップデートを推奨",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news036.html",
+    "summary": "Broadcomは、VMware製品群で確認された5件の脆弱性を修正しました。特にvCenterには、認証回避や任意コード実行につながるCVSS 9.8の最高深刻度を持つ欠陥が存在します。これらの脆弱性に対する回避策は提供されておらず、システムを保護するためには速やかなパッチ適用によるアップデートが強く推奨されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-08-05T08:11:09.628941"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」",
+    "link": "https://gigazine.net/news/20260805-apple-openai/",
+    "summary": "Appleは、OpenAIに転職した元社員らが機密情報を盗み出したとしてOpenAIを提訴しました。これに対しOpenAIは、Appleの主張には誤りがあるとの反論声明を発表しています。OpenAIは、もしAppleが提訴する前に相談してくれていれば、彼らの懸念に対して喜んで全て説明しただろうと述べています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-05T08:11:17.421079"
+  },
+  {
+    "source": "Zenn",
+    "title": "読みやすいようで読みにくい、生成AIの設計書をマシにできたプロンプト",
+    "link": "https://zenn.dev/miyachan2/articles/f5e8bd8e4e3de0",
+    "summary": "生成AIの設計書は、一見読みやすいように見えても実際には理解が難しいという課題を抱えています。この記事は、この問題に対処するため、特定のプロンプトを導入した経験について述べています。そのプロンプトを活用することで、生成AIの設計書をより分かりやすく、実用的なものへと改善することができたと報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-05T08:11:25.458212"
+  },
+  {
+    "source": "Qiita",
+    "title": "【初心者向け】AIや最新ITは「意外な現場」でどう使われている？身近な現場から学ぶテクノロジーの現在地",
+    "link": "https://qiita.com/chuandujiusi/items/ed29840d3820ebb12e89",
+    "summary": "本記事は、最先端のAIやIT技術が、IT企業だけでなくホテルや製造業など「身近でアナログに見える現場」で広く活用されている現状を解説しています。これらの技術導入の主な目的は、人手不足の解消や顧客体験（UX）の向上といった具体的な課題解決にあります。例えばホスピタリティ業界では、24時間多言語対応のAIコンシェルジュが導入され、おもてなしの裏側を支えることで急速なIT化が進んでいます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-05T08:11:34.437279"
+  },
+  {
+    "source": "ITmedia",
     "title": "脆弱性の物量に圧倒される前に　地殻変動の中だからこそ押さえておきたい3つの対策",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news007.html",
     "summary": "フロンティアAIの登場により、検出される脆弱性の量が急増し、企業は対応に苦慮しています。全てをひとまとめに対処しようとすると、その物量に圧倒され、限られた人員では対応が滞るリスクがあります。\n\nこのような地殻変動とも言える状況下で、効率的に対策を進めるためには、どの観点から脆弱性対応を切り分け、優先順位を付けていくべきかが重要な課題となっています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-16T07:50:42.092657"
-  },
-  {
-    "source": "Qiita",
-    "title": "Pull Request中心の開発サイクルにAIコードレビューを導入する",
-    "link": "https://qiita.com/aqwas/items/ecc2110015af6833c97c",
-    "summary": "GitHubを用いたチーム開発では、Pull Request（PR）を中心とした開発サイクルが一般的で、コードレビューや自動テストなどの多くのメリットを提供します。近年では、GitHub Copilotのような生成AIを活用し、PRに対する自動コードレビューを導入できるようになっています。本記事は、PR開発サイクルやGitHubの設定ルールに加え、AIコードレビューの導入方法、安全な運用ポイント、そして段階的な導入戦略について解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-16T07:50:49.677927"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Fable 5とGPT-5.6を3社課金の記者が比べたら、賢さでは勝敗をつけられなかった",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news033.html",
-    "summary": "3つの主要AI（ChatGPT、Claude、Gemini）に課金する記者が、不備のある条件を含むタスクを投げかけました。これにより、指示通りに失敗するAIと、黙って問題を修正するAIという、異なる「性格」が浮かび上がりました。3つのタスクを通じてAIの特性が明らかになったものの、賢さにおいては明確な優劣はつけられなかったとしています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-15T22:48:44.529925"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など有名な小説の冒頭部分がランダムで表示される「Verba Prima」",
-    "link": "https://gigazine.net/news/20260716-verba-prima-famous-literary-works-opening/",
-    "summary": "「Verba Prima」は、SNSで話題になることが多い「印象に残った小説の冒頭」というテーマに応えるシンプルなウェブサイトです。このサイトでは、『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など、有名な文学作品の冒頭部分がランダムに表示されます。ユーザーは気軽に様々な名作の書き出しを楽しむことができます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-15T22:48:53.714574"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude CodeでおなじみのAgent Skills、Microsoft Agent Frameworkで正式版になった",
-    "link": "https://zenn.dev/kazu_aiengineer/articles/agent-framework-skills-stable",
-    "summary": "Claude Codeで広く知られていた「Agent Skills」が、Microsoft Agent Frameworkの一部として正式にリリースされました。これにより、これまでClaudeの環境で利用されていた強力なエージェント機能が、Microsoftのプラットフォーム上でも活用できるようになります。この「正式版」としての登場は、当該機能の安定性と広範な利用可能性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-15T22:49:06.184578"
   }
 ]
