@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「三國志 覇道」が生成AIで実現したリアルタイム異言語交流　ゲーム性を損なわないシステム設計の工夫",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news021.html",
+    "summary": "コーエーテクモゲームスは、MMO戦略シミュレーションゲーム「三國志 覇道」に、Amazon Bedrockを活用したリアルタイムチャット翻訳機能を実装しました。これは、多言語展開されたゲームで母語の異なるユーザー間の交流を促進し、サービスに新たな熱量を生み出すのが目的です。開発チームは、ゲーム性を損なわないシステム設計に工夫を凝らし、スムーズなコミュニケーションを実現しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-05T22:48:29.993527"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？",
+    "link": "https://gigazine.net/news/20260806-mow-a-lawn-better/",
+    "summary": "ウェブメディア「The Pudding」は、芝刈りを模した経路選択ゲームを開発しました。このゲームには3万人以上が参加し、彼らの移動経路や停止時間などのデータが記録・分析されました。その結果、効率的に芝を刈る最適解を見つけられた人とそうでない人との間に、行動パターンの明確な違いがあることが判明しました。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-08-05T22:48:36.333981"
+  },
+  {
+    "source": "Zenn",
+    "title": "器が来た日 — 7,126円の体に、AIの相棒を入れる（2/9）",
+    "link": "https://zenn.dev/answer_philo/articles/kodama-02-the-day-it-arrived",
+    "summary": "「器が来た日」というタイトルのこの記事は、筆者の元に届いた7,126円の「器」について述べています。この「器」は、AI（人工知能）を導入し、それを「相棒」として機能させるための物理的な土台となるものです。具体的に7,126円という価格が提示されており、AIとの新たな関係構築に向けた準備の始まりを描いています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-05T22:48:45.041887"
+  },
+  {
+    "source": "Qiita",
+    "title": "Lean 4 とは何か ── AI が数学オリンピックに挑み、フェルマーの最終定理がコードに書き写される時代の主役言語",
+    "link": "https://qiita.com/etale_cohomology/items/4af4df8d002b5c68b5a7",
+    "summary": "2024年夏、Google DeepMindのAI「AlphaProof」が国際数学オリンピック（IMO）で銀メダル相当の成績を収めましたが、その答案は「Lean 4」というプログラミング言語で書かれました。\n\nLean 4は、人間の言葉と数式による数学の証明を、機械が一行ずつ検査できるプログラミングコードへ翻訳する「形式化」の主役言語です。この形式化は現在、数学研究の最前線で研究者の仕事道具となりつつあります。\n\nAIの数学オリンピック挑戦やフェルマーの最終定理のコード化に見られるように、Lean 4は数学とAIの進化における重要な役割を担っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-05T22:48:53.407326"
+  },
+  {
+    "source": "ITmedia",
     "title": "VMware製品にCVSS 9.8の脆弱性、回避策なし　速やかなアップデートを推奨",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news036.html",
     "summary": "Broadcomは、VMware製品群で確認された5件の脆弱性を修正しました。特にvCenterには、認証回避や任意コード実行につながるCVSS 9.8の最高深刻度を持つ欠陥が存在します。これらの脆弱性に対する回避策は提供されておらず、システムを保護するためには速やかなパッチ適用によるアップデートが強く推奨されています。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-07-16T22:48:59.460840"
-  },
-  {
-    "source": "Qiita",
-    "title": "LLMの次に来るのはこれ。「ワールドモデル」を今のうちに理解する",
-    "link": "https://qiita.com/daisuke-nagata/items/858651df3fa3a6071766",
-    "summary": "現在のLLMは言語処理に長ける一方で、物理世界での出来事を「言葉」として知るだけで、頭の中で視覚的に「見ている」わけではありません。このギャップを埋めるのが「ワールドモデル」であり、これはAIが頭の中に「世界のシミュレータ」を持つことを指します。\n\nLLMが次に続く単語を予測するのに対し、ワールドモデルは次に起きる「世界の状態」を予測します。これにより、AIは自身の行動が世界にどのような変化をもたらすかを内部でシミュレーションし、人間が当たり前に持つ「先を予見する内なる映像」を再現することを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-16T22:49:06.788542"
-  },
-  {
-    "source": "ITmedia",
-    "title": "読者289人が選んだ「2026年に取りたいIT資格」とAI時代の学び直し",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news030.html",
-    "summary": "読者289人への調査で、「2026年に取りたいIT資格」として基本情報や応用情報といった国家資格を抑え、ベンダー認定資格が上位に選ばれました。これは、AIがコーディングを担う時代において、エンジニアにはより実践的で専門性の高い知識が求められているトレンドを示唆しています。記事では、この調査結果を基にAI時代のエンジニアの学び直しについて考察しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-16T07:50:24.325931"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
-    "link": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
-    "summary": "Puter Labsは、ウェブブラウザのタブ内でMozilla Firefox全体を起動できる「Firefox in WebAssembly」を公開しました。これは外観だけでなく、レンダリングエンジンのGeckoやJavaScriptエンジンのSpiderMonkeyもWebAssembly上で動作するという画期的な技術です。この開発にはAIが大量に用いられ、トークンの使用料は2万5000ドル（約400万円）以上に相当したとのことです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-16T07:50:31.617563"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIに毎回コンテキストを渡すworkspaceテンプレートを作った",
-    "link": "https://zenn.dev/lnest_knowledge/articles/cc0a11567155fe",
-    "summary": "提供されたタイトル「AIに毎回コンテキストを渡すworkspaceテンプレートを作った」のみを基に要約します。\n\nこの記事は、AIとの対話において、以前のやり取りや関連情報（コンテキスト）を毎回自動的に引き渡すための「workspaceテンプレート」を開発したことを報告しています。筆者はこのテンプレートを通じて、AIが常に状況を認識し、より一貫性のある高精度な応答を生成できるようにすることを目指しています。これにより、AIの活用効率が向上し、ユーザーはよりスムーズにAIとの共同作業を進められるようになると推測されます。具体的な機能や使用ツールに関する詳細は本文に記述されていると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-16T07:50:42.092657"
   }
 ]
