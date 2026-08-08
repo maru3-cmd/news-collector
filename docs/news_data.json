@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "Xが「クリエイター収益分配」を終了し「オリジナルコンテンツ報酬プログラム」開始へ",
+    "link": "https://gigazine.net/news/20260808-x-original-content-rewards-program/",
+    "summary": "Xは、2023年7月から提供してきた「クリエイター収益分配」プログラムを終了し、新たに「オリジナルコンテンツ報酬プログラム」を開始することを発表しました。すでに旧プログラムへの新規登録は停止されており、既存の参加者が収益を獲得できる最終日は2026年9月7日に設定されています。この変更は、Xにおけるクリエイターの収益化戦略が再編されることを意味します。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-08-08T06:29:20.114689"
+  },
+  {
+    "source": "Zenn",
+    "title": "祭りは観測できるのか　　OpenTelemetryから考える、地域の暗黙知とAIの役割🏮",
+    "link": "https://zenn.dev/pomodoro_naomi/articles/745ae9a79bbe57",
+    "summary": "この記事は、「祭り」のような複雑な文化的現象を「観測可能」なものとして捉えられるかという問いに対し、IT分野の監視技術であるOpenTelemetryの概念を適用して考察しています。特に、祭りに深く根差した地域の「暗黙知」をいかに抽出し、デジタルデータとして扱うかが重要な論点となります。AIは、これらの複雑な暗黙知を分析・理解し、祭りの本質や継承に貢献する上で中心的な役割を果たす可能性が提示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-08T06:29:28.465799"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代でも、Goは「動いた」で終わらせないほうがいい話",
+    "link": "https://qiita.com/Sakaaaaai/items/4a9b31bf4f474a93a9bb",
+    "summary": "AIの進化によりGoコードの生成精度は向上し、CLIやWeb APIなどのひな形を非常に速く作れるようになりました。しかし、単に「動くコード」を書けることと、「壊れにくいコード」を育てられることは別であると筆者は指摘します。Goは文法がシンプルなため概念の誤解が事故につながりやすく、AI時代だからこそ、`slice`、`interface`、`context`、`error`などの根幹概念を深く理解することが不可欠だと、この記事は主張しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-08T06:29:36.095334"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた",
     "link": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/",
     "summary": "Nintendo Switchおよび将来のNintendo Switch 2はLPCM 5.1に対応しており、一部タイトルでは5.1chサラウンド音声でのプレイが可能です。この記事では、この高品質な5.1chサラウンド音声をそのまま動画として録画する方法を探していました。その結果、Blackmagic Designの業務用キャプチャーボード「UltraStudio Express Recorder 3G」がこの機能に対応していることがわかり、実際にその性能を試したと報告しています。",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-07-18T22:38:27.262905"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Appleが日本でiPhone・Apple Music・Apple Oneに続きiCloud＋も値上げ",
-    "link": "https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/",
-    "summary": "Appleは、日本を含む8カ国でクラウドストレージサービス「iCloud＋」の値上げを実施しました。この値上げは、同社が日本で過去に実施したiPhone、Apple Music、Apple Oneといった他のサービスの価格改定に続くものです。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-07-18T22:38:38.345135"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIの出力が期待とズレる理由、自然言語での形式指定が効かない原理と防ぐ運用",
-    "link": "https://zenn.dev/every_ai_recipe/articles/ai-output-format-mismatch-3-tips",
-    "summary": "AIの出力が期待と異なる、特に自然言語による厳密な形式指定が機能しにくいという課題があります。これは、AIが自然言語の指示を人間のように絶対的な命令としてではなく、統計的な関連性に基づいて解釈するため、指定された形式を無視したり、意図しない情報を含んだりすることが原因です。\n\nこの問題を避けるためには、プロンプトを曖トルと具体的に記述し、制約条件を明確に示すことや、出力例を併記するなどの工夫が重要です。AIの特性を理解し、プロンプトを改善することで、より期待に沿った出力を得られる運用を目指すべきです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-18T22:38:47.589769"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.214｜permission チェックの穴が一斉に塞がる｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/6c6646ec2759b63216c5",
-    "summary": "Claude Codeのv2.1.214リリースでは、主にpermissionチェックのバグ修正と悪用対策が強化されました。これまで`Edit(src/**)`のようなallowルールがツリー内の任意の`src/`への書き込みを自動承認していた問題が修正され、より厳密な承認プロンプトが表示されるようになります。また、悪質な利用や脱獄試行に対し、Claude側からセッションを終了できる`EndConversation`ツールが新たに追加されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-18T22:38:54.849173"
   }
 ]
