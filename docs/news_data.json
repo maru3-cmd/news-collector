@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた",
+    "link": "https://gigazine.net/news/20260808-scanwatch-vitals/",
+    "summary": "フランスのスマートデバイスメーカーWithingsが提供する「ScanWatch Vitals」は、アナログ腕時計のようなシンプルなデザインが特徴のスマートウォッチです。最大35日間駆動し、睡眠時間や血中酸素濃度を測定できるヘルスケアトラッカー機能を備えています。必要な情報を表示できるディスプレイも内蔵しており、健康管理に役立つ設計となっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-08T22:17:33.123548"
+  },
+  {
+    "source": "Zenn",
+    "title": "SNS運用を4.5ヶ月自動化して1,271投稿した結果と、見つけた7つの構造欠陥",
+    "link": "https://zenn.dev/viralana/articles/sns-automation-4months-data",
+    "summary": "この記事は、SNS運用を4.5ヶ月間自動化し、合計1,271件の投稿を行った結果を詳述しています。その過程で、自動化システムに内在する7つの構造欠陥が特定されたことが主要な発見です。これは、単に投稿数を増やすだけでなく、SNS運用の自動化における具体的な課題と改善点を示唆する報告となっています。",
+    "category": "DX・業務改善",
+    "content_type": "article",
+    "collected_at": "2026-08-08T22:17:40.012224"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest 2026-08-09：Astra は初の Critical 級サイバー能力、Claude Code は自動モードへ、Meta は五冠",
+    "link": "https://qiita.com/lhjjjk4/items/9d10e8bcbe87b6303527",
+    "summary": "2026年8月9日のAIデイリーダイジェストは、主要なAI開発企業における複数の重要な進展を報じています。\n\nまず、OpenAIの次期モデルAstraが、人間なしでゼロデイ脆弱性の発見・攻撃が可能な「Critical（重大）」レベルのサイバー能力を持つ可能性が指摘され、同社初の事例として開発の一部が停止されました。次に、AnthropicのClaude Codeが「自動モード」を導入し、開発環境へのアクセス許可のみでコーディングタスクを自律的に実行する「開発者エージェント」として機能するようになりました。最後に、MetaはVision、Speech、Code、Reasoning、Textの主要5分野で最先端のパフォーマンスを達成し、「五冠」を達成したと報告され、AI研究におけるリーダーシップを強調しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-08T22:17:48.616934"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Xが「クリエイター収益分配」を終了し「オリジナルコンテンツ報酬プログラム」開始へ",
     "link": "https://gigazine.net/news/20260808-x-original-content-rewards-program/",
     "summary": "Xは、2023年7月から提供してきた「クリエイター収益分配」プログラムを終了し、新たに「オリジナルコンテンツ報酬プログラム」を開始することを発表しました。すでに旧プログラムへの新規登録は停止されており、既存の参加者が収益を獲得できる最終日は2026年9月7日に設定されています。この変更は、Xにおけるクリエイターの収益化戦略が再編されることを意味します。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-19T22:41:25.786985"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ",
-    "link": "https://gigazine.net/news/20260719-emacs-in-pop-culture/",
-    "summary": "Emacsは1976年にリリースされて以来、50年近くにわたり更新が続く、古参かつ現役のテキストエディタです。その長い歴史から根強い愛好者が多く、viとの「エディタ戦争」などのミームを生み出してきました。\n\nまた、Emacsは映画やドラマのワンシーンを演出するツールとしても登場することがあり、これを見つけた愛好家を喜ばせています。AWSのソフトウェアエンジニアであるIan Y.E. Pan氏は、自身のブログでEmacsが登場する数々のシーンについて解説しています。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-07-19T07:53:46.543163"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI時代のキャリア戦略　第3回 AIは仕事ではなく「経験」を変える",
-    "link": "https://zenn.dev/jinfuroi/articles/5f6c02b573111b",
-    "summary": "本記事は、AI時代のキャリア戦略において、AIが仕事そのものを奪うのではなく「仕事をする経験」を変革するという視点から考察しています。AIは働き方や仕事から得られる価値を再定義し、新しい経験の創造を促すと考えられます。そのため、AI時代におけるキャリア構築では、AIと協調し、変化する仕事の経験に積極的に適応していくことが鍵となります。具体的な数字は本文に記述されていると推測されますが、タイトルからはこの「経験の変革」が最も重要なポイントとして強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-19T07:53:56.247225"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Meta「Muse Spark 1.1」　新APIで開発者提供、企業のエージェント基盤に",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news105.html",
-    "summary": "Metaは、エージェント業務やPC操作、コーディング、マルチモーダル理解を強化した「Muse Spark 1.1」を公開しました。この新バージョンは、100万トークンもの文脈管理や複数エージェントの統括に対応しています。開発者向けには新設の「Meta Model API」の公開プレビューとして提供され、企業のエージェント基盤としての活用を目指します。Meta AIでも利用可能です。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-07-18T22:38:27.262905"
   }
 ]
