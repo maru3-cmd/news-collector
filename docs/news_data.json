@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」",
+    "link": "https://gigazine.net/news/20260810-chip-tycoon/",
+    "summary": "半導体製造プロセスをアニメーションで視覚化した「Chip Tycoon」が公開されました。これは、ミニチュア工場で動き回る半導体を見ながら、その複雑な製造工程を理解できるツールです。ゲーム風のビジュアルと説明により、半導体がどのように作られるかを簡単かつ視覚的に学ぶことができます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-09T22:19:13.112516"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code を cron で自律稼働させる方法 — DBスケジュールで19エージェントを深夜に自動起動する仕組みをコードで解説",
+    "link": "https://zenn.dev/nakayama_acari/articles/claude-code-scheduler-cron",
+    "summary": "この記事は、Claude CodeをcronとDBスケジュールを組み合わせることで自律稼働させる方法を解説しています。具体的には、DBスケジュールを利用して19のエージェントを深夜に自動起動する仕組みを構築する方法が説明されています。効率的な自動化を実現するための詳細なコード例が提供されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-09T22:19:19.672227"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest 2026-08-10：Claude Code はセッション間メッセージ、ByteDance は 10T モデル、DeepSeek は 5000 億元ラウンド再開",
+    "link": "https://qiita.com/lhjjjk4/items/58639b652345f0fcade0",
+    "summary": "AI分野の最新動向として、AnthropicはClaude Code v2.1.224でCLIセッション間で短いテキストメッセージを送受信できるクロスセッションメッセージング機能を導入しました。一方、ByteDanceはOpenAIやGoogleに対抗すべく、10兆パラメータ規模の基礎モデル「Giant」の開発を進めており、巨額の投資を計画しています。また、DeepSeekは生成AI分野への投資が活発化する中、評価額5000億元（約10兆円）での資金調達ラウンドを再開しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-09T22:19:29.076380"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "メカニカルスイッチを搭載した高級キーボード「HHKB Studio」を使ってみた",
     "link": "https://gigazine.net/news/20260809-hhkb-studio/",
     "summary": "「Happy Hacking Keyboard (HHKB)」は、コンパクト設計と静電容量無接点方式による上質な打鍵感で愛される傑作キーボードです。2023年に登場した「HHKB Studio」は、HHKBのキー配列はそのままに、従来の静電容量無接点方式ではなくメカニカルキースイッチを搭載した新世代モデルとして注目を集めています。この記事では、GIGAZINEのプレゼント企画景品として提供されたHHKB Studioの外観や打ち心地が詳しくレビューされています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-20T22:45:58.063114"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ナンバー検知のミスで盗難車の誤検知が大量発生しロス市警がシステム開発企業との契約を終了、試乗レビュー中に盗難車と間違えられる事態も",
-    "link": "https://gigazine.net/news/20260720-automatic-license-plate-reader-system/",
-    "summary": "ロサンゼルス市警察は、盗難車の誤検知が大量発生したことを理由に、Flock Safety社が提供するナンバープレート自動読みとりシステム(ALPR)との契約を終了しました。このシステムは、試乗レビュー中の車まで盗難車と誤認する事態を引き起こしていました。アメリカ各地に配備されているこのALPRシステムの信頼性について、大きな懸念が示されています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-07-20T08:32:40.118763"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI生成物をチェックせずに人に見せることは非難されるべきか",
-    "link": "https://zenn.dev/shotaro_tsuji/articles/0b27e9d89d4618",
-    "summary": "提示された記事は、「AI生成物をチェックせずに人に見せることは非難されるべきか」という重要な問いを提起しています。この問いは、AIが生成するコンテンツの信頼性、正確性、および潜在的な誤情報や偏見のリスクに関する倫理的議論の必要性を示唆しています。AIの利用者がその出力に対して負うべき責任と、情報を受け取る側が期待する信頼性との間のバランスが、現代社会において課題となっています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-20T08:32:49.523907"
-  },
-  {
-    "source": "Qiita",
-    "title": "そのSKILL.md、別のスキルと発火が被ってない？ 衝突と壊れた参照をCIで落とすリンタを作った",
-    "link": "https://qiita.com/maronsan611/items/2f7e75db76cfee35e646",
-    "summary": "ClaudeのAgent Skills（`SKILL.md`）が増加すると、参照の腐敗（リネームされたファイルパスへの未更新の参照）と、似た説明文によるスキル間の発火の被りという二つの問題が静かに発生し、エージェントの誤動作を引き起こすことが指摘されています。\nこれらの課題を解決するため、筆者はPR段階でCI（継続的インテグレーション）上で機械的にチェックし、壊れた参照やトリガーの衝突を検出する`skills-lint`というリンターツールを開発しました。\nトリガーの衝突検出を行う先行ツールは存在するものの、`skills-lint`は両方の問題を包括的に自動検知し、未然に事故を防ぐことを目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-20T08:33:02.602899"
   }
 ]
