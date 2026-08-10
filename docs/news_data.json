@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能",
+    "link": "https://gigazine.net/news/20260810-steam-machine-pc/",
+    "summary": "Steam公式ゲーミングPC「Steam Machine」は、Steamを運営するValveが開発したLinuxベースの「Steam OS」を搭載しています。このマシンはゲームプレイだけでなく、デスクトップモードに切り替えることで、文書作成やGIMP、FirefoxといったLinuxアプリを用いた画像編集などのPC作業も可能です。本記事では、そのデスクトップPCとしての使い心地を検証するため、アプリのインストールやベンチマークテストが実施されました。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-08-10T22:26:23.211896"
+  },
+  {
+    "source": "Zenn",
+    "title": "売上表のラベルを段階的に省略すると、LLMはどこで列を取り違えるか",
+    "link": "https://zenn.dev/every_ai_recipe/articles/sales-table-label-omission-limit",
+    "summary": "この研究は、売上表のような表形式データにおけるLLMの課題に焦点を当てています。具体的には、表の列ラベルを段階的に省略していくと、LLMがいつ、そしてどのように列の情報を誤って認識し始めるかを検証します。\n\n重要なポイントは、ラベルの欠如がLLMのデータ理解に与える影響の度合い、特にデータと対応する列の誤識別の具体的な発生箇所を明らかにすることです。これにより、LLMが表データ処理で信頼性を失う閾値やパターンが特定されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-10T22:26:33.443157"
+  },
+  {
+    "source": "Qiita",
+    "title": "法務省検討会が「声」の法的保護を整理。AI音声カバーと物まねの線引きを報告書から読む",
+    "link": "https://qiita.com/quotidia/items/e0125fe881e5cb6c8938",
+    "summary": "法務省の検討会は、人の「声」の法的保護に関する報告書「生成AIによるパブリシティ権侵害等に関する解釈指針」を2026年8月7日に公表しました。この報告書は、「声」が主に著名人の顧客吸引力を保護するパブリシティ権と、顧客吸引力を問わず適用される人格権由来の「みだりに利用されない権利」の両方で保護されうると整理しています。具体例として、AI音声カバーをSNSで公開・収益化する行為はパブリシティ権侵害等になりうると指摘されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-10T22:26:42.230790"
+  },
+  {
     "source": "ITmedia",
     "title": "“脱モノ売り”のリコー　同社が説く「営業AXの勘所」とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news066.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-07-21T08:02:33.287627"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AppleのApp Store上に「ブラジルのIPアドレスからアクセスするとギャンブルアプリに変身する偽装アプリ」が60個以上あることが調査で発覚",
-    "link": "https://gigazine.net/news/20260721-disguised-gambling-apps-app-store-brazil/",
-    "summary": "Apple関連メディア9to5Macの調査により、App Store上にブラジルのIPアドレスからアクセスするとギャンブルアプリに変身する偽装アプリが60個以上存在することが明らかになりました。これらのアプリは巧妙な手口で規制を回避しており、数十種類のアプリが規制されないまま配信され続けています。この状況は、AppleのApp Storeにおけるアプリ審査体制の不備を浮き彫りにしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-21T08:02:41.594308"
-  },
-  {
-    "source": "Zenn",
-    "title": "主要AI企業5社の違いがわかる徹底ガイド｜OpenAI・Anthropic・Google・Microsoft・NVIDIA【2026年版】",
-    "link": "https://zenn.dev/mameresearcher/articles/ai-openai-anthropic-google-microsoft-20260707",
-    "summary": "提供されたタイトルから判断すると、このガイド記事は2026年を展望し、主要なAI企業5社（OpenAI、Anthropic、Google、Microsoft、NVIDIA）に焦点を当てています。各社が持つ独自の強み、戦略、および提供するAI技術やサービスの明確な違いを徹底的に比較分析しています。これにより、読者は進化するAI業界におけるこれらの企業の現状と将来の動向を深く理解できる構成となっています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-21T08:02:52.064684"
-  },
-  {
-    "source": "Qiita",
-    "title": "情報過多で結局何も残らない、AI時代に取り残されたくない新人の焦りの末路",
-    "link": "https://qiita.com/prumnn/items/f3695454f0de13aa8d7f",
-    "summary": "AI時代に取り残されたくないという焦りから、新人のぷらむんはAI関連本やビジネス系YouTube、ニュースといった大量の情報をインプットしていました。しかし、いざ実務で活かそうとすると何も出てこず、費やした時間に対して頭に何も残っていないことに気づきます。この経験を通じ、情報収集の「量」よりも「先に決めること」が重要だと認識し、そのプロセスを共有しようとしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-21T08:02:59.800348"
   }
 ]
