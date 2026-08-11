@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる",
+    "link": "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/",
+    "summary": "生成AIの普及により、学生が宿題やレポートにAIを利用する学業不正が問題視されており、不公平や学力低下を招いています。こうした事態を受け、デンマークはAIによる不正を撲滅するため独自の対策を講じました。具体的には、デンマークの高校生に対し、提出した筆記課題についての口頭試問が義務づけられることになりました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-11T22:31:33.040721"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIがコードを書く時代 ― 人間がコードレビューをするべきか",
+    "link": "https://zenn.dev/hiramax/articles/6e23d0c3e7535f",
+    "summary": "AIがコードを生成する能力を急速に高める中、人間がそのAI生成コードをレビューすべきか否か、またその役割がどう変化するかが重要な議論となっています。この記事は、AIが書いたコードの品質や潜在的なバグ、セキュリティ脆弱性を人間が効果的に見抜けるか、という疑問を投げかけています。さらに、人間レビューアの新たな役割や、最終的なコードの責任を誰が負うべきかといった点が主な論点として挙げられています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-08-11T22:31:44.465820"
+  },
+  {
+    "source": "Qiita",
+    "title": "個人開発のAI投資アドバイザーに学ぶ「ガードレール設計」と「心理的ハーネス」の工夫",
+    "link": "https://qiita.com/hypatia_AH1033/items/b68a5e07f6c0d83c3e2d",
+    "summary": "本記事は、AI駆動開発におけるAIの振る舞いを安全に制御する「ガードレール設計」と「心理的ハーネス」の重要性を解説しています。特に、GitHubで公開されているAI投資アドバイザー`Personal-Investment-Advisor`を事例に、LLMアプリケーションに堅牢なガバナンスと「心理的ガードレール」を組み込む工夫を紹介。\n\nこのAIは、単に市場予測や収益率を追求するのではなく、市場の乱高下やユーザーの「感情の暴走」から保護する「要塞型（保護者）」として設計されています。\n\n初心者には専門用語を排除してリスクから守る「伴走者」として機能し、経験者に対してはパニック売りや飛びつき買いといった衝動的な行動を防ぐ役割を果たす点が特徴です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-11T22:32:10.623327"
+  },
+  {
     "source": "ITmedia",
     "title": "2028年にSOCの人手対応、30％減へ　常態化する攻撃に企業は勝てるのか",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-07-22T08:03:19.756499"
-  },
-  {
-    "source": "Zenn",
-    "title": "Open-Vocabulary Object Detectionについて、最近のモデルを調べてみた",
-    "link": "https://zenn.dev/straydog/articles/d5a8713b8f59c7",
-    "summary": "この記事は、Open-Vocabulary Object Detection (OVD) 分野における最新モデルの研究動向をまとめたものです。OVDは、事前に学習していない未知のオブジェクトクラスも検出可能にする技術であり、従来の物体検出の限界を打破するものとして注目されています。最近の研究では、特にCLIPのような大規模言語モデルとの連携を通じ、多様なオブジェクトを認識する汎用的なアプローチが進展しており、その技術的な進化と主要なアプローチが分析されています。本調査は、この進化する分野における主要な技術課題と今後の展望を理解することを目的としています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-22T08:03:29.441047"
-  },
-  {
-    "source": "Qiita",
-    "title": "タイトル⑤ 文系東大生がGPT型モデルをフルスクラッチで開発する話 Part5前編【評価準備編】【株式会社ハイレゾ協力】",
-    "link": "https://qiita.com/uaokit0905/items/77a4df55edbfa6c6f730",
-    "summary": "東京大学文科3類2年の青木氏が代表を務める東大AI研究会は、GPT型モデルをゼロから開発するプロジェクトを進めています。この記事では、モデルの性能検証前に行うContinuos pre-trainingとInstruction tuningに焦点を当て、事前学習では補えない知識や解答能力の獲得方法を解説しています。高性能GPUが高価なため学生には調達が難しい中、株式会社ハイレゾのGPUクラウドサービス「GPUSOROBAN」よりNVIDIA A100 80GBの計算資源提供を受け、開発・検証が進められています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-22T08:03:40.869554"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェントの「形骸化」を先回りで回避　開発時に押さえるべき10の勘所",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/22/news002.html",
-    "summary": "この記事では、AIエージェントが「作っても使われない」という形骸化を回避し、現場で真に機能するよう開発するための指針を提供します。そのために、開発時に押さえるべき**10の勘所**を具体的に解説しています。Microsoft Copilot Studioを用いた効率的な構築ステップから、M365連携による成果創出のポイントまで詳解されており、実用的なAIエージェント構築への道筋を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-21T22:44:35.295175"
   }
 ]
