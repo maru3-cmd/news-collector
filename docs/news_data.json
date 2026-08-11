@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "2028年にSOCの人手対応、30％減へ　常態化する攻撃に企業は勝てるのか",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
+    "summary": "常態化するサイバー攻撃とAIによる混乱拡大を受け、2028年までにSOC（セキュリティオペレーションセンター）の人手対応が30%削減される見込みです。このような状況下で企業が競争力を維持できるかが問われています。ガートナーは、セキュリティリーダーが競争優位を保つために注力すべき3つの優先事項を提示しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-08-11T06:41:45.697897"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
+    "link": "https://gigazine.net/news/20260811-1panel/",
+    "summary": "無料のVPSコントロールパネル「1Panel」が公開されました。\nこのパネルは、Webサイト、Docker、データベースなどの標準的なVPS管理機能を提供します。\n最大の特徴は、OpenClawやHermes AgentといったAIエージェントの作成・設定、さらにOllamaによるローカルLLMの管理機能まで統合している点です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-11T06:41:58.431400"
+  },
+  {
+    "source": "Zenn",
+    "title": "3pxのズレをAIに4回直させて4回とも外した — 視覚バグをrectで検証してはいけない理由",
+    "link": "https://zenn.dev/genelab_999/articles/f931c35c858f8d",
+    "summary": "この記事は、わずか3pxの視覚的なズレというバグの修正をAIに4回依頼したものの、すべて失敗に終わった事例を解説しています。その主な理由として、要素の座標やサイズを示す「rect」を用いた機械的な検証では、人間の視覚が捉える実際のズレを正確に把握できない場合があることを指摘しています。筆者は、視覚バグの検証においては、数値データだけでなく人間の目による確認の重要性を強調し、rectによる検証の限界と危険性を訴えかけています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-11T06:42:06.622355"
+  },
+  {
+    "source": "Qiita",
+    "title": "Next.jsのAGENTS.md自動生成を実際に試す",
+    "link": "https://qiita.com/st-man-hori/items/1cfe30805c37c41fa19b",
+    "summary": "Next.js 16.2以降、AIエージェントがプロジェクトを理解するためのドキュメント機能に変更がありました。具体的には、Next.js 16.2ではAIエージェント向けのドキュメントが`node_modules`内にバンドルされるものの、`AGENTS.md`の自動生成はされません。しかし、Next.js 16.3以降ではバンドルされたドキュメントに加え、`AGENTS.md`ファイルも自動生成・自動更新されるようになります。この記事は、これらのバージョンごとの挙動を実際に確認することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-11T06:42:15.698103"
+  },
+  {
     "source": "GIGAZINE",
     "title": "Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能",
     "link": "https://gigazine.net/news/20260810-steam-machine-pc/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-07-21T22:44:35.295175"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GoogleのAIモードで「Google検索」の自己引用が8.4倍に急増",
-    "link": "https://gigazine.net/news/20260722-google-ai-mode-shift-to-citing/",
-    "summary": "Google検索のAIモードに関する調査で、2026年4月から6月の3ヶ月間に「google.com」の引用シェアが大幅に増加したことが明らかになりました。この期間中、「google.com」の引用シェアは8.4倍に急増し、ドメインランキングで2位に浮上しました。これは、GoogleのAIが自身の検索結果やコンテンツを情報源として引用する、自己引用の傾向が顕著になっていることを示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-21T22:44:41.856133"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code OTelパイプラインをSplunk Observability Cloudに接続してみた（Splunk入門つき）",
-    "link": "https://zenn.dev/thegatebreaker/articles/claude_code_splunk_observability_otel",
-    "summary": "この記事は、AIアシスタント「Claude Code」を用いて構築したOpenTelemetry（OTel）パイプラインをSplunk Observability Cloudへ接続する実践的な方法を解説しています。AI生成コードの可観測性を高めるため、OTelパイプラインを通じてアプリケーションから収集される観測データをSplunk Observability Cloudへ送信するプロセスが示されています。また、Splunk Observability Cloudの導入や利用を検討している初心者向けに、Splunkの基本的な入門情報も含まれています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-21T22:44:51.703924"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.216〜v2.1.217｜サブエージェントの無制限増殖に上限｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/2ad6f36fd302017b9267",
-    "summary": "Claude Codeのv2.1.217アップデートにより、サブエージェントの無制限な増殖を防ぐための重要な制限が導入されました。具体的には、サブエージェントの同時実行数がデフォルトで20並列に制限され、ネストしたサブエージェントの生成もデフォルトで無効化されています。これにより、環境変数を明示しない限り、1メッセージから際限なくエージェントが増える構成は組めなくなりました。また、`--max-budget-usd`オプションが上限到達時にバックグラウンドサブエージェントも停止させるようになり、コスト管理が強化されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-21T22:45:00.008514"
-  },
-  {
-    "source": "ITmedia",
-    "title": "米海軍、データとAIを軍事運用へ　判断の権限を現場へ委ねるガバナンスとは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/21/news022.html",
-    "summary": "米海軍省は、データとAIを軍事運用に統合する新戦略を発表しました。これは、迅速な意思決定を実現することを目的としています。具体的には、インフラを標準化しつつ、リスク判断の権限を現場に委ねる新しいガバナンスに刷新することで、前線の部隊がより迅速な判断を下せるようになるでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-21T08:02:33.287627"
   }
 ]
