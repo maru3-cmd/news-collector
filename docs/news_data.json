@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性",
+    "link": "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
+    "summary": "新型コロナウイルス感染後に体調不良が長く続く「ロングCOVID」の患者、特に無気力感や抑うつ症状を伴う人々について、カナダの研究チームが脳をスキャンして調査しました。その結果、ドーパミンを放出する神経終末の状態を示す指標が、健康な人よりも約18％低い可能性が示されました。この発見は、ロングCOVIDにおける精神症状のメカニズム解明につながるかもしれません。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-12T22:30:03.740824"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude CodeとPythonでPDF請求書から情報を自動抽出",
+    "link": "https://zenn.dev/ikuokuotiak/articles/claude-python-pdf-invoice-extractor",
+    "summary": "この記事は、Claude CodeとPythonを活用し、PDF形式の請求書から必要な情報を自動的に抽出する方法について解説しています。手作業によるデータ入力の負担を軽減し、業務の効率化と自動化を目指すことが主要な目的です。これにより、経理業務などにおける情報管理の精度向上と省力化が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-12T22:30:12.751874"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.227〜v2.1.229｜Write の read 必須が新モデルで外れる｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/5acf087c20983cff5f7c",
+    "summary": "Claude CodeのChangelog v2.1.227〜v2.1.229によると、v2.1.228でWriteツールの「同じセッションで一度Readしてから書く」制約が新しいモデルで解除されました。これにより、未読の既存ファイルを直接上書きできるようになり、ファイル作成フローがRead待ちで停止しなくなる一方で、安全ガードが一つ減ります。また、v2.1.229では、`/commit-push-pr`コマンドが`--force`などの危険なフラグを自動承認せず、都度確認を求めるように変更されました。さらに、claude.ai同期スキルのローカルコマンド挙動も制限されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-12T22:30:24.517312"
+  },
+  {
     "source": "ITmedia",
     "title": "デジタル投資の67％がAIへ、ROIが見えない組織が過半",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news032.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-23T08:06:12.461342"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIが見つけた「wp2shell」、何をどうやって見つけたのか",
-    "link": "https://qiita.com/harupython/items/c4f8d102b647dc2a0408",
-    "summary": "2026年7月17日、世界で最も使われるCMSであるWordPressに、標準構成でも未認証の攻撃者がリモートでコードを実行できる深刻な脆弱性「wp2shell」が発見されました。この脆弱性は、AI（大規模言語モデル）を用いた解析によって見つけられたと報じられています。ただし、AIが自律的にハッキングしたわけではなく、Searchlight Cyber傘下のセキュリティ研究者の解析作業を助けるツールとして使用されたものです。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-07-23T08:06:20.052983"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Windows 11、Dell製PCの不具合を修正する緊急パッチを配信　自動配信の条件と手動の導入手順は？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/23/news035.html",
-    "summary": "Microsoftは、Windows 11（バージョン25H2および24H2）向けに緊急更新プログラム「KB5121767」を公開しました。このパッチは、Intel IPF搭載のDell製PCなどで発生していた性能低下や更新の制限といった不具合を解消します。ユーザーは、自動配信またはオプション更新を通じてこの重要な修正プログラムを入手可能です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-22T22:52:51.705037"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
-    "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
-    "summary": "TryAIプラットフォームは、AnthropicのClaude Fable 5、OpenAIのGPT-5.6 Sol、SpaceXAIのGrok 4.5、GoogleのGemini 3.6 Flashという4つの最新AIモデルの画像生成性能とコストパフォーマンスを比較しました。これらのAIにモナリザなどの画像を描かせ、その完成度を検証しました。その結果、特にSpaceXAIのGrok 4.5だけが他のモデルとは異なり、「飛び抜けて奇妙な」完成品を生成したことが明らかになりました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-22T22:53:01.612799"
   }
 ]
