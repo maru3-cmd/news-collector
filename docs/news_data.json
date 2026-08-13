@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
+    "summary": "OpenAIによると、ユーザーはChatGPTを業務で利用する際、従来は別の職種が担当していた仕事を自身で行うようになっているとのことです。OpenAIはこの現象を「タスクの越境」と呼んでいます。記事では、具体的にどの職種やタスクでこの越境が起きているかについては言及されていません。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-13T07:06:11.899762"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIエージェントで構築した「自律型ハッキングツール」がアジアの政府機関を攻撃、中国による台湾政府への攻撃か",
+    "link": "https://gigazine.net/news/20260813-ai-government-cyberattack/",
+    "summary": "中国のハッカーとみられる人物が、一般公開されているAIツールを悪用して台湾の政府系ウェブサイトを攻撃しました。イスラエルのAI企業Dreamの研究者によると、攻撃者はオープンソースのAIエージェントを使い、連携するサイバーチームのように振る舞う自律型ハッキングツールを構築したとのことです。この事例は、AIエージェントが悪用された国家レベルでのサイバー攻撃の可能性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-13T07:06:34.304077"
+  },
+  {
+    "source": "Zenn",
+    "title": "一つのファイルから生成しても、指示のズレは止まらない",
+    "link": "https://zenn.dev/untactit/articles/9b983792bd8e61",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.16430793s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-13T07:06:38.851288"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代の全体像をつかむ4冊【技術＋戦略】",
+    "link": "https://qiita.com/koukyo/items/efaef9b1be47da766551",
+    "summary": "AI技術、特にLLMの業務導入が増える中で、技術的背景から社会的リスク、経営層への説明といった幅広い知識の必要性を感じた筆者が、体系的な学習のために厳選した書籍を紹介する記事です。エンジニアとして地力がつくという観点から、**4冊**のAI関連書籍を選定しています。これらは「歴史的文脈」「ビジネス戦略」「ハンズオン実装」「社会的インパクト」という**4つの軸**に基づき、AI時代の全体像を掴むことを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-13T07:06:50.458395"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性",
     "link": "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-23T22:46:32.116433"
-  },
-  {
-    "source": "Qiita",
-    "title": "CLAUDE.md の書き方とプロジェクト規模別の設計パターン7選",
-    "link": "https://qiita.com/syun136_616/items/549b3e6d077edd40d106",
-    "summary": "CLAUDE.mdは、Claude Codeが自動的に読み込むコンテキストファイルであり、AIにプロジェクト固有のルールを継続的に伝えることで適切な振る舞いを促します。これはグローバルとローカルのファイルを組み合わせることで、重複なく効率的に管理できます。この記事は、個人スクリプトからエンタープライズまで、プロジェクト規模に応じて最適な7つのCLAUDE.md設計パターンを具体例とともに紹介しています。これにより、「どこまで書くべきか」というエンジニアの悩みを解決します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-23T22:46:38.915045"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AI作成メールのクリック率は人間と同等に　年1回のセキュリティ教育では防御困難か",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/23/news043.html",
-    "summary": "Adaptive Securityによると、生成AIの普及により、AI作成メールのクリック率が人間作成のメールと同等になっています。これにより、精巧なフィッシングやビジネスメール詐欺、ディープフェイクが拡大しており、年1回のセキュリティ教育では防御が困難であると指摘されています。記事は、従来の技術的対策だけでなく、継続的な教育とヒューマンリスク管理が極めて重要だと強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-23T08:05:51.690533"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "細かいミルクプディングが入った「スターバックス DELIGHT ME ピーチミルクwithクリーミープディング」を飲んでみた",
-    "link": "https://gigazine.net/news/20260723-starbucks-peach-milk-creamy-pudding/",
-    "summary": "2026年7月21日、スターバックスから新商品「DELIGHT ME ピーチミルクwithクリーミープディング」が登場しました。このドリンクは、ジューシーなピーチの甘さとコクのあるミルクがやさしく重なり合う味わいが特徴で、細かいミルクプディングも入っています。記事では、この魅力的な新作を実際に飲んでみた感想が紹介されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-23T08:06:01.631005"
-  },
-  {
-    "source": "Zenn",
-    "title": "2026年最新AI SEOツール徹底比較ガイド",
-    "link": "https://zenn.dev/gptmelo/articles/337b9821f1713d",
-    "summary": "提示された情報によると、この記事は2026年時点での最新AI SEOツールを徹底的に比較するガイドです。AIを活用したSEOツールの機能、特徴、メリット・デメリットなどを詳細に評価し、ユーザーがそれぞれのニーズに最適なツールを選べるようにすることを目的としています。これにより、効果的なSEO戦略の立案と検索エンジンでの上位表示を目指すための貴重な情報が提供されると推測されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-23T08:06:12.461342"
   }
 ]
