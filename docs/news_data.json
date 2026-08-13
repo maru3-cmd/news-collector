@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Amazonに配送業務の下請けを是正させる「配送保護法案」をニューヨーク市長が支持、Amazonが下請け配送員に対する責任を逃れているとの指摘",
+    "link": "https://gigazine.net/news/20260814-delivery-protection-act-ny/",
+    "summary": "ニューヨーク市では、Amazonが「配送サービスパートナー(DSP)プログラム」を通じて配送業務を行う下請け企業に指示を出しながら、責任を回避している点が問題視されています。この状況を是正するため、Amazonに下請け配送員への責任を負わせる「配送保護法案」が市に提出されました。この法案はニューヨーク市長も支持しており、Amazonの責任逃れに対する強い是正の動きが示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-13T22:30:24.856583"
+  },
+  {
+    "source": "Zenn",
+    "title": "エラーは鳴らない鐘だった——見えない1文字がAIエージェントの心拍を止めた話",
+    "link": "https://zenn.dev/keeper_nothuman/articles/bell-character-silence",
+    "summary": "この記事は、AIエージェントが「見えない1文字」という非常に些細な原因によって機能停止に陥った事例を報告しています。このエラーは「鳴らない鐘」のように通常のシステムでは検知されにくく、静かに進行したことが特徴です。結果として、たった1文字の不可視なコードがAIエージェントの「心拍を止める」という致命的な障害を引き起こしました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-13T22:30:33.458525"
+  },
+  {
+    "source": "Qiita",
+    "title": "GitHub Copilotは\"使い放題\"じゃない！請求が跳ぶ従量課金のからくり",
+    "link": "https://qiita.com/kinamocchi_tech/items/32c9873faa0726c26401",
+    "summary": "GitHub Copilotは月額料金を支払えば「使い放題」という認識が一般的ですが、実際には「従量課金」の仕組みが存在し、想定外の請求が発生する可能性があることを記事は指摘しています。この「からくり」について、YouTubeチャンネル「きなこもっちーのテック深掘り」の動画解説記事として、ハムスターのもっちーとインコのきなこの掛け合い形式で詳しく解説される予定です。提供された記事の範囲では、具体的な課金体系や費用に関する数字はまだ示されていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-13T22:30:51.092256"
+  },
+  {
     "source": "ITmedia",
     "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-24T08:02:57.604994"
-  },
-  {
-    "source": "ITmedia",
-    "title": "MCPにも対応、NTTデータの国産仮想化基盤に「AIレディ」な導入・運用支援サービス",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/24/news031.html",
-    "summary": "NTTデータ先端技術は、国産KVM仮想化基盤「Prossione Virtualization」向けに、導入・運用支援サービスを開始しました。このサービスは、システムの設計から移行、保守までを一貫して対応します。特に、AIOps連携による障害対応の自動化を提供することで、仮想化コストの削減と運用効率の向上を図ります。これにより、顧客の「AIレディ」なインフラ環境構築を支援します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-23T22:46:15.057979"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIで従業員ではなくCEOを解雇すればどれほど多くのメリットがあるのか？",
-    "link": "https://gigazine.net/news/20260724-overpaid-fire-ceo-ai/",
-    "summary": "近年、生成AIの普及によりホワイトカラー従業員をAIに置き換える動きが強まる中、従業員ではなく企業のトップであるCEOをAIに置き換えるという斬新なコンセプトが提案されました。このアイデアを具体化したAI「OverpAId」のウェブサイトが公開され、AIによるCEO代替の可能性が示されています。この記事は、もしAIがCEOを解雇した場合にどれほどの多くのメリットが生まれるのかを探るもので、AI活用における新たな視点を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-23T22:46:24.266156"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIキャラは、分けるほど深くなる — 1人を壁打ち・哲学・コーチ・実装の4体で支える設計",
-    "link": "https://zenn.dev/answer_philo/articles/four-ai-characters-design",
-    "summary": "この記事は、AIキャラクターが役割分担することで、より深いユーザーサポートを実現する設計思想を提示しています。具体的には、1人のユーザーを支援するために、AIを「壁打ち」「哲学」「コーチ」「実装」という4体の専門キャラクターに分けて運用します。これにより、ユーザーはアイデア整理から深い洞察、目標達成支援、具体的な技術的解決策まで、多角的な支援を受けることが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-23T22:46:32.116433"
   }
 ]
