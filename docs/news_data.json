@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "生成AIチャットアプリの世界ダウンロード数が減少　普及は頭打ち？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/14/news023.html",
+    "summary": "生成AIチャットアプリの世界ダウンロード数が前年同月を下回り、普及が頭打ちになった可能性が指摘されています。米国では一部アプリの1日当たりの利用者シェアが伸びたケースも見られます。しかし、記事では利用者数の増加が必ずしも定着を意味するわけではないと疑問を呈しており、その実態にはさらなる分析が必要であると示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-14T07:03:09.221603"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「ホグワーツ・レガシー」の続編についてワーナー・ブラザースが株主宛書簡で言及",
+    "link": "https://gigazine.net/news/20260814-hogwarts-legacy-2/",
+    "summary": "2023年に大ヒットを記録したオープンワールドRPG『ホグワーツ・レガシー』の続編が、現在開発中であることが判明しました。制作元のワーナー・ブラザースは、2026年8月6日付の株主宛書簡でこの事実を公式に言及。書簡には「ゲームタイトルのパイプラインの拡大」の一環として、「『ホグワーツ・レガシー』の第2弾」が進行中であると明記されています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-08-14T07:03:16.342268"
+  },
+  {
+    "source": "Zenn",
+    "title": "Wellie — トレーニングを組み立て、食事を合わせ、生活に適応するAIコーチ",
+    "link": "https://zenn.dev/st4rcitizen/articles/b44dd0a8f01009",
+    "summary": "Wellieは、ユーザーの生活に特化したAIコーチングサービスです。このAIコーチは、個々の目標に合わせて最適なトレーニングプログラムを構築します。さらに、ユーザーの健康状態や目標に合わせた食事プランも提案します。特筆すべきは、単に計画を立てるだけでなく、日々の生活の変化や状況に柔軟に適応してくれる点です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-14T07:03:27.492033"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Designで家計簿アプリをデザインし、そのままClaude Codeで実装してみた",
+    "link": "https://qiita.com/s-sakano/items/1804eca911022c4d63a8",
+    "summary": "この記事では、テキストからUIプロトタイプを生成する「Claude Design」と、それを直接実装できる「Claude Code」を使った開発プロセスを紹介しています。特に、Claude Designでデザインした家計簿アプリのUIをClaude Codeを用いてFlutterで実装するまでの具体的な流れを解説。デザインツールを開く手間なく、プロトタイプから実装まで一貫して行える効率的なワークフローが大きな特徴です。この情報は2026年7月23日時点のもので、Pro/Max/Team/Enterpriseプランの利用が前提とされています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-14T07:03:37.420228"
+  },
+  {
     "source": "GIGAZINE",
     "title": "Amazonに配送業務の下請けを是正させる「配送保護法案」をニューヨーク市長が支持、Amazonが下請け配送員に対する責任を逃れているとの指摘",
     "link": "https://gigazine.net/news/20260814-delivery-protection-act-ny/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-24T22:53:04.087854"
-  },
-  {
-    "source": "ITmedia",
-    "title": "大手コンサル15社も「対応できない」　なぜ、ある大企業はシステム刷新を断られたのか？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/24/news032.html",
-    "summary": "ある企業が数億円規模のSAP刷新案件を国内主要ITベンダー15社に打診したところ、全社から提案辞退の返答を受けました。これは、大手コンサルを含むこれら企業が「対応できない」と判断するほど、プロジェクトが極めて困難であることを示唆しています。\n記事では、この異例の事態に至った背景を深掘りしつつ、同様の「移行難民」とならないための道筋を提示します。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-24T08:02:31.825584"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "トロピカルなパインの風味にブラッドオレンジのさっぱりした酸味で暑い日にゴクゴク飲みたくなる「三ツ矢トロピカルMix」試飲レビュー",
-    "link": "https://gigazine.net/news/20260724-mitsuya-cider-tropical-mix/",
-    "summary": "アサヒ飲料は、人気シリーズ「三ツ矢サイダー」から期間限定の新商品「三ツ矢トロピカルMix」を発売しました。この炭酸飲料は2026年7月21日(火)に登場し、パイナップルとブラッドオレンジの果汁をブレンドしています。記事では、暑い日にゴクゴク飲みたくなるようなトロピカルな風味を実際に試飲し、その味をレビューしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-24T08:02:42.151195"
-  },
-  {
-    "source": "Zenn",
-    "title": "Vercel AI SDK（@ai-sdk/vue）と Reka UI で作るAIチャットボットのフロントエンド",
-    "link": "https://zenn.dev/asuene/articles/a144d100d2d49f",
-    "summary": "この記事は、Vercel AI SDKのVue向けライブラリである「@ai-sdk/vue」と「Reka UI」を組み合わせることで、AIチャットボットのフロントエンドを構築する方法について解説しています。特に、これら二つの技術を活用し、効率的かつモダンなユーザーインターフェースを持つAIチャットボットの開発を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-24T08:02:49.714307"
-  },
-  {
-    "source": "Qiita",
-    "title": "タスク分解で毎回半日溶かしていたので、下書きをAIに任せてみた",
-    "link": "https://qiita.com/spina1/items/1156791ae961e4edcd83",
-    "summary": "筆者は、仕様書からのタスク分解作業に毎回半日を費やし、仕様書と課題登録画面の往復による集中力の途切れや、抜け漏れへの不安、単純な作業量の多さに悩んでいました。この作業は、画面・API・テスト・影響範囲まで洗い出す必要があり、頭を使わない割に多くの時間を浪費していました。\n\nそこで、この記事ではAIにタスク分解の下書きを任せることで、この非効率な工程を改善した方法を紹介しています。具体的なツールとして、ONES.comの「ONES Wiki」などが挙げられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-24T08:02:57.604994"
   }
 ]
