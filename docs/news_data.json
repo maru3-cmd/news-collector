@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた",
+    "link": "https://gigazine.net/news/20260814-white-map-strike-47/",
+    "summary": "記事では、白地図から都道府県をはがして弾とし、他の都道府県にぶつけてHPを削り連鎖させるゲーム「白地図ストライク47」が紹介されています。プレイヤーはこのユニークなメカニズムを通じて、日本全国の47都道府県全ての攻略を目指します。筆者は、実際にこのゲームをプレイし、その体験を伝えています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-14T22:12:07.675813"
+  },
+  {
+    "source": "Zenn",
+    "title": "Grid Worldで始める最小のWorld Model入門",
+    "link": "https://zenn.dev/naoyabone/articles/b491a0ce085c8f",
+    "summary": "「Grid Worldで始める最小のWorld Model入門」は、シンプルなGrid World環境を通じてWorld Modelの基本的な概念と構築方法を解説します。World Modelは、環境のダイナミクスを内部でシミュレートし、将来の状態を予測することで、エージェントが効率的な行動計画を立てることを可能にするモデルです。記事では、Grid Worldにおける観察、行動、状態、そして状態遷移モデルと報酬モデルの構築に焦点を当て、複雑なAIモデルを導入する前の、World Modelの核となる原理を理解することを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-14T22:12:16.760631"
+  },
+  {
+    "source": "Qiita",
+    "title": "Metaのopen-weightモデル「Muse Glimmer」を整理。30B・Apache 2.0・家庭用GPU1枚でローカル動作",
+    "link": "https://qiita.com/quotidia/items/57bf1278adc0cbc44a78",
+    "summary": "Metaのマーク・ザッカーバーグCEOは2026年8月10日、個人のエンパワメントと発明を主目的としたマニフェスト「The Future Is For Everyone」を発表し、将来的に「24時間週7日働くエージェント」を数十億人に無料で提供すると約束しました。このマニフェストでは、力の均衡が安全という原則も掲げられています。\n\nまた同日、Metaはopen-weightモデル「Muse Glimmer」の配布を開始しました。このモデルは300億（30B）パラメータでApache 2.0ライセンスのもと、消費者向けGPU1枚のPCやMac上でローカル動作が可能です。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-14T22:12:27.174329"
+  },
+  {
     "source": "ITmedia",
     "title": "生成AIチャットアプリの世界ダウンロード数が減少　普及は頭打ち？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/14/news023.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-25T07:46:59.294738"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「Windows+R」は絶対に押さないで！　2026年Q1「Microsoft」記事トップ10",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/25/news007.html",
-    "summary": "この記事は、2026年第1四半期（4月～6月）にMicrosoft製品に関して最もアクセスを集めた記事のトップ10を紹介しています。読者からの反響が特に大きかったトピックを振り返るもので、その中には「Windows+R」キーの利用に関する注意喚起も含まれています。これは、同期間におけるMicrosoft関連の注目トレンドを反映したランキングとなっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-24T22:52:50.056143"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
-    "link": "https://gigazine.net/news/20260725-claude-opus-5/",
-    "summary": "Anthropicは2026年7月25日に「Claude Opus 5」をリリースしました。この新モデルは、既存の「Claude Fable 5」と同等以上の性能を持ちながら、価格は半額に設定されています。第三者機関によるテストでも「Claude Fable 5」を上回る性能が確認されており、優れたコストパフォーマンスが特徴です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-24T22:52:56.790625"
-  },
-  {
-    "source": "Zenn",
-    "title": "【2026/7/20】Fable 5「クレジット化」が着地 — Max系は恒久無料50%、Pro系は$100クレジット→$10/$50従量",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-fable-5-usage-credits-2026-07",
-    "summary": "2026年7月20日より、Fable 5の「クレジット化」モデルが導入されます。\nこれにより、Max系のユーザーは恒久的に50%無料でサービスを利用できるようになります。\n一方、Pro系のユーザーにはまず100ドルのクレジットが付与され、その後は10ドルまたは50ドルの従量課金制に移行します。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-24T22:53:04.087854"
   }
 ]
