@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
+    "link": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
+    "summary": "自然の雷の予測や至近距離での観測は危険かつ困難です。この課題に対し、科学・工学系YouTubeチャンネル「Electron Impressions」がユニークな実験を行いました。\n\n彼らは、細い導線を引き上げる自家製ロケットと大気の電場を測る装置を開発。これらの技術を使い、打ち上げ地点付近で雷を誘発する実験を実施しました。その実験結果が公開されています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-08-16T22:10:27.126476"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェント64体に1つのリポジトリを書かせたら、マージの57/64が衝突した。0にするまでの話",
+    "link": "https://zenn.dev/tacyan/articles/75d3ead8130533",
+    "summary": "AIエージェント64体を用いて一つのリポジトリを共同開発させた実験が行われました。この試みでは、マージ時に57/64という極めて高い確率で衝突が発生しました。本記事は、このような大規模なAI協調作業におけるコード統合の課題を解決し、最終的にマージ衝突を0にした経緯を述べています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-16T22:10:36.709583"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest 8/17：Gemini 3.7 Flash 強化、SpaceX×Cursor、Qwen 30 億DL",
+    "link": "https://qiita.com/lhjjjk4/items/99696bb40a230107192c",
+    "summary": "Google DeepMindは8月13日、コーディングとエージェント機能に特化したAIモデル「Gemini 3.7 Flash」をリリースしました。これは、FrontierCode 1.1 Mainが34.4%から43.6%へ、DeepSWE v1.1が49.0%から65.3%へ向上するなど、主要なベンチマークで二桁の性能改善を達成しています。\n\n同時に、このモデルの価格は半額になり、100万トークンのコンテキストと64Kの出力に対応、思考レベルも3段階に強化されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-16T22:10:46.360283"
+  },
+  {
     "source": "ITmedia",
     "title": "Microsoftが8月の月例更新を公開　優先すべきは「緊急」ではない",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/16/news004.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-07-26T22:50:11.535068"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Opus 5リリース — Fable 5に迫る性能を半額で、thinkingデフォルトON化で破壊的変更も",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-opus-5-release-2026-07",
-    "summary": "最新のAIモデル「Claude Opus 5」がリリースされました。\nこの新バージョンは、競合の「Fable 5」に匹敵する高性能を持ちながら、半額という大幅に低いコストで利用できる点が大きな特徴です。\n特に、思考機能（thinking）がデフォルトでオンになったことで、AIの動作やユーザー体験に破壊的な変更をもたらす可能性があり、注目を集めています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-26T22:50:20.921739"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenAI の「少ない例示だけで学習する言語モデル（GPT-3）」を理解する",
-    "link": "https://qiita.com/sato_7411/items/9dcc70e7d1d9893489b1",
-    "summary": "この記事は、OpenAIのGPT-3がどのように多言語に対応しているかを説明しています。GPT-3は主に英語のデータセットで学習されていますが、**7%**の他の言語テキストも含まれており、複数の言語を理解する基礎を築いています。さらに、単語や文といった様々なレベルで言語が自然に混在した混合データを用いることで、特定の言語に限定されず多言語を扱う能力を獲得しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-26T22:50:27.810310"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "美しすぎるフリーレンたちをワンフェス2026[夏]の会場で見てきた",
-    "link": "https://gigazine.net/news/20260726-frieren-wf2026s/",
-    "summary": "ワンダーフェスティバル 2026[夏]では、アニメやマンガのキャラクターを忠実に再現した作品に加え、原型師独自の美的センスで造形されたフィギュアが多数展示されました。特に『葬送のフリーレン』のフリーレンを美しく解釈した作品が注目を集め、写真が撮影されました。これらの展示は、オリジナルキャラクターに新たな魅力を加える独創的な造形美を示しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-26T08:02:01.613685"
   }
 ]
