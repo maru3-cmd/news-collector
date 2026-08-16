@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Microsoftが8月の月例更新を公開　優先すべきは「緊急」ではない",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/16/news004.html",
+    "summary": "Microsoftは最新の月例セキュリティ更新プログラムを公開しました。今回の更新には、公開前にすでに悪用が確認された脆弱性が1件含まれています。そのため、IT部門は多数の修正プログラムの中から、この悪用済み脆弱性に対応する更新を優先して適用することが推奨されます。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-08-16T06:18:02.287490"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "格安かつコンパクトでUPS・雷サージ機能を有する「CyberPower ST425JP」レビュー",
+    "link": "https://gigazine.net/news/20260816-cyberpower-st425jp/",
+    "summary": "夏の落雷や停電に備え、「CyberPower ST425JP」のレビュー記事が公開されました。この製品は、コンパクトながら定格出力260WのUPS（無停電電源装置）機能と雷サージ保護機能を兼ね備えています。記事では、特に夏の突然の雷雨対策として、その実用性と使用感が検証されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-16T06:18:09.763208"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeで「ホワイト企業マップ」を個人開発した話",
+    "link": "https://zenn.dev/hayatech/articles/develop-whapp-1",
+    "summary": "この記事は、個人開発者がAIツール「Claude Code」を用いて「ホワイト企業マップ」を開発した話です。このマップは、働きやすい優良企業を可視化することを目的としており、ユーザーが企業の労働環境情報を地理的に把握できるようにします。開発者はClaude Codeのコード生成能力を最大限に活用し、効率的かつ迅速にプロジェクトを完成させ、高度な機能やインタラクティブな地図表示を実現しました。これにより、AIが個人開発における生産性向上と複雑なアプリケーション構築に貢献する可能性を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-16T06:18:20.285502"
+  },
+  {
+    "source": "Qiita",
+    "title": "Pythonで〇×ゲームのAIを一から作成する　その241　最適化問題の性質と強化学習との関係 ",
+    "link": "https://qiita.com/ysgeso/items/57f60b92a7daeab1cdca",
+    "summary": "本記事は、Pythonで〇×ゲームのAIを一から作成するシリーズの第241回で、最適化問題の性質と強化学習の関係について解説しています。プログラムはPython 3.13とnumpy 2.3.5の環境で実行されることが明記されています。これまでに作成されたモジュールとして、ゲームの基本機能を提供する`marubatsu.py`とAI関連の関数を含む`ai.py`が紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-16T06:18:32.043874"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
     "link": "https://gigazine.net/news/20260815-dbgate/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-07-26T08:02:01.613685"
-  },
-  {
-    "source": "Zenn",
-    "title": "バイブコーディングで手戻りを減らす ― Issue分解と認識合わせ",
-    "link": "https://zenn.dev/sakana199/articles/762d26238432f3",
-    "summary": "この記事は「バイブコーディング」というアプローチを通じて、ソフトウェア開発における手戻りを大幅に削減する方法を探求しています。その中核をなすのは、開発課題であるIssueを詳細に分解し、関係者間で徹底的な認識合わせを行うことです。このプロセスを早期に行うことで、後工程での修正作業を最小限に抑え、開発効率と品質の向上を目指します。具体的な数値は記事から確認できませんが、Issueの事前分解と認識合わせが手戻り削減の鍵であると強調されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-07-26T08:02:10.792587"
-  },
-  {
-    "source": "Qiita",
-    "title": "Agent Skill「meiseki」で読みにくい日本語を明快にする",
-    "link": "https://qiita.com/tetradice/items/c52f953e9982a904291c",
-    "summary": "この記事では、bamboo-nova氏が開発したAgent Skill「meiseki」（明晰）が紹介されています。これは、日本語の文章を明快で読みやすくすることに特化しており、読みにくい表現や書き方を平易なものに改善します。同様の日本語改善Agent Skillは他にも複数存在しますが、筆者は「meiseki」を最も推奨しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-07-26T08:02:17.377418"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Google アカウントに「自撮り」認証が追加　AIによる偽動画に耐えられるか？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/26/news008.html",
-    "summary": "Googleは、ユーザーが顔を動かす自撮り動画を利用してGoogleアカウントにサインインできる新しい認証機能を追加しました。しかし、AIによる精巧な偽動画が横行する現代において、この認証方法がなりすましを効果的に防げるのかという疑問が提起されています。また、撮影された顔の生体データがGoogleによってどのように扱われ、保護されるのかについても懸念が示されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-25T22:42:59.694868"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
-    "link": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
-    "summary": "自動運転ロボタクシーを手掛けるWaymoが、配車サービス大手Uberとの提携解消を検討していることが明らかになりました。この動きは、ロボタクシー関連法案を巡る両社の関係悪化が背景にあるとされています。両社は2023年10月以来提携を継続してきましたが、今回の検討は今後の事業戦略に大きな影響を与える可能性があります。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-07-25T22:43:09.411064"
   }
 ]
