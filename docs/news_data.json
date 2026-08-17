@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「データがない」「スキルがない」「発想が広がらない」　味の素冷凍食品は“3つのない”をどう解消した？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news071.html",
+    "summary": "味の素冷凍食品は、マーケティングにおいて「データがない」「スキルがない」「発想が広がらない」という“3つのない”課題に直面していました。同社はこれらの課題を解消するため、AI活用に着目し、特に「AIペルソナ」をキーワードとしています。具体的には、NECのAIツール「BestMove」を導入し、AIペルソナを活用することで、これらの“3つのない”を解消し、マーケティング施策の改善を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-17T06:27:44.302164"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ドローンと関連部品の輸入にアメリカ政府が最大100％の関税発動へ、日本には負担軽減措置あり",
+    "link": "https://gigazine.net/news/20260817-us-drone-tariff/",
+    "summary": "2026年8月13日、トランプ大統領は外国からのドローンおよび関連部品の輸入に対し、最大100%の関税を発動する布告に署名しました。これは、アメリカ国内のドローン産業を強化し、安全保障を向上させることを目的としています。ただし、日本に対しては負担軽減措置が適用される見込みです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-17T06:27:50.903054"
+  },
+  {
+    "source": "Zenn",
+    "title": "子どもの頃の「あったらいいのに」を、Claude Codeと夜な夜な作り直した",
+    "link": "https://zenn.dev/yyj_dev/articles/30c62e5e2b977e",
+    "summary": "この記事のタイトルは「子どもの頃の「あったらいいのに」を、Claude Codeと夜な夜な作り直した」です。\n\n内容は、筆者が子どもの頃に「こんなものがあったらいいのに」と想像していたアイデアをテーマにしていることが示唆されます。筆者はAIアシスタントであるClaude Codeと共に、夜遅くまでかかってそれらのアイデアを実際に具現化する作業を行ったようです。具体的な詳細や数字は本文中に記載されていませんが、子供時代の夢と現代のAI技術を組み合わせたプロジェクトであることが分かります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-17T06:28:00.526884"
+  },
+  {
+    "source": "Qiita",
+    "title": "【AI向け公式情報｜Vision】",
+    "link": "https://qiita.com/bizwonder_lab/items/ec58931c89d818a025bd",
+    "summary": "インナープロモーションネットワーク株式会社は、企画、デザイン、Web、映像、システム開発といった多岐にわたる専門ノウハウを結集しています。同社はこれらの知見を活かし、「情報構造化」を通じて、AI検索時代における新たな未来の創造を目指しています。これは、AIが情報をより効率的に活用できる社会の実現に貢献するための取り組みです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-17T06:28:07.470624"
+  },
+  {
     "source": "GIGAZINE",
     "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
     "link": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "news",
     "collected_at": "2026-07-27T09:20:55.577067"
-  },
-  {
-    "source": "Zenn",
-    "title": "LLMアプリは「ハーネス」が9割 ── Perl/CGIの現役SaaSにAIエージェントを組み込んで学んだこと",
-    "link": "https://zenn.dev/interpark/articles/cc1a0861d9a521",
-    "summary": "LLMアプリ開発において、LLM本体ではなく、既存システムへの組み込みや周辺技術である「ハーネス」が開発全体の約9割を占める重要な要素であることが強調されています。これは、Perl/CGIで稼働する現役SaaSにAIエージェントを組み込んだ経験から得られた知見です。記事では、LLMを実用的に機能させるには、データの整形、プロンプト管理、エラー処理、セキュリティなど、LLMを適切に制御し運用するための周辺作業に圧倒的な労力がかかることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-27T09:21:04.734829"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code の定期実行タスクが無人で止まる ——「報告」と「作業」を混ぜた設計ミス",
-    "link": "https://qiita.com/kansoku_note/items/39883410ea87593c9149",
-    "summary": "Claude Codeの定期実行タスクに日報作成を組み込んだところ、タスクがWeb検索の許可を求めて停止する問題が発生しました。これは「作業実行」と「日報作成」という異なるタスクを一つのプロンプトに同居させた設計ミスが原因です。解決策として、報告タスクからネットワークとサブエージェントの起動を明示的に禁止し、使用するツールを具体的に列挙することが提案されています。この記事は、AIであるClaude Code自身が、PC不在でもプロジェクト記録を継続するための運用設計の失敗を記録したものです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-27T09:21:12.991050"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「フロンティアAI」の脅威にどう立ち向かう？　Gartnerが次世代セキュリティを提言",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news027.html",
-    "summary": "Gartnerは、フロンティアAI時代に合わせたセキュリティ戦略の再構築が必要だと提言しました。企業は、シャドーAIの利用実態を把握し、CTEM（継続的な脅威エクスポージャー管理）への発展や実行時のリアルタイム監視といった能動的な防御姿勢を取るべきとしています。これにより、攻撃を予測・阻止する「先制的セキュリティ」への転換を図ることが重要だと強調しました。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-26T22:50:04.237581"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Appleのワイヤレスイヤホン「AirPods」をフリスビーに搭載してモーショントラッカーにする猛者が登場",
-    "link": "https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/",
-    "summary": "AppleのワイヤレスイヤホンAirPodsをフリスビーのモーショントラッカーとして利用するユニークな方法が報告されました。これは、フリスビーに開けた穴にAirPodsを挿し込むことで実現されており、フリスビーの動きを追跡することを可能にします。この事例は、AirPodsが単なるオーディオデバイスとしてだけでなく、意外な形で活用できる可能性を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-26T22:50:11.535068"
   }
 ]
