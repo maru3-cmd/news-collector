@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "レガシーシステムはAIで生き返るか？　IBMとOpenAIが描く基幹システム刷新の現実解",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/18/news032.html",
+    "summary": "IBMとOpenAIは戦略的提携を発表し、老朽化したレガシーシステムや分断された業務の刷新を目指します。この提携では、OpenAIのGPT-5.6やCodexといったAI技術がIBMの基盤に統合されます。両社は、基幹業務のAI対応やアプリ刷新を含む3つの重点領域で企業の大規模導入を後押しし、現実的な解決策を提供します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-18T06:20:20.828831"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Telegramの海賊版配信者をAIで自動検出するツールを研究者らが開発、61日間で海賊版チャンネル524件とボット71件の削除に役立つ",
+    "link": "https://gigazine.net/news/20260818-telegram-pirates/",
+    "summary": "メッセージアプリTelegramが海賊版コンテンツの共有プラットフォームとして利用されている問題に対し、ルイジアナ州立大学とテキサス大学アーリントン校の研究者らが大規模な分析を行いました。彼らは、AIを活用して海賊版配信者を自動検出するツールを開発。このツールは、61日間で海賊版チャンネル524件とボット71件の削除に貢献したと報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-18T06:20:27.884103"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIエージェントが「知っているはず」を間違える理由 — コンテキスト設計の実務",
+    "link": "https://zenn.dev/tsutomusaito/articles/ai-agent-context-design",
+    "summary": "AIエージェントがユーザーの意図を誤解したり、「知っているはず」と期待される情報を適切に提供できない問題が頻繁に発生します。これは、エージェントに与えられる情報や指示、設定といった「コンテキスト（文脈）」の設計が不十分であることに主な原因があります。本記事は、AIエージェントがタスクを正確に遂行し、ユーザーの意図を正しく把握できるよう、効果的なコンテキスト設計の実践的な重要性と具体的な方法について解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-18T06:20:36.973860"
+  },
+  {
+    "source": "Qiita",
+    "title": "数千万ドキュメント規模の巨大エンタープライズRAG：検索速度と精度を両立させるハイエラキー型インデックス",
+    "link": "https://qiita.com/NKKTechGlobal/items/4371b646b4427e21d2da",
+    "summary": "企業におけるRAG（Retrieval-Augmented Generation）の対象が「全社的な巨大公文書ストレージ」へと拡大し、数千万ドキュメント規模に達しています。この規模では、真に必要な情報が埋もれる「情報の埋没」と、ベクトル検索のインデックス巨大化によるメモリ消費やレイテンシ増大といった「検索コストの増大」が大きな課題となります。\n\nこの記事では、これらの課題に対し「ハイエラキー型インデックス」を採用することで、検索速度と精度の両立を目指しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-18T06:20:46.705808"
+  },
+  {
     "source": "GIGAZINE",
     "title": "エルニーニョ現象は発達を続けており2026年後半には歴史的な強さになるとの予測",
     "link": "https://gigazine.net/news/20260818-super-el-nino-growth/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-07-28T08:09:19.936557"
-  },
-  {
-    "source": "Zenn",
-    "title": "Codex/Claude Code で設計・実装・レビューでいい感じにモデルを選択してもらいたい",
-    "link": "https://zenn.dev/jjoo/articles/4aab582a38fcf5",
-    "summary": "この記事は、CodexやClaude CodeといったAIツールをソフトウェア開発の過程で活用し、モデル選択を最適化したいという意図を表明しています。具体的には、設計、実装、レビューの各フェーズにおいて、これらのAIが効率的かつ適切にモデルを選定することを期待しています。その目的は、開発プロセスをスムーズにし、より良い意思決定を支援することにあります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-28T08:09:28.331075"
-  },
-  {
-    "source": "Qiita",
-    "title": " Claude Opus 5登場！ベンチマーク分析・価格・Fable 5 / GPT-5.6との徹底比較",
-    "link": "https://qiita.com/Adachit-1411/items/3dd6bc76c81aa6918b84",
-    "summary": "Anthropicから新たなフラッグシップモデル「Claude Opus 5」がリリースされました。このモデルはフロンティア級の知性を備えながら、上位モデルClaude Fable 5の半額となる100万input tokenあたり$5、100万output tokenあたり$25という魅力的な価格設定がされています。\n\n特に注目すべきは、コーディングやナレッジワーク系のベンチマーク（Frontier-Bench、GDPval-AAなど）において、格上のFable 5を凌駕する高いパフォーマンスを発揮している点です。本記事では、GPT-5.6やGemini 3.6などの競合モデルとの詳細な比較を通じて、Claude Opus 5の優れた性能とコストパフォーマンスが解説されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-28T08:09:36.498766"
-  },
-  {
-    "source": "ITmedia",
-    "title": "WordPressの脆弱性「wp2shell」　古いバージョンでも自動更新していても安心できない理由",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/28/news014.html",
-    "summary": "WordPress本体にプラグインなしの標準構成でも遠隔コード実行が可能な脆弱性「wp2shell」が発見されました。これに対しWordPress運営元は異例の強制自動更新を実施しましたが、管理者が把握していない放置サイトはこの更新から漏れてしまいます。そのため、自動更新が適用されていても安心できるわけではなく、依然として手動での確認と対応が必要なサイトが存在します。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-27T22:51:20.806987"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "高齢者を狙ったAI音声詐欺が急増中、たった3秒の音声データでAI音声クローンが作られてしまう",
-    "link": "https://gigazine.net/news/20260728-why-ai-voice-fraud-outruns-defence/",
-    "summary": "AI技術の発展に伴い、高齢者を狙ったAI音声詐欺が急増しています。この詐欺は、たった3秒の音声データがあればAI音声クローンを作成し、ターゲットを騙すという巧妙な手口です。最先端のAI音声技術を悪用したこのような詐欺が多発しており、エンジニアのティム・グリーン氏がその実態をまとめています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-27T22:51:31.498846"
   }
 ]
