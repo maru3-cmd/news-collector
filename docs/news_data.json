@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
+    "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
+    "summary": "元Facebook・Googleのジョージ・ホッツ氏が設立したComma.aiは、既存の車に後付けで運転支援機能を追加するデバイスを開発しています。同社は今回、車載コンピューターがより大型のドライビングモデルを実行できるよう、GPUを接続するためのeGPUドック「Chestnut」をリリースしました。これにより、デバイスの処理能力を強化し、高度な運転支援機能を提供することが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-18T22:11:48.884446"
+  },
+  {
+    "source": "Zenn",
+    "title": "複数の生成AIモデルを一つのAPIで切り替える設計パターン",
+    "link": "https://zenn.dev/hiapi_ai/articles/5c999d530cd377",
+    "summary": "この記事は、複数の異なる生成AIモデルを、開発者が単一のAPIインターフェースを通じて簡単に切り替えて利用できる設計パターンについて解説しています。このアプローチにより、アプリケーションは特定のタスクの要件（コスト、性能、出力品質など）に応じて最適なAIモデルを動的に選択できるようになります。これにより、開発者はモデルごとの差異を意識することなく、システムの柔軟性、保守性、そして将来的な拡張性を大幅に向上させることが可能です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-18T22:11:58.381568"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest 2026-08-19: OpenAI RL停止、NVIDIA 105億ドルのOhio工場、StripeがOpenRouterを70億ドルで買収",
+    "link": "https://qiita.com/lhjjjk4/items/e5fc78e0264cb422eac9",
+    "summary": "2026年8月19日のAIニュースダイジェストによると、OpenAIはAstraクラスモデルの安全性懸念と内部環境の隔離不足を受け、最大フロンティアモデルの強化学習(RL)訓練を停止しました。訓練は安全チェック完了まで停止され、Astra以上のモデルには最も厳しい新ルールが適用されます。その他、NVIDIAはオハイオ州に105億ドルの工場を建設する計画を、StripeはOpenRouterを70億ドルで買収したと報じられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-18T22:12:09.545805"
+  },
+  {
     "source": "ITmedia",
     "title": "レガシーシステムはAIで生き返るか？　IBMとOpenAIが描く基幹システム刷新の現実解",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/18/news032.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-28T22:51:17.630685"
-  },
-  {
-    "source": "Qiita",
-    "title": "「うまくいった」小さな検証が、間違った問いに答えていた話",
-    "link": "https://qiita.com/TheGateBreaker/items/f1bb16861a62375d865f",
-    "summary": "この検証は、RAGにおける文章の類似度分析において、要約を生成するAIモデルの違いが結果に影響するかを調査しました。まず2記事での予備検証では「変わらない」という結果が出て安心感が得られましたが、この検証が「間違った問い」に答えていたことが判明します。そこで、30記事規模で正しい問いに基づき検証し直したところ、要約生成AIモデルが異なると類似度分析の結果が大きく変わることが明らかになりました。この経験は、検証の問いを正確に設定することの重要性を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-28T22:51:25.662060"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「年収交渉すると印象が悪くなる」は妄想？　ITエンジニアが給与を上げた意外な一手",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/28/news026.html",
-    "summary": "多くのITエンジニアは転職時の年収交渉に不安を感じていますが、調査によると、実際に交渉した人の多くが待遇改善を実現していることが明らかになりました。これにより、「交渉すると印象が悪くなる」という懸念は、必ずしも当てはまらない可能性が示唆されています。この記事は、資格やスキルを給与や転職に効果的に結びつける方法を探るものです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-28T08:09:12.827750"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "熊本県で最大震度7の地震が発生、規模はM7.1推定",
-    "link": "https://gigazine.net/news/20260728-earthquake-kumamoto/",
-    "summary": "2026年7月28日16時27分ごろ、熊本県宇城市を震源とする地震が発生しました。この地震はマグニチュードM7.1と推定され、震源の深さは10kmでした。熊本県宇城市と氷川町では、最大震度7を観測しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-28T08:09:19.936557"
   }
 ]
