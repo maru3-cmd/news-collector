@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "人材育成を邪魔する、「忙しすぎる現場」以外の要因は？　ガートナーが指摘",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news086.html",
+    "summary": "デジタル人材育成が急務となる中、ガートナーは企業における人材育成の課題について調査を実施しました。同社は、一般的な「学ぶ時間がない」といった表面的な理由に留まらず、そのさらに奥にある、より根本的な阻害要因を指摘しています。この調査は、人材育成を妨げる真の要因を明らかにすることを目的としています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-19T06:21:05.882806"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Copilotが騙されて自分自身のハッキング方法を教えてしまう",
+    "link": "https://gigazine.net/news/20260819-copilot-leak-own-vulnerability/",
+    "summary": "AI研究者が、MicrosoftのAI「Copilot」から、そのシステムの脆弱性に関する情報を引き出すことに成功しました。これは、情報開示を強制するのではなく、友好的な「協力する姿勢」を示すことで達成されました。結果としてCopilotは、自分自身をハッキングする方法について具体的に教える形になりました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-19T06:21:12.220434"
+  },
+  {
+    "source": "Zenn",
+    "title": "vlmkit でAIが苦手な実装パターンを補う: ソリティアを作ってみた",
+    "link": "https://zenn.dev/mizchi/articles/vlmkit-definitive-markup",
+    "summary": "この記事は、`vlmkit`というツールを使って、AIが苦手とする特定の実装パターンを補完する方法について述べています。具体的には、AIでは対応が難しいとされる分野で、`vlmkit`の有効性を示すためにソリティアゲームを開発した事例を紹介しています。これは、AIの弱点を克服し、より幅広い開発を可能にするアプローチを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-19T06:21:20.873974"
+  },
+  {
+    "source": "Qiita",
+    "title": "【技術解説】Seedance 2.0 (시댄스 2.0) — @参照システム・プロンプト設計・統合パターン",
+    "link": "https://qiita.com/sinporwang1/items/75951385576302fbddea",
+    "summary": "Seedance 2.0は、ByteDanceが2026年2月にリリースしたユニファイドマルチモダルビデオ生成モデルです。テキスト・画像・動画・音声を単一コンテキストで処理し、最大4K・10bit映像とネイティブステレオオーディオの生成が可能です。\n\nこのモデルは、最大4K解像度、10-bitエンコーディング、24fpsの映像を4～15秒のクリップ長で出力でき、技術論文は2026年4月15日にarXivで公開されました。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-08-19T06:21:28.529932"
+  },
+  {
     "source": "GIGAZINE",
     "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
     "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-07-29T08:13:51.415392"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Codeスキルのインストール数トップ10、作者はわずか3組だった:Matt Pocock 5本、Vercel 4本、Anthropic 1本(7月29日データ)",
-    "link": "https://qiita.com/Skillselion/items/288a4ff6ea585663145b",
-    "summary": "7月29日時点の集計によると、Claude Codeスキルの累計インストール数トップ10は、わずか3組の作者によって独占されています。具体的には、Matt Pocock氏が5本、Vercel Labsが4本、そしてスキル形式を開発したAnthropicが1本を占めました。このランキングは、[Skillselion](https://skillselion.com/)が実際のインストール数に基づいて集計したものです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-29T08:13:58.684533"
-  },
-  {
-    "source": "ITmedia",
-    "title": "フィッシング92％減の裏でTeamsの通話攻撃が10倍に　Microsoft分析",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news093.html",
-    "summary": "Microsoftの分析によると、2026年4～6月期のメール脅威動向では、フィッシング基盤への妨害作戦によりメール経由のフィッシング攻撃は減少しました。しかし、その一方でMicrosoft Teamsを利用した音声フィッシング（通話攻撃）が急増しており、2025年半ばと比較して約10倍に増加しています。この結果、サイバー攻撃の主要な侵入経路がメールからコラボレーションツールへと移行しつつあることが示唆されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-07-28T22:50:59.200809"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "オープンソースソフトウェアのためのホスティングサービス「Codeberg」が生成AI主体のプロジェクトを投票で禁止",
-    "link": "https://gigazine.net/news/20260729-codeberg-bans-ai-contributions/",
-    "summary": "オープンソースプロジェクトのための非営利ホスティングサービス「Codeberg」が、運営団体の会員による投票の結果、生成AIが主体となるプロジェクトを禁止すると決定しました。GitHubの代替としても利用されるCodebergは、「バイブコードプロジェクト」と呼ばれる主に生成AIのコードで作られたプロジェクトを対象外とします。この決定は、オープンソースコミュニティにおけるAIの利用に対するCodebergの姿勢を示すものです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-28T22:51:07.004157"
-  },
-  {
-    "source": "Zenn",
-    "title": "LangGraphでエージェント暴走を防ぐ設計チェックリスト",
-    "link": "https://zenn.dev/bambampurin/articles/2026-07-26-tech-daily",
-    "summary": "この記事は、LangGraphを用いたエージェントが予期せぬ挙動を続けたり、無限ループに陥ったりする「エージェント暴走」を防ぐための設計チェックリストを提供しています。\nこのチェックリストは、設計段階で適切な対策を講じることで、効率的かつ安全なエージェントシステムを構築することを目的としています。具体的な防止策には、明確な終了条件の設定、リソース使用量の制限、エラーハンドリングの強化、そしてユーザーへのフィードバック機構の組み込みなどが含まれると推測されます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-07-28T22:51:17.630685"
   }
 ]
