@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "さくらインターネットで不正アクセス　583件不正ログインから「136万件影響の恐れ」に拡大",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news078.html",
+    "summary": "さくらインターネットは販売管理システムへの不正アクセスを確認しました。当初583件の不正ログインが発覚しましたが、影響の恐れがある会員情報は136万563アカウントにまで拡大しています。このうち30件ではハッシュ化されたパスワードも含まれているとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-20T22:16:11.415149"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "映画『バックルームズ』の劇場限定16分映像『Everything Must Go』がYouTubeで公開、ケイン・パーソンズのシリーズ最新作として視聴可能に",
+    "link": "https://gigazine.net/news/20260821-backrooms-everything-must-go/",
+    "summary": "映像作家ケイン・パーソンズは、自身の都市伝説「The Backrooms」シリーズの最新作となる約16分の短編『Backrooms - Everything Must Go』を2026年8月18日にYouTubeで公開しました。この作品は、同年5月29日にアメリカで公開された映画『バックルームズ』のエンドロール後に上映された追加映像です。パーソンズがYouTubeで展開してきたシリーズと映画版を結びつける重要な役割を担っています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-20T22:16:19.692790"
+  },
+  {
+    "source": "Zenn",
+    "title": "P100向けにllama.cppをビルド",
+    "link": "https://zenn.dev/ibuky/articles/b89bbba9372f4d",
+    "summary": "この記事は、GPUを活用した大規模言語モデルの推論ライブラリであるllama.cppを、NVIDIA P100 GPU向けにビルドすることに焦点を当てています。P100環境でllama.cppを利用できるようにするための特定の手順や考慮事項について述べられていると推測されます。提供された情報からは、具体的なビルド方法、その成果、または関連するパフォーマンスに関する数値などの詳細を把握することはできません。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-20T22:16:31.901381"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI Daily Digest 2026-08-21：Meta×Microsoft、Marvell×Google、Claudeタンパク質設計",
+    "link": "https://qiita.com/lhjjjk4/items/0d7356659ece4279bbc8",
+    "summary": "MetaはMicrosoftの主要なAI顧客の一つとなり、Bloombergの報道によると、AzureのFoundryマーケットプレイスを通じて年間数億ドルを支払い、毎週数兆トークンを処理しています。これは単なる調達ではなく、Metaの開発者がFoundry内のOpenAIモデルを使って自社モデルの出力を評価するなど、自社AI開発の一環として最先端の外部モデルを活用しています。2026年の設備投資ガイダンスが1,300億〜1,450億ドルに上るMetaにとって、Microsoftへの支払いは相対的に小さいものの、その戦略的意義は大きいとされています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-20T22:16:40.337622"
+  },
+  {
+    "source": "ITmedia",
     "title": "モデルの利用料金は安くなっているのに、AIの総コスト上昇　「パラドクス」の背景を解説",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
     "summary": "AIモデルの利用料金が低下しているにもかかわらず、AIの総コストは上昇するという「推論のパラドックス」が発生しています。Gartnerは、ワークフロー1件当たりのAI推論コストが2028年までに現在の5倍以上に高騰すると予測。これは、利用料金の低下がAI活用機会の爆発的な増加を促し、結果的に推論回数やデータ処理量の増大を招くためです。このコスト上昇局面において、企業はAI投資のROI（投資収益率）を確保するための具体的な方策を講じる必要があります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-07-30T22:55:44.367194"
-  },
-  {
-    "source": "Zenn",
-    "title": "【2026/7/26】Claude共有チャットがGoogle検索に流出した件 — 原因と対策まとめ",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-shared-chat-google-index-leak-2026-07",
-    "summary": "2026年7月26日、AIチャットサービスClaudeの共有チャットがGoogle検索に流出するという問題が発生しました。この記事は、この流出の原因と対策をまとめたものです。\n\n流出の原因としては、共有設定の不備やシステム的な要因が考えられ、対策としてユーザー側での共有設定の見直しや、サービス提供者側でのセキュリティ強化、Googleへの削除要請などが挙げられています。この一件は、AIサービスにおけるプライバシー保護と情報管理の重要性を改めて浮き彫りにしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-30T22:55:53.660838"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「データ品質に問題あり」から「予測精度95％」へ　Umiosは販売計画をどう自動化した？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news023.html",
-    "summary": "Umios（旧マルハニチロ）は、年間約4200時間を要していた販売計画作成の自動化に成功しました。自動化にあたり、全国の支社で入力ルールがバラバラだった「データの品質」問題を解消しました。その結果、同社は販売予測において95％という高い精度を実現しました。",
-    "category": "DX・業務改善",
-    "content_type": "news",
-    "collected_at": "2026-07-30T08:02:06.551815"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "すき家「まぐろ鉄火丼」＆「まぐろたたき丼」試食レビュー、まぐろの切り身をたっぷり楽しめる一杯",
-    "link": "https://gigazine.net/news/20260730-sukiya-maguro-tekka/",
-    "summary": "すき家は2026年7月28日、新メニューとして「まぐろ鉄火丼」を発売しました。\nこの新メニューは、マグロの切り身をご飯の上にたっぷり盛り付けた一品です。\nまた、定番の「まぐろたたき丼」と組み合わせた「鉄火たたき丼」も同時にラインナップに加わりました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-30T08:02:15.662965"
-  },
-  {
-    "source": "Zenn",
-    "title": "Goooo：予測市場時代のスーパー・ルーターと取引ターミナル",
-    "link": "https://zenn.dev/goooo/articles/ad50ea0cea8e1e",
-    "summary": "記事本文が提供されていないため、内容を要約することはできません。\n\nもし記事の本文をご提供いただければ、「Goooo」が予測市場時代においてどのようなスーパー・ルーターや取引ターミナルとして機能するのか、その重要なポイントや関連する数字を含めて要約いたします。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-07-30T08:02:22.725850"
   }
 ]
