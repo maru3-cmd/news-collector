@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "モデルの利用料金は安くなっているのに、AIの総コスト上昇　「パラドクス」の背景を解説",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
+    "summary": "AIモデルの利用料金が低下しているにもかかわらず、AIの総コストは上昇するという「推論のパラドックス」が発生しています。Gartnerは、ワークフロー1件当たりのAI推論コストが2028年までに現在の5倍以上に高騰すると予測。これは、利用料金の低下がAI活用機会の爆発的な増加を促し、結果的に推論回数やデータ処理量の増大を招くためです。このコスト上昇局面において、企業はAI投資のROI（投資収益率）を確保するための具体的な方策を講じる必要があります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-20T06:23:49.694080"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「Google Pixel 11 Pro Fold」フォトレビュー、約20g軽量化＆薄型化しながら折り曲げ部分がより目立たなく進化",
+    "link": "https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/",
+    "summary": "Googleは2026年8月20日にPixel 11シリーズをリリースし、その中に折りたたみ式スマートフォン「Pixel 11 Pro Fold」が新登場しました。\nこの新モデルは、前モデルから約20gの軽量化と薄型化を実現し、さらに折り曲げ部分がより目立たないように進化しています。\n本記事は、この進化したPixel 11 Pro Foldの外観を詳細に撮影したフォトレビューです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-20T06:25:03.744346"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI広告生成UIを状態遷移で考える：プロンプトから配信比率まで",
+    "link": "https://zenn.dev/choco1/articles/87650a7d7deace",
+    "summary": "「AI広告生成UIを状態遷移で考える：プロンプトから配信比率まで」と題されたこの記事は、AIを活用した広告生成システムのユーザーインターフェース（UI）設計とそのプロセスを考察しています。具体的には、ユーザーが広告の指示を出す「プロンプト」の入力フェーズから、生成された広告の「配信比率」といった最終的な成果測定に至るまでの一連の流れを、「状態遷移」という概念を用いてモデル化しています。この視点により、AI広告生成の各段階でのユーザー体験やシステム連携の課題を明確にし、効率的で効果的なUI設計やシステム改善に向けた洞察を提供することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-20T06:26:18.158557"
+  },
+  {
+    "source": "Qiita",
+    "title": " AIツールを導入したのに開発が速くならない理由―AI駆動開発ライフサイクルによる上流工程の変革：AIと人間の役割分担とは？―",
+    "link": "https://qiita.com/SuzukiH_KC/items/982b3fe8636403f51dcf",
+    "summary": "AIツールを導入しても、アイデアがPoCや本開発に進まない、ビジネスと開発の認識不一致、会議の長期化などにより開発速度が向上しないという課題が指摘されています。その主な原因は、人間同士の意思決定や合意形成にかかる時間にあるとされています。この課題を解決するため、AWS Summit Japan 2026のセッションでは「AI駆動開発ライフサイクル（AI-DLC）」が解決策として提案されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-20T06:27:13.877915"
+  },
+  {
     "source": "GIGAZINE",
     "title": "AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説",
     "link": "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "article",
     "collected_at": "2026-07-30T08:02:22.725850"
-  },
-  {
-    "source": "Qiita",
-    "title": "BobとNIMインストール設定を確認してみた",
-    "link": "https://qiita.com/tom_m_m/items/9d9897d85c668921b2a2",
-    "summary": "本記事は、AIXのNIM（Network Installation Management）インストールにおけるSMIT画面の複雑な多数のパラメータ設定という課題に焦点を当てています。筆者はこの課題を解決するため、AIエージェントであるIBM Bobを使用し、「AIX Version 7.3 Installing」の公式ドキュメントを参照しながら設定項目の詳細を整理・検証させました。\n\nBobは設定内容の生成だけでなく、サブタスクでその正確性を検証し、誤りを修正するところまで実施しています。記事では、この一連のプロセスと確認された設定項目が紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-30T08:02:33.326503"
-  },
-  {
-    "source": "ITmedia",
-    "title": "なぜAIのコストは想定以上に高くなるのか？　企業に迫られる「推論設計」への転換",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/30/news010.html",
-    "summary": "AIモデルの単価は低下しているにもかかわらず、企業のAIコストは想定以上に増大しています。これは、エージェンティックAIの普及に伴う「推論爆発」が主な原因であると指摘されています。本記事では、このコスト膨張の仕組みを解き明かし、課題を解決するために企業が「推論アーキテクチャ設計」に転換する必要があると解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-29T22:49:52.640514"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
-    "link": "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
-    "summary": "近年、AIを含む従業員監視ツールが企業で増えていますが、アメリカ最大規模の医療サービス組織であるカイザーパーマネンテの看護師らが、その導入によって患者へのケアが悪化していると主張しています。\n\n彼女たちは、職場に導入された監視ツールや評価AIが、かえって患者の健康と安全を損ねていると訴えています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-29T22:50:02.515049"
-  },
-  {
-    "source": "Zenn",
-    "title": ".claude/agentsに置いたのに、サブエージェントが直接呼べなかった話",
-    "link": "https://zenn.dev/homiebridge/articles/9cf74c81adde02",
-    "summary": "記事本文が提供されていないため、内容を要約することはできません。\n\nタイトル「.claude/agentsに置いたのに、サブエージェントが直接呼べなかった話」からは、Claude AIのエージェント機能において、サブエージェントを特定のディレクトリに配置しても直接呼び出せないという技術的な問題について言及されていると推測されます。しかし、具体的な問題点、原因、解決策、あるいは関連する数字などは不明です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-29T22:50:12.124091"
   }
 ]
