@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "業務標準化の手間を9割減　三菱UFJ銀行は生成AIに「業務知識」をどう教えた？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news019.html",
+    "summary": "三菱UFJ銀行は、海外事務の標準化を目指し、熟練従業員が担ってきた業務プロセスの精査に生成AIを導入しました。これにより、標準化にかかる手間を9割削減することを目標としています。しかし、AI特有の誤情報や回答のバラつきという課題に直面しており、同行はこれらの問題を克服し、生成AIに正確な業務知識を教え込む方法を模索しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-21T06:22:18.304563"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AliExpressがオーディオフィンガープリントでBluetoothのマルチポイント接続を邪魔しているという指摘",
+    "link": "https://gigazine.net/news/20260821-aliexpress-webpage-block-audio/",
+    "summary": "あるブロガーが、AliExpressのウェブサイトを開くとBluetoothヘッドホンの音楽再生が停止するという奇妙な症状を報告しました。調査の結果、AliExpressがウェブページ内でオーディオフィンガープリントを生成しようとしていることが判明しました。これが原因で、一部のヘッドホンにおけるBluetoothのマルチポイント接続が妨害され、意図せず音楽が中断される事態が発生しているとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-21T06:22:26.122645"
+  },
+  {
+    "source": "Zenn",
+    "title": "収束は正しさではない — LLMが賢くなってもレビュー指摘が減らない理由",
+    "link": "https://zenn.dev/yutabeee/articles/convergence-is-not-correctness",
+    "summary": "提供された内容が記事のタイトルのみであるため、タイトルから推測される要約となります。\n\n「収束は正しさではない」という記事のタイトルは、たとえ複数のAIモデル（LLM）が同じ答えに到達したとしても、その答えが必ずしも正しいとは限らないという問題を提起しています。LLMがいくら賢くなってもレビュー指摘が減らないのは、この「収束」が、より深く、多角的な視点から見た「正しさ」とは異なるためだと示唆しています。つまり、モデルが共通の誤解や限定的な視点から一貫した出力を生成しても、人間の複雑な判断基準や要件を満たせないため、結局は人間のレビューが必要不可欠であるという趣旨だと推測されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-21T06:22:36.477777"
+  },
+  {
+    "source": "Qiita",
+    "title": "LLMのFine-tuningは「教師データ作り」で決まる？[データセット設計編]",
+    "link": "https://qiita.com/kazuharu2022/items/e4f6d7c467d9a24466c4",
+    "summary": "この記事は、LLMのFine-tuningにおいて、モデル学習よりも「教師データ作り」が回答品質向上に最も重要であるという問題提起をしています。筆者は、データセットを用意し学習・評価する一般的なFine-tuningプロセスだけでは不十分で、lossが下がっても精度が上がらない場合が多いと指摘。実際にSFT+LoRAを用いたFine-tuning（なろう系小説生成やマーケティングデータセット）で試しても精度向上せず、最終的に最新モデルに頼らざるを得ない経験から、教師データ設計の重要性を強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-21T06:22:44.836844"
+  },
+  {
+    "source": "ITmedia",
     "title": "さくらインターネットで不正アクセス　583件不正ログインから「136万件影響の恐れ」に拡大",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news078.html",
     "summary": "さくらインターネットは販売管理システムへの不正アクセスを確認しました。当初583件の不正ログインが発覚しましたが、影響の恐れがある会員情報は136万563アカウントにまで拡大しています。このうち30件ではハッシュ化されたパスワードも含まれているとのことです。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-07-31T08:27:16.462932"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエンジニアが技術書の外に出るべき理由と、読んでおきたい5冊",
-    "link": "https://zenn.dev/koukyo/articles/20260731_ai_engineer_beyond_tech_books_5",
-    "summary": "AIエンジニアは、技術書に留まらず、ビジネスや倫理、コミュニケーションといった幅広い非技術的知識を習得することが重要だと提唱されています。これは、AI技術を実社会に導入し、その価値を最大化するためには、技術的な専門性だけでなく、社会やビジネスの深い理解が不可欠であるためです。記事では、AI技術を効果的に活用するために必要とされる、これらの多角的な視点や洞察を得るためのおすすめ書籍が5冊紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-31T08:27:24.350105"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code × herdr で「ファイル開いて」と言うだけで隣のペインにCUIエディタを開かせる",
-    "link": "https://qiita.com/r12tkmt/items/6814e146ee5d56190f51",
-    "summary": "この記事は、AIコーディングエージェント「Claude Code」で作業中に、生成・編集したファイルを「開いて」と指示するだけで、隣のペインにCUIエディタ（nvimなど）を自動で開かせたいという課題を解決します。\n従来のファイルパスをコピーし、手動でペイン分割してエディタを起動する手間を省き、会話の流れでシームレスな操作を目指しています。\n解決策として、AIエージェント連携に特化したターミナルワークスペースマネージャ「herdr」が導入されています。\nherdrが持つCLI APIを利用することで、Claude Codeがプログラム的にペインを操作し、指定されたファイルをCUIエディタで開く自動化を実現します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-31T08:27:34.583462"
-  },
-  {
-    "source": "ITmedia",
-    "title": "エラー解消のつもりが自ら攻撃を実行する「ClickFix」が108％増　日本の割合が最多14％",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/30/news071.html",
-    "summary": "利用者自身に偽のエラー表示を見せて不正な命令を実行させる詐欺「ClickFix」の検知数が、半年間で108%と大幅に増加しました。特に日本の割合が14%で最も高く、被害の深刻化が指摘されています。攻撃の足場は生成AIの画面やブラウザ拡張機能、Microsoftアカウントのサインインなど、多岐にわたるプラットフォームへと拡大しているため、警戒が必要です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-30T22:55:37.250813"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "MicrosoftのWord用Copilotを標的にした文書ベースで自己増殖するAIワームが初めて実証される",
-    "link": "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
-    "summary": "セキュリティ研究者のホーコン・モーレイ氏が、Microsoft Word用Copilotを標的とした文書ベースで自己増殖するマルウェア「AIワーム」の有効性を初めて実証しました。これは、MicrosoftがWordやExcelなどのOfficeスイートに生成AIアシスタントのCopilotを統合する中で、新たなセキュリティ脅威が浮上したことを示しています。このAIワームはCopilotの機能を悪用して感染を拡大させる可能性があり、今後の対策が求められます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-30T22:55:44.367194"
   }
 ]
