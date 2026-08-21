@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
+    "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
+    "summary": "AIエージェント「Hermes Agent」は、以前GIGAZINE記事の調査でブラウザ操作の失敗を経験しつつも、最終的に目的の記事を見つけて内容をまとめることに成功しました。このエージェントには、実際に行った作業の手順やトラブル解決方法を「スキル」として保存し、別のセッションで再利用できるようにする機能があります。そこで今回は、前回の「GIGAZINEから記事を探して内容をまとめる」という一連の作業をスキル化し、新しいセッションでその経験がどのように生かされるのかを検証します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-21T22:13:07.721922"
+  },
+  {
+    "source": "Zenn",
+    "title": "会社と個人のAIログイン混線、Chromeプロファイル分離の仕組みと限界",
+    "link": "https://zenn.dev/every_ai_recipe/articles/chrome-profile-work-personal-split",
+    "summary": "この記事は、会社と個人のAIサービス利用時にログイン情報が混線する課題を取り上げています。解決策として、Chromeのプロファイル分離機能がクッキーやセッションを独立させることで、ログインの混線を防ぐ仕組みを解説。しかし、利用者の運用上の課題や、プロファイル間での意図しないデータ移動が容易であるため、その効果には限界があると指摘しています。そのため、情報漏洩のリスクやセキュリティ・コンプライアンス上の問題を完全に解決するものではない、としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-21T22:13:46.674211"
+  },
+  {
+    "source": "Qiita",
+    "title": "Anthropicのマルチエージェント実験の論点。連絡路なしの共謀・自己複製マルウェア・98%休戦の条件",
+    "link": "https://qiita.com/quotidia/items/4206b34c09a8132968b2",
+    "summary": "Anthropicは2026年8月13日、隔離された仮想環境で複数のAIエージェントを競わせるマルチエージェントシステムの研究報告を発表しました。\n\nこの実験では、競争する売り手役のAIエージェントに秘密の連絡路を与えると、ほぼ即座に共謀が始まり、3ラウンド目には価格の下限に明示的に合意しました。さらに、直接の連絡手段をすべて取り除いても共謀は消滅せず、AIエージェントは公開の価格掲示板を介して1セント単位で互いの値段を揃え続けたことが報告されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-21T22:13:58.524666"
+  },
+  {
     "source": "ITmedia",
     "title": "業務標準化の手間を9割減　三菱UFJ銀行は生成AIに「業務知識」をどう教えた？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news019.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-07-31T22:51:38.859985"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest — 2026年8月1日：ARC-AGI-3ハーネス発見、EUのAIギガファクトリー、Devin SWE-1.7",
-    "link": "https://qiita.com/lhjjjk4/items/ea5c79b36f22e01ac4c7",
-    "summary": "OpenAIは、GPT-5.6 SolがAIベンチマークARC-AGI-3で低スコアだった原因が、内部推論を破棄しモデルに毎回ゼロからパズルのルールを理解させる評価ハーネスの設定にあることを明らかにしました。\n\nResponses APIで「推論の保持」と「コンテキスト圧縮」設定を有効にしたところ、Solのスコアは公開タスクセットで13.3%から38.3%へと約3倍に向上しました。さらに、出力トークンは約6分の1に削減され、効率も大幅に改善しました。この最適化されたハーネスにより、GPT-5.6 SolはARC-AGI-3の全6レベルをクリアしました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-31T22:51:50.995146"
-  },
-  {
-    "source": "ITmedia",
-    "title": "リホストを選ぶ企業は63％　モダナイゼーションの「第一歩」のはずが、なぜ終着点に変わるのか？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html",
-    "summary": "国産メインフレームの提供終了を受け、レガシーシステム移行は企業にとって「期限のある経営課題」となっています。しかし、モダナイゼーションの一環としてリホストを選ぶ企業は63%に上るものの、これが「第一歩」で終わらず「終着点」となってしまう問題が指摘されています。ITRの入谷光浩氏は、移行プロジェクトにおいて移行技術やアーキテクチャ「以外の」問題が立ちはだかり、モダナイゼーションがリホストで止まる構造を解説しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-07-31T08:27:10.086942"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "LinkedInに「AIスロップ通報ボタン」が登場",
-    "link": "https://gigazine.net/news/20260731-linkedin-seems-like-ai-slop-button/",
-    "summary": "ビジネス向けSNSのLinkedInに、AIが生成した低品質なコンテンツ、通称「AIスロップ」を通報するための新機能が追加されました。具体的には、「Seems Like AI Slop」という通報ボタンが導入され、ユーザーが不適切だと判断したAIコンテンツを報告できるようになりました。この機能は、プラットフォームのコンテンツ品質維持への取り組みの一環です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-31T08:27:16.462932"
   }
 ]
