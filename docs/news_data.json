@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AI投資の費用対効果、どう測る？　OpenAIが示した4指標",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/22/news002.html",
+    "summary": "OpenAIは、AI投資の費用対効果を評価するための指標として「成果額当たりの有用な知能」を提唱しました。これは、AIがもたらす「業務成果」とその達成にかかる「成功費用」、「信頼性」、そして「拡張時の価値増加」という4つの軸で評価されます。同社は、AIモデルや計算資源の改善を通じて、成果の向上と費用低減を図る方針を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-22T06:17:08.871189"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "レタスを遺伝子操作して「肉のタンパク質」を作らせることに成功",
+    "link": "https://gigazine.net/news/20260822-meat-protein-grown-lettuce-plant/",
+    "summary": "畜産業は、大量の温室効果ガス排出や土地・水消費により地球温暖化の一因となっており、肉食を減らす必要性が指摘されています。そのため、植物由来の代替肉や人工的な培養肉が注目されています。\n\nそんな中、科学者らがレタスやタバコといった植物を遺伝子操作し、動物性タンパク質を作らせることに成功しました。この成果は、持続可能な食料生産に向けた新たなアプローチとして期待されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-22T06:17:18.936411"
+  },
+  {
+    "source": "Zenn",
+    "title": "WordPress予約投稿でAI記事を出したら順位が下がった。原因の切り分け方",
+    "link": "https://zenn.dev/gen_ai_kiyozuka/articles/wp-scheduled-ai-posts-ranking-drop",
+    "summary": "WordPressの予約投稿機能を使ってAIが生成した記事を公開したところ、ウェブサイトの検索順位が低下するという問題が発生しました。この記事は、この順位低下の原因がAI記事自体にあるのか、予約投稿の仕組みによるものか、あるいは他の要因によるのかを明確にするための「原因の切り分け方」について解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-22T06:17:28.510403"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code auto modeを\"自社仕様\"にする。classifierに信頼できるインフラを教える設定",
+    "link": "https://qiita.com/startdevin/items/69d8721ebcf9a4aeccf8",
+    "summary": "Claude Codeのauto modeは、専用のclassifierが危険な操作だけでなく、初期状態では自社の通常の操作まで「見覚えのない外部」と判断し停止させてしまうという課題があります。これは、classifierが作業ディレクトリと現在のリポジトリのリモートしか信頼しないため、会社のGitHubやクラウドバケットへの書き込みなどもブロックしてしまうためです。\n\nこの問題を解決するには、`autoMode` 設定ブロックを用いて、自社が信頼するリポジトリ、バケット、ドメインをclassifierに明示的に教え込む必要があります。これにより、日常的な内部操作が不必要に中断されることを防ぎ、スムーズな運用が可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-22T06:17:39.594143"
+  },
+  {
     "source": "GIGAZINE",
     "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
     "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-01T07:57:08.744067"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代のハードウェアの選び方——ローカルLLMを社内で持つ前に、メモリとコストで決める",
-    "link": "https://qiita.com/hiiragisan/items/5ba3b2443b3af9be7399",
-    "summary": "AI時代に社内でローカルLLMを導入する際のハードウェア選びは、GPUの製品名や性能値よりも、「何を動かしたいか」によって決まる必要なメモリ量と、それに伴うコストが最も重要であると指摘されています。\n\n記事では、公式のモデルサイズやハードウェア仕様、クラウドやAPIの価格を踏まえ、情シスや経営層が最適な選択を行えるよう整理されており、特に処理速度はカタログ性能ではなく「メモリ帯域幅」で決まる点を強調しています。\n\n最終的には、ハードウェアの購入、レンタル、またはAPI利用のいずれが自社にとって最も費用対効果が高いかを比較検討することが肝要と述べられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-01T07:57:17.740253"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「9カ月かかる作業を3日に短縮」　IBM、レガシー刷新ワークフローをIBM Bobに追加",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
-    "summary": "IBMは、生成AIの適用が難しいとされてきたレガシー環境刷新の自動化に本格的に乗り出します。同社は、IBM Bobにレガシー環境向けの専用パッケージとワークフローを追加。これにより、これまで9カ月を要していた作業をわずか3日に短縮することを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-07-31T22:51:22.241819"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」",
-    "link": "https://gigazine.net/news/20260731-anthropeum/",
-    "summary": "メトロポリタン美術館の歴史的遺物がいつどこで作られたかを推測するゲーム「Anthropeum」が公開されました。このゲームでは、同美術館が所蔵する50万点以上の遺物の中から毎日10問が出題されます。プレイヤーは表示される遺物の見た目をもとに、制作年代と国・地域を推理します。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-07-31T22:51:28.641078"
-  },
-  {
-    "source": "Zenn",
-    "title": "「AIっぽい」レビューコメントは文体チェックでは見抜けなかった",
-    "link": "https://zenn.dev/mskbhd/articles/lab-213-no-ai-slop",
-    "summary": "「AIっぽい」レビューコメントは、文体チェック（スタイロメトリ分析）では見抜けなかったと報じられています。\nこれは、AIが生成したテキストが人間の書き方を高度に模倣しており、文体分析だけではその真偽を判別することが困難な現状を示しています。\nこの結果は、レビューの信頼性を文体から判断することの限界を浮き彫りにしました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-07-31T22:51:38.859985"
   }
 ]
