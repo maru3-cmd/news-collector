@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
+    "link": "https://gigazine.net/news/20260822-waymo-brain/",
+    "summary": "Waymoは、複数の都市で展開しているロボタクシー事業の性能向上を目指し、カスタムASIC（特定用途向け集積回路）チップを開発しました。このASICチップは、ロボタクシーの中核技術として機能し、特定のタスクに特化することでシステム全体の効率とパフォーマンスを最適化することが期待されます。これにより、Waymoの自動運転技術のさらなる進化と事業拡大を支える基盤となります。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-08-22T22:11:02.252902"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code / Codexのコストをタスク単位で測るとき、曖昧なセッションを按分しない理由",
+    "link": "https://zenn.dev/yusuke_shiki/articles/d367713e3a86c7",
+    "summary": "Claude Code / CodexのようなAIツールの利用コストをタスク単位で測定する際、複数のタスクにまたがる、または目的が不明瞭な「曖昧なセッション」の扱いは課題となります。本記事は、これらの曖昧なセッションのコストを特定のタスクに按分すべきではない理由を説明しています。\n\nその主な理由は、不確かな按分がタスクごとの実際のコストを不正確にし、会計処理の複雑性を増すためです。正確かつ公平なコスト把握のため、曖昧なセッションは無理に各タスクへ割り振らず、別枠で管理することが推奨されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-22T22:11:13.370836"
+  },
+  {
+    "source": "Qiita",
+    "title": "テキストと画像から動画を生成する ─ xSeedance を試す",
+    "link": "https://qiita.com/yuanyurenzht/items/960481ce4e9d951c9a55",
+    "summary": "動画制作の高いハードルに対し、AIサービス「xSeedance」はテキストや画像から手軽に短尺動画を作成できるサービスとして紹介されています。このサービスは、プロンプト入力や参考画像のアップロードにより、60秒以内に映画のような動画を生成し、MP4形式でダウンロードが可能です。インストールや編集スキルが不要なため、SNSのアイキャッチやプレゼンの導入など、短尺動画が必要な様々な場面でその利便性が評価されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-22T22:11:21.285789"
+  },
+  {
     "source": "ITmedia",
     "title": "AI投資の費用対効果、どう測る？　OpenAIが示した4指標",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/22/news002.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-08-01T22:44:00.499593"
-  },
-  {
-    "source": "Qiita",
-    "title": "APIキーを挿しに行ったら、鍵のほうが要らなくなった ── 眠っていたYouTube一覧ブックをGASで生き返らせた話",
-    "link": "https://qiita.com/shu15511551/items/4963391b416328a9d8ac",
-    "summary": "この記事は、Google ドライブで見つかった自作のExcelマクロ「YouTube動画一覧ブック」について語っています。このブックは、指定したチャンネルの全動画（タイトル、再生回数、長さ、投稿日）をYouTube Data API経由で取得し、41本のマクロと正規表現を駆使して一覧表示する高機能なものでした。しかし、APIキーの取得にクレジットカード登録が必要で「お金の匂い」がすることから、他人に勧められないと判断され、長らく使用されずに眠っていた経緯が説明されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-08-01T22:44:09.864771"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "電子ペーパーに1枚だけ画像を記録できるDIYカメラ「reFrame」",
-    "link": "https://gigazine.net/news/20260801-epaper-camera-reframe/",
-    "summary": "Googleのエンジニアであるカロヤン・コレフ氏が、電子ペーパー搭載のDIYカメラ「reFrame」を開発しました。\nこのユニークなカメラは、電子ペーパーに画像を1枚だけ記録できるのが特徴です。\nコレフ氏は、「reFrame」の設計情報をオープンソースとして公開しており、誰でも自作できるようにしています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-08-01T07:57:01.170638"
-  },
-  {
-    "source": "Zenn",
-    "title": "Copilotアプリが全プラン開放 — BYOKとJetBrainsのCodex連携",
-    "link": "https://zenn.dev/chimao222/articles/ai-dev-copilot-app-jetbrains-20260801",
-    "summary": "Copilotアプリが全てのプランで利用可能となり、より幅広いユーザーがAIコーディング支援を受けられるようになりました。特に、ユーザーが自身のAPIキーを利用できる「BYOK (Bring Your Own Key)」機能が導入され、セキュリティやコスト管理の柔軟性が向上します。さらに、JetBrains製品との連携も強化され、OpenAIのCodexモデルを活用した高度なコード生成や補完機能が提供されるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-01T07:57:08.744067"
   }
 ]
