@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "出社するよりも完全リモートワークの方が幸福度が高いという研究結果",
+    "link": "https://gigazine.net/news/20260823-remote-workers-highest-well-being/",
+    "summary": "新型コロナウイルスのパンデミックを機に普及したリモートワークについて、孤立などを懸念してオフィス勤務に戻す動きが見られます。しかし、コロラド大学ボルダー校の研究チームが、アメリカの大規模医療機関の従業員7704人分のアンケートを分析したところ、完全リモートワークの従業員が最も高い幸福度を報告したことが判明しました。この結果は、出社するよりも完全リモートワークの方が従業員の幸福度が高いことを示唆しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-23T06:18:52.090187"
+  },
+  {
+    "source": "Zenn",
+    "title": "「偶数」と「奇数」に満点を出したので、Embedding での採点をやめました",
+    "link": "https://zenn.dev/ferretcode/articles/why-i-dropped-embedding-scoring",
+    "summary": "この記事は、自然言語処理のEmbedding技術を用いた採点システムの運用中止について報告しています。具体的には、AIが「偶数」や「奇数」といった極めて単純な概念に満点を与えてしまうという不具合が発生しました。この結果、開発者はEmbeddingによる採点方法が意図しない評価を下す可能性があると判断し、その採用を断念しました。これは、AIによる意味理解と評価の難しさを示唆する事例です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-23T06:19:00.170648"
+  },
+  {
+    "source": "Qiita",
+    "title": "📄AIモデルレポーティング：Qwen3-8B-AWQで3Dプリントするためのスクリプト生成ができる？",
+    "link": "https://qiita.com/Necoze/items/2be58fccec410ae773c9",
+    "summary": "Qwen3-8Bは、パラメータ数8.2B、コンテキスト長はYaRN併用で最大131,072トークンまで拡張可能な大規模言語モデルです。このモデルは、MoEモデルを含むQwen3シリーズのDenseモデルの一つで、全シリーズがApache 2.0ライセンスで公開されています。\n\n最大の特徴は、複雑な論理推論やコーディング向けの「thinkingモード」と、効率重視の汎用対話向けの「non-thinkingモード」を単一モデル内でシームレスに切り替えられる点にあります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-23T06:19:08.940506"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
     "link": "https://gigazine.net/news/20260822-waymo-brain/",
     "summary": "Waymoは、複数の都市で展開しているロボタクシー事業の性能向上を目指し、カスタムASIC（特定用途向け集積回路）チップを開発しました。このASICチップは、ロボタクシーの中核技術として機能し、特定のタスクに特化することでシステム全体の効率とパフォーマンスを最適化することが期待されます。これにより、Waymoの自動運転技術のさらなる進化と事業拡大を支える基盤となります。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-02T07:58:59.776568"
-  },
-  {
-    "source": "Qiita",
-    "title": "Pythonで〇×ゲームのAIを一から作成する　その239　強化学習としての原始モンテカルロ法とプレイアウトに関するプログラムの修正",
-    "link": "https://qiita.com/ysgeso/items/465e87467cff526f54ff",
-    "summary": "この記事は、Pythonで〇×ゲームのAIを一から作成する連載の239回目にあたり、強化学習の一種である原始モンテカルロ法とプレイアウトに関するプログラムの修正について解説しています。プログラムはPython 3.13とnumpy 2.3.5で実行されており、`marubatsu.py`でゲームクラスを、`ai.py`でAI関連の関数を定義しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-02T07:59:08.861110"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "薬局チェーンが業務効率化のためにAIを導入したところ遅延・誤った情報提供・プライバシー問題などが発生",
-    "link": "https://gigazine.net/news/20260802-pharmacy-chain-ai/",
-    "summary": "アメリカの薬局チェーン「Kinney Drugs」は、処方箋の問い合わせや薬の再処方受付を効率化するためAIアシスタントを導入しました。しかし、導入後には薬の受け渡し遅延や誤った再処方といった問題が頻発。さらに、患者情報の取り扱いに関するプライバシー問題への懸念も生じ、顧客の不満が高まっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-01T22:43:54.398978"
-  },
-  {
-    "source": "Zenn",
-    "title": "確率的生成器に規範は預けられない — Loopの成果物側に検疫を組む",
-    "link": "https://zenn.dev/cognitiveosmdl/articles/b75bad629b669b",
-    "summary": "記事の内容が提供されていないため、要約を作成することができません。\n\n恐れ入りますが、記事の本文をご提供いただけますでしょうか。本文があれば、3-4文で簡潔に要約し、重要なポイントや数字を含めてお伝えします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-01T22:44:00.499593"
   }
 ]
