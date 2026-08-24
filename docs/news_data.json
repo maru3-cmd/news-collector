@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AIエージェント活用を阻む“予算の壁”　セールスフォースらの新機能は打開策になり得るか？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
+    "summary": "AIエージェントの活用において、企業はAI利用コストの予測が困難なため、予算策定やROI（投資対効果）の見通しが立たず、「予算の壁」に阻まれています。この問題は、AIへの投資判断を遅らせる大きな要因となっています。このような状況を打破するため、セールスフォース、IBM、マネーフォワードが提供を開始した最新機能が、この「予算の壁」に対する打開策となり得るか注目されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-24T06:30:55.323954"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
+    "link": "https://gigazine.net/news/20260824-gas-turbine-shortage/",
+    "summary": "AI開発の加速にはデータセンターの増設が不可欠ですが、その電力供給に新たな課題が浮上しています。データセンターの安定稼働には大量の電力が必要であり、その主要な供給源であるガスタービンの不足が深刻化しているためです。このガスタービン不足は、データセンターへの電力供給を滞らせ、AI開発の新たなボトルネックとなる恐れがあります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-24T06:31:02.295529"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIを育てはじめて1ヶ月、動いているコードを全部消した",
+    "link": "https://zenn.dev/yi_works/articles/ai-first-month",
+    "summary": "筆者はAIの開発を開始して1ヶ月が経過したことを報告しています。しかし、その時点で動いていた全てのコードを削除するという、非常に大胆な決断を下しました。この行動は、当初のアプローチに根本的な問題が見つかったか、あるいはより良い方向性への完全な再出発が必要であると判断されたことを強く示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-24T06:31:13.079949"
+  },
+  {
+    "source": "Qiita",
+    "title": "How I Turn a Finished Product Image Into a Short Video",
+    "link": "https://qiita.com/emilyjones1217/items/04e683312a12b6b23f1a",
+    "summary": "この記事は、承認済みの静止画から短編動画を作成する際のアプローチの変化について解説しています。以前は動画作成を新たな仕事としてゼロから取り組んでいましたが、現在では既存の静止画を基に「何が動くべきか？」という問いから始める方法を採用しています。この新しいアプローチにより、既存の構図やライティングなどの要素を最大限に活用しつつ、必要な部分のみに動きを加えることで、作業を効率化しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-24T06:31:21.219024"
+  },
+  {
     "source": "GIGAZINE",
     "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果",
     "link": "https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-03T08:54:51.745742"
-  },
-  {
-    "source": "Zenn",
-    "title": "【AI駆動プロダクト開発 第1回】開発会社の商談・案件管理業務をスプレッドシートからWebアプリへ",
-    "link": "https://zenn.dev/scalar_sol_blog/articles/nexus-product-new-development-01",
-    "summary": "「AI駆動プロダクト開発」の第1回である本記事は、多くの開発会社が商談・案件管理にスプレッドシートを利用しており、それに伴う非効率性やデータ管理の課題を指摘しています。これらの問題を解決するため、業務システムをスプレッドシートからWebアプリケーションへ移行させることを提案。このWebアプリ化により、データの一元管理と効率的な案件追跡が可能となり、将来的にはAIを組み込むことで、さらなる高度な分析や自動化による生産性向上が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-03T08:55:00.420592"
-  },
-  {
-    "source": "Qiita",
-    "title": "Google Cloud Next Tokyo 2026 に参加してきました！",
-    "link": "https://qiita.com/ReQ_HY/items/b903812f0d8b59ac1d60",
-    "summary": "この記事は、2026年7月30日から31日までの2日間、東京ビッグサイトで開催された「Google Cloud Next Tokyo 2026」の参加レポートです。筆者は、日本最大のコンベンションセンターである東京ビッグサイトを会場としたイベントの様子をざっくばらんに紹介しています。入場時には2Fの受付でブース入場の際に必須となるQRコードを発行する手順などが綴られています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-03T08:55:08.187972"
-  },
-  {
-    "source": "ITmedia",
-    "title": "SBOMの最小要素が5年ぶり改訂　何が必須になるのか",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news018.html",
-    "summary": "CISA（米国のサイバーセキュリティ・インフラセキュリティ庁）は、ソフトウェア部品表（SBOM）の最小要素に関する改訂版を公開しました。これは5年ぶりの改訂で、2021年に定められた既存の要件を置き換えるものです。この変更により、ソフトウェアを調達・運用する企業は、取引先に求めるSBOMの内容について新たな基準を適用することになります。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-02T22:44:41.564912"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "潜水艦が初めて地球一周を達成した「サンドブラスト作戦」とは？",
-    "link": "https://gigazine.net/news/20260803-operation-sandblast/",
-    "summary": "1960年、アメリカ海軍の原子力潜水艦「トライトン(USS Triton)」は、「サンドブラスト作戦」として知られる画期的なミッションを実施しました。この作戦は、潜水艦が世界で初めて地球を完全に水中航行で一周するという偉業を達成しました。これは潜水艦戦の歴史において、極めて重要なマイルストーンとして記憶されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-02T22:44:48.368509"
   }
 ]
