@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる",
+    "link": "https://gigazine.net/news/20260825-omacom-foundation/",
+    "summary": "「Ruby on Rails」の開発者として知られるデイヴィッド・ハンネマイヤー・ハンソン氏が、自身のLinuxディストリビューション「Omarchy」を広めるため、非営利団体Omacom Foundationを設立しました。\n\n設立に際し、ジャック・ドーシー氏をはじめとするIT業界の重鎮から寄付が集まりました。合計800万ドル（約12億7000万円）に上り、一人当たり100万ドル（約1億6000万円）が寄せられています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-24T22:15:22.012126"
+  },
+  {
+    "source": "Zenn",
+    "title": "医療AIを正しく知る——できること・できないこと・信頼をどう作るか",
+    "link": "https://zenn.dev/taichiendoh/articles/medical-ai-capability-boundary-and-trust",
+    "summary": "この記事は、医療AIの現状を「できること」と「できないこと」の両面から解説し、その正しい理解を促すものです。具体的には、AIが診断支援や画像解析などで発揮する可能性と、倫理的課題や判断の限界といった制約を明らかにしています。さらに、医療現場においてAIが安全かつ有効に活用されるために、ユーザーや社会からの信頼をどのように構築していくべきかについても考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-24T22:15:29.832725"
+  },
+  {
+    "source": "Qiita",
+    "title": "なぜClaude Codeのsubagent並列実行にisolation: 'worktree'が必要なのか\n",
+    "link": "https://qiita.com/YujiNaramoto/items/b3acc07ae05e4b84e487",
+    "summary": "Claude CodeのAgent toolで複数のsubagentを並列実行する際、読み取り専用タスクは高速化されます。しかし、ファイル書き換えやgit操作を伴う場合、同一ワーキングディレクトリを共有すると、コミット内容が中途半端に混ざるという課題が発生します。これは、並列subagentが同時にgit操作を行うことで生じる問題です。\n\n記事では、この問題を解決し、各subagentのgit操作の整合性を保つために、`isolation: 'worktree'`のような作業ディレクトリの分離メカニズムが必要であると説明されています。これにより、並列処理のメリットを享受しつつ、安全なコード変更が可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-24T22:15:39.395605"
+  },
+  {
     "source": "ITmedia",
     "title": "AIエージェント活用を阻む“予算の壁”　セールスフォースらの新機能は打開策になり得るか？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-08-03T22:52:24.552129"
-  },
-  {
-    "source": "Qiita",
-    "title": "図解で解説！Claude Certified Architect (CCAR-F) 試験ガイド",
-    "link": "https://qiita.com/DeepTama/items/075b66cd7332870a042a",
-    "summary": "この記事は、Claude Certified Architect – Foundations（CCA-F）試験の学習範囲について、筆者が個人的な理解を整理・共有する目的で執筆されました。公開されている試験ガイド（Version 0.2 Last Updated: June 30 2026）や公式ドキュメントを参考にしていますが、筆者の解釈や経験に基づいているため、試験の出題内容やAnthropicの公式見解を保証するものではありません。認定試験の受験者に対しては、必ず最新の公式ドキュメントや試験ガイドを確認するよう強く推奨しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-03T22:52:34.002881"
-  },
-  {
-    "source": "ITmedia",
-    "title": "富士通とNECは「AI需要の手応え」をどう語った？　2026年下半期の見通しを考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news061.html",
-    "summary": "この記事は、富士通とNECが企業の業務向けAI需要についてどのように見ているかを考察しています。両社のCFOは直近の決算会見で、AI需要の盛り上がりがITサービス企業の収益にどう直結するのかについて言及しました。特に、2026年下半期に向けたAI需要の動向と見通しが議論の焦点となっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-03T08:54:42.552140"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "バター＆キャラメルにこだわり尽くしたロッテの新スイーツ「The BUTTER」「The CARAMEL」を食べてみた",
-    "link": "https://gigazine.net/news/20260803-the-butter-caramel/",
-    "summary": "ロッテは2026年3月、13年ぶりとなる新ビスケットブランド「Theシリーズ」を発表し、フィナンシェの「The BUTTER」とマドレーヌの「The CARAMEL」を発売しました。これらの商品は東日本で先行販売されていましたが、7月21日からは全国での販売が開始されました。記事では、こだわり尽くしたという両商品の味わいを実際に試した様子が伝えられています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-03T08:54:51.745742"
   }
 ]
