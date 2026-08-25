@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
+    "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
+    "summary": "AIモデルの量子化を手がけるUnslothが、AIの性能をなるべく維持しつつ省メモリ化を実現する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発しました。この「Dynamic 3.0」は、性能低下を抑制しながらメモリ使用量を削減することを目指しており、既にQwen3.8-27Bモデルに適用され、成功を収めています。Unslothは、GoogleやAlibabaなどがオープンモデルを公開すると数日以内にその量子化版を提供する企業として知られています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-25T22:15:40.912380"
+  },
+  {
+    "source": "Zenn",
+    "title": "ResNet以降のCNNを実装で辿る——軽量化・注意機構・自動探索の設計思想",
+    "link": "https://zenn.dev/taichiendoh/articles/cnn-evolution-after-resnet-design",
+    "summary": "この記事は、ResNet以降の畳み込みニューラルネットワーク（CNN）の進化を、実装の視点から紐解いています。主な設計思想として、「軽量化」「注意機構（Attention）」「自動探索（AutoML）」の三つに焦点を当てています。軽量化はリソース制約下での効率性を、注意機構はモデルの表現力と精度向上を、自動探索は最適なネットワークアーキテクチャの自動発見を目指します。これらの革新的なアプローチが、現代のAIモデル開発の主流を形成していることを示します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-25T22:15:52.477605"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年8月26日",
+    "link": "https://qiita.com/ishisaka/items/0dcde62b8b5d3c4a5fa0",
+    "summary": "2026年8月26日のプログラミング雑記は、主に技術ニュースとして無料のオンラインイベント「.NET Conf 2026」について取り上げています。このイベントは2026年11月10日から12日に開催され、.NET 11のリリースが予定されています。また、イベントに向けて間もなく登壇者の募集が開始されるとのことです。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-08-25T22:19:09.359428"
+  },
+  {
     "source": "ITmedia",
     "title": "Microsoft Entra IDにCVSS 10.0の緊急脆弱性　対応不要なのに公表された理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/25/news026.html",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "article",
     "collected_at": "2026-08-04T22:52:13.372137"
-  },
-  {
-    "source": "ITmedia",
-    "title": "情シスの「ぼやき」はノウハウの宝庫　経営層に届く伝え方と、いきいき働くための処方箋",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/04/news031.html",
-    "summary": "この記事は、企業内で情報システム（情シス）部門が直面する課題に焦点を当てています。情シスがモダンなセキュリティ対策を提案しても「費用対効果が薄い」と経営層に却下されたり、十分な時間が取れなかったりする「ぼやき」を取り上げています。\n\nしかし、これらの「ぼやき」は実は貴重なノウハウの宝庫であると指摘。\n\n記事は、情シスが経営層に自身の提案を効果的に伝える方法や、情シス自身が職場でいきいきと働くための実践的なヒントや処方箋を提供することを目指しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-04T08:12:24.286239"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "植物由来素材使用のギリシャ発ゼロカロリーコーラ「green cola」を飲んでみた、コカ・コーラとどう違うのか？",
-    "link": "https://gigazine.net/news/20260804-green-cola/",
-    "summary": "2012年にギリシャで誕生し、50以上の国と地域で販売されているゼロカロリーコーラ「green cola」が、2026年8月4日(火)から日本の全国小売店で販売されます。このコーラは、植物由来の甘味料ステビアを使用し、砂糖と保存料を一切使わないのが特徴です。記事では、その気になる味が一般的なコカ・コーラとどう違うのか、比較検証が行われました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-04T08:12:32.592200"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI記事生成で「検索上位の型」をどう再現しているか",
-    "link": "https://zenn.dev/avecdogpresence/articles/721012f4431838",
-    "summary": "この記事は、AIが記事を生成する際に、検索エンジンで上位表示されるための「型」をどのように再現しているかについて解説しています。具体的には、既存のSEOに強い記事の構成やキーワード選定、読者の検索意図を満たす情報構造などをAIが学習・分析し、新たな記事に適用する技術に焦点を当てています。これにより、AIはユーザーニーズに応える質の高い記事を効率的に生成し、検索トラフィックの最大化を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-04T08:12:41.931651"
   }
 ]
