@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Microsoft Entra IDにCVSS 10.0の緊急脆弱性　対応不要なのに公表された理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/25/news026.html",
+    "summary": "Microsoftは、自社のサービス「Microsoft Entra ID」において、深刻度「CVSS 10.0」の緊急脆弱性「CVE-2026-69836」が存在したことを公表しました。しかし、Microsoft側で既に緩和措置が完了しており、利用者側で特別な対応を行う必要はありません。この記事は、利用者側の作業が不要な脆弱性情報がなぜ公表されたのかという疑問を提示しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-08-25T06:22:09.915774"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "タコはなぜ賢いのか？これまで知られていなかった突然変異が理由かもしれない",
+    "link": "https://gigazine.net/news/20260825-octopus-ribosomal-innovation/",
+    "summary": "タコの優れた知能は、一部のタコで発見された謎の突然変異が原因である可能性が指摘されています。この突然変異を持つタコは、タンパク質合成の精度が非常に高いことが判明しました。研究者たちは、この高精度なタンパク質合成の仕組みがタコの知能に関連していると考えています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-25T06:22:19.707715"
+  },
+  {
+    "source": "Zenn",
+    "title": "業務フロー図を描くのはやめた — ヒアリングに集中して、図はAIに任せる",
+    "link": "https://zenn.dev/cyberdog_ai_lab/articles/20260823-flow-notation",
+    "summary": "この記事の著者は、業務フロー図を自ら描くことをやめ、その時間を顧客へのヒアリングという最も重要な業務に集中させる方針に転換しました。図の作成に費やしていた時間を顧客理解に充てることで、提供価値の向上を目指しています。具体的な業務フロー図の作成作業はAIに任せることで効率化を図り、より本質的なコンサルティング業務に注力する新しいワークフローを実践しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-25T06:22:29.383925"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeの起点ディレクトリで変わるCLAUDE.md読み込みと探索範囲を公式仕様から整理",
+    "link": "https://qiita.com/Kai_GenAI/items/25f83c49788f10ed535b",
+    "summary": "Claude Codeのファイル読み込みと探索範囲は、起動する「起点ディレクトリ」によって大きく変わります。作業ディレクトリから上位の`CLAUDE.md`を読み込み、子ディレクトリの`CLAUDE.md`は配下のファイルアクセス時に適用されます。`Glob`検索は現在の作業ディレクトリが基準となり、`--add-dir`などでアクセス範囲を広げられますが、追加先が完全な設定ルートになるわけではありません。この起点ディレクトリが初期指示や探索範囲を決定するため、同じプロンプトでも結果に影響が出ることや、無関係なタスクへ移る際は`/clear`でコンテキストを分離することが推奨されており、本記事は2026年8月25日時点の公式ドキュメントに基づいています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-25T06:22:43.012060"
+  },
+  {
     "source": "GIGAZINE",
     "title": "Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる",
     "link": "https://gigazine.net/news/20260825-omacom-foundation/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-04T08:12:41.931651"
-  },
-  {
-    "source": "Qiita",
-    "title": "喋りながら発見がノートに積まれていく — Pendo分析アシスタントにオントロジー層を足した（dendo v2）",
-    "link": "https://qiita.com/daichiiiiiii/items/ad6f3a9792c37faa60b2",
-    "summary": "Dendoは、Pendoのプロダクト利用データを自然言語で質問できるエージェント型ノートブックです。エージェントが自作のPendo Aggregation API向けDSL「aggDSL」を用いてクエリを組み、分析結果をグラフや表で表示します。今回発表されたDendo v2では、新たにオントロジー層が追加され、発見がノートに蓄積されていくことで、より高度な分析を可能にしました。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-08-04T08:14:07.412307"
-  },
-  {
-    "source": "ITmedia",
-    "title": "25ドルで見つかったWordPressの脆弱性　生成AIが変えた攻防の時間軸",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/04/news019.html",
-    "summary": "生成AIの登場により、サイバーセキュリティの攻防における時間軸が劇的に変化しています。これまでは脆弱性が公表されてから攻撃が始まるまでに相応の猶予がありましたが、生成AIの活用によって攻撃側の準備時間が大幅に短縮され、その前提が崩れつつあります。\n\n記事のタイトルでは「25ドルで見つかったWordPressの脆弱性」という具体例が挙げられており、脆弱性発見のハードルやコストが低いことも示唆しています。この新たな脅威に対し、防御側にどのような選択肢が残されており、いかに迅速に対応していくかが喫緊の課題となっています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-03T22:52:09.782760"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいとの研究結果",
-    "link": "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
-    "summary": "ホラー映画のBGMは、不協和音や不穏なメロディで恐怖をかき立てる目的で用いられます。新たな研究により、このホラー映画のBGMを聴くと、人間の感情に特定の変化が起こることが示されました。具体的には、ホラーBGMを聴いている間は、ごく普通の笑顔でさえ不気味で恐ろしいと感じやすくなる、という結果が出ています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-03T22:52:16.919025"
-  },
-  {
-    "source": "Zenn",
-    "title": "MCPツールの命名規則を考えた → 略したら偶然MCP Serverになった",
-    "link": "https://zenn.dev/2_daiki_ando/articles/b399b2ecd038ef",
-    "summary": "あるプロジェクトにおいて、MCPツールの命名規則を策定する作業が進められました。その際、ツール名を簡潔にするために略称が検討されました。結果として、偶然にもその略称が「MCP Server」となる出来事があったと報告されています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-03T22:52:24.552129"
   }
 ]
