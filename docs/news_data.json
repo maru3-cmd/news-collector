@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Asanaが5年、600万ドルのコード移行を「1.5週間、1.2万ドル」で完了　5文のプロンプトに絞った理由は",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/26/news024.html",
+    "summary": "AsanaはAIを活用し、旧式ライブラリ「Enzyme」からの大規模なコード移行をわずか1.5週間、費用1.2万ドルで完了させました。\nこれは、当初5年と600万ドルかかると見積もられていた期間と費用を劇的に削減したものです。\nこの驚異的な成功は、長文ではない「5文のプロンプト」という簡潔なAI指示と、移行対象となる既存コードの品質の高さが主な要因です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-26T06:24:28.402735"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？",
+    "link": "https://gigazine.net/news/20260826-alzheimers-spread-through-blood-transfusions/",
+    "summary": "アルツハイマー病は、認知症の主な原因となる神経変性疾患で、年齢、遺伝、生活習慣などが一般的なリスク要因とされています。しかし、医学誌The Lancetに掲載された論文は、この病気が輸血によって「伝染」する可能性を示唆し、注目を集めています。これは、従来のアルツハイマー病に対する理解に新たな問題提起をもたらすものです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-26T06:24:38.272828"
+  },
+  {
+    "source": "Zenn",
+    "title": "Excel読み取り、市販パーサ65%・自作の前処理89%",
+    "link": "https://zenn.dev/ai_worklab/articles/excel-ai-reading-markitdown-vs-custom-parser",
+    "summary": "Excelデータの読み取りと解析において、既存の課題が指摘されています。市販のパーサ単体では、データの正解率が65%に留まることが明らかになりました。\n\nしかし、データ読み取り前に自作の前処理を施すことで、正解率が大幅に向上することが確認されています。この前処理を適用した結果、Excelデータの読み取り精度は89%に達し、従来の方式を大きく上回りました。この結果は、Excelデータ解析における前処理の重要性を示唆しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-08-26T06:24:45.924522"
+  },
+  {
+    "source": "Qiita",
+    "title": "OpenAI API 入門 — API キーの取得から初回リクエストまで",
+    "link": "https://qiita.com/Akinori901/items/58cfa10f57c1fac9358f",
+    "summary": "本記事は、OpenAI APIを初めて利用するエンジニア向けに、APIキーの取得から環境構築、初回リクエスト送信までをPythonで解説する入門ハンズオンです。\n\n記事を進めるにはPython 3.8以上とOpenAIアカウントが必要で、アカウント作成は無料ですがAPI利用には支払い方法の登録が必須です。\n\nAPI利用は従量課金制のため、想定外の課金を防ぐためにダッシュボードで利用上限（Usage limits）を必ず設定することが推奨されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-26T06:24:53.744890"
+  },
+  {
     "source": "GIGAZINE",
     "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
     "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-05T08:11:34.437279"
-  },
-  {
-    "source": "ITmedia",
-    "title": "脆弱性の物量に圧倒される前に　地殻変動の中だからこそ押さえておきたい3つの対策",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news007.html",
-    "summary": "フロンティアAIの登場により、検出される脆弱性の量が急増し、企業は対応に苦慮しています。全てをひとまとめに対処しようとすると、その物量に圧倒され、限られた人員では対応が滞るリスクがあります。\n\nこのような地殻変動とも言える状況下で、効率的に対策を進めるためには、どの観点から脆弱性対応を切り分け、優先順位を付けていくべきかが重要な課題となっています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-04T22:51:44.428695"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "人間はAIが協力すると予想していても裏切りやすいことが実験で判明",
-    "link": "https://gigazine.net/news/20260805-human-with-ai-agents/",
-    "summary": "スペインのジャウメ1世大学の実験により、人間はAIが協力すると予想していても、AIを裏切り自分だけが利益を得ようとする傾向があることが判明しました。相手が人間ではなくプログラムだと分かると、自分は協力せずに利益を得ようとする傾向が強まるのです。この傾向は、プログラムが動かす人工エージェントの利益が実在する人間に渡る場合でも変わらないことが示されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-04T22:51:53.877655"
-  },
-  {
-    "source": "Zenn",
-    "title": "Anthropicは「安全性」を、企業導入の差別化に変えられたのか",
-    "link": "https://zenn.dev/thegatebreaker/articles/anthropic_safety_differentiator",
-    "summary": "この記事は、AI開発企業Anthropicが提唱する「安全性」が、企業がAIを導入する際の重要な差別化要因として機能しうるかについて考察しています。AnthropicはAIのリスク低減に注力しており、これを競合他社に対する優位性として打ち出そうとしています。つまり、企業が製品やサービスにAIを採用する際、その「安全性」が選択の決め手となるのかどうかを問う内容です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-04T22:52:03.103417"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.221｜zsh の [[ ]] で権限チェックが素通りしていた｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/4a520c01ae3e04f211e4",
-    "summary": "Claude Codeのバージョンv2.1.221では、zshの`[[ ]]`正規表現条件内に隠されたコマンドがBashツールの権限チェックを回避し、確認なしで実行されるセキュリティ脆弱性が修正されました。この修正により、該当するコマンドは許可プロンプトを表示するようになり、特に詳細な`allow`ルールを持つ環境では自動実行の挙動が変わる可能性があります。また、`--mcp-config`で渡されたツールの呼び出しが文字列として出力され、MCPサーバーが初回ターンに間に合わないという`print`モードの問題も同時に解決されました。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-08-04T22:52:13.372137"
   }
 ]
