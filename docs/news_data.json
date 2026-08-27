@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "中堅・中小の「情シス」減少中　専任人材減少の“副作用”に迫る",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/26/news035.html",
+    "summary": "中堅・中小企業では、情報システム部門の専任担当者（情シス）が減少傾向にあります。特に、中小企業の約65%で情シスが不在であり、中堅企業でも「ひとり情シス」が増加している状況です。\n\nこのIT運用を支える専任人材の不足は、企業のIT環境に様々な悪影響（副作用）を及ぼすことが、2つの調査から明らかになっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-27T16:56:12.363191"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AnthropicがClaude Coworkに独自の内蔵ブラウザを搭載、「Claude in Chrome」と使い分け可能",
+    "link": "https://gigazine.net/news/20260827-claude-cowork-built-in-browser/",
+    "summary": "Anthropicは、PC操作支援AI「Claude Cowork」に独自のブラウザを搭載したことを発表しました。この内蔵ブラウザにより、AIがPC操作をよりシームレスに支援できるようになると期待されます。この新機能は、サブスクリプションプランの有料ユーザーを対象に、今後順次提供される予定です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-27T16:56:21.821871"
+  },
+  {
+    "source": "Zenn",
+    "title": "検索条件をAIに言わせる時代の設定としてのSQL設計",
+    "link": "https://zenn.dev/nerisakana/articles/6a30e5cd9d71de",
+    "summary": "この記事は、「検索条件をAIに言わせる時代」に向けたSQL設計の重要性を説いています。\nこれは、AIがユーザーの意図を正確に理解し、適切なデータ検索条件を自律的に生成するための基盤として、SQLデータベースを設計する必要があることを意味します。\n将来的にAIがクエリ作成の中心を担うようになるため、AIが効率的かつ正確にデータを扱えるよう、SQLの構造やスキーマ設計を最適化する重要性を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-27T16:56:32.301634"
+  },
+  {
+    "source": "Qiita",
+    "title": "【備忘録】Salesforce周りのMCP / Agent Skills / Headless開発を整理する - 2026年8月時点で何がどの用途なのか",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/d719b33ae5eac78983dd",
+    "summary": "SalesforceのAI連携では、Hosted MCP Server、Agent Skills、Headless 360といった多様な開発者向け要素が増え、複雑化しています。これらはMCPサーバー、ツール、プラグイン、上位コンセプトなど異なる種類が混在しており、用途の理解を困難にしています。本記事は、2026年8月25日時点の公式情報に基づき、これらの多岐にわたる要素の用途を整理し、開発者の正確な理解を促すことを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-27T16:56:41.752946"
+  },
+  {
+    "source": "ITmedia",
     "title": "LINEヤフーが“ペタバイト級DWH”をクラウド移行　「処理時間2倍」の壁をどう突破した",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/19/news001.html",
     "summary": "LINEヤフーは総容量3PB超のDWHをAmazon Redshiftへクラウド移行しました。移行当初は処理時間2倍などのピーク時性能課題に直面しましたが、マルチAZ構成や自動WLMを導入してこれを克服。これによりバッチ処理の高速化とNoOps化を実現しました。現在は公式MCPサーバ整備を通じて“AIレディ”な基盤構築を推進しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-08-06T08:10:39.708957"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「三國志 覇道」が生成AIで実現したリアルタイム異言語交流　ゲーム性を損なわないシステム設計の工夫",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news021.html",
-    "summary": "コーエーテクモゲームスは、MMO戦略シミュレーションゲーム「三國志 覇道」に、Amazon Bedrockを活用したリアルタイムチャット翻訳機能を実装しました。これは、多言語展開されたゲームで母語の異なるユーザー間の交流を促進し、サービスに新たな熱量を生み出すのが目的です。開発チームは、ゲーム性を損なわないシステム設計に工夫を凝らし、スムーズなコミュニケーションを実現しました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-05T22:48:29.993527"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？",
-    "link": "https://gigazine.net/news/20260806-mow-a-lawn-better/",
-    "summary": "ウェブメディア「The Pudding」は、芝刈りを模した経路選択ゲームを開発しました。このゲームには3万人以上が参加し、彼らの移動経路や停止時間などのデータが記録・分析されました。その結果、効率的に芝を刈る最適解を見つけられた人とそうでない人との間に、行動パターンの明確な違いがあることが判明しました。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-08-05T22:48:36.333981"
-  },
-  {
-    "source": "Zenn",
-    "title": "器が来た日 — 7,126円の体に、AIの相棒を入れる（2/9）",
-    "link": "https://zenn.dev/answer_philo/articles/kodama-02-the-day-it-arrived",
-    "summary": "「器が来た日」というタイトルのこの記事は、筆者の元に届いた7,126円の「器」について述べています。この「器」は、AI（人工知能）を導入し、それを「相棒」として機能させるための物理的な土台となるものです。具体的に7,126円という価格が提示されており、AIとの新たな関係構築に向けた準備の始まりを描いています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-05T22:48:45.041887"
-  },
-  {
-    "source": "Qiita",
-    "title": "Lean 4 とは何か ── AI が数学オリンピックに挑み、フェルマーの最終定理がコードに書き写される時代の主役言語",
-    "link": "https://qiita.com/etale_cohomology/items/4af4df8d002b5c68b5a7",
-    "summary": "2024年夏、Google DeepMindのAI「AlphaProof」が国際数学オリンピック（IMO）で銀メダル相当の成績を収めましたが、その答案は「Lean 4」というプログラミング言語で書かれました。\n\nLean 4は、人間の言葉と数式による数学の証明を、機械が一行ずつ検査できるプログラミングコードへ翻訳する「形式化」の主役言語です。この形式化は現在、数学研究の最前線で研究者の仕事道具となりつつあります。\n\nAIの数学オリンピック挑戦やフェルマーの最終定理のコード化に見られるように、Lean 4は数学とAIの進化における重要な役割を担っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-05T22:48:53.407326"
   }
 ]
