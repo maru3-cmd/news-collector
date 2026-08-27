@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "LINEヤフーが“ペタバイト級DWH”をクラウド移行　「処理時間2倍」の壁をどう突破した",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/19/news001.html",
+    "summary": "LINEヤフーは総容量3PB超のDWHをAmazon Redshiftへクラウド移行しました。移行当初は処理時間2倍などのピーク時性能課題に直面しましたが、マルチAZ構成や自動WLMを導入してこれを克服。これによりバッチ処理の高速化とNoOps化を実現しました。現在は公式MCPサーバ整備を通じて“AIレディ”な基盤構築を推進しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-27T02:24:13.267082"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Appleが発表イベント「Surprise and shine.」を9月10日2時に開催、新型iPhoneが登場か",
+    "link": "https://gigazine.net/news/20260827-apple-officially-announces-iphone-event/",
+    "summary": "Appleは、2026年9月10日2時(日本時間)に「Surprise and shine.」と題した発表イベントを開催すると発表しました。\nこのイベントでは、次期モデルの「iPhone 18シリーズ」が披露されると広く予想されています。\nさらに、同社初となる折りたたみiPhoneが発表される可能性も示唆されており、大きな注目を集めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-27T02:24:20.055500"
+  },
+  {
+    "source": "Zenn",
+    "title": "巨大PRをStacked PRに分割したら、AIレビューが見逃していたバグを見つけてくれた",
+    "link": "https://zenn.dev/backtech/articles/e29bf4297187c9",
+    "summary": "巨大なプルリクエスト（PR）を複数のStacked PRに分割したところ、AIレビューが以前見逃していたバグを発見しました。元の巨大なPRの状態ではAIが検出できなかったバグが、PRの粒度を小さくすることで見つけられたのです。この経験は、PRを小さく分割することがAIレビューの精度を高め、見落とされがちな問題を発見する有効な手段であることを示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-27T02:24:29.697177"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIの過剰実装を検知して削る",
+    "link": "https://qiita.com/futakuchi0117/items/87945763c6c79c1927e9",
+    "summary": "本記事は、AIが生成するコードにおける「作りすぎ、設計しすぎ」の過剰実装を、検知・修正・防止の3層アプローチで解決する手順を提示しています。これは、LLMが大規模で長寿命なオープンソースの構造から学習するため、小さなスクリプトにも過剰な設計を再現してしまうのが原因です。プロンプトを詳述するよりも、生成後にコードを削る仕組みが重要だと指摘されています。具体的な過剰実装の例として、実装が一つしかない抽象基底クラス、モック値をそのままassertするテスト、エンタープライズ向けの過剰設計などが挙げられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-27T02:24:41.001111"
+  },
+  {
+    "source": "ITmedia",
     "title": "Asanaが5年、600万ドルのコード移行を「1.5週間、1.2万ドル」で完了　5文のプロンプトに絞った理由は",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/26/news024.html",
     "summary": "AsanaはAIを活用し、旧式ライブラリ「Enzyme」からの大規模なコード移行をわずか1.5週間、費用1.2万ドルで完了させました。\nこれは、当初5年と600万ドルかかると見積もられていた期間と費用を劇的に削減したものです。\nこの驚異的な成功は、長文ではない「5文のプロンプト」という簡潔なAI指示と、移行対象となる既存コードの品質の高さが主な要因です。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-05T22:48:53.407326"
-  },
-  {
-    "source": "ITmedia",
-    "title": "VMware製品にCVSS 9.8の脆弱性、回避策なし　速やかなアップデートを推奨",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news036.html",
-    "summary": "Broadcomは、VMware製品群で確認された5件の脆弱性を修正しました。特にvCenterには、認証回避や任意コード実行につながるCVSS 9.8の最高深刻度を持つ欠陥が存在します。これらの脆弱性に対する回避策は提供されておらず、システムを保護するためには速やかなパッチ適用によるアップデートが強く推奨されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-05T08:11:09.628941"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」",
-    "link": "https://gigazine.net/news/20260805-apple-openai/",
-    "summary": "Appleは、OpenAIに転職した元社員らが機密情報を盗み出したとしてOpenAIを提訴しました。これに対しOpenAIは、Appleの主張には誤りがあるとの反論声明を発表しています。OpenAIは、もしAppleが提訴する前に相談してくれていれば、彼らの懸念に対して喜んで全て説明しただろうと述べています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-05T08:11:17.421079"
-  },
-  {
-    "source": "Zenn",
-    "title": "読みやすいようで読みにくい、生成AIの設計書をマシにできたプロンプト",
-    "link": "https://zenn.dev/miyachan2/articles/f5e8bd8e4e3de0",
-    "summary": "生成AIの設計書は、一見読みやすいように見えても実際には理解が難しいという課題を抱えています。この記事は、この問題に対処するため、特定のプロンプトを導入した経験について述べています。そのプロンプトを活用することで、生成AIの設計書をより分かりやすく、実用的なものへと改善することができたと報告されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-05T08:11:25.458212"
-  },
-  {
-    "source": "Qiita",
-    "title": "【初心者向け】AIや最新ITは「意外な現場」でどう使われている？身近な現場から学ぶテクノロジーの現在地",
-    "link": "https://qiita.com/chuandujiusi/items/ed29840d3820ebb12e89",
-    "summary": "本記事は、最先端のAIやIT技術が、IT企業だけでなくホテルや製造業など「身近でアナログに見える現場」で広く活用されている現状を解説しています。これらの技術導入の主な目的は、人手不足の解消や顧客体験（UX）の向上といった具体的な課題解決にあります。例えばホスピタリティ業界では、24時間多言語対応のAIコンシェルジュが導入され、おもてなしの裏側を支えることで急速なIT化が進んでいます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-05T08:11:34.437279"
   }
 ]
