@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
+    "link": "https://gigazine.net/news/20260829-glm-5-3-open/",
+    "summary": "中国のAI企業Z.aiは、高性能AIモデル「GLM-5.3」を、約束通り日本時間の2026年8月29日0時に公開しました。このモデルはオープンモデルとして無償で提供されます。その性能は、業界をリードするClaude Fable 5やGPT-5.6 Solに匹敵するとされています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-28T17:46:37.024504"
+  },
+  {
+    "source": "Zenn",
+    "title": "「認知的負債」と「認知的降伏」— Addy Osmani が語る、AIに任せて失うもの",
+    "link": "https://zenn.dev/talks_tldr_jp/articles/tldr27-osmani-summary",
+    "summary": "Addy Osmani氏は、AIへの過度な依存がもたらすリスクとして「認知的負債」と「認知的降伏」という概念を提唱しています。認知的負債とは、AIに作業を任せることで、その分野における自身の知識や深い理解が徐々に低下していく状態を指します。さらに深刻な「認知的降伏」は、AIの出力を無批判に受け入れ、人間が批判的思考や検証能力を失う状態です。これらの現象は、人間の自律的な学習能力と深い理解を損ない、最終的には特定の認知能力を失う危険性を警告しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-28T17:46:46.332041"
+  },
+  {
+    "source": "Qiita",
+    "title": "埋め込みモデルのEmbedding vectorsのばらつきをどう比較するか考えてみた",
+    "link": "https://qiita.com/k-omae/items/0d1bde5d7c18cf24a858",
+    "summary": "この記事は、RAGなどのAI開発で重要な埋め込みモデルについて、異なるモデルのEmbedding vectorsの統計的評価、特にそのばらつきを比較する方法を考察しています。埋め込みモデルは入力テキストをモデルごとに異なる$d_m$次元のベクトルに変換し、文書間の類似度は主にcosine類似度で測られるため、ベクトルは正規化された単位ベクトルとして議論が進められます。したがって、本稿は単位ベクトルの散らばり具合をいかに評価するかという課題を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-28T17:46:55.503847"
+  },
+  {
     "source": "ITmedia",
     "title": "「生産性は上がったがROIが見えない」　AI活用を成果につなげるデータ基盤の条件",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/28/news015.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-08-07T01:27:21.561565"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "美徳・知識・幸福に関するアリストテレスの名言25選",
-    "link": "https://gigazine.net/news/20260807-top-25-aristotle-quotes/",
-    "summary": "古代ギリシアの哲学者アリストテレスは、倫理学や自然科学の基礎を築き、西洋最大の哲学者の一人に数えられます。この記事では、彼が残した美徳、知識、幸福などに関する名言に焦点が当てられています。具体的には、アリストテレスによる25の名言が、オーストラリア・カンピオン大学の公式サイトに掲載されており、その一部が紹介されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-07T01:27:29.018431"
-  },
-  {
-    "source": "Zenn",
-    "title": "「コードは読まない」開発スタイル ― Mermaid図解とモジュール分割で人間とAIの分業を作る",
-    "link": "https://zenn.dev/halhalhal1/articles/no-code-reading-dev-style",
-    "summary": "「コードは読まない」開発スタイルは、開発者が直接コードを読解する負担を減らし、AIとの分業を確立することを目指します。\n\nこのアプローチでは、システムの設計や処理フローを視覚的に表現するためにMermaid図解を活用します。さらに、コードを細かくモジュール分割することで、AIが各モジュールの具体的な実装を担いやすくします。\n\nこれにより、人間は高レベルな設計や全体の整合性の確認に集中し、AIがコード生成や詳細な実装を行う分業体制が構築され、開発効率と生産性の向上が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-07T01:27:38.641599"
-  },
-  {
-    "source": "Qiita",
-    "title": "【アーキテクチャ解説】既存のSIEMにAIを被せて「アラート疲労」を解消するプラットフォーム SIEM+ を開発した話",
-    "link": "https://qiita.com/jamesyip/items/28113376480c04bb8e93",
-    "summary": "イベントスのエンジニアチームは、既存のデータレイク（SIEM）上に機能する自律型AIセキュリティオーバーレイ「SIEM+」を開発しました。\nこのプラットフォームは、従来のSIEM運用で課題となっていた膨大な警告による「アラート疲労」と、生ログを直接LLMに投げる際の「LLMのコスト問題」をAIによって解決します。\n既に台湾のエンタープライズ企業での本番導入を完了しており、現在は日本市場への展開を進めています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-07T01:27:45.512088"
   }
 ]
