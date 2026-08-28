@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「生産性は上がったがROIが見えない」　AI活用を成果につなげるデータ基盤の条件",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/28/news015.html",
+    "summary": "AIエージェントの活用により業務生産性は向上しているものの、データの分散やコストの急増が原因で、多くの企業が投資対効果（ROI）を見出せていません。これは、企業がデータやAIに対する主権を失い、成果に結びつけられていない現状を示唆しています。\n\n本記事では、この課題を解決し、AI活用を真の成果につなげるため、企業がデータとAIの主権を取り戻すための課題解決アプローチとデータ基盤の条件について、Clouderaの視点から探ります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-28T05:52:20.653536"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "アニメ雑誌主要3誌の表紙を創刊号から確認できる「Anime Magazine Covers」",
+    "link": "https://gigazine.net/news/20260828-anime-magazine-covers/",
+    "summary": "「Anime Magazine Covers」は、主要なアニメ雑誌3誌「アニメージュ」「アニメディア」「月刊ニュータイプ」の表紙を創刊号から確認できるサービスです。このサービスにより、各誌の歴代表紙が一覧でき、アニメ雑誌の歴史やデザインの変遷を一望できるようになっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-28T05:52:27.950984"
+  },
+  {
+    "source": "Zenn",
+    "title": "毎日のバックアップが「失敗」で赤くなった。犯人は、AIセッションが起動時に回す「朝の掃除」処理だった",
+    "link": "https://zenn.dev/leia_dev/articles/backup-failed-because-i-was-working",
+    "summary": "毎日のバックアップが「失敗」と表示され、システムの状態が赤くなる問題が発生しました。この原因は、AIセッションがシステム起動時に実行する「朝の掃除」処理にあることが判明しました。つまり、「朝の掃除」処理がバックアップの失敗を引き起こした直接的な犯人でした。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-28T05:52:36.929215"
+  },
+  {
+    "source": "Qiita",
+    "title": "Databricksのai_top_driversで「売上が増えた要因」を分解してみた",
+    "link": "https://qiita.com/taka_yayoi/items/3d346566416729d39c26",
+    "summary": "Databricksの新しいベータ版SQL関数`ai_top_drivers()`は、売上や件数などの数字の増減要因を効率的に分析します。この関数は、2つの期間や集団を比較し、その増減に最も影響を与えた要素（切り口と値）を、貢献度が高い順に特定して返します。これにより、SQL一発で貢献分析が可能となり、「売上が増えた要因」といったビジネス上の問いへの迅速な洞察を得られます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-28T05:52:45.091568"
+  },
+  {
+    "source": "ITmedia",
     "title": "中堅・中小の「情シス」減少中　専任人材減少の“副作用”に迫る",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/26/news035.html",
     "summary": "中堅・中小企業では、情報システム部門の専任担当者（情シス）が減少傾向にあります。特に、中小企業の約65%で情シスが不在であり、中堅企業でも「ひとり情シス」が増加している状況です。\n\nこのIT運用を支える専任人材の不足は、企業のIT環境に様々な悪影響（副作用）を及ぼすことが、2つの調査から明らかになっています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-07T01:27:45.512088"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ドコモが選んだAPI保護の次の一手　AIエージェントを統制する「門番」とはは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/06/news056.html",
-    "summary": "NTTドコモは、サービス基盤のAPI保護を強化するため、米セキュリティ企業の製品を採用しました。このセキュリティ企業は、AIエージェントを統制する新しいセキュリティ製品の国内提供も開始します。記事では、大規模通信キャリアであるドコモへの採用における製品の強みや、「AIエージェントのセキュリティ」が「生成AIのセキュリティ」とどう異なるのかについて深掘りしています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-06T08:10:09.749620"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "チョコレートの豊かな香りにどっしりしたコーヒーの味わいが大人らしさを演出する「スターバックス COFFEE OF THE DAY カフェモカ」試飲レビュー",
-    "link": "https://gigazine.net/news/20260806-starbucks-coffee-of-the-day-moca/",
-    "summary": "スターバックスのペットボトル入りコーヒーブランド「スターバックス COFFEE OF THE DAY」から、新商品「カフェモカ」が2026年8月18日(火)に登場します。このカフェモカは、チョコレートの豊かな香りとどっしりしたコーヒーの味わいが特徴で、大人らしい「ちょうどよいご褒美」を演出するとされています。本記事では、編集部が発売に先立ちこの新製品を試飲し、その味をレビューしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-06T08:10:18.518576"
-  },
-  {
-    "source": "Zenn",
-    "title": "一生使える自分専用のAIベンチマークを作った — 差が出たのは「賢さ」ではなかった",
-    "link": "https://zenn.dev/miki_mini/articles/5d55f9056ac3ea",
-    "summary": "この記事では、著者が「一生使える自分専用のAIベンチマーク」を開発したことを紹介しています。このベンチマークを用いた結果、AIモデル間の真の差は一般的な「賢さ」ではないことが明らかになりました。これは、AIの評価において、単なる知識や論理能力だけでなく、特定の利用目的におけるAIの特性や適応性が重要であることを示唆しています。記事には具体的な評価数値は含まれていませんが、AIの多面的な評価の必要性が強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-06T08:10:29.934406"
-  },
-  {
-    "source": "Qiita",
-    "title": "Women in Data Science Tokyo @ IBM 2026 開催レポート",
-    "link": "https://qiita.com/nishikyon/items/a69019c2b810d06db283",
-    "summary": "「Women in Data Science Tokyo @ IBM 2026」のイベントレポートが作成・公開されました。\nこのイベントは2026年6月12日（金）に、東京・虎ノ門の会場とオンラインのハイブリッド形式で無料開催されました。\n性別を問わず誰でも参加可能で、毎年男女の参加比率が半々となる点が特徴です。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-06T08:10:39.708957"
   }
 ]
