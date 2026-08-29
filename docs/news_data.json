@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AIシステム侵害の行き着く先　Microsoftが突き止めた攻撃者の「真の目的」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/30/news005.html",
+    "summary": "Microsoftは、社内のAI活用を支える基盤を直接狙った侵害を**3件**観測しました。この基盤には、APIキーや社内データへの経路、プログラム実行権限といった極めて重要な情報が集中しています。攻撃者は、こうした集中する権限やデータを奪うことを真の目的としていると考えられます。企業は、このようなAIシステム侵害のリスクに対し、早急に対策を講じる必要があります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-08-29T23:41:41.372280"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ドードーは歴史家が考えていたほど愚かではなかったかもしれない",
+    "link": "https://gigazine.net/news/20260830-dodo-probably-not-stupid/",
+    "summary": "モーリシャス島に生息し、1600年代に絶滅したドードーは、歴史的な記録では「愚かでのろま」な鳥とされてきました。しかし、最近のドードーの頭蓋骨を調べた研究により、この認識が覆されつつあります。研究の結果、ドードーは他の近縁種と比較して、特別に頭が悪かったわけではない可能性が示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-29T23:41:49.017332"
+  },
+  {
+    "source": "Zenn",
+    "title": "EPSSもKEVも知らないまま、私は脆弱性トリアージツールを作っていた",
+    "link": "https://zenn.dev/secleeman/articles/5e5e9e77e47c00",
+    "summary": "著者は、EPSSやKEVといった業界の主要な脆弱性評価基準やツールを知らないまま、独自の脆弱性トリアージツールを開発しました。この経験は、既存の知識がない状態でも、現実世界の課題に対する実用的なソリューションを独力で構築し得ることを示唆しています。後に著者がこれらの概念に触れた際、自身のツールの価値や業界との整合性を再認識したことが示唆されます。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-08-29T23:41:58.927179"
+  },
+  {
+    "source": "Qiita",
+    "title": "Qiitaの過去記事を蒸留して自分の文体を再現する方法",
+    "link": "https://qiita.com/syun136_616/items/9e0bdf5b204cbf89a114",
+    "summary": "Qiitaで話題になった「過去記事を蒸留して自分の文体を再現する方法」は、AIに自身の長年の投稿を学習させて文体の特徴を抽出し、新しい記事作成に活用する手法です。具体的には、過去記事を要約し、その文体の特徴をプロンプトに組み込むことで、ファインチューニングより低コストで高い再現度が得られます。\n\n例えば、10年分のQiita投稿をAIに読ませることで自身の文体を再現する事例があり、これは個人の技術ブログ運用にも応用可能です。ただし、生成された文章は下書きの補助として利用するのが現実的であり、記事の一次情報や検証結果までは代替できないとされています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-29T23:42:09.592580"
+  },
+  {
     "source": "GIGAZINE",
     "title": "「赤いリンゴを心の中で思い浮かべて」と言われても何も視覚化できない「アファンタジア」入門ガイド",
     "link": "https://gigazine.net/news/20260829-aphantasia-guide/",
@@ -1312,41 +1348,5 @@
     "category": "DX・業務改善",
     "content_type": "article",
     "collected_at": "2026-08-08T22:17:40.012224"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest 2026-08-09：Astra は初の Critical 級サイバー能力、Claude Code は自動モードへ、Meta は五冠",
-    "link": "https://qiita.com/lhjjjk4/items/9d10e8bcbe87b6303527",
-    "summary": "2026年8月9日のAIデイリーダイジェストは、主要なAI開発企業における複数の重要な進展を報じています。\n\nまず、OpenAIの次期モデルAstraが、人間なしでゼロデイ脆弱性の発見・攻撃が可能な「Critical（重大）」レベルのサイバー能力を持つ可能性が指摘され、同社初の事例として開発の一部が停止されました。次に、AnthropicのClaude Codeが「自動モード」を導入し、開発環境へのアクセス許可のみでコーディングタスクを自律的に実行する「開発者エージェント」として機能するようになりました。最後に、MetaはVision、Speech、Code、Reasoning、Textの主要5分野で最先端のパフォーマンスを達成し、「五冠」を達成したと報告され、AI研究におけるリーダーシップを強調しました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-08T22:17:48.616934"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Xが「クリエイター収益分配」を終了し「オリジナルコンテンツ報酬プログラム」開始へ",
-    "link": "https://gigazine.net/news/20260808-x-original-content-rewards-program/",
-    "summary": "Xは、2023年7月から提供してきた「クリエイター収益分配」プログラムを終了し、新たに「オリジナルコンテンツ報酬プログラム」を開始することを発表しました。すでに旧プログラムへの新規登録は停止されており、既存の参加者が収益を獲得できる最終日は2026年9月7日に設定されています。この変更は、Xにおけるクリエイターの収益化戦略が再編されることを意味します。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-08-08T06:29:20.114689"
-  },
-  {
-    "source": "Zenn",
-    "title": "祭りは観測できるのか　　OpenTelemetryから考える、地域の暗黙知とAIの役割🏮",
-    "link": "https://zenn.dev/pomodoro_naomi/articles/745ae9a79bbe57",
-    "summary": "この記事は、「祭り」のような複雑な文化的現象を「観測可能」なものとして捉えられるかという問いに対し、IT分野の監視技術であるOpenTelemetryの概念を適用して考察しています。特に、祭りに深く根差した地域の「暗黙知」をいかに抽出し、デジタルデータとして扱うかが重要な論点となります。AIは、これらの複雑な暗黙知を分析・理解し、祭りの本質や継承に貢献する上で中心的な役割を果たす可能性が提示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-08T06:29:28.465799"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代でも、Goは「動いた」で終わらせないほうがいい話",
-    "link": "https://qiita.com/Sakaaaaai/items/4a9b31bf4f474a93a9bb",
-    "summary": "AIの進化によりGoコードの生成精度は向上し、CLIやWeb APIなどのひな形を非常に速く作れるようになりました。しかし、単に「動くコード」を書けることと、「壊れにくいコード」を育てられることは別であると筆者は指摘します。Goは文法がシンプルなため概念の誤解が事故につながりやすく、AI時代だからこそ、`slice`、`interface`、`context`、`error`などの根幹概念を深く理解することが不可欠だと、この記事は主張しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-08T06:29:36.095334"
   }
 ]
