@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「赤いリンゴを心の中で思い浮かべて」と言われても何も視覚化できない「アファンタジア」入門ガイド",
+    "link": "https://gigazine.net/news/20260829-aphantasia-guide/",
+    "summary": "「アファンタジア」とは、目を閉じても心の中で視覚的なイメージを思い描くことができない特性を指します。世界最大のアファンタジア・コミュニティであるAPHANTASIA NETWORKは、このアファンタジアが実際にどのようなものか、また他者の「頭の中の風景」とどう比較するのかといった疑問に答える入門ガイドを公開しました。このガイドは、これまであまり知られていなかったアファンタジアについて理解を深めることを目的としています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-29T11:51:02.828908"
+  },
+  {
+    "source": "Zenn",
+    "title": "「知りすぎ」はAIには欠点だ ——熟練の実装知が負債に変わるとき",
+    "link": "https://zenn.dev/ryok/articles/knowing-too-much-liability",
+    "summary": "AI開発において、人間、特に熟練者が持つ「知りすぎた」知識や長年の実装知は、時にAIにとって欠点となり、開発の「負債」と化すことがあります。これは、既存の知識や経験がAIの柔軟な学習能力や新たな発見を阻害し、特定のタスクへの過度な最適化を招く可能性があるためです。結果として、より汎用性の高いAIの潜在能力を最大限に引き出すには、人間の先行知識に囚われず、AIが自律的に学習・進化する余地を与えるアプローチが重要であると指摘されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-29T11:51:12.006784"
+  },
+  {
+    "source": "Qiita",
+    "title": "２０式小銃はAI的なアサルトライフルである理由",
+    "link": "https://qiita.com/good59548/items/8e0cbb6ea4322105c268",
+    "summary": "20式小銃（20式5.56mm小銃）が「AI的」とされるのは、単なる火器ではなく、拡張性を前提としたプラットフォームであり、情報処理の末端デバイスとして設計されているためです。M-LOK規格のハンドガードを採用したモジュール構造により、光学照準器やレーザーモジュールなどを柔軟に付け替え、AIのプラグインのように機能を拡張できます。さらに、光学照準器の搭載を前提とし、暗視装置やサーマルセンサーと組み合わせることで、情報処理のエッジデバイスとしての役割も果たします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-29T11:51:19.334206"
+  },
+  {
     "source": "ITmedia",
     "title": "「測るだけ」はもう終わり　従業員エンゲージメント診断へのニーズに変化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/29/news013.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-08T06:29:36.095334"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた",
-    "link": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/",
-    "summary": "Nintendo Switchおよび将来のNintendo Switch 2はLPCM 5.1に対応しており、一部タイトルでは5.1chサラウンド音声でのプレイが可能です。この記事では、この高品質な5.1chサラウンド音声をそのまま動画として録画する方法を探していました。その結果、Blackmagic Designの業務用キャプチャーボード「UltraStudio Express Recorder 3G」がこの機能に対応していることがわかり、実際にその性能を試したと報告しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-07T22:24:47.017472"
-  },
-  {
-    "source": "Zenn",
-    "title": "ランタイムは買える、受理条件は買えない —— AI開発基盤は三層の分離へ収束する",
-    "link": "https://zenn.dev/cognitiveosmdl/articles/b0790c49105b59",
-    "summary": "AI開発において、汎用的なランタイム環境は購入可能である一方、ビジネス固有の「受理条件」、つまりAIが達成すべき独自の要件や品質基準は既製品として買えないと指摘されています。そのため、AI開発基盤は、購入可能な共通基盤と企業独自の価値を生み出す部分を明確に分離する「三層の分離」へと収束していくと予測されます。これにより、企業は差別化の難しい汎用的な部分を効率化しつつ、競争優位性の源泉となる部分に集中してAI開発を進めることができるでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-07T22:24:57.259950"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.224｜セッション間 SendMessage が解禁｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/8d9bb54bff914f7017cd",
-    "summary": "Claude Codeのバージョンv2.1.224では、異なるマシンで起動したセッション間でも`SendMessage`を使って直接メッセージを送受信できるようになりました。相手のセッションは`ListAgents`で探索可能で、受信側の設定（`crossSessionInbound`や`dialogExpiry`）によって、承認待ちなどの扱いが決定されます。\n\nさらに、`claude self-hosted-runner`コマンドで手元のマシンをweb/mobile/deskの実行環境として利用できるセルフホスト機能も追加されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-07T22:25:07.027835"
   }
 ]
