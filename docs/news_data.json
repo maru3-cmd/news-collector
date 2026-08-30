@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」のベンチマークスコア＆バッテリー持続時間＆充電速度を実際に検証してみたよレビュー",
+    "link": "https://gigazine.net/news/20260830-google-pixel-11-benchmark-battery/",
+    "summary": "2026年8月12日に登場したGoogle製スマートフォン「Google Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」「Pixel 11 Pro Fold」の中から、GIGAZINE編集部が「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」を入手しました。編集部では、カメラ性能の検証に続き、これら3モデルのベンチマークスコア、バッテリー持続時間、充電速度を実際に検証しています。このレビューは、各モデル間の性能の違いを詳細に確かめることを目的としています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-08-30T10:48:06.111530"
+  },
+  {
+    "source": "Zenn",
+    "title": "気づいたら操縦席に座っていた ── AIに仕事をさせる人間には、計器がいる",
+    "link": "https://zenn.dev/maronsan/articles/airframe-one-machine",
+    "summary": "提供されたのは記事のタイトルのみで、本文がないため、内容を正確に要約することはできません。\n\nしかし、タイトル「気づいたら操縦席に座っていた ── AIに仕事をさせる人間には、計器がいる」からは、AIが業務を遂行する中で、人間はそれを監督・指揮する「操縦席」という立場にいることが示唆されます。この状況において、人間がAIのパフォーマンスや状況を適切に把握し、効果的に意思決定を行うためには、航空機の計器のように正確でリアルタイムな情報が不可欠であるという重要なメッセージが読み取れます。具体的な数字については、本文が提供されていないため含めることはできません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-30T10:48:15.707491"
+  },
+  {
+    "source": "Qiita",
+    "title": "Tool Engineeringを実装する — エージェントに渡す道具そのものを設計する",
+    "link": "https://qiita.com/Hideki_Tamae/items/f47582a494755b8db4ec",
+    "summary": "この記事は、AIエージェントに渡す「道具そのもの」を設計する「Tool Engineering」の実装に焦点を当てています。これは、Harness Engineering、Loop Engineering、Context Engineeringといった先行する実装ステップとは異なり、エージェントが世界に働きかけるための手段を直接設計する段階です。ツールの設計品質はモデルの性能に大きく影響するため、その設計の重要性が強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-08-30T10:48:23.477260"
+  },
+  {
     "source": "ITmedia",
     "title": "AIシステム侵害の行き着く先　Microsoftが突き止めた攻撃者の「真の目的」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/30/news005.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-09T06:33:51.925490"
-  },
-  {
-    "source": "Qiita",
-    "title": "HandyとローカルLLMで音声入力環境を構築しようとした話",
-    "link": "https://qiita.com/Reotech/items/a85985fc5f361d6bba12",
-    "summary": "筆者はWindows上でHandyの音声入力にローカルLLMを組み合わせ、AI指示や業務連絡などの用途に合わせた文章整形を行う仕組みを構築しました。このシステムは実機で動作したものの、待ち時間に見合う安定した改善効果が得られなかったため、現在はHandyのWhisper Mediumのみで文字起こしする運用に戻しています。本記事は、作成した仕組みと実測結果に基づき、「今は採用しない」と判断するまでの記録であり、実装と評価データはGitHubで公開されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-09T06:34:01.540575"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた",
-    "link": "https://gigazine.net/news/20260808-scanwatch-vitals/",
-    "summary": "フランスのスマートデバイスメーカーWithingsが提供する「ScanWatch Vitals」は、アナログ腕時計のようなシンプルなデザインが特徴のスマートウォッチです。最大35日間駆動し、睡眠時間や血中酸素濃度を測定できるヘルスケアトラッカー機能を備えています。必要な情報を表示できるディスプレイも内蔵しており、健康管理に役立つ設計となっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-08T22:17:33.123548"
-  },
-  {
-    "source": "Zenn",
-    "title": "SNS運用を4.5ヶ月自動化して1,271投稿した結果と、見つけた7つの構造欠陥",
-    "link": "https://zenn.dev/viralana/articles/sns-automation-4months-data",
-    "summary": "この記事は、SNS運用を4.5ヶ月間自動化し、合計1,271件の投稿を行った結果を詳述しています。その過程で、自動化システムに内在する7つの構造欠陥が特定されたことが主要な発見です。これは、単に投稿数を増やすだけでなく、SNS運用の自動化における具体的な課題と改善点を示唆する報告となっています。",
-    "category": "DX・業務改善",
-    "content_type": "article",
-    "collected_at": "2026-08-08T22:17:40.012224"
   }
 ]
