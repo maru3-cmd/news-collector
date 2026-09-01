@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "分社化10年のHPE、望月社長に聞く「AIファクトリー」の差別化からVMware代替、対Cisco戦略まで",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news074.html",
+    "summary": "日本HPEの望月弘一社長は、分社化10年を迎える同社の、AI最適化が進む次の10年を見据えた日本市場戦略を語りました。同社は「AIファクトリー」の差別化と、データセンターの電力制約への対応を重点課題とします。さらに、VMwareからの移行需要を取り込み、Ciscoを視野に入れたネットワーク統合戦略で競争力強化を目指します。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-09-01T23:40:10.775744"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "江戸時代の街道の経路と所要日数がわかる「江戸時代の経路検索」",
+    "link": "https://gigazine.net/news/20260902-edo-routing/",
+    "summary": "要約エラー: 504 The request timed out. Please try again.",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-01T23:40:50.616705"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIガバナンスの要件を実行前に止めるまでつないだ――RPE M2の現在地",
+    "link": "https://zenn.dev/dantarg/articles/rpe-m2-governed-integration-closure",
+    "summary": "この記事は、AIガバナンスの要件を「RPE M2」という特定の枠組みがどのように管理しているかについて述べています。\n\nRPE M2は、AIシステムの「実行前」の段階から、最終的にシステムを「停止」させるまでの全ライフサイクルにわたり、ガバナンス要件を一貫して連結し、管理する仕組みを実現しているようです。これにより、AIが運用される全期間を通じて、途切れることのない包括的なガバナンス体制が確立されている現状が示唆されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-01T23:41:35.110390"
+  },
+  {
+    "source": "Qiita",
+    "title": "Autonomous AI Databaseの ResourcePrincipalを使用して OCI ユーザーの API署名鍵不要で Select AIしてみてみた",
+    "link": "https://qiita.com/shirok/items/b4b0072073d6edcb0907",
+    "summary": "本記事は、Autonomous AI DatabaseにおいてResource Principalを活用することで、OCIユーザーのAPI署名鍵なしでSelect AIを実行できるか検証したドラフトです。これにより、鍵の生成や管理が不要となり、OCI Generative AIとの連携における認証プロセスが簡素化されるメリットを示しています。検証は2026年8月13日に行われたもので、AIデータベースと生成AIのよりスムーズな連携の可能性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-01T23:41:43.391188"
+  },
+  {
+    "source": "ITmedia",
     "title": "イエローハットで不正アクセス　最大180万人が情報漏えいの対象",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news027.html",
     "summary": "イエローハットは、同社の「WEB作業予約システム」が不正アクセスを受けたと発表しました。このサイバー攻撃により、最大約180万人分の個人情報が漏えいした可能性があるとのことです。同社は既に緊急対策を講じており、利用者に対して注意を呼びかけています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-12T07:02:35.391148"
-  },
-  {
-    "source": "Qiita",
-    "title": "ContinuousClockで生成待ちを4区間に分ける【開発日誌 Day26】",
-    "link": "https://qiita.com/simplememo/items/db0f1eb8c25e2a01fa08",
-    "summary": "「AIが遅い」という曖昧な表現を具体的に分析するため、記事ではオンデバイス生成の待ち時間を詳細に計測する設計を考案しています。具体的には、`ContinuousClock`を使用して待ち時間を「保存」「モデル準備」「生成」「検証」の**4区間**に分割し、`OSLog`の`signpost`でInstrumentsのトレースに重ねて可視化します。ただし、計測境界が固定されるまでは、速く見せる数字を避けるため、現時点での実測値は公開されない方針です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-12T07:02:45.014296"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる",
-    "link": "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/",
-    "summary": "生成AIの普及により、学生が宿題やレポートにAIを利用する学業不正が問題視されており、不公平や学力低下を招いています。こうした事態を受け、デンマークはAIによる不正を撲滅するため独自の対策を講じました。具体的には、デンマークの高校生に対し、提出した筆記課題についての口頭試問が義務づけられることになりました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-11T22:31:33.040721"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIがコードを書く時代 ― 人間がコードレビューをするべきか",
-    "link": "https://zenn.dev/hiramax/articles/6e23d0c3e7535f",
-    "summary": "AIがコードを生成する能力を急速に高める中、人間がそのAI生成コードをレビューすべきか否か、またその役割がどう変化するかが重要な議論となっています。この記事は、AIが書いたコードの品質や潜在的なバグ、セキュリティ脆弱性を人間が効果的に見抜けるか、という疑問を投げかけています。さらに、人間レビューアの新たな役割や、最終的なコードの責任を誰が負うべきかといった点が主な論点として挙げられています。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-08-11T22:31:44.465820"
-  },
-  {
-    "source": "Qiita",
-    "title": "個人開発のAI投資アドバイザーに学ぶ「ガードレール設計」と「心理的ハーネス」の工夫",
-    "link": "https://qiita.com/hypatia_AH1033/items/b68a5e07f6c0d83c3e2d",
-    "summary": "本記事は、AI駆動開発におけるAIの振る舞いを安全に制御する「ガードレール設計」と「心理的ハーネス」の重要性を解説しています。特に、GitHubで公開されているAI投資アドバイザー`Personal-Investment-Advisor`を事例に、LLMアプリケーションに堅牢なガバナンスと「心理的ガードレール」を組み込む工夫を紹介。\n\nこのAIは、単に市場予測や収益率を追求するのではなく、市場の乱高下やユーザーの「感情の暴走」から保護する「要塞型（保護者）」として設計されています。\n\n初心者には専門用語を排除してリスクから守る「伴走者」として機能し、経験者に対してはパニック売りや飛びつき買いといった衝動的な行動を防ぐ役割を果たす点が特徴です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-11T22:32:10.623327"
   }
 ]
