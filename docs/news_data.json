@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "イエローハットで不正アクセス　最大180万人が情報漏えいの対象",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news027.html",
+    "summary": "イエローハットは、同社の「WEB作業予約システム」が不正アクセスを受けたと発表しました。このサイバー攻撃により、最大約180万人分の個人情報が漏えいした可能性があるとのことです。同社は既に緊急対策を講じており、利用者に対して注意を呼びかけています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-01T10:37:43.290910"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "オープンソース動画編集ソフトのOpenShot Video Editorが史上最大のクリエイティブワークフローアップグレードを実現した「OpenShot 4.0」をリリース",
+    "link": "https://gigazine.net/news/20260901-openshot-4/",
+    "summary": "オープンソース動画編集ソフトのOpenShot Video Editorが、史上最大のクリエイティブワークフローアップグレードとなる「OpenShot 4.0」をリリースしました。このバージョンでは、画面・ウェブカメラ・マイク・システムオーディオをプロジェクトに直接録画する機能が追加されています。また、カラーホイールやLUTを用いた高度な色補正・グレーディングが可能になったほか、機械学習モデルによる被写体分離やアニメーションによるオーディオビジュアライゼーションも容易に実現できます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-01T10:37:50.161367"
+  },
+  {
+    "source": "Zenn",
+    "title": "Codexに作業を任せて外出したい ― PCを閉じても続ける方法",
+    "link": "https://zenn.dev/boku_yaji/articles/c1d58e24077274",
+    "summary": "この記事は、「Codex」のようなAIモデルに作業を任せ、ユーザーがPCを閉じて外出しても、その作業が中断されずに継続する方法について解説しています。これは、AIがローカルPCの稼働に依存せず、ユーザーが不在の間もバックグラウンドでタスクを進められるようにするための課題解決に焦点を当てています。具体的な方法としては、リモートサーバーやクラウド環境の利用、あるいは作業を継続するための特定のツールや設定が提案されていると推測されます。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-09-01T10:38:00.985567"
+  },
+  {
+    "source": "Qiita",
+    "title": "【AI画像処理】ブラウザで動作する画像高画質化・ノイズ除去ツールの精度と活用検証",
+    "link": "https://qiita.com/ivav2330/items/a17387056340fe742013",
+    "summary": "本記事は、低解像度画像やレトロコンテンツのデジタル化における従来の画像補正技術の課題を指摘します。その解決策として、ディープラーニングを用いたAI画像高画質化（Image Upscaling / Restoration）に焦点を当てています。SRCNNやESRGANといったAIモデルを活用し、ブラウザ上で手軽に高精度な処理が行える実用ツールの精度と活用検証結果を共有することが目的です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-01T10:38:08.702316"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoft、セキュリティ製品の8月更新を公開　AIエージェント拡大に伴いDefenderやEntraなど機能拡張",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/01/news033.html",
     "summary": "Microsoftは、AIエージェントの利用拡大に対応するため、セキュリティ製品群の2026年8月分アップデートを公開しました。この更新では、Defenderでのサードパーティーデータ監視拡張やEntraによる複数テナント統制といった、製品横断的な機能強化が図られています。これにより、企業は増大するAIエージェントの脅威に対し、より包括的なセキュリティ対策を講じることが可能になります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-11T22:32:10.623327"
-  },
-  {
-    "source": "ITmedia",
-    "title": "2028年にSOCの人手対応、30％減へ　常態化する攻撃に企業は勝てるのか",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
-    "summary": "常態化するサイバー攻撃とAIによる混乱拡大を受け、2028年までにSOC（セキュリティオペレーションセンター）の人手対応が30%削減される見込みです。このような状況下で企業が競争力を維持できるかが問われています。ガートナーは、セキュリティリーダーが競争優位を保つために注力すべき3つの優先事項を提示しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-11T06:41:45.697897"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
-    "link": "https://gigazine.net/news/20260811-1panel/",
-    "summary": "無料のVPSコントロールパネル「1Panel」が公開されました。\nこのパネルは、Webサイト、Docker、データベースなどの標準的なVPS管理機能を提供します。\n最大の特徴は、OpenClawやHermes AgentといったAIエージェントの作成・設定、さらにOllamaによるローカルLLMの管理機能まで統合している点です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-11T06:41:58.431400"
-  },
-  {
-    "source": "Zenn",
-    "title": "3pxのズレをAIに4回直させて4回とも外した — 視覚バグをrectで検証してはいけない理由",
-    "link": "https://zenn.dev/genelab_999/articles/f931c35c858f8d",
-    "summary": "この記事は、わずか3pxの視覚的なズレというバグの修正をAIに4回依頼したものの、すべて失敗に終わった事例を解説しています。その主な理由として、要素の座標やサイズを示す「rect」を用いた機械的な検証では、人間の視覚が捉える実際のズレを正確に把握できない場合があることを指摘しています。筆者は、視覚バグの検証においては、数値データだけでなく人間の目による確認の重要性を強調し、rectによる検証の限界と危険性を訴えかけています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-11T06:42:06.622355"
-  },
-  {
-    "source": "Qiita",
-    "title": "Next.jsのAGENTS.md自動生成を実際に試す",
-    "link": "https://qiita.com/st-man-hori/items/1cfe30805c37c41fa19b",
-    "summary": "Next.js 16.2以降、AIエージェントがプロジェクトを理解するためのドキュメント機能に変更がありました。具体的には、Next.js 16.2ではAIエージェント向けのドキュメントが`node_modules`内にバンドルされるものの、`AGENTS.md`の自動生成はされません。しかし、Next.js 16.3以降ではバンドルされたドキュメントに加え、`AGENTS.md`ファイルも自動生成・自動更新されるようになります。この記事は、これらのバージョンごとの挙動を実際に確認することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-11T06:42:15.698103"
   }
 ]
