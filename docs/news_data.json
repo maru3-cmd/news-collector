@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoft、セキュリティ製品の8月更新を公開　AIエージェント拡大に伴いDefenderやEntraなど機能拡張",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/01/news033.html",
+    "summary": "Microsoftは、AIエージェントの利用拡大に対応するため、セキュリティ製品群の2026年8月分アップデートを公開しました。この更新では、Defenderでのサードパーティーデータ監視拡張やEntraによる複数テナント統制といった、製品横断的な機能強化が図られています。これにより、企業は増大するAIエージェントの脅威に対し、より包括的なセキュリティ対策を講じることが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-01T00:53:48.892140"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "iPhoneがAndroidを上回った唯一の年代は？GIGAZINE読者のスマホ利用率を調べてみた",
+    "link": "https://gigazine.net/news/20260901-gigazine-user-smartphone-android-maker/",
+    "summary": "GIGAZINEは、読者のスマートフォン利用状況を把握するため、2026年夏のプレゼントアンケートを実施しました。このアンケートでは、GIGAZINE読者が使用しているスマートフォンの種類（AndroidかiPhoneか）や、Androidスマートフォンのメーカーについて詳細に尋ねられました。設問の多くが複数選択可能であったため、各項目の割合を合計すると100％を超える可能性があります。記事の続きでは、これらの調査結果が詳しく分析されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-01T00:53:58.792172"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI化する業務の優先順位づけ。効果と難易度の2軸で並べる手順",
+    "link": "https://zenn.dev/gen_ai_kiyozuka/articles/ai-task-priority-2x2-matrix",
+    "summary": "AI化を進める際、どの業務から着手すべきか優先順位をつけることが重要です。そのためには、「AI導入によって得られる効果の大きさ」と「導入の難易度」という2つの軸で業務を評価・分類する手法が有効とされます。この2軸マトリクスを用いることで、効果が高く難易度が低い業務は優先的に着手し、効果が低い業務は後回しにするなど、効率的かつ戦略的なAI導入計画を立てることが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-01T00:54:06.651993"
+  },
+  {
+    "source": "Qiita",
+    "title": "事務職からAIエンジニアを目指して:スポーツボウリング場構想・第三弾⑥⑦⑧",
+    "link": "https://qiita.com/Junko-Takahashi-Cloud/items/46987d486a497ac8221d",
+    "summary": "記事「スポーツボウリング場構想・第三弾」は、ボウリング場の店舗運営をシステム化する際の課題と複雑性を解説しています。単なる予約システムに留まらず、予約から来店、受付、レーン利用、決済までの一連の顧客フロー全体をシステムで管理する必要性を強調。\n\nさらに、顧客の「予約済み」「利用中」といった状態管理や、故障レーン、予約変更といったイレギュラーな事態への対応も不可欠だと指摘。既存システムとの連携を含め、店舗運営に直結する複雑な設計が求められることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-01T00:54:16.611945"
+  },
+  {
+    "source": "ITmedia",
     "title": "サイボウズ「kintone」の動向に見る、AI時代に向けた大企業の課題と対策",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news095.html",
     "summary": "サイボウズは、自社のサービス「kintone」の顧客動向と実績に基づき、AI時代における大企業の課題と対策について見解を示しました。この分析は、大企業がAI活用に関して直面する現状と、今後の対応策を探るものです。提示された見解は、AIの導入や活用を検討しているあらゆる企業にとって、有用な示唆を提供する可能性があります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-11T06:42:15.698103"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能",
-    "link": "https://gigazine.net/news/20260810-steam-machine-pc/",
-    "summary": "Steam公式ゲーミングPC「Steam Machine」は、Steamを運営するValveが開発したLinuxベースの「Steam OS」を搭載しています。このマシンはゲームプレイだけでなく、デスクトップモードに切り替えることで、文書作成やGIMP、FirefoxといったLinuxアプリを用いた画像編集などのPC作業も可能です。本記事では、そのデスクトップPCとしての使い心地を検証するため、アプリのインストールやベンチマークテストが実施されました。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-08-10T22:26:23.211896"
-  },
-  {
-    "source": "Zenn",
-    "title": "売上表のラベルを段階的に省略すると、LLMはどこで列を取り違えるか",
-    "link": "https://zenn.dev/every_ai_recipe/articles/sales-table-label-omission-limit",
-    "summary": "この研究は、売上表のような表形式データにおけるLLMの課題に焦点を当てています。具体的には、表の列ラベルを段階的に省略していくと、LLMがいつ、そしてどのように列の情報を誤って認識し始めるかを検証します。\n\n重要なポイントは、ラベルの欠如がLLMのデータ理解に与える影響の度合い、特にデータと対応する列の誤識別の具体的な発生箇所を明らかにすることです。これにより、LLMが表データ処理で信頼性を失う閾値やパターンが特定されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-10T22:26:33.443157"
-  },
-  {
-    "source": "Qiita",
-    "title": "法務省検討会が「声」の法的保護を整理。AI音声カバーと物まねの線引きを報告書から読む",
-    "link": "https://qiita.com/quotidia/items/e0125fe881e5cb6c8938",
-    "summary": "法務省の検討会は、人の「声」の法的保護に関する報告書「生成AIによるパブリシティ権侵害等に関する解釈指針」を2026年8月7日に公表しました。この報告書は、「声」が主に著名人の顧客吸引力を保護するパブリシティ権と、顧客吸引力を問わず適用される人格権由来の「みだりに利用されない権利」の両方で保護されうると整理しています。具体例として、AI音声カバーをSNSで公開・収益化する行為はパブリシティ権侵害等になりうると指摘されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-10T22:26:42.230790"
-  },
-  {
-    "source": "ITmedia",
-    "title": "“脱モノ売り”のリコー　同社が説く「営業AXの勘所」とは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news066.html",
-    "summary": "この記事は、営業力に定評のあるリコージャパンが提唱する「営業AX」（営業のデジタルトランスフォーメーション）の要点を解説しています。同社は、従来の「モノ売り」から顧客の課題を解決する「課題解決型」への営業スタイル転換を図ってきました。この変革の経験から、営業AXを導入し成果を出すための「勘所」が示されており、その具体的なアプローチが記事の焦点となっています。",
-    "category": "DX・業務改善",
-    "content_type": "news",
-    "collected_at": "2026-08-10T07:02:39.616321"
   }
 ]
