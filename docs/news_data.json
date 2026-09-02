@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "イスラエル国防軍前CISOが東京で語った「Agentic AI時代の防衛戦略」　AIセキュリティカンファレンスレポート",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news045.html",
+    "summary": "AIの進化により、攻撃者は作戦を自動化し、かつて50人の専門家が必要だった高度なサイバー攻撃を少人数で実行できるようになりました。このような脅威に対応するため、イスラエル国防軍で25年間防衛を指揮した前CISOが東京のAIセキュリティカンファレンスで登壇しました。彼は「Agentic AI時代の防衛戦略」をテーマに、この新たな時代における防衛戦略をどこから始めるべきかについて説きました。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-02T23:41:17.777510"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "CloudflareがCDNキャッシュを平均3分の1に圧縮、数PB級の容量を生み出す「Cache Transcoding」を試作",
+    "link": "https://gigazine.net/news/20260903-cloudflare-cache-transcoding/",
+    "summary": "Cloudflareは、CDNのキャッシュデータを圧縮し、既存ストレージを実質的に大容量化する新技術「Cache Transcoding」を試作しています。初期テストでは、データの保存サイズが平均で元の約3分の1に圧縮されることが確認されました。このシステムは、数％程度のCPU負荷増で数PB規模の実効キャッシュ容量を生み出す可能性を秘めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-02T23:41:25.325112"
+  },
+  {
+    "source": "Zenn",
+    "title": "レビューAIには、報告を信じさせない ― 突合レビューをどうさせているか",
+    "link": "https://zenn.dev/r2_san/articles/3a06fe3deb0abe",
+    "summary": "このレビューは、レビューAIの活用における独自のアプローチ「報告を信じさせない」という点に焦点を当てています。具体的には、AIが提示する情報を鵜呑みにせず、何らかの形で人間による検証や他のデータとの「突合レビュー」を行うことで、その信頼性を確保する手法を採っているようです。これにより、AIの効率性と人間の判断力を組み合わせ、レビュープロセスの精度と信頼性向上を目指していると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-02T23:41:34.007606"
+  },
+  {
+    "source": "Qiita",
+    "title": "Anthropic がコマース用エージェントをオープンソース化した",
+    "link": "https://qiita.com/jqit_suwa/items/1c0f27da8eb685f6ba05",
+    "summary": "Anthropicは9月2日、Claudeでショッピングエージェントを開発する際の参考実装として、「anthropics/commerce-agents」をApache 2.0ライセンスでオープンソース公開しました。このプロジェクトには、買い物客向けの「Shopping Agent」と店舗スタッフ向けの「Merchant Agent」の2種類のエージェントが含まれています。\n\nShopping Agentは商品検索や比較、注文追跡などを支援し、Merchant Agentは売上分析、在庫アラート、販促提案などをサポートします。顧客側と店舗側の両方に対応する、すぐに使えるコードが提供されている点が特徴です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-02T23:41:43.174707"
+  },
+  {
+    "source": "ITmedia",
     "title": "eラーニングが成果に結びつかないのはなぜ？　従業員の55％、デジタル教育に「不満」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news025.html",
     "summary": "生成AIの普及でデジタル人材育成が急務となる中、Gartnerの調査によると、従業員の55%が自社のデジタルスキル教育に「不満」を抱いていることが明らかになりました。多くの企業が教育施策に取り組む一方で、その効果が十分に感じられていない現状が浮き彫りになっています。記事では、この従業員の不満を解消し、人材育成を実際の成果に繋げるためのアナリストによる提言が紹介されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-08-13T07:06:34.304077"
-  },
-  {
-    "source": "Zenn",
-    "title": "一つのファイルから生成しても、指示のズレは止まらない",
-    "link": "https://zenn.dev/untactit/articles/9b983792bd8e61",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.16430793s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 21\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-13T07:06:38.851288"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代の全体像をつかむ4冊【技術＋戦略】",
-    "link": "https://qiita.com/koukyo/items/efaef9b1be47da766551",
-    "summary": "AI技術、特にLLMの業務導入が増える中で、技術的背景から社会的リスク、経営層への説明といった幅広い知識の必要性を感じた筆者が、体系的な学習のために厳選した書籍を紹介する記事です。エンジニアとして地力がつくという観点から、**4冊**のAI関連書籍を選定しています。これらは「歴史的文脈」「ビジネス戦略」「ハンズオン実装」「社会的インパクト」という**4つの軸**に基づき、AI時代の全体像を掴むことを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-13T07:06:50.458395"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性",
-    "link": "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
-    "summary": "新型コロナウイルス感染後に体調不良が長く続く「ロングCOVID」の患者、特に無気力感や抑うつ症状を伴う人々について、カナダの研究チームが脳をスキャンして調査しました。その結果、ドーパミンを放出する神経終末の状態を示す指標が、健康な人よりも約18％低い可能性が示されました。この発見は、ロングCOVIDにおける精神症状のメカニズム解明につながるかもしれません。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-12T22:30:03.740824"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude CodeとPythonでPDF請求書から情報を自動抽出",
-    "link": "https://zenn.dev/ikuokuotiak/articles/claude-python-pdf-invoice-extractor",
-    "summary": "この記事は、Claude CodeとPythonを活用し、PDF形式の請求書から必要な情報を自動的に抽出する方法について解説しています。手作業によるデータ入力の負担を軽減し、業務の効率化と自動化を目指すことが主要な目的です。これにより、経理業務などにおける情報管理の精度向上と省力化が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-12T22:30:12.751874"
   }
 ]
