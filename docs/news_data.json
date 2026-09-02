@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "eラーニングが成果に結びつかないのはなぜ？　従業員の55％、デジタル教育に「不満」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news025.html",
+    "summary": "生成AIの普及でデジタル人材育成が急務となる中、Gartnerの調査によると、従業員の55%が自社のデジタルスキル教育に「不満」を抱いていることが明らかになりました。多くの企業が教育施策に取り組む一方で、その効果が十分に感じられていない現状が浮き彫りになっています。記事では、この従業員の不満を解消し、人材育成を実際の成果に繋げるためのアナリストによる提言が紹介されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-02T10:02:08.771326"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Google Playで学習アプリの「AnkiDroid」が寄付リンクの存在を理由にポリシー違反と見なされる",
+    "link": "https://gigazine.net/news/20260902-ankidroid-google-play-policy-violation/",
+    "summary": "学習アプリ「AnkiDroid」が、アプリ内に寄付を募るリンクを表示していたことを理由に、Google Playの決済ポリシーに違反していると判断されました。Google Playはアプリ内での直接的な収益化や寄付を求めるリンクに対して厳しい規則を適用していることが示唆されます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-02T10:02:18.642945"
+  },
+  {
+    "source": "Zenn",
+    "title": "限定した情報で仮説を広げ、全体を把握して検証する｜null/undefinedの罠から学んだ、ジュニアエンジニアの多段AIデバッグ術",
+    "link": "https://zenn.dev/jinjer_techblog/articles/946ce16452a286",
+    "summary": "この記事は、ジュニアエンジニアがAIのデバッグで「null/undefinedの罠」に遭遇した経験から学んだ実践的な手法を解説しています。限られた情報しかない状況でも、仮説を広げてシステム全体を把握し、段階的に検証を進めることで問題を解決に導く「多段AIデバッグ術」が紹介されています。これは、未知のエラーに対し効率的に対処するための重要なスキルとして強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-02T10:02:27.332768"
+  },
+  {
+    "source": "Qiita",
+    "title": "全データ分析者驚愕！20代が多いほど売れる、でも20代は買ってない。って、どゆこと？",
+    "link": "https://qiita.com/Gotoubun_taiwan/items/dd07310bbb5d91646488",
+    "summary": "本記事は、データサイエンティストが有権者の投票行動分析を例に、特定の年代層と政党支持の関係を直接把握する難しさを解説しています。秘密投票の原則があるため、選挙区ごとの年代別有権者数や政党別得票数は分かっても、「30代の有権者のうち何%がA党に投票したか」といった詳細なクロス集計データは得られません。これは、データ分析において属性と行動の直接的な結びつきを見出す際の根本的な課題を浮き彫りにしています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-02T10:02:39.556652"
+  },
+  {
+    "source": "ITmedia",
     "title": "分社化10年のHPE、望月社長に聞く「AIファクトリー」の差別化からVMware代替、対Cisco戦略まで",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news074.html",
     "summary": "日本HPEの望月弘一社長は、分社化10年を迎える同社の、AI最適化が進む次の10年を見据えた日本市場戦略を語りました。同社は「AIファクトリー」の差別化と、データセンターの電力制約への対応を重点課題とします。さらに、VMwareからの移行需要を取り込み、Ciscoを視野に入れたネットワーク統合戦略で競争力強化を目指します。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-12T22:30:12.751874"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.227〜v2.1.229｜Write の read 必須が新モデルで外れる｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/5acf087c20983cff5f7c",
-    "summary": "Claude CodeのChangelog v2.1.227〜v2.1.229によると、v2.1.228でWriteツールの「同じセッションで一度Readしてから書く」制約が新しいモデルで解除されました。これにより、未読の既存ファイルを直接上書きできるようになり、ファイル作成フローがRead待ちで停止しなくなる一方で、安全ガードが一つ減ります。また、v2.1.229では、`/commit-push-pr`コマンドが`--force`などの危険なフラグを自動承認せず、都度確認を求めるように変更されました。さらに、claude.ai同期スキルのローカルコマンド挙動も制限されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-12T22:30:24.517312"
-  },
-  {
-    "source": "ITmedia",
-    "title": "デジタル投資の67％がAIへ、ROIが見えない組織が過半",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news032.html",
-    "summary": "Gartnerの調査によると、サプライチェーン部門におけるデジタル投資の67%がAIに集中しています。しかし、この多額のAI投資に対する具体的な利益率（ROI）を把握できていない責任者が過半数に上ることが明らかになりました。この現状は、AIの成果を適切に測定・評価できる組織とできない組織との間に大きな隔たりがあることを示唆しており、今後のAI戦略における課題となっています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-08-12T07:02:17.081395"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "マーク・ザッカーバーグが異様にポジティブなAI未来論を展開、スーパーインテリジェンスで雇用も増えると超楽観的予測",
-    "link": "https://gigazine.net/news/20260812-meta-zuck-the-future-is-for-everyone/",
-    "summary": "Metaのマーク・ザッカーバーグCEOは、2026年8月10日に公開したコラム「The Future is for Everyone」で、超知能を個人が利用できる「パーソナルスーパーインテリジェンス」として広く普及させるべきだと提唱しました。\n\n彼はAIによる大量失業の悲観論に異議を唱え、AIが個人の能力を拡張することで、長期的には雇用さえ増えるという極めて楽観的な未来予測を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-12T07:02:26.495119"
-  },
-  {
-    "source": "Zenn",
-    "title": "機械のQCは全部PASS、人間の耳はFAIL — MiniMax H3検証で得た失敗3つ",
-    "link": "https://zenn.dev/toki_mwc/articles/minimax-h3-three-failures",
-    "summary": "MiniMax H3の検証において、機械による品質管理（QC）は全ての項目で「パス」と判定されました。しかし、驚くべきことに、人間の耳による試聴では、この機械が捉えきれなかった3つの失敗点が見つかっています。この結果は、技術的なスペックだけでは測れない、人間の感覚に訴える品質の重要性を浮き彫りにしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-12T07:02:35.391148"
   }
 ]
