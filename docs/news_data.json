@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「社長の声」悪用で被害45億円　元警視庁が明かす「AI詐欺」の手口",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news041.html",
+    "summary": "生成AIの進化によりサイバー攻撃が巧妙化し、「社長の声」を悪用したAI詐欺では45億円もの被害が発生しています。元警視庁職員などの専門家は、2026年に向けた警戒として、最新のボイスフィッシングやランサムウェア攻撃といった新たな脅威を挙げています。企業や組織は、これらの高度な手口に対抗するため、今すぐ対策を講じる必要性が強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-03T10:12:27.877762"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "地下1.6kmに設置されたダークマター検出器が「1つの奇妙な粒子」を検出したと報告",
+    "link": "https://gigazine.net/news/20260903-dark-matter-detector-spots-weird-particle/",
+    "summary": "宇宙の物質エネルギーの約25％、質量の約85％を占めるとされる仮説上の物質「ダークマター」を検出するため、地下1.6kmに設置された検出器「LUX-ZEPLIN(LZ)」が稼働しています。このLZ検出器が最近、「1つの奇妙な粒子」を検出したと報告しました。この検出は、長年の謎であるダークマターの正体解明に向けた重要な一歩となる可能性があります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-03T10:12:36.618800"
+  },
+  {
+    "source": "Zenn",
+    "title": "Codexサブエージェントを安全に並列化する設計パターン",
+    "link": "https://zenn.dev/kas_blog/articles/20260828-codex-subagents-parallel-work",
+    "summary": "申し訳ありませんが、提供された情報には記事のタイトル「Codexサブエージェントを安全に並列化する設計パターン」のみが含まれており、記事の具体的な本文が欠落しています。\n\nそのため、内容に基づいて3-4文で要約を作成することはできません。記事の本文をご提供いただければ、その内容を要約いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-03T10:12:45.264858"
+  },
+  {
+    "source": "Qiita",
+    "title": "React + AIエージェント開発を加速する「コピペで使えるプロンプト集」を作って公開した",
+    "link": "https://qiita.com/Tacitustus/items/1d2469e0d812545a7db0",
+    "summary": "React + TypeScript + TailwindCSS構成のWebアプリ開発をAIエージェントで効率化するため、「コピペで使えるプロンプト・仕様書テンプレート集」がGitHubで公開されました。このテンプレート集は、新規プロジェクト作成から機能追加、品質監査、リファクタリング、チーム運用まで、開発フェーズ全体を網羅しています。AIエージェントへの指示を毎回一から書く手間を省き、出力品質のばらつきを抑えることで、開発者の時短と生産性向上に貢献します。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-09-03T10:12:53.556450"
+  },
+  {
+    "source": "ITmedia",
     "title": "イスラエル国防軍前CISOが東京で語った「Agentic AI時代の防衛戦略」　AIセキュリティカンファレンスレポート",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news045.html",
     "summary": "AIの進化により、攻撃者は作戦を自動化し、かつて50人の専門家が必要だった高度なサイバー攻撃を少人数で実行できるようになりました。このような脅威に対応するため、イスラエル国防軍で25年間防衛を指揮した前CISOが東京のAIセキュリティカンファレンスで登壇しました。彼は「Agentic AI時代の防衛戦略」をテーマに、この新たな時代における防衛戦略をどこから始めるべきかについて説きました。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-13T22:30:24.856583"
-  },
-  {
-    "source": "Zenn",
-    "title": "エラーは鳴らない鐘だった——見えない1文字がAIエージェントの心拍を止めた話",
-    "link": "https://zenn.dev/keeper_nothuman/articles/bell-character-silence",
-    "summary": "この記事は、AIエージェントが「見えない1文字」という非常に些細な原因によって機能停止に陥った事例を報告しています。このエラーは「鳴らない鐘」のように通常のシステムでは検知されにくく、静かに進行したことが特徴です。結果として、たった1文字の不可視なコードがAIエージェントの「心拍を止める」という致命的な障害を引き起こしました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-13T22:30:33.458525"
-  },
-  {
-    "source": "Qiita",
-    "title": "GitHub Copilotは\"使い放題\"じゃない！請求が跳ぶ従量課金のからくり",
-    "link": "https://qiita.com/kinamocchi_tech/items/32c9873faa0726c26401",
-    "summary": "GitHub Copilotは月額料金を支払えば「使い放題」という認識が一般的ですが、実際には「従量課金」の仕組みが存在し、想定外の請求が発生する可能性があることを記事は指摘しています。この「からくり」について、YouTubeチャンネル「きなこもっちーのテック深掘り」の動画解説記事として、ハムスターのもっちーとインコのきなこの掛け合い形式で詳しく解説される予定です。提供された記事の範囲では、具体的な課金体系や費用に関する数字はまだ示されていません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-13T22:30:51.092256"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
-    "summary": "OpenAIによると、ユーザーはChatGPTを業務で利用する際、従来は別の職種が担当していた仕事を自身で行うようになっているとのことです。OpenAIはこの現象を「タスクの越境」と呼んでいます。記事では、具体的にどの職種やタスクでこの越境が起きているかについては言及されていません。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-13T07:06:11.899762"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIエージェントで構築した「自律型ハッキングツール」がアジアの政府機関を攻撃、中国による台湾政府への攻撃か",
-    "link": "https://gigazine.net/news/20260813-ai-government-cyberattack/",
-    "summary": "中国のハッカーとみられる人物が、一般公開されているAIツールを悪用して台湾の政府系ウェブサイトを攻撃しました。イスラエルのAI企業Dreamの研究者によると、攻撃者はオープンソースのAIエージェントを使い、連携するサイバーチームのように振る舞う自律型ハッキングツールを構築したとのことです。この事例は、AIエージェントが悪用された国家レベルでのサイバー攻撃の可能性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-13T07:06:34.304077"
   }
 ]
