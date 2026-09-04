@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "サポート詐欺2.5倍増、標的は法人従業員にも　詐欺の「新たな入口」とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/05/news002.html",
+    "summary": "トレンドマイクロが公開した「2026年上半期の個人向け脅威動向レポート」によると、サポート詐欺の報告件数が前年同期比2.5倍に急増しました。この詐欺の標的は個人に留まらず、法人の従業員にも拡大しています。同社は、このような新たな傾向を詐欺の「新たな入口」として警告し、警戒を呼びかけています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-04T23:33:32.624383"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討",
+    "link": "https://gigazine.net/news/20260905-cinema-ban-smartglass/",
+    "summary": "イギリスの映画館が、録音・録画機能を持つスマートグラスの着用禁止を検討しています。これは、Metaなどが展開するスマートグラスが一見すると普通の眼鏡と区別がつきにくく、盗撮などのプライバシー問題や著作権侵害に悪用される懸念があるためです。映画館は、観客のプライバシー保護とコンテンツの著作権保護という課題に直面しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-04T23:33:39.850039"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI彼女アプリを作っていて気付いた。気持ちと約束と記憶は、同じ速さでは残らなかった",
+    "link": "https://zenn.dev/mitsukida/articles/e3da28f738a04f",
+    "summary": "AI彼女アプリを開発する中で、開発者はある重要な事実に気づきました。それは、人間の「気持ち」「約束」「記憶」という要素が、それぞれ異なる速さで変化し、持続しないということです。この発見は、AIが人間のような感情や関係性を完全に模倣することの難しさ、あるいはその本質的な非同期性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-04T23:34:16.625205"
+  },
+  {
+    "source": "Qiita",
+    "title": "「1+1=2」から AI Agent まで #00",
+    "link": "https://qiita.com/Snow315/items/5fdbe6c6dfb25304b259",
+    "summary": "「1+1=2」から AI Agent まで #00と題されたこの記事は、AIの急速な普及に直面し、焦りを感じる一ITエンジニアが、AI学習の必要性を訴えるものです。筆者は、資格取得などを通じてAI関連の専門用語には触れたものの、「LLMがなぜ動くのか」といった根本的な理解が不足していると認識しています。この現状を打破するため、筆者は自ら調べて実験することで、AIの仕組みを深掘りしていくことを決意しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-04T23:34:34.503940"
+  },
+  {
+    "source": "ITmedia",
     "title": "災害やサイバー攻撃に遭っても、10分で業務再開　日立ら「自動復旧」を実証",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/04/news048.html",
     "summary": "日立などは、災害やサイバー攻撃が発生した場合でも、人手を介さずに業務を自動で再開させる実証に成功しました。このシステムは、600キロ超離れたデータセンター間でデータを同期し、約10分という短時間で業務を復旧させることが可能です。これにより、緊急時における企業の迅速かつ確実な事業継続が実現します。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-08-15T22:10:21.531818"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.233｜TodoWrite が Fable 5 / Sonnet 5 で無効に｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/b604352231f9a8a76a38",
-    "summary": "Claude Codeのv2.1.233アップデートにより、TodoWriteやTaskCreateなどのTodo系ツールが、Opus 4.8、Sonnet 5、Fable 5、Mythos 5といった新しいモデルでデフォルトで無効化されました。これにより、PostToolUse hookやstatuslineでこれらのツールを利用していた設定は機能しなくなります。元の機能を復活させるには、環境変数`CLAUDE_CODE_ENABLE_TODO_TOOLS=1`を設定する必要があります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-15T22:10:28.459462"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アメリカにおけるがん手術の待ち時間はますます長くなっている",
-    "link": "https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/",
-    "summary": "アメリカでは、がん患者が手術を受けるまでの待ち時間が長期化しているという問題が顕在化しています。具体的には、2012年から2023年の期間にわたり、待機時間が段階的に伸びていることが明らかになりました。これは、がん治療の迅速性に影響を与える可能性があり、患者にとって大きな懸念材料となっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-15T06:17:42.317578"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI主権は「国産LLM」だけでは決まらない──半導体サプライチェーンから考える日本の勝ち筋",
-    "link": "https://zenn.dev/ykohashi/articles/2026-08-15_01",
-    "summary": "日本のAI主権の確立は、国産の大規模言語モデル（LLM）開発のみでは不十分であり、より広範な視点が必要とされています。特に、AIの基盤となる半導体サプライチェーン全体の確保が不可欠であり、設計から製造、供給に至るまでの安定性が真のAI主権を握る上で決定的な要素となります。記事は、この半導体サプライチェーンにおける日本の「勝ち筋」を探り、AI時代における戦略的優位性の構築を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-15T06:18:04.751666"
-  },
-  {
-    "source": "Qiita",
-    "title": "RTX 5090 でゼロから言語モデルを1分で学習する — Windows ネイティブと Blackwell (sm_120) の落とし穴",
-    "link": "https://qiita.com/GeneLab_999/items/f2456b1657e2ac94003d",
-    "summary": "Windows 11 ネイティブ環境とRTX 5090を活用し、学習済みモデルを一切使わずに言語モデルをゼロから学習させ、会話させるまでのコードが公開されました。この文字レベルミニGPTモデルは、6層、384次元、約1150万パラメータで構成され、28,616件の日本語会話データで訓練されました。\n\n特筆すべきは、学習が**61.3秒**で3,600ステップを完了し、最良のval loss 1.8677を達成した点です。記事には、Apple Silicon版からの移植で直面したWindows/Blackwell固有の課題と解決策がまとめられ、数値による学習の再現性も確認されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-15T06:18:15.377694"
   }
 ]
