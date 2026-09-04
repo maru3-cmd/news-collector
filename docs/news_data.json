@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "災害やサイバー攻撃に遭っても、10分で業務再開　日立ら「自動復旧」を実証",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/04/news048.html",
+    "summary": "日立などは、災害やサイバー攻撃が発生した場合でも、人手を介さずに業務を自動で再開させる実証に成功しました。このシステムは、600キロ超離れたデータセンター間でデータを同期し、約10分という短時間で業務を復旧させることが可能です。これにより、緊急時における企業の迅速かつ確実な事業継続が実現します。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-04T10:02:38.544994"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
+    "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
+    "summary": "2026年9月3日深夜、主要なAIサービスであるChatGPT、Claude、Grokの3社がほぼ同時刻にダウンしました。大手3社のサービスが同時に停止するという異例の事態でしたが、その原因は現時点では明らかになっていません。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-04T10:02:52.733608"
+  },
+  {
+    "source": "Zenn",
+    "title": "エンジニアの次、AIはどの仕事を直撃するのか？── 見抜くための3つのポイント",
+    "link": "https://zenn.dev/leading_ai/articles/closed-scoring-next-ai-frontier",
+    "summary": "提示されたのは記事のタイトルのみで、本文の内容が提供されていないため、詳細な要約はできません。\n\nしかし、タイトル「エンジニアの次、AIはどの仕事を直撃するのか？── 見抜くための3つのポイント」から推測すると、本記事はAIの進化が次に影響を与えるであろう職種を特定し、その兆候を見極めるための具体的な3つの視点や基準を解説していると考えられます。AIによる労働市場の変化、特に自動化の影響を受けやすい職種と、その見極め方が主な焦点であると予想されます。\n\nもし記事本文をご提供いただければ、内容に基づいた正確な要約を作成いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-04T10:03:00.674998"
+  },
+  {
+    "source": "Qiita",
+    "title": "🔍 審査官はQiita記事を引用した — ELYZA特許の審査記録を全部読む",
+    "link": "https://qiita.com/Ruria1024/items/17726dfb4369ca235687",
+    "summary": "2026年9月3日、ELYZAが「業務AIアプリをAIで作成する仕組み」で特許（特許第7759639号）を取得したと発表した際、「範囲が広すぎる」「新規性がない」との批判がX上で集中しました。同社は即座にリリースを修正し謝罪しましたが、批判は収まりませんでした。\n\n本記事は、この特許のJ-PlatPatで公開されている全ての審査書類を通読し、拒絶理由通知書、意見書、拒絶査定、審査官との電話記録、審判請求書、そして4段階に変化した請求項1といった詳細な記録を時系列で提示しています。結論は明示せず、読者がこれらの豊富な審査記録を基に各自で判断できるよう材料を提供しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-04T10:03:27.668390"
+  },
+  {
+    "source": "ITmedia",
     "title": "2.78兆パラメータなのに「8GBで動く」Kimi K3　それでも企業利用が難しい理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/04/news005.html",
     "summary": "2026年7月、Moonshot AIは2.78兆パラメータを持つオープンウェイトモデル「Kimi K3」を公開しました。このモデルはわずか8GBのメモリで動作可能であり、誰でも入手できる巨大モデルの登場として注目されています。オンプレミスでのAI内製化を目指す企業にとって大きな可能性を秘める一方で、その企業利用には依然として課題が残るとされています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-15T06:18:15.377694"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた",
-    "link": "https://gigazine.net/news/20260814-white-map-strike-47/",
-    "summary": "記事では、白地図から都道府県をはがして弾とし、他の都道府県にぶつけてHPを削り連鎖させるゲーム「白地図ストライク47」が紹介されています。プレイヤーはこのユニークなメカニズムを通じて、日本全国の47都道府県全ての攻略を目指します。筆者は、実際にこのゲームをプレイし、その体験を伝えています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-14T22:12:07.675813"
-  },
-  {
-    "source": "Zenn",
-    "title": "Grid Worldで始める最小のWorld Model入門",
-    "link": "https://zenn.dev/naoyabone/articles/b491a0ce085c8f",
-    "summary": "「Grid Worldで始める最小のWorld Model入門」は、シンプルなGrid World環境を通じてWorld Modelの基本的な概念と構築方法を解説します。World Modelは、環境のダイナミクスを内部でシミュレートし、将来の状態を予測することで、エージェントが効率的な行動計画を立てることを可能にするモデルです。記事では、Grid Worldにおける観察、行動、状態、そして状態遷移モデルと報酬モデルの構築に焦点を当て、複雑なAIモデルを導入する前の、World Modelの核となる原理を理解することを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-14T22:12:16.760631"
-  },
-  {
-    "source": "Qiita",
-    "title": "Metaのopen-weightモデル「Muse Glimmer」を整理。30B・Apache 2.0・家庭用GPU1枚でローカル動作",
-    "link": "https://qiita.com/quotidia/items/57bf1278adc0cbc44a78",
-    "summary": "Metaのマーク・ザッカーバーグCEOは2026年8月10日、個人のエンパワメントと発明を主目的としたマニフェスト「The Future Is For Everyone」を発表し、将来的に「24時間週7日働くエージェント」を数十億人に無料で提供すると約束しました。このマニフェストでは、力の均衡が安全という原則も掲げられています。\n\nまた同日、Metaはopen-weightモデル「Muse Glimmer」の配布を開始しました。このモデルは300億（30B）パラメータでApache 2.0ライセンスのもと、消費者向けGPU1枚のPCやMac上でローカル動作が可能です。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-14T22:12:27.174329"
-  },
-  {
-    "source": "ITmedia",
-    "title": "生成AIチャットアプリの世界ダウンロード数が減少　普及は頭打ち？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/14/news023.html",
-    "summary": "生成AIチャットアプリの世界ダウンロード数が前年同月を下回り、普及が頭打ちになった可能性が指摘されています。米国では一部アプリの1日当たりの利用者シェアが伸びたケースも見られます。しかし、記事では利用者数の増加が必ずしも定着を意味するわけではないと疑問を呈しており、その実態にはさらなる分析が必要であると示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-14T07:03:09.221603"
   }
 ]
