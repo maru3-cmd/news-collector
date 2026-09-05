@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
+    "link": "https://gigazine.net/news/20260905-docubrowser/",
+    "summary": "PCに保存された増え続ける文書の中から必要な情報を効率的に探す困難を解決するため、「DocuBrowser」が公開されました。このツールはPDF、Word文書、電子書籍などを一括で読み込み、キーワード検索に加え、ローカルAIを使った意味検索や文書要約が可能です。さらに、個人情報の認識機能も備えているため、セキュリティ面でも配慮されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-05T09:33:14.502060"
+  },
+  {
+    "source": "Zenn",
+    "title": "Spotifyは2000万行のコードでエージェントをどう回しているか",
+    "link": "https://zenn.dev/talks_tldr_jp/articles/tldr29-gustavsson-summary",
+    "summary": "大変申し訳ありませんが、ご提示いただいたのは記事のタイトルのみで、記事本文の内容が提供されておりません。そのため、正確な要約を作成することはできません。\n\nもし一般的な情報に基づいて、「Spotifyが2000万行のコードでエージェントをどのように運用しているか」という記事があったと仮定するならば、以下のような要約が考えられます。\n\n---\n**（※記事本文がないため、一般的な情報に基づいた仮の要約です）**\n\nSpotifyは、ユーザー推薦やコンテンツ配信など様々な機能を担うエージェント群を、2000万行に及ぶ膨大なコードベースで効率的に管理・運用しています。この記事では、これらエージェントのスケーラビリティを確保するためのアーキテクチャや、複雑なシステムを安定稼働させるためのデプロイメント戦略、そして継続的な保守・改善のプロセスに焦点を当てていると考えられます。大規模なコードベースにおける開発の生産性維持と、サービスの信頼性向上が主要な課題とされています。\n\n---\n\nもし記事本文をご提供いただければ、その内容に沿った正確な要約を作成いたします。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-09-05T09:40:48.065666"
+  },
+  {
+    "source": "Qiita",
+    "title": "LUI on Spreadsheet 表計算ソフトをLLMインターフェースで動かす",
+    "link": "https://qiita.com/aDAVISk/items/8eb8a7c47b5be0fd6688",
+    "summary": "この記事は、表計算ソフトをLLMインターフェースで操作する「LUI on Spreadsheet」という新しい方法を提案します。ユーザーは表計算ソフト内の「Prompt」シートに指示を書き込み、ExcelのCopilotなどの付属LLMを利用してデータを分析させ、「LLM_Result」シートに結果を出力させることが可能です。\n\nこれによりデータ分析や処理が簡略化される一方で、情報がLLMサービスに送信されるため、契約内容を確認し、情報流出リスクに十分に注意して利用するよう警告しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-05T09:42:00.174227"
+  },
+  {
     "source": "ITmedia",
     "title": "サポート詐欺2.5倍増、標的は法人従業員にも　詐欺の「新たな入口」とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/05/news002.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-16T06:18:20.285502"
-  },
-  {
-    "source": "Qiita",
-    "title": "Pythonで〇×ゲームのAIを一から作成する　その241　最適化問題の性質と強化学習との関係 ",
-    "link": "https://qiita.com/ysgeso/items/57f60b92a7daeab1cdca",
-    "summary": "本記事は、Pythonで〇×ゲームのAIを一から作成するシリーズの第241回で、最適化問題の性質と強化学習の関係について解説しています。プログラムはPython 3.13とnumpy 2.3.5の環境で実行されることが明記されています。これまでに作成されたモジュールとして、ゲームの基本機能を提供する`marubatsu.py`とAI関連の関数を含む`ai.py`が紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-16T06:18:32.043874"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
-    "link": "https://gigazine.net/news/20260815-dbgate/",
-    "summary": "無料のデータベースマネージャー「DbGate」が登場しました。これはMySQL、PostgreSQL、SQL Server、MongoDB、SQLiteといった多様なSQLおよびNoSQLデータベースを、共通のインターフェースから操作できるツールです。個別の専用ツールを用意する手間を省き、Windows、Linux、Macのアプリ版とブラウザ経由の両方で利用可能です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-15T22:10:12.395856"
-  },
-  {
-    "source": "Zenn",
-    "title": "その検査、初日に自分の公開物の欠品を見つけました ── 関所を機械に渡す・人間に返す・捨てる、の 9 リリース",
-    "link": "https://zenn.dev/satoh_y_0323/articles/88035adf48b41b",
-    "summary": "この記事は、ある検査の初日に自身の公開物において欠品が発見されたという問題を報告しています。この問題の背景には、チェックポイントである「関所」の扱い方、すなわち「機械に渡す」「人間に返す」「捨てる」という3つの選択肢が関連していると示唆されています。全体として、これは9つのリリースに関連する事柄として提示されています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-15T22:10:21.531818"
   }
 ]
