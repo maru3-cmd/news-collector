@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
+    "link": "https://gigazine.net/news/20260906-web-ai-signs/",
+    "summary": "2022年11月のChatGPT登場以降、生成AIは急速に普及し、わずか4年足らずで人々の生活やオンラインコンテンツ制作において不可欠な存在となりました。この状況を受け、研究者らがウェブサイトにおける生成AIの利用状況を調査しました。その結果、ChatGPT登場以降に公開されたウェブサイトの約3分の1にAIによって作成された痕跡が見られることが判明しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-05T23:26:56.208515"
+  },
+  {
+    "source": "Zenn",
+    "title": "前払い・着手金ルールで未回収をゼロにした — ひとり法人の与信管理の実務",
+    "link": "https://zenn.dev/joinclass/articles/article-20260831220006-29744",
+    "summary": "この記事は、ひとり法人が未回収債権をゼロにするための実践的な与信管理術を紹介しています。その核心となるのは、「前払い・着手金ルール」の徹底導入です。このルールを適用することで、顧客からの支払いを確実に回収し、未回収リスクを完全に排除しています。結果として、安定した経営と健全な財務状況を維持している点を解説しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-09-05T23:27:03.879008"
+  },
+  {
+    "source": "Qiita",
+    "title": "実装で比較するAIコーディングツール2026：Claude Code・Copilot・Cursor・Windsurf・CodeiumをTier別に検証【セットアップコード付き】",
+    "link": "https://qiita.com/sescore/items/759b40df743961448da4",
+    "summary": "この記事は、2026年9月時点のAIコーディングツール市場における主要な選択肢「Claude Code、Copilot、Cursor、Windsurf、Codeium」を、実際のセットアップコードを含む実装ベースで比較検証しています。AIアシスタント市場は選択肢が増える一方で業界再編が進んでおり、CodeiumがWindsurfに統合され、さらにWindsurfが2025年にCognition社に買収されるといった変化が見られます。そのため、単なる機能比較表では実務判断が難しい現状を踏まえ、`npm install`や設定ファイル作成まで再現できる「実装寄りの比較記事」として、個人開発者やチームの導入検討者向けに実用的な情報を提供します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-05T23:27:11.701361"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
     "link": "https://gigazine.net/news/20260905-docubrowser/",
     "summary": "PCに保存された増え続ける文書の中から必要な情報を効率的に探す困難を解決するため、「DocuBrowser」が公開されました。このツールはPDF、Word文書、電子書籍などを一括で読み込み、キーワード検索に加え、ローカルAIを使った意味検索や文書要約が可能です。さらに、個人情報の認識機能も備えているため、セキュリティ面でも配慮されています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-16T22:10:46.360283"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoftが8月の月例更新を公開　優先すべきは「緊急」ではない",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/16/news004.html",
-    "summary": "Microsoftは最新の月例セキュリティ更新プログラムを公開しました。今回の更新には、公開前にすでに悪用が確認された脆弱性が1件含まれています。そのため、IT部門は多数の修正プログラムの中から、この悪用済み脆弱性に対応する更新を優先して適用することが推奨されます。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-16T06:18:02.287490"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "格安かつコンパクトでUPS・雷サージ機能を有する「CyberPower ST425JP」レビュー",
-    "link": "https://gigazine.net/news/20260816-cyberpower-st425jp/",
-    "summary": "夏の落雷や停電に備え、「CyberPower ST425JP」のレビュー記事が公開されました。この製品は、コンパクトながら定格出力260WのUPS（無停電電源装置）機能と雷サージ保護機能を兼ね備えています。記事では、特に夏の突然の雷雨対策として、その実用性と使用感が検証されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-16T06:18:09.763208"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeで「ホワイト企業マップ」を個人開発した話",
-    "link": "https://zenn.dev/hayatech/articles/develop-whapp-1",
-    "summary": "この記事は、個人開発者がAIツール「Claude Code」を用いて「ホワイト企業マップ」を開発した話です。このマップは、働きやすい優良企業を可視化することを目的としており、ユーザーが企業の労働環境情報を地理的に把握できるようにします。開発者はClaude Codeのコード生成能力を最大限に活用し、効率的かつ迅速にプロジェクトを完成させ、高度な機能やインタラクティブな地図表示を実現しました。これにより、AIが個人開発における生産性向上と複雑なアプリケーション構築に貢献する可能性を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-16T06:18:20.285502"
   }
 ]
