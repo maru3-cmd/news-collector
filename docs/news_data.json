@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
+    "link": "https://gigazine.net/news/20260906-herdr/",
+    "summary": "複数のAIエージェント（例：Claude Code、Codex）に仕事を任せる際、それぞれ異なるターミナルで進捗を確認する必要があるという課題がありました。この課題を解決するため、複数のAIエージェントを1つのターミナルから統括できるツール「Herdr」が公開されました。\n\nHerdrは、複数のターミナルを一画面にまとめ、各エージェントの「作業中」「入力待ち」「完了」といった状態を効率的に把握できます。さらに、AIエージェント同士の連携も可能にし、複雑なタスク管理を容易にします。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-06T09:46:02.492104"
+  },
+  {
+    "source": "Zenn",
+    "title": "【速報】Google Antigravityがスマホ操作に対応！PCに張り付かない「放置型AI開発・自動化」の始め方",
+    "link": "https://zenn.dev/dann_chan_lab/articles/antigravity-mobile-remote",
+    "summary": "Google Antigravityが新たにスマートフォン操作に対応し、PCに張り付くことなくAI開発や自動化が可能になりました。これにより、ユーザーは場所を選ばずに「放置型AI開発・自動化」という新しいスタイルを実現できます。本記事では、この革新的なアプローチの具体的な始め方について解説されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-06T09:46:09.268895"
+  },
+  {
+    "source": "Qiita",
+    "title": "ChatGPT/Claude/Grokの同時障害とGeminiの生存から考える、共有クラウドの単一障害点",
+    "link": "https://qiita.com/quotidia/items/f8c6dfa1e88045773403",
+    "summary": "2026年9月3日夜から4日未明（日本時間）にかけて、ChatGPT、Claude、Grokが相次いで接続不能となる大規模障害が発生しました。各社は原因を公表していませんが、英語媒体はMicrosoft AzureのEast USリージョンの障害が引き金となり、同基盤に依存していたこれら3サービスが同時に劣化した「共有依存」型の障害だと分析しています。対照的に、別基盤を利用するGoogle Geminiは稼働を継続しました。この事例は、主要AIサービスが共有クラウドに集中することで単一障害点となり得るリスクを浮き彫りにしています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-06T09:46:18.477411"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
     "link": "https://gigazine.net/news/20260906-web-ai-signs/",
     "summary": "2022年11月のChatGPT登場以降、生成AIは急速に普及し、わずか4年足らずで人々の生活やオンラインコンテンツ制作において不可欠な存在となりました。この状況を受け、研究者らがウェブサイトにおける生成AIの利用状況を調査しました。その結果、ChatGPT登場以降に公開されたウェブサイトの約3分の1にAIによって作成された痕跡が見られることが判明しています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-17T06:28:07.470624"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
-    "link": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
-    "summary": "自然の雷の予測や至近距離での観測は危険かつ困難です。この課題に対し、科学・工学系YouTubeチャンネル「Electron Impressions」がユニークな実験を行いました。\n\n彼らは、細い導線を引き上げる自家製ロケットと大気の電場を測る装置を開発。これらの技術を使い、打ち上げ地点付近で雷を誘発する実験を実施しました。その実験結果が公開されています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-08-16T22:10:27.126476"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェント64体に1つのリポジトリを書かせたら、マージの57/64が衝突した。0にするまでの話",
-    "link": "https://zenn.dev/tacyan/articles/75d3ead8130533",
-    "summary": "AIエージェント64体を用いて一つのリポジトリを共同開発させた実験が行われました。この試みでは、マージ時に57/64という極めて高い確率で衝突が発生しました。本記事は、このような大規模なAI協調作業におけるコード統合の課題を解決し、最終的にマージ衝突を0にした経緯を述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-16T22:10:36.709583"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest 8/17：Gemini 3.7 Flash 強化、SpaceX×Cursor、Qwen 30 億DL",
-    "link": "https://qiita.com/lhjjjk4/items/99696bb40a230107192c",
-    "summary": "Google DeepMindは8月13日、コーディングとエージェント機能に特化したAIモデル「Gemini 3.7 Flash」をリリースしました。これは、FrontierCode 1.1 Mainが34.4%から43.6%へ、DeepSWE v1.1が49.0%から65.3%へ向上するなど、主要なベンチマークで二桁の性能改善を達成しています。\n\n同時に、このモデルの価格は半額になり、100万トークンのコンテキストと64Kの出力に対応、思考レベルも3段階に強化されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-16T22:10:46.360283"
   }
 ]
