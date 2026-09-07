@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "行政機関18万人を支える「源内」　わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
+    "summary": "デジタル庁は、約18万人の行政職員が利用する生成AI基盤「源内」の運用において、セキュリティと効率化の二律背反を解決しました。省庁ごとの環境分離によるセキュリティ確保は、運用負担の増大を招く課題でした。しかし、同庁は独自の設計により、わずか1～2人の担当者で高いセキュリティレベルを維持しつつ、効率的な運用を実現しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-07T23:51:22.800984"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？",
+    "link": "https://gigazine.net/news/20260908-autistici-inventati-case/",
+    "summary": "アメリカ財務省外国資産管理局(OFAC)は、イタリアの技術インフラ提供元であるAutistici/Inventati (A/I Collective)を「特別指定グローバルテロリスト(SDGT)」に指定しました。これは、テロ行為の実行犯だけでなく、その技術インフラをテロ対策制裁の対象とした初の事例であり、テロ対策における「物質的支援」の論理をデジタルインフラに適用した点で注目されています。A/I Collectiveはこの指定に猛反発しており、この前例のない決定が今後のデジタルインフラや国際関係にどのような影響を与えるかが焦点となっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-07T23:51:30.403841"
+  },
+  {
+    "source": "Zenn",
+    "title": "Docker Agent の eval が知りたいんだよォーー！！！！",
+    "link": "https://zenn.dev/xtm_blog/articles/50fe41fcba3ae7",
+    "summary": "この記事は、「Docker Agentの評価（eval）に関する情報が知りたい」という筆者の非常に強い願望を率直に表現しています。内容は一貫してこの一点に集約されており、Docker Agentの具体的な評価方法や結果、数値については一切触れられていません。筆者は、この評価情報へのアクセスを強く求めていることが伺えます。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-09-07T23:51:38.933404"
+  },
+  {
+    "source": "Qiita",
+    "title": "OpenClawで9体のAIエージェント経営OSを構築した実践記録",
+    "link": "https://qiita.com/sescore/items/0c1f0b6168e5199847ff",
+    "summary": "2026年9月現在、AIエージェントの実用化が進む中、筆者はOpenClawというマルチエージェント基盤上に9体のAIエージェントで構成される「経営OS」を構築しました。このOSはCEO、CFO、CTO、COO、CMOと秘書役からなります。OpenClawはAnthropic社のClaude Codeを核とし、各エージェントに固有の役割やツール権限を与えています。本記事では、OpenClawの具体的な設定方法、エージェント設計の実体験、技術的工夫と経営判断の両面を、実際のコード例とともに共有します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-07T23:51:48.919973"
+  },
+  {
+    "source": "ITmedia",
     "title": "日立、フィジカルAIの4つの新サービスを発表　「なんちゃってFDE」で終わらせないアプローチとは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news040.html",
     "summary": "日立は、フィジカルAIの実装を支援する4つの新しいサービスを発表しました。同社は、数多く出現する「FDE」という言葉に対し、フィジカルAIの実装を担うFDEをあえて単独のサービスではなく「チーム」として構成する独自のアプローチを取っています。これは、「1人のスーパーマンでは不十分」との認識に基づき、複雑なフィジカルAIの導入には多様な専門性を持つチームによる協業が不可欠であると考えているためです。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-18T22:11:58.381568"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest 2026-08-19: OpenAI RL停止、NVIDIA 105億ドルのOhio工場、StripeがOpenRouterを70億ドルで買収",
-    "link": "https://qiita.com/lhjjjk4/items/e5fc78e0264cb422eac9",
-    "summary": "2026年8月19日のAIニュースダイジェストによると、OpenAIはAstraクラスモデルの安全性懸念と内部環境の隔離不足を受け、最大フロンティアモデルの強化学習(RL)訓練を停止しました。訓練は安全チェック完了まで停止され、Astra以上のモデルには最も厳しい新ルールが適用されます。その他、NVIDIAはオハイオ州に105億ドルの工場を建設する計画を、StripeはOpenRouterを70億ドルで買収したと報じられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-18T22:12:09.545805"
-  },
-  {
-    "source": "ITmedia",
-    "title": "レガシーシステムはAIで生き返るか？　IBMとOpenAIが描く基幹システム刷新の現実解",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/18/news032.html",
-    "summary": "IBMとOpenAIは戦略的提携を発表し、老朽化したレガシーシステムや分断された業務の刷新を目指します。この提携では、OpenAIのGPT-5.6やCodexといったAI技術がIBMの基盤に統合されます。両社は、基幹業務のAI対応やアプリ刷新を含む3つの重点領域で企業の大規模導入を後押しし、現実的な解決策を提供します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-18T06:20:20.828831"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Telegramの海賊版配信者をAIで自動検出するツールを研究者らが開発、61日間で海賊版チャンネル524件とボット71件の削除に役立つ",
-    "link": "https://gigazine.net/news/20260818-telegram-pirates/",
-    "summary": "メッセージアプリTelegramが海賊版コンテンツの共有プラットフォームとして利用されている問題に対し、ルイジアナ州立大学とテキサス大学アーリントン校の研究者らが大規模な分析を行いました。彼らは、AIを活用して海賊版配信者を自動検出するツールを開発。このツールは、61日間で海賊版チャンネル524件とボット71件の削除に貢献したと報告されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-18T06:20:27.884103"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントが「知っているはず」を間違える理由 — コンテキスト設計の実務",
-    "link": "https://zenn.dev/tsutomusaito/articles/ai-agent-context-design",
-    "summary": "AIエージェントがユーザーの意図を誤解したり、「知っているはず」と期待される情報を適切に提供できない問題が頻繁に発生します。これは、エージェントに与えられる情報や指示、設定といった「コンテキスト（文脈）」の設計が不十分であることに主な原因があります。本記事は、AIエージェントがタスクを正確に遂行し、ユーザーの意図を正しく把握できるよう、効果的なコンテキスト設計の実践的な重要性と具体的な方法について解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-18T06:20:36.973860"
   }
 ]
