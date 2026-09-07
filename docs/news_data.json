@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "日立、フィジカルAIの4つの新サービスを発表　「なんちゃってFDE」で終わらせないアプローチとは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news040.html",
+    "summary": "日立は、フィジカルAIの実装を支援する4つの新しいサービスを発表しました。同社は、数多く出現する「FDE」という言葉に対し、フィジカルAIの実装を担うFDEをあえて単独のサービスではなく「チーム」として構成する独自のアプローチを取っています。これは、「1人のスーパーマンでは不十分」との認識に基づき、複雑なフィジカルAIの導入には多様な専門性を持つチームによる協業が不可欠であると考えているためです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-07T10:50:42.946617"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "DeepSeekが内モンゴル自治区にデータセンターを建設してHuawei製AIチップを16万基導入予定との報道、中国製GPUでAIを開発・運用する動きが加速",
+    "link": "https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/",
+    "summary": "中国のAI企業であるDeepSeekが、内モンゴル自治区でデータセンター建設計画を進めているとBloombergが報じました。このデータセンターには、Huawei製のAIチップ「Ascend 950DT」が最大16万基導入される予定です。この動きは、中国国内でAIの開発・運用に国産GPUを活用する流れが加速していることを示しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-07T10:50:51.749562"
+  },
+  {
+    "source": "Zenn",
+    "title": "承認を全部飛ばすモードで動かしていたら、自分で書いた hook に止められた",
+    "link": "https://zenn.dev/just_ryo/articles/52e2c845d6fdd6",
+    "summary": "承認プロセスを全てスキップするモードで作業を進めていた開発者が、予期せず処理の停止に見舞われました。その原因は、他でもない彼自身が以前作成したシステムフックでした。つまり、承認を飛ばそうとした結果、自らが設けた安全装置によって止められるという皮肉な出来事でした。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-09-07T10:51:01.889730"
+  },
+  {
+    "source": "Qiita",
+    "title": "DevOps・MarketingOps・ContentOpsの自動化最前線 ― 今できることと、これからの課題",
+    "link": "https://qiita.com/dreamiyokoo/items/f3864dfc3ae64f016a2b",
+    "summary": "AIの急速な進化に伴い、ソフトウェア開発・運用のDevOpsに加え、マーケティング活動のMarketingOps、コンテンツ制作・配信のContentOpsといった幅広い業務で自動化が進んでいます。本記事はこれら3つの「Ops」を整理し、コード生成やCI/CD、記事執筆、SNS投稿といったタスクがAIエージェントに任せられる現状を提示。2026年時点でのAIによる自動化の可能性と限界、そして人間の判断が不可欠な領域について実務的な視点から考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-07T10:51:10.982275"
+  },
+  {
+    "source": "ITmedia",
     "title": "ServiceNowが「セキュリティ企業」になる理由　大型買収の裏にある勝算",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news027.html",
     "summary": "AIの進化により、脆弱性の発覚から悪用までの猶予が数カ月から数時間に激減し、人手頼みのセキュリティ運用は限界を迎えています。この課題に対し、これまで資産管理を中核としてきたServiceNowが、「自律型セキュリティ」構想と6つの統合ソリューションを打ち出しました。これは、加速するAI時代の脅威に対抗するため、ServiceNowがセキュリティ企業へと本格的に変貌を遂げようとする戦略的転換を示しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-18T06:20:36.973860"
-  },
-  {
-    "source": "Qiita",
-    "title": "数千万ドキュメント規模の巨大エンタープライズRAG：検索速度と精度を両立させるハイエラキー型インデックス",
-    "link": "https://qiita.com/NKKTechGlobal/items/4371b646b4427e21d2da",
-    "summary": "企業におけるRAG（Retrieval-Augmented Generation）の対象が「全社的な巨大公文書ストレージ」へと拡大し、数千万ドキュメント規模に達しています。この規模では、真に必要な情報が埋もれる「情報の埋没」と、ベクトル検索のインデックス巨大化によるメモリ消費やレイテンシ増大といった「検索コストの増大」が大きな課題となります。\n\nこの記事では、これらの課題に対し「ハイエラキー型インデックス」を採用することで、検索速度と精度の両立を目指しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-18T06:20:46.705808"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "エルニーニョ現象は発達を続けており2026年後半には歴史的な強さになるとの予測",
-    "link": "https://gigazine.net/news/20260818-super-el-nino-growth/",
-    "summary": "エルニーニョ現象は、太平洋赤道域の海面水温が例年より高くなることで、日本を含む世界中で異常気象を引き起こす現象です。2026年春からこの現象が続いていますが、秋から冬にかけて歴史的な強さになると予測されています。これにより、さらなる異常気象の発生が懸念されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-17T22:13:27.506286"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeの使用量を自力集計したら97%がキャッシュ再読だった",
-    "link": "https://zenn.dev/zenn_content/articles/claude-code-usage-self-audit",
-    "summary": "あるユーザーがClaude Codeの利用状況を独自に集計したところ、その使用量の実に97%が新しいコード生成ではなく、キャッシュからの再読み込みだったことが判明しました。これは、既存のコードや情報を繰り返し参照する操作が大半を占めていることを示唆しています。この発見は、Claude Codeの実際の利用状況や課金モデル、さらにはコスト効率について再考を促す可能性がある重要な情報です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-17T22:13:39.364633"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.234｜利用上限リセットで自動再開｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/75f3681463180844e8ed",
-    "summary": "Claude Codeの最新バージョンv2.1.234では、claude.aiの利用上限で停止したセッションが、上限リセット時に自動で再開されるようになりました。これは、ユーザーが席を外している間の挙動を改善するための一連の修正の一環で、`/goal`コマンドの30分チェックイン機能やauto modeのバグ修正も含まれます。\n\n公式Changelogには51項目が記載されていますが、運用に影響する主要な変更は、この自動再開機能と権限プロンプト、Windowsのパス拒否関連です。自動再開は`/config`で設定をオフにすることも可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-17T22:13:47.558201"
   }
 ]
