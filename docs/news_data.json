@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoftが9月セキュリティ更新を発表　クラウドサービス複数でCVSS 10.0を含む脆弱性を修正",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/08/news022.html",
+    "summary": "Microsoftは9月のセキュリティ更新で、複数のクラウドサービスの脆弱性を修正したと発表しました。特にAzure AI Languageを含む2件の脆弱性は、CVSS3.1で最大深刻度となる10.0と評価されています。これらの重大な脆弱性を含むすべての修正は、Microsoft側で既に緩和済みであるとされています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-08T10:11:30.692871"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIが設計した薬「レントセルチブ」が人間の生物学的年齢を若返らせたことが判明",
+    "link": "https://gigazine.net/news/20260908-ai-assisted-medicine-age-reversal/",
+    "summary": "AIを活用する製薬会社Insilico Medicineは、AIが設計した新薬「レントセルチブ」が、人間の生物学的年齢を若返らせる効果があることを報告しました。これは、AIが実際に開発した治療薬が人間に効果を示した事例の一つです。この発見は、AIが創薬プロセスに革新をもたらし、老化関連疾患への新たなアプローチを開く可能性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-08T10:11:42.795305"
+  },
+  {
+    "source": "Zenn",
+    "title": "Slack問い合わせチャンネルにGPTボットを常駐させたら、一次対応の43%が自己解決した話",
+    "link": "https://zenn.dev/solo_joshis/articles/2026-09-07-slackgpt-ai-tool-72",
+    "summary": "ある企業がSlackの問い合わせチャンネルにGPTボットを常駐させたところ、問い合わせに対する一次対応の効率が大幅に向上しました。このGPTボットがユーザーの質問に自動で回答することで、全一次対応の43%が自己解決するようになりました。これにより、担当者が対応する必要のある問い合わせが減り、業務負担の軽減に大きく貢献しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-08T10:15:42.138881"
+  },
+  {
+    "source": "Qiita",
+    "title": "【第3弾】データ漏洩リスクゼロ。Hugging Face・外部API不使用の「完全オフライン」AI文字起こしパイプライン",
+    "link": "https://qiita.com/tool-bizsystems/items/3cb403336841dff5c3f7",
+    "summary": "本記事は、データ漏洩リスクをなくし、Hugging Faceや外部APIに依存しない「完全オフライン」のAI文字起こしパイプラインを構築する検証について述べています。特に、業界標準であるHugging Faceの「話者分離」機能は、ライセンス確認やアクセストークンが必要なため、オフライン環境での利用で大きな足かせとなっていました。この課題に対し、話者分離には「sherpa-onnx」（Pyannote ONNXモデル＋WeSpeaker埋め込みモデル）を、文字起こしには「Open」から始まる技術スタックを用いることで、完全にオフラインで動作するパイプラインを実現しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-08T10:15:53.354927"
+  },
+  {
+    "source": "ITmedia",
     "title": "行政機関18万人を支える「源内」　わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
     "summary": "デジタル庁は、約18万人の行政職員が利用する生成AI基盤「源内」の運用において、セキュリティと効率化の二律背反を解決しました。省庁ごとの環境分離によるセキュリティ確保は、運用負担の増大を招く課題でした。しかし、同庁は独自の設計により、わずか1～2人の担当者で高いセキュリティレベルを維持しつつ、効率的な運用を実現しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-08-19T06:21:12.220434"
-  },
-  {
-    "source": "Zenn",
-    "title": "vlmkit でAIが苦手な実装パターンを補う: ソリティアを作ってみた",
-    "link": "https://zenn.dev/mizchi/articles/vlmkit-definitive-markup",
-    "summary": "この記事は、`vlmkit`というツールを使って、AIが苦手とする特定の実装パターンを補完する方法について述べています。具体的には、AIでは対応が難しいとされる分野で、`vlmkit`の有効性を示すためにソリティアゲームを開発した事例を紹介しています。これは、AIの弱点を克服し、より幅広い開発を可能にするアプローチを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-19T06:21:20.873974"
-  },
-  {
-    "source": "Qiita",
-    "title": "【技術解説】Seedance 2.0 (시댄스 2.0) — @参照システム・プロンプト設計・統合パターン",
-    "link": "https://qiita.com/sinporwang1/items/75951385576302fbddea",
-    "summary": "Seedance 2.0は、ByteDanceが2026年2月にリリースしたユニファイドマルチモダルビデオ生成モデルです。テキスト・画像・動画・音声を単一コンテキストで処理し、最大4K・10bit映像とネイティブステレオオーディオの生成が可能です。\n\nこのモデルは、最大4K解像度、10-bitエンコーディング、24fpsの映像を4～15秒のクリップ長で出力でき、技術論文は2026年4月15日にarXivで公開されました。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-08-19T06:21:28.529932"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
-    "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
-    "summary": "元Facebook・Googleのジョージ・ホッツ氏が設立したComma.aiは、既存の車に後付けで運転支援機能を追加するデバイスを開発しています。同社は今回、車載コンピューターがより大型のドライビングモデルを実行できるよう、GPUを接続するためのeGPUドック「Chestnut」をリリースしました。これにより、デバイスの処理能力を強化し、高度な運転支援機能を提供することが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-18T22:11:48.884446"
-  },
-  {
-    "source": "Zenn",
-    "title": "複数の生成AIモデルを一つのAPIで切り替える設計パターン",
-    "link": "https://zenn.dev/hiapi_ai/articles/5c999d530cd377",
-    "summary": "この記事は、複数の異なる生成AIモデルを、開発者が単一のAPIインターフェースを通じて簡単に切り替えて利用できる設計パターンについて解説しています。このアプローチにより、アプリケーションは特定のタスクの要件（コスト、性能、出力品質など）に応じて最適なAIモデルを動的に選択できるようになります。これにより、開発者はモデルごとの差異を意識することなく、システムの柔軟性、保守性、そして将来的な拡張性を大幅に向上させることが可能です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-18T22:11:58.381568"
   }
 ]
