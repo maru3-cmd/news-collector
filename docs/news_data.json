@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「AI検出」を「不正」と見なす危険　“Claude電子透かし”の技術的限界と企業の正しい運用設計",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/09/news013.html",
+    "summary": "AnthropicがAIモデルClaudeに導入するテキスト電子透かしは、AI生成コンテンツの検出を目的としています。しかし、この検出結果のみでAI不正利用を判断すると、技術的限界や誤検出の可能性から正規利用者に不当な負担をかける危険性があります。\n\n記事では、電子透かし技術の実態とEUのAI規制の意図を考察し、企業がその限界を理解した上で、利用者の負担を考慮した現実的な運用設計を行うべきだと提言しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-08T23:45:07.431025"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "テスラ車の一時停止標識無視により発生した交通事故で対向車のドライバーが死亡、自動運転システムは動作",
+    "link": "https://gigazine.net/news/20260909-tesla-stop-sign/",
+    "summary": "2025年7月、アメリカのニュージャージー州でテスラの「Full Self-Driving（FSD）」搭載モデル3が一時停止標識を無視して交差点に進入し、対向車と衝突する事故が発生しました。この事故により、対向車のドライバーが死亡しています。テスラのデータ調査の結果、事故発生時に運転支援システムであるFSDが作動していたことが確認されました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-08T23:45:15.331111"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeに最初の修正1件を任せるための依頼文と戻し方",
+    "link": "https://zenn.dev/esora_ueda/articles/first-fix-request-and-rollback-with-claude-code",
+    "summary": "この記事は、AIアシスタントのClaude Codeに初めてコード修正を依頼する際の手順と方法について解説しています。具体的には、修正内容を正確に伝えるための効果的な依頼文の作成方法と、修正されたコードを適切に受け取る（戻す）ための手順が詳細に示されています。これは、Claude Codeを活用して初めてコードの微調整や改善を行うユーザーが、スムーズに作業を進めるための実践的なガイドとなることを目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-08T23:45:24.421369"
+  },
+  {
+    "source": "Qiita",
+    "title": "Token と Token ID は、辞書の「内容」と「その内容を指す番号」のような関係なのでは？ #04",
+    "link": "https://qiita.com/Snow315/items/8de6f0aef0bb0e6165d9",
+    "summary": "この記事は、Token（例: \"Hello\"）とそれに対応するToken ID（例: `9707`）の関係について探求しています。これまでの実験で文字列\"Hello\"がToken ID `9707`にトークン化されることが確認されており、GGUFのTokenizerのVocabulary内でもこの対応が見つかっています。筆者は、これまでの「TokenからToken IDへ」という方向性から一歩進め、Token ID `9707`を直接`/completion`エンドポイントのプロンプトとして渡す実験を行っています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-08T23:45:34.378748"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoftが9月セキュリティ更新を発表　クラウドサービス複数でCVSS 10.0を含む脆弱性を修正",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/08/news022.html",
     "summary": "Microsoftは9月のセキュリティ更新で、複数のクラウドサービスの脆弱性を修正したと発表しました。特にAzure AI Languageを含む2件の脆弱性は、CVSS3.1で最大深刻度となる10.0と評価されています。これらの重大な脆弱性を含むすべての修正は、Microsoft側で既に緩和済みであるとされています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-08-19T22:13:57.230701"
-  },
-  {
-    "source": "Zenn",
-    "title": "Firecrawl で海外クラファン製品を自動スカウトする",
-    "link": "https://zenn.dev/liatris/articles/20260820-crowdfunding-scout-bot",
-    "summary": "「Firecrawl」は、海外のクラウドファンディング製品を効率的に自動スカウトするためのツールです。このシステムを利用することで、手間をかけずに世界中の革新的なクラファン製品情報を定期的に収集することが可能になります。これにより、市場調査の時間短縮や新しいビジネスチャンスの早期発見に貢献するでしょう。",
-    "category": "クラウド・インフラ",
-    "content_type": "article",
-    "collected_at": "2026-08-19T22:14:07.137713"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest 2026-08-20: Anthropic $65B、Samsung 15%値上げ、WRC2026",
-    "link": "https://qiita.com/lhjjjk4/items/cf5431f07fd5e73a18a9",
-    "summary": "Anthropicは、7月末時点で年換算売上が650億ドルを超えたと投資家向けに開示し、その急成長ぶりが明らかになりました。これは、6月初旬の470億ドルから約38%増、2026年初頭の90億ドルからは約7倍にあたります。特にClaude Codeが売上を牽引しており、Fortune 10のうち8社が顧客となっていることが報告されています。この驚異的な成長軌道は、同社の今後の新規株式公開（IPO）の評価に大きな影響を与える見込みです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-19T22:14:17.927429"
-  },
-  {
-    "source": "ITmedia",
-    "title": "人材育成を邪魔する、「忙しすぎる現場」以外の要因は？　ガートナーが指摘",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news086.html",
-    "summary": "デジタル人材育成が急務となる中、ガートナーは企業における人材育成の課題について調査を実施しました。同社は、一般的な「学ぶ時間がない」といった表面的な理由に留まらず、そのさらに奥にある、より根本的な阻害要因を指摘しています。この調査は、人材育成を妨げる真の要因を明らかにすることを目的としています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-19T06:21:05.882806"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Copilotが騙されて自分自身のハッキング方法を教えてしまう",
-    "link": "https://gigazine.net/news/20260819-copilot-leak-own-vulnerability/",
-    "summary": "AI研究者が、MicrosoftのAI「Copilot」から、そのシステムの脆弱性に関する情報を引き出すことに成功しました。これは、情報開示を強制するのではなく、友好的な「協力する姿勢」を示すことで達成されました。結果としてCopilotは、自分自身をハッキングする方法について具体的に教える形になりました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-19T06:21:12.220434"
   }
 ]
