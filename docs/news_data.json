@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "メインフレーム利用企業の94％が「投資を継続」　現実的なAI活用が進む【調査】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/10/news021.html",
+    "summary": "BMCの調査によると、メインフレーム利用企業の94%が今後もメインフレームへの投資を継続する意向を示しました。AIの活用は「完全自律」から、人間との「協働・助言」を重視する実務的な段階へ移行しています。しかし、TLS証明書短縮やデータ復旧などの課題も依然として存在します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-09T23:39:53.059025"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "無料で動画・音楽・電子書籍などを自宅でも出先でもストリーミングできる「Jellyfin 12.0」がリリース、ついに書籍と漫画のサポートが改善",
+    "link": "https://gigazine.net/news/20260910-jellyfin-release-12/",
+    "summary": "Jellyfinは、PCに保存された動画・音楽・電子書籍などのコンテンツを、他のデバイスにストリーミングできる無料のオープンソース管理システムです。その最新版である「Jellyfin 12.0」が2026年9月7日にリリースされました。このバージョンでは、特に待望されていた書籍や漫画のサポートが大幅に改善されています。これにより、自宅でも外出先でも多様なメディアコンテンツを楽しめるようになります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-09T23:40:02.829536"
+  },
+  {
+    "source": "Zenn",
+    "title": "【第 3 回】AI のハルシネーションとの戦い — 検証器が保証しないものを機械で炙り出す",
+    "link": "https://zenn.dev/highfar/articles/vacuous-weak-misaligned-constraints",
+    "summary": "AIのハルシネーション（幻覚）は、既存の検証器では保証できない情報が生成されるという深刻な課題を提起しています。この記事は、そのような見過ごされがちなAIの誤りや不確かさを、別の機械的な手法を用いて特定し、「炙り出す」革新的なアプローチに焦点を当てています。これは、AIの信頼性と精度を向上させるための継続的な戦いを示す一連の取り組みの第3回にあたります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-09T23:40:11.623616"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIコーディングエージェント向けAcceptance Criteriaの書き方――「完了しました」を検証可能にする7項目",
+    "link": "https://qiita.com/tsuzuri_ai/items/8694fec0b8f944db4009",
+    "summary": "この記事は、AIコーディングエージェントにコード修正を依頼する際、「完了しました」という応答だけでは、修正の真偽や品質の検証が難しいという問題提起をしています。\nAI Agent時代には、何をもってタスクが「完了した」と見なすかの「Doneの定義」が特に重要だと指摘。\n本記事は、AIが書いたコードの「完了」を検証可能にするためのAcceptance Criteriaの書き方を、タイトルで示される「7項目」を通して解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-09T23:40:21.638674"
+  },
+  {
     "source": "GIGAZINE",
     "title": "2026年9月9日のヘッドラインニュース",
     "link": "https://gigazine.net/news/20260909-headline/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-20T22:16:19.692790"
-  },
-  {
-    "source": "Zenn",
-    "title": "P100向けにllama.cppをビルド",
-    "link": "https://zenn.dev/ibuky/articles/b89bbba9372f4d",
-    "summary": "この記事は、GPUを活用した大規模言語モデルの推論ライブラリであるllama.cppを、NVIDIA P100 GPU向けにビルドすることに焦点を当てています。P100環境でllama.cppを利用できるようにするための特定の手順や考慮事項について述べられていると推測されます。提供された情報からは、具体的なビルド方法、その成果、または関連するパフォーマンスに関する数値などの詳細を把握することはできません。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-20T22:16:31.901381"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI Daily Digest 2026-08-21：Meta×Microsoft、Marvell×Google、Claudeタンパク質設計",
-    "link": "https://qiita.com/lhjjjk4/items/0d7356659ece4279bbc8",
-    "summary": "MetaはMicrosoftの主要なAI顧客の一つとなり、Bloombergの報道によると、AzureのFoundryマーケットプレイスを通じて年間数億ドルを支払い、毎週数兆トークンを処理しています。これは単なる調達ではなく、Metaの開発者がFoundry内のOpenAIモデルを使って自社モデルの出力を評価するなど、自社AI開発の一環として最先端の外部モデルを活用しています。2026年の設備投資ガイダンスが1,300億〜1,450億ドルに上るMetaにとって、Microsoftへの支払いは相対的に小さいものの、その戦略的意義は大きいとされています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-20T22:16:40.337622"
-  },
-  {
-    "source": "ITmedia",
-    "title": "モデルの利用料金は安くなっているのに、AIの総コスト上昇　「パラドクス」の背景を解説",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
-    "summary": "AIモデルの利用料金が低下しているにもかかわらず、AIの総コストは上昇するという「推論のパラドックス」が発生しています。Gartnerは、ワークフロー1件当たりのAI推論コストが2028年までに現在の5倍以上に高騰すると予測。これは、利用料金の低下がAI活用機会の爆発的な増加を促し、結果的に推論回数やデータ処理量の増大を招くためです。このコスト上昇局面において、企業はAI投資のROI（投資収益率）を確保するための具体的な方策を講じる必要があります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-20T06:23:49.694080"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「Google Pixel 11 Pro Fold」フォトレビュー、約20g軽量化＆薄型化しながら折り曲げ部分がより目立たなく進化",
-    "link": "https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/",
-    "summary": "Googleは2026年8月20日にPixel 11シリーズをリリースし、その中に折りたたみ式スマートフォン「Pixel 11 Pro Fold」が新登場しました。\nこの新モデルは、前モデルから約20gの軽量化と薄型化を実現し、さらに折り曲げ部分がより目立たないように進化しています。\n本記事は、この進化したPixel 11 Pro Foldの外観を詳細に撮影したフォトレビューです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-20T06:25:03.744346"
   }
 ]
