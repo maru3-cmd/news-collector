@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "メールソフト「Thunderbird」がデスクトップ設定の改善計画を日本のトイレにちなんで「Project Toto」と命名",
+    "link": "https://gigazine.net/news/20260910-thunderbird-desktop-settings-project-toto/",
+    "summary": "メールソフト「Thunderbird」の開発チームは、デスクトップ設定の改善計画を2026年9月9日に発表しました。この新たな計画は「Project Toto」と名付けられ、日本のハイテクトイレにちなんで命名されました。プロジェクトの目的は、ユーザーのデスクトップ設定に関する体験を向上させることです。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-09-10T10:09:04.101931"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code で Matt Pocock skills の /implement を並列オーケストレーター化",
+    "link": "https://zenn.dev/daydreamer/articles/ee68b9023a7e45",
+    "summary": "Claude CodeというAIツールが活用され、ウェブ開発者Matt Pocock氏に関連する特定の「/implement」機能が並列オーケストレーター化されました。これは、複数の処理タスクを並行して効率的に管理・調整できる仕組みへと改善されたことを意味します。この取り組みにより、実装プロセスの処理能力と効率の大幅な向上が期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-10T10:09:14.414294"
+  },
+  {
+    "source": "Qiita",
+    "title": "世界中のAIウェビナーを、手をかけずに全部聴く（3）申し込みは通った。録画を止めていたのは、自分で入れた監視だった",
+    "link": "https://qiita.com/bokuno_log/items/b01f4e0a885bcde7259e",
+    "summary": "AIウェビナーの自動視聴・議事録作成システムは、前回0件だった参加用URLの取得に成功し、合計113件まで増やして課題を解消しました。自動運用期間中、開催された188件のウェビナーのうち78件に申し込み、37件でURLを取得したものの、録画成功は3件、議事録化に至ったのは2件にとどまりました。しかし、この期間に議事録は合計14本増え、その大半である12本はリアルタイム配信ではなくアーカイブ配信からの録画によるものでした。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-10T10:10:15.324525"
+  },
+  {
     "source": "ITmedia",
     "title": "メインフレーム利用企業の94％が「投資を継続」　現実的なAI活用が進む【調査】",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/10/news021.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-21T06:22:36.477777"
-  },
-  {
-    "source": "Qiita",
-    "title": "LLMのFine-tuningは「教師データ作り」で決まる？[データセット設計編]",
-    "link": "https://qiita.com/kazuharu2022/items/e4f6d7c467d9a24466c4",
-    "summary": "この記事は、LLMのFine-tuningにおいて、モデル学習よりも「教師データ作り」が回答品質向上に最も重要であるという問題提起をしています。筆者は、データセットを用意し学習・評価する一般的なFine-tuningプロセスだけでは不十分で、lossが下がっても精度が上がらない場合が多いと指摘。実際にSFT+LoRAを用いたFine-tuning（なろう系小説生成やマーケティングデータセット）で試しても精度向上せず、最終的に最新モデルに頼らざるを得ない経験から、教師データ設計の重要性を強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-21T06:22:44.836844"
-  },
-  {
-    "source": "ITmedia",
-    "title": "さくらインターネットで不正アクセス　583件不正ログインから「136万件影響の恐れ」に拡大",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news078.html",
-    "summary": "さくらインターネットは販売管理システムへの不正アクセスを確認しました。当初583件の不正ログインが発覚しましたが、影響の恐れがある会員情報は136万563アカウントにまで拡大しています。このうち30件ではハッシュ化されたパスワードも含まれているとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-20T22:16:11.415149"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "映画『バックルームズ』の劇場限定16分映像『Everything Must Go』がYouTubeで公開、ケイン・パーソンズのシリーズ最新作として視聴可能に",
-    "link": "https://gigazine.net/news/20260821-backrooms-everything-must-go/",
-    "summary": "映像作家ケイン・パーソンズは、自身の都市伝説「The Backrooms」シリーズの最新作となる約16分の短編『Backrooms - Everything Must Go』を2026年8月18日にYouTubeで公開しました。この作品は、同年5月29日にアメリカで公開された映画『バックルームズ』のエンドロール後に上映された追加映像です。パーソンズがYouTubeで展開してきたシリーズと映画版を結びつける重要な役割を担っています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-20T22:16:19.692790"
   }
 ]
