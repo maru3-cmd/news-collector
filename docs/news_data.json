@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "さくらインターネットへの侵入は「3年前」にさかのぼるか　不正アクセス調査が完了",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/11/news067.html",
+    "summary": "さくらインターネットは、2026年8月に公表した一連の不正アクセスに関する調査を完了し、最終的な影響範囲と再発防止策を発表しました。当初の公表から影響を受けた可能性のあるアカウントが増加したと述べています。\n\n記事では、不正アクセスの侵入が「3年前」にさかのぼる可能性について言及されていますが、本文中ではその具体的な期間は明記されていません。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-11T10:05:03.479715"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
+    "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
+    "summary": "OpenAIのサム・アルトマンCEOが、全社会議でAI開発ペースを緩める方向で調整する可能性を示唆したと、経済紙ブルームバーグが報じました。この方針は、AI技術の安全性や倫理に関する議論が活発化する中で注目されます。しかし、OpenAI以外のAI開発企業がこの動きに追随するかどうかは現時点では不明です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-11T10:05:10.116552"
+  },
+  {
+    "source": "Zenn",
+    "title": "YOLO26nアーキテクチャ徹底解析 step3 | C3k2, SPPF, C2PSA ブロックとサブブロック",
+    "link": "https://zenn.dev/diiw/articles/yolo26n-architecture-step3",
+    "summary": "この記事は、YOLO26nアーキテクチャの徹底解析シリーズにおけるステップ3として、その主要な構成要素に焦点を当てています。具体的には、C3k2、SPPF、C2PSAといったブロックとその内部のサブブロックについて詳細に解説。これらのブロックは、YOLO26nモデルにおける効率的な特徴抽出や情報処理、そして高精度な物体検出機能を実現するための重要な役割を担っています。各ブロックの構造と機能の解明を通じて、YOLO26nの性能を支えるメカニズムを深く理解することができます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-11T10:05:23.004879"
+  },
+  {
+    "source": "Qiita",
+    "title": "C#で経費精算を監査する：Word規程とExcel明細をAIで照合",
+    "link": "https://qiita.com/iceblue/items/725bc1f282b666db065a",
+    "summary": "本記事では、Wordの経費精算規程とExcelの精算明細を照合する手作業での監査が、規定違反などの確認において大きな負担となっている問題を扱います。\n\n従来の監査ルールをコード化する方法は規程改定のたびに修正が必要で、明細と規程をAIに直接渡すだけでは正確な数値計算や結果の構造化が困難でした。\n\nそこで、C#と**Spire.Agent.Office**を活用し、AIに規程の理解と適合性判断を、文書エンジンにファイル操作や数値処理を分担させることで、監査プロセスを段階的に自動化し、これらの課題を解決する監査フローを構築します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-11T10:05:33.721620"
+  },
+  {
+    "source": "ITmedia",
     "title": "CISAが6年ぶりに内部脅威対策ガイドを改訂　新たに加わった「AIの手口」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/11/news024.html",
     "summary": "米政府機関CISAは、2020年以来6年ぶりに内部脅威対策ガイドを改訂しました。この改訂は、AIの急速な普及と働き方の変化を背景としています。特に、正規の権限を持つ内部者が組織のAIシステムを悪用する「AIの手口」への対策が新たに加えられました。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-22T06:17:18.936411"
-  },
-  {
-    "source": "Zenn",
-    "title": "WordPress予約投稿でAI記事を出したら順位が下がった。原因の切り分け方",
-    "link": "https://zenn.dev/gen_ai_kiyozuka/articles/wp-scheduled-ai-posts-ranking-drop",
-    "summary": "WordPressの予約投稿機能を使ってAIが生成した記事を公開したところ、ウェブサイトの検索順位が低下するという問題が発生しました。この記事は、この順位低下の原因がAI記事自体にあるのか、予約投稿の仕組みによるものか、あるいは他の要因によるのかを明確にするための「原因の切り分け方」について解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-22T06:17:28.510403"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code auto modeを\"自社仕様\"にする。classifierに信頼できるインフラを教える設定",
-    "link": "https://qiita.com/startdevin/items/69d8721ebcf9a4aeccf8",
-    "summary": "Claude Codeのauto modeは、専用のclassifierが危険な操作だけでなく、初期状態では自社の通常の操作まで「見覚えのない外部」と判断し停止させてしまうという課題があります。これは、classifierが作業ディレクトリと現在のリポジトリのリモートしか信頼しないため、会社のGitHubやクラウドバケットへの書き込みなどもブロックしてしまうためです。\n\nこの問題を解決するには、`autoMode` 設定ブロックを用いて、自社が信頼するリポジトリ、バケット、ドメインをclassifierに明示的に教え込む必要があります。これにより、日常的な内部操作が不必要に中断されることを防ぎ、スムーズな運用が可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-22T06:17:39.594143"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
-    "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
-    "summary": "AIエージェント「Hermes Agent」は、以前GIGAZINE記事の調査でブラウザ操作の失敗を経験しつつも、最終的に目的の記事を見つけて内容をまとめることに成功しました。このエージェントには、実際に行った作業の手順やトラブル解決方法を「スキル」として保存し、別のセッションで再利用できるようにする機能があります。そこで今回は、前回の「GIGAZINEから記事を探して内容をまとめる」という一連の作業をスキル化し、新しいセッションでその経験がどのように生かされるのかを検証します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-21T22:13:07.721922"
-  },
-  {
-    "source": "Zenn",
-    "title": "会社と個人のAIログイン混線、Chromeプロファイル分離の仕組みと限界",
-    "link": "https://zenn.dev/every_ai_recipe/articles/chrome-profile-work-personal-split",
-    "summary": "この記事は、会社と個人のAIサービス利用時にログイン情報が混線する課題を取り上げています。解決策として、Chromeのプロファイル分離機能がクッキーやセッションを独立させることで、ログインの混線を防ぐ仕組みを解説。しかし、利用者の運用上の課題や、プロファイル間での意図しないデータ移動が容易であるため、その効果には限界があると指摘しています。そのため、情報漏洩のリスクやセキュリティ・コンプライアンス上の問題を完全に解決するものではない、としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-21T22:13:46.674211"
   }
 ]
