@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "野生のサルが木の実を割るときに「過去に使われた石」を好むことが判明",
+    "link": "https://gigazine.net/news/20260912-wild-monkeys-track-tool-record/",
+    "summary": "野生のオマキザルに関する研究により、サルが木の実を割る道具として、過去に使われて使用痕跡が残っている石を好んで再利用する傾向があることが判明しました。これは、一度道具として利用され、その痕跡がある石の方が、再び選ばれる確率が高いことを示しています。研究者たちは、このような道具の再利用傾向が、初期のヒトにも当てはまる可能性を推測しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-11T23:41:06.592586"
+  },
+  {
+    "source": "Zenn",
+    "title": "Separating What Changes From What Must Persist: A Design Tradeoff...",
+    "link": "https://zenn.dev/tairagiang612/articles/8071984a94c5c8",
+    "summary": "提供されたタイトル「Separating What Changes From What Must Persist: A Design Tradeoff...」のみでは、記事の具体的な内容が不明なため、要約することはできません。\n\n記事の内容を要約するためには、本文を提供していただく必要があります。本文を共有していただければ、重要なポイントや数字を含めて3-4文で簡潔に要約いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-11T23:41:13.931572"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code v2.1.269｜claude plugin eval でプラグインを採点｜毎日Changelog解説",
+    "link": "https://qiita.com/moha0918_/items/52f33cf70bea41809eb1",
+    "summary": "Claude Code v2.1.269の大型リリース（98項目）では、`claude plugin eval`が導入されました。これにより、プラグインの評価スイートを実行し、プラグイン有無によるスコアの差をJSONやHTMLレポートで確認できます。この更新は、否定始まりの`deny`ルールや`Bash(tee:*)`の許可範囲に影響を与え、`/output-style [name]`コマンドも追加されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-11T23:41:23.382513"
+  },
+  {
     "source": "ITmedia",
     "title": "さくらインターネットへの侵入は「3年前」にさかのぼるか　不正アクセス調査が完了",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/11/news067.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-22T22:11:13.370836"
-  },
-  {
-    "source": "Qiita",
-    "title": "テキストと画像から動画を生成する ─ xSeedance を試す",
-    "link": "https://qiita.com/yuanyurenzht/items/960481ce4e9d951c9a55",
-    "summary": "動画制作の高いハードルに対し、AIサービス「xSeedance」はテキストや画像から手軽に短尺動画を作成できるサービスとして紹介されています。このサービスは、プロンプト入力や参考画像のアップロードにより、60秒以内に映画のような動画を生成し、MP4形式でダウンロードが可能です。インストールや編集スキルが不要なため、SNSのアイキャッチやプレゼンの導入など、短尺動画が必要な様々な場面でその利便性が評価されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-22T22:11:21.285789"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AI投資の費用対効果、どう測る？　OpenAIが示した4指標",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/22/news002.html",
-    "summary": "OpenAIは、AI投資の費用対効果を評価するための指標として「成果額当たりの有用な知能」を提唱しました。これは、AIがもたらす「業務成果」とその達成にかかる「成功費用」、「信頼性」、そして「拡張時の価値増加」という4つの軸で評価されます。同社は、AIモデルや計算資源の改善を通じて、成果の向上と費用低減を図る方針を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-22T06:17:08.871189"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "レタスを遺伝子操作して「肉のタンパク質」を作らせることに成功",
-    "link": "https://gigazine.net/news/20260822-meat-protein-grown-lettuce-plant/",
-    "summary": "畜産業は、大量の温室効果ガス排出や土地・水消費により地球温暖化の一因となっており、肉食を減らす必要性が指摘されています。そのため、植物由来の代替肉や人工的な培養肉が注目されています。\n\nそんな中、科学者らがレタスやタバコといった植物を遺伝子操作し、動物性タンパク質を作らせることに成功しました。この成果は、持続可能な食料生産に向けた新たなアプローチとして期待されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-22T06:17:18.936411"
   }
 ]
