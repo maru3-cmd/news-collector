@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+    "link": "https://gigazine.net/news/20260912-goose/",
+    "summary": "無料のオープンソースAIエージェント「goose」が公開されました。これは、ユーザーがOpenAI、Claude、Google Gemini、ローカルLLMなど複数のAIプロバイダーを用途や料金に応じて自由に切り替えながら利用できるツールです。デスクトップアプリ、CLI、APIといった多様なインターフェースに加え、MCPによるツール連携や自動化まで、あらゆるコード・ワークフローに対応した単一環境を提供します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-12T09:40:44.042716"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code の請求の8割は「居座り続けた出力」だった",
+    "link": "https://zenn.dev/maronsan/articles/nenpi-residency-cost",
+    "summary": "Claude Codeの利用において、請求金額の大部分が特定の出力形式に起因していることが明らかになりました。具体的には、請求の8割が「居座り続けた出力」によるもので、これはユーザーが不要になった後もコードの生成や表示が継続され、その間も課金が発生し続けていた状況を指します。この事実は、Claude Codeにおけるコスト効率の改善や、より効果的な出力管理の必要性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-12T09:40:53.601956"
+  },
+  {
+    "source": "Qiita",
+    "title": "LangGraph実践入門：自作エージェントから卒業して現場で動くAIエージェントを構築する完全ガイド",
+    "link": "https://qiita.com/lumichy/items/f646eb1d0d01eb67943b",
+    "summary": "「LangGraph実践入門」と題されたこの記事は、以前紹介された自作AIエージェントの学習効果と、その実務適用における課題について解説しています。自作エージェントは「THINK → ACT → OBSERVE」のループを通じて、AIエージェントの基本原理を深く理解するのに最適です。しかし、複数ユーザーの会話セッション永続化・分離といった、現場での安定稼働には多くの現実的な課題が存在します。本記事は、これらの課題を克服し、LangGraphを用いて現場で動くAIエージェントを構築するための完全ガイドとなることを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-12T09:41:04.021568"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "野生のサルが木の実を割るときに「過去に使われた石」を好むことが判明",
     "link": "https://gigazine.net/news/20260912-wild-monkeys-track-tool-record/",
     "summary": "野生のオマキザルに関する研究により、サルが木の実を割る道具として、過去に使われて使用痕跡が残っている石を好んで再利用する傾向があることが判明しました。これは、一度道具として利用され、その痕跡がある石の方が、再び選ばれる確率が高いことを示しています。研究者たちは、このような道具の再利用傾向が、初期のヒトにも当てはまる可能性を推測しています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-23T06:19:00.170648"
-  },
-  {
-    "source": "Qiita",
-    "title": "📄AIモデルレポーティング：Qwen3-8B-AWQで3Dプリントするためのスクリプト生成ができる？",
-    "link": "https://qiita.com/Necoze/items/2be58fccec410ae773c9",
-    "summary": "Qwen3-8Bは、パラメータ数8.2B、コンテキスト長はYaRN併用で最大131,072トークンまで拡張可能な大規模言語モデルです。このモデルは、MoEモデルを含むQwen3シリーズのDenseモデルの一つで、全シリーズがApache 2.0ライセンスで公開されています。\n\n最大の特徴は、複雑な論理推論やコーディング向けの「thinkingモード」と、効率重視の汎用対話向けの「non-thinkingモード」を単一モデル内でシームレスに切り替えられる点にあります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-23T06:19:08.940506"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
-    "link": "https://gigazine.net/news/20260822-waymo-brain/",
-    "summary": "Waymoは、複数の都市で展開しているロボタクシー事業の性能向上を目指し、カスタムASIC（特定用途向け集積回路）チップを開発しました。このASICチップは、ロボタクシーの中核技術として機能し、特定のタスクに特化することでシステム全体の効率とパフォーマンスを最適化することが期待されます。これにより、Waymoの自動運転技術のさらなる進化と事業拡大を支える基盤となります。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-08-22T22:11:02.252902"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code / Codexのコストをタスク単位で測るとき、曖昧なセッションを按分しない理由",
-    "link": "https://zenn.dev/yusuke_shiki/articles/d367713e3a86c7",
-    "summary": "Claude Code / CodexのようなAIツールの利用コストをタスク単位で測定する際、複数のタスクにまたがる、または目的が不明瞭な「曖昧なセッション」の扱いは課題となります。本記事は、これらの曖昧なセッションのコストを特定のタスクに按分すべきではない理由を説明しています。\n\nその主な理由は、不確かな按分がタスクごとの実際のコストを不正確にし、会計処理の複雑性を増すためです。正確かつ公平なコスト把握のため、曖昧なセッションは無理に各タスクへ割り振らず、別枠で管理することが推奨されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-22T22:11:13.370836"
   }
 ]
