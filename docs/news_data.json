@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でWireGuardを簡単にインストール・管理できる「WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能",
+    "link": "https://gigazine.net/news/20260913-wireguard-easy/",
+    "summary": "「WireGuard Easy」は、VPNサービスWireGuardの環境導入とクライアント管理を容易にする無料のオープンソースツールです。従来、WireGuardを自分で構築すると、利用端末ごとに鍵やIPアドレスなどを手動で設定・管理する手間がありました。このツールを使えば、Webブラウザから一括して設定が行え、クライアントの作成、編集、削除、有効化/無効化、QRコード表示、設定ファイルのダウンロードといった多様な管理が可能です。これにより、WireGuard環境の運用が格段に効率化されます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-13T10:41:59.421585"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeに「確認しなくていい範囲」を渡したら、開発時間が1日30分になった",
+    "link": "https://zenn.dev/mugen_web/articles/claude-code-permission-rules",
+    "summary": "AIコーディングアシスタント「Claude Code」を使った開発において、開発者は人間が確認する必要のないコードの範囲を明確に指示する工夫を行いました。\n\nこの「確認しなくていい範囲」を渡すアプローチにより、AIがより自律的にコードを生成・修正できるようになり、開発工程が大幅に効率化されました。\n\nその結果、1日あたりの開発時間をわずか30分にまで短縮することに成功した点が、この記事の重要なポイントです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-13T10:42:07.902578"
+  },
+  {
+    "source": "Qiita",
+    "title": "Webアプリがあれば十分？それでもデスクトップアプリを使いたくなる場面について考えてみた",
+    "link": "https://qiita.com/CiciSee/items/ee9bed1a9d15d8b2ea47",
+    "summary": "最近のWebアプリはドキュメント編集、動画編集、AIチャット、画像生成、コーディングまでブラウザで完結できるほど高機能になり、インストール不要・OS不問という手軽さが最大の魅力です。筆者も以前は、容量消費や更新の手間を避けるためWeb版を重視していました。しかし、多くのAIツールを利用する中で、デスクトップアプリの方が便利だと感じる場面も少なくないと感じており、Webアプリだけで十分かという疑問を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-13T10:42:16.004748"
+  },
+  {
     "source": "ITmedia",
     "title": "「AIで解雇した従業員の3割は再雇用に」　Gartnerが指摘する経営層の誤算",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-24T06:31:13.079949"
-  },
-  {
-    "source": "Qiita",
-    "title": "How I Turn a Finished Product Image Into a Short Video",
-    "link": "https://qiita.com/emilyjones1217/items/04e683312a12b6b23f1a",
-    "summary": "この記事は、承認済みの静止画から短編動画を作成する際のアプローチの変化について解説しています。以前は動画作成を新たな仕事としてゼロから取り組んでいましたが、現在では既存の静止画を基に「何が動くべきか？」という問いから始める方法を採用しています。この新しいアプローチにより、既存の構図やライティングなどの要素を最大限に活用しつつ、必要な部分のみに動きを加えることで、作業を効率化しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-24T06:31:21.219024"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果",
-    "link": "https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/",
-    "summary": "イェール大学とトロント大学の研究により、経済的に苦しい人々が「国全体としては景気が良い」と考えている場合に、より強い無力感を覚えることが明らかになりました。これは、世間の好景気と自身の生活の間に隔たりを感じることが原因であるとされます。この研究チームは、個人の経済的な苦しさと無力感の関係が、自国の景気評価によってどのように変化するかを調査しました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-23T22:15:45.299752"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude CodeとPythonでチャット履歴から顧客要望を自動抽出する実践",
-    "link": "https://zenn.dev/ikuokuotiak/articles/claudecode-python-chat-request-extraction",
-    "summary": "この記事は、Claude CodeとPythonを用いて、チャット履歴から顧客の要望を自動的に抽出する実践的な方法について解説しています。大量のチャットデータの中から顧客の具体的なニーズや課題を効率的に特定し、顧客理解を深めることを目的としています。この手法により、手作業による分析の負担を軽減し、サービス改善や製品開発への迅速なフィードバックを可能にします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-23T22:15:52.013032"
   }
 ]
