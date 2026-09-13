@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "“最強エージェント”は、まさかのポンコツだった　業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html",
+    "summary": "NTTドコモソリューションズのIT運用部門は、業務の30%をAIエージェントに任せることに成功しました。しかし、当初「最強」と期待されたAIエージェントは必ずしも万能ではなく、「ポンコツ」と化すような「つまずきポイント」に直面しました。この記事では、同部門のトップが、これらの課題をどのように克服し、AIエージェントの実装を成功させた道のりについて語っています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-13T23:46:31.438296"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "音波を使って数秒で火を消す音響消火器を16才の少女が開発",
+    "link": "https://gigazine.net/news/20260914-acoustic-fire-extinguisher/",
+    "summary": "メキシコの16歳の女子学生が、音波を利用して火を消す画期的な「音響消火器」を開発しました。この装置は、従来の消火器とは異なり、音の力で数秒以内に火を消し止めることが可能とされています。彼女の発明は、新しい消火方法としてその有効性と可能性に注目が集まっています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-09-13T23:46:41.412677"
+  },
+  {
+    "source": "Zenn",
+    "title": "Skill を「プロンプト」と呼ぶのをやめた — 自然言語で書いたコードとして扱う",
+    "link": "https://zenn.dev/tomnotelog/articles/skill-as-natural-language-code",
+    "summary": "この記事は、「Skill」という概念をこれまでの「プロンプト」と呼ぶのをやめ、「自然言語で書いたコード」として扱うという方針転換について述べています。これは、単なる指示としてのプロンプトではなく、より構造化された実行可能なプログラムのように捉え直す意図があることを示唆しています。この呼称変更は、自然言語で書かれたものが持つ能力を強調し、その開発や設計に対する新たな視点を提供するものです。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-09-13T23:46:48.638113"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年9月14日",
+    "link": "https://qiita.com/ishisaka/items/2a7a08f2610dbac44055",
+    "summary": "2026年9月14日付のプログラミング雑記では、AIの急速な能力向上に伴う破滅的リスクが強調されています。具体的には、制御不能なAI、サイバー攻撃、生物兵器悪用といった脅威に加え、AIが次世代AIを開発する「再帰的自己改善」や自律型エージェント集団による暴走事例が挙げられています。\n\nこれらのリスクに対し、開発を完全に止めるのではなく、安全対策やAIの解釈可能性の解明に見合う速度へと調整する「ペーシング（歩進管理）」の必要性が訴えられています。著者はこの課題に対し、3段階の協調アプローチを提唱しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-09-13T23:46:56.758298"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でWireGuardを簡単にインストール・管理できる「WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能",
     "link": "https://gigazine.net/news/20260913-wireguard-easy/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-24T22:15:29.832725"
-  },
-  {
-    "source": "Qiita",
-    "title": "なぜClaude Codeのsubagent並列実行にisolation: 'worktree'が必要なのか\n",
-    "link": "https://qiita.com/YujiNaramoto/items/b3acc07ae05e4b84e487",
-    "summary": "Claude CodeのAgent toolで複数のsubagentを並列実行する際、読み取り専用タスクは高速化されます。しかし、ファイル書き換えやgit操作を伴う場合、同一ワーキングディレクトリを共有すると、コミット内容が中途半端に混ざるという課題が発生します。これは、並列subagentが同時にgit操作を行うことで生じる問題です。\n\n記事では、この問題を解決し、各subagentのgit操作の整合性を保つために、`isolation: 'worktree'`のような作業ディレクトリの分離メカニズムが必要であると説明されています。これにより、並列処理のメリットを享受しつつ、安全なコード変更が可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-24T22:15:39.395605"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェント活用を阻む“予算の壁”　セールスフォースらの新機能は打開策になり得るか？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
-    "summary": "AIエージェントの活用において、企業はAI利用コストの予測が困難なため、予算策定やROI（投資対効果）の見通しが立たず、「予算の壁」に阻まれています。この問題は、AIへの投資判断を遅らせる大きな要因となっています。このような状況を打破するため、セールスフォース、IBM、マネーフォワードが提供を開始した最新機能が、この「予算の壁」に対する打開策となり得るか注目されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-24T06:30:55.323954"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
-    "link": "https://gigazine.net/news/20260824-gas-turbine-shortage/",
-    "summary": "AI開発の加速にはデータセンターの増設が不可欠ですが、その電力供給に新たな課題が浮上しています。データセンターの安定稼働には大量の電力が必要であり、その主要な供給源であるガスタービンの不足が深刻化しているためです。このガスタービン不足は、データセンターへの電力供給を滞らせ、AI開発の新たなボトルネックとなる恐れがあります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-24T06:31:02.295529"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIを育てはじめて1ヶ月、動いているコードを全部消した",
-    "link": "https://zenn.dev/yi_works/articles/ai-first-month",
-    "summary": "筆者はAIの開発を開始して1ヶ月が経過したことを報告しています。しかし、その時点で動いていた全てのコードを削除するという、非常に大胆な決断を下しました。この行動は、当初のアプローチに根本的な問題が見つかったか、あるいはより良い方向性への完全な再出発が必要であると判断されたことを強く示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-24T06:31:13.079949"
   }
 ]
