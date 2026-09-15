@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news012.html",
+    "summary": "生成AIがレガシーシステム刷新の課題解決に貢献する一方で、日立は「人間のエンジニアが果たす役割は大きい」と強調しています。同社は、刷新プロジェクトにおける最大の“難所”にAIをどのように適用するかに焦点を当て、その中での人の役割の変化について論じています。これは、AI時代において、単なるCOBOL人材不足ではない、より本質的な人の役割を問い直すものです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-15T23:49:18.887695"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "頭の中で人や物を思い浮かべられない「アファンタジア」の研究が想像力に関する理論に影響を与えている",
+    "link": "https://gigazine.net/news/20260916-aphantasia-mental-imagery-brain-network/",
+    "summary": "アファンタジアとは、心の中で人や物といったイメージを視覚的に思い浮かべることができない状態を指します。人口の約2～5％にこの特性が見られるとされており、その研究が進められています。アファンタジアに関する研究は、人間の想像力に関する既存の理論に新たな知見をもたらし、その発展に寄与していると注目されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-15T23:49:25.222150"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeで「誤答だけの問題集」を作ってDatabricks DEAに合格した話",
+    "link": "https://zenn.dev/imikami/articles/770b07afb4932d",
+    "summary": "この記事は、筆者がDatabricks Certified Associate Data Engineer (DEA) 資格試験に合格するために、AIツールであるClaude Codeを独自に活用した体験談です。筆者は自身の弱点克服を目的とし、Claude Codeを使って「誤答だけの問題集」を作成しました。このAIを活用した効率的な学習方法により、見事にDatabricks DEA試験に合格しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-15T23:49:34.259164"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年9月16日",
+    "link": "https://qiita.com/ishisaka/items/560e7e097b39528216c5",
+    "summary": "Qiitaは2026年9月16日にサービス開始15周年を迎え、会員数180万人以上、累計記事数120万本を突破しました。これを記念し、Markdownでスライドを作成できる「スライド機能」のベータ版公開や「Qiita AI Summit」の初開催といった新たな取り組みを実施。サイト内には記念アニメーションなどの仕掛けが用意され、ユーザーへの感謝を伝えるとともに、今後のイベントやAdvent Calendarを通じてさらなる発展を目指すことが示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-15T23:49:41.921411"
+  },
+  {
     "source": "GIGAZINE",
     "title": "マッチ箱サイズのIP-KVMスイッチ「JetKVM Mini」、有線接続と無線接続の両方に対応して1080pのビデオキャプチャ機能・オープンソースのファームウェア",
     "link": "https://gigazine.net/news/20260915-jetkvm-mini/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-27T02:24:20.055500"
-  },
-  {
-    "source": "Zenn",
-    "title": "巨大PRをStacked PRに分割したら、AIレビューが見逃していたバグを見つけてくれた",
-    "link": "https://zenn.dev/backtech/articles/e29bf4297187c9",
-    "summary": "巨大なプルリクエスト（PR）を複数のStacked PRに分割したところ、AIレビューが以前見逃していたバグを発見しました。元の巨大なPRの状態ではAIが検出できなかったバグが、PRの粒度を小さくすることで見つけられたのです。この経験は、PRを小さく分割することがAIレビューの精度を高め、見落とされがちな問題を発見する有効な手段であることを示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-27T02:24:29.697177"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIの過剰実装を検知して削る",
-    "link": "https://qiita.com/futakuchi0117/items/87945763c6c79c1927e9",
-    "summary": "本記事は、AIが生成するコードにおける「作りすぎ、設計しすぎ」の過剰実装を、検知・修正・防止の3層アプローチで解決する手順を提示しています。これは、LLMが大規模で長寿命なオープンソースの構造から学習するため、小さなスクリプトにも過剰な設計を再現してしまうのが原因です。プロンプトを詳述するよりも、生成後にコードを削る仕組みが重要だと指摘されています。具体的な過剰実装の例として、実装が一つしかない抽象基底クラス、モック値をそのままassertするテスト、エンタープライズ向けの過剰設計などが挙げられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-27T02:24:41.001111"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Asanaが5年、600万ドルのコード移行を「1.5週間、1.2万ドル」で完了　5文のプロンプトに絞った理由は",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/26/news024.html",
-    "summary": "AsanaはAIを活用し、旧式ライブラリ「Enzyme」からの大規模なコード移行をわずか1.5週間、費用1.2万ドルで完了させました。\nこれは、当初5年と600万ドルかかると見積もられていた期間と費用を劇的に削減したものです。\nこの驚異的な成功は、長文ではない「5文のプロンプト」という簡潔なAI指示と、移行対象となる既存コードの品質の高さが主な要因です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-26T06:24:28.402735"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？",
-    "link": "https://gigazine.net/news/20260826-alzheimers-spread-through-blood-transfusions/",
-    "summary": "アルツハイマー病は、認知症の主な原因となる神経変性疾患で、年齢、遺伝、生活習慣などが一般的なリスク要因とされています。しかし、医学誌The Lancetに掲載された論文は、この病気が輸血によって「伝染」する可能性を示唆し、注目を集めています。これは、従来のアルツハイマー病に対する理解に新たな問題提起をもたらすものです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-26T06:24:38.272828"
   }
 ]
