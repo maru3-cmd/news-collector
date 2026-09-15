@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "マッチ箱サイズのIP-KVMスイッチ「JetKVM Mini」、有線接続と無線接続の両方に対応して1080pのビデオキャプチャ機能・オープンソースのファームウェア",
+    "link": "https://gigazine.net/news/20260915-jetkvm-mini/",
+    "summary": "「JetKVM Mini」は、ネットワーク経由でPCを遠隔操作できるマッチ箱サイズのIP-KVMスイッチです。有線・無線接続の両方に対応し、1080pのビデオキャプチャ機能を搭載しています。さらに、オープンソースのファームウェアを採用している点が特徴です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-15T10:33:34.302132"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIワークフローを作る前に試したい「小さな検証」",
+    "link": "https://zenn.dev/aiai_tool/articles/bcd734677d4939",
+    "summary": "提供された記事内容はタイトル「AIワークフローを作る前に試したい『小さな検証』」のみです。具体的な記事本文がないため、この情報だけでは要約を作成することができません。\n\n記事の具体的な内容をご提供いただけますでしょうか。そうすれば、3〜4文で重要なポイントや数字を含めて要約いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-15T10:33:42.674529"
+  },
+  {
+    "source": "Qiita",
+    "title": "Building Custom LLM Solutions: Why Generic AI Falls Short for Enterprise Workflows",
+    "link": "https://qiita.com/Exrwebflow/items/07ec1d31cb585ccad336",
+    "summary": "既製の汎用LLMは一般的なテキスト生成には優れていますが、企業の本番環境ではオーダーメイドの知能、厳格な評価、ドメイン固有の整合性が不可欠です。このため、汎用AIでは企業の複雑なワークフローに対応しきれないとされています。EXRWebflowは、こうした課題を解決するため、複雑な運用を自動化し、ドメインデータを保護し、信頼性の高いパフォーマンスを提供できるよう設計されたカスタムLLMアーキテクチャを開発しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-15T10:33:52.582458"
+  },
+  {
     "source": "ITmedia",
     "title": "なぜ、会議支援AI市場が35・1％も成長？　「議事録作成」で終わらないニーズとは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news023.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-26T06:24:38.272828"
-  },
-  {
-    "source": "Zenn",
-    "title": "Excel読み取り、市販パーサ65%・自作の前処理89%",
-    "link": "https://zenn.dev/ai_worklab/articles/excel-ai-reading-markitdown-vs-custom-parser",
-    "summary": "Excelデータの読み取りと解析において、既存の課題が指摘されています。市販のパーサ単体では、データの正解率が65%に留まることが明らかになりました。\n\nしかし、データ読み取り前に自作の前処理を施すことで、正解率が大幅に向上することが確認されています。この前処理を適用した結果、Excelデータの読み取り精度は89%に達し、従来の方式を大きく上回りました。この結果は、Excelデータ解析における前処理の重要性を示唆しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-08-26T06:24:45.924522"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenAI API 入門 — API キーの取得から初回リクエストまで",
-    "link": "https://qiita.com/Akinori901/items/58cfa10f57c1fac9358f",
-    "summary": "本記事は、OpenAI APIを初めて利用するエンジニア向けに、APIキーの取得から環境構築、初回リクエスト送信までをPythonで解説する入門ハンズオンです。\n\n記事を進めるにはPython 3.8以上とOpenAIアカウントが必要で、アカウント作成は無料ですがAPI利用には支払い方法の登録が必須です。\n\nAPI利用は従量課金制のため、想定外の課金を防ぐためにダッシュボードで利用上限（Usage limits）を必ず設定することが推奨されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-26T06:24:53.744890"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
-    "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
-    "summary": "AIモデルの量子化を手がけるUnslothが、AIの性能をなるべく維持しつつ省メモリ化を実現する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発しました。この「Dynamic 3.0」は、性能低下を抑制しながらメモリ使用量を削減することを目指しており、既にQwen3.8-27Bモデルに適用され、成功を収めています。Unslothは、GoogleやAlibabaなどがオープンモデルを公開すると数日以内にその量子化版を提供する企業として知られています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-25T22:15:40.912380"
   }
 ]
