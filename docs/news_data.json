@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "なぜ、会議支援AI市場が35・1％も成長？　「議事録作成」で終わらないニーズとは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news023.html",
+    "summary": "国内の会議支援AI市場は、2025年度に前年度比35.1％増と急成長しています。汎用的な生成AIツールでも議事録作成が可能であるにもかかわらず、この市場が伸び続けるのは、単に議事録を作成する以上のニーズがあるためです。記事は、ITRの調査に基づき、議事録作成に留まらない、より高度な会議支援に対する需要の変化が市場を牽引していることを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-15T00:04:39.971091"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "年代や月収によって普段の食事に支払う金額は変わるのか？朝食・昼食・おやつ・夕食それぞれで分析した結果",
+    "link": "https://gigazine.net/news/20260915-gigazine-user-daily-food-cost/",
+    "summary": "GIGAZINEは2026年夏に実施したプレゼントアンケートの結果に基づき、読者の日々の食費について詳細な分析を行いました。この記事では、朝食・昼食・おやつ・夕食それぞれに支払う金額がどれくらいなのかを調査しています。特に、年代や月収といった要因が、普段の食事に支払う金額やその配分にどのような影響を与えるのかを明らかにしようとしています。食費の個人差に焦点を当て、読者の食事への支出傾向を探ることが目的です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-15T00:04:49.854914"
+  },
+  {
+    "source": "Zenn",
+    "title": "MCPサーバーのツール設計 — AIに渡す「道具」の粒度と設計原則",
+    "link": "https://zenn.dev/yukihayama/articles/mcp-tool-design",
+    "summary": "この記事は、MCPサーバーにおけるツール設計の核心に迫り、AIが効果的に利用できる「道具」としての側面を深く掘り下げています。具体的には、AIが扱いやすい「道具」の最適な「粒度」とは何か、そしてその設計を導くべき「設計原則」について議論しています。AIとの連携を最大化し、サーバーシステムとの効率的かつ柔軟な相互作用を実現するための設計思想が提示されていると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-15T00:05:00.052644"
+  },
+  {
+    "source": "Qiita",
+    "title": "[初心者] AIコーディングが遅くなった？「読む量」を減らして速さを取り戻すIRV",
+    "link": "https://qiita.com/ShigemoriMasato/items/b8faed66e36023085ef5",
+    "summary": "AIコーディングにおいて、プロジェクトが大規模化すると、バグ修正の遅延や品質の低下が起こる問題が指摘されています。これはAIの性能だけでなく、変更前にAIが読み解かなければならない情報量が増加していることが原因だとされています。この記事では、1つの修正のためにAIが読む量を「IRV（Issue Reading Volume）」と定義し、この概念を通じてAIコーディングの速度と精度を取り戻すためのアプローチを提案しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-15T00:05:13.327622"
+  },
+  {
+    "source": "ITmedia",
     "title": "城南信用金庫×日本IBMが取り組む「地域DX」　従来の事業モデルから脱却できるか？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news081.html",
     "summary": "城南信用金庫は日本IBMと連携し、品川区と協力して地域DXの新たな取り組みを開始しました。これは、少子高齢化の進行により、地域金融機関が従来の事業モデルでは立ち行かなくなっている現状を打開するためです。本取り組みは、新たなスキームを通じて地域経済のデジタル変革を推進し、従来の事業モデルからの脱却と持続可能な成長を目指しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-08-25T22:15:40.912380"
-  },
-  {
-    "source": "Zenn",
-    "title": "ResNet以降のCNNを実装で辿る——軽量化・注意機構・自動探索の設計思想",
-    "link": "https://zenn.dev/taichiendoh/articles/cnn-evolution-after-resnet-design",
-    "summary": "この記事は、ResNet以降の畳み込みニューラルネットワーク（CNN）の進化を、実装の視点から紐解いています。主な設計思想として、「軽量化」「注意機構（Attention）」「自動探索（AutoML）」の三つに焦点を当てています。軽量化はリソース制約下での効率性を、注意機構はモデルの表現力と精度向上を、自動探索は最適なネットワークアーキテクチャの自動発見を目指します。これらの革新的なアプローチが、現代のAIモデル開発の主流を形成していることを示します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-25T22:15:52.477605"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年8月26日",
-    "link": "https://qiita.com/ishisaka/items/0dcde62b8b5d3c4a5fa0",
-    "summary": "2026年8月26日のプログラミング雑記は、主に技術ニュースとして無料のオンラインイベント「.NET Conf 2026」について取り上げています。このイベントは2026年11月10日から12日に開催され、.NET 11のリリースが予定されています。また、イベントに向けて間もなく登壇者の募集が開始されるとのことです。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-08-25T22:19:09.359428"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft Entra IDにCVSS 10.0の緊急脆弱性　対応不要なのに公表された理由",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/25/news026.html",
-    "summary": "Microsoftは、自社のサービス「Microsoft Entra ID」において、深刻度「CVSS 10.0」の緊急脆弱性「CVE-2026-69836」が存在したことを公表しました。しかし、Microsoft側で既に緩和措置が完了しており、利用者側で特別な対応を行う必要はありません。この記事は、利用者側の作業が不要な脆弱性情報がなぜ公表されたのかという疑問を提示しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-08-25T06:22:09.915774"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "タコはなぜ賢いのか？これまで知られていなかった突然変異が理由かもしれない",
-    "link": "https://gigazine.net/news/20260825-octopus-ribosomal-innovation/",
-    "summary": "タコの優れた知能は、一部のタコで発見された謎の突然変異が原因である可能性が指摘されています。この突然変異を持つタコは、タンパク質合成の精度が非常に高いことが判明しました。研究者たちは、この高精度なタンパク質合成の仕組みがタコの知能に関連していると考えています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-25T06:22:19.707715"
   }
 ]
