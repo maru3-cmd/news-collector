@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AI時代のインフラ再設計　モデルとデータを統合制御する「コントロールプレーン」の条件",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/17/news002.html",
+    "summary": "AI活用の競争軸がモデル性能から運用能力へと移行する中、AI時代のインフラ再設計が喫緊の課題となっています。特に、多様な環境に分散するAIモデルやデータを安全かつ柔軟に一元管理する「コントロールプレーン」の役割が重要です。このコントロールプレーンは、持続可能性、主権、統制をすべて両立させるAI基盤の実現に不可欠な条件であると解説されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-16T23:57:52.745029"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "NVIDIAはAIの中央銀行と化している",
+    "link": "https://gigazine.net/news/20260917-nvidia-central-bank-ai/",
+    "summary": "アメリカの半導体企業NVIDIAは、AIを支える半導体の主要供給源です。AIの普及に伴い、同社の時価総額は急上昇し、2025年10月には世界で初めて5兆ドル（約780兆円）に達しました。この状況を受け、経済メディアのThe EconomistはNVIDIAを「AIの中央銀行」と報じています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-16T23:58:01.984989"
+  },
+  {
+    "source": "Zenn",
+    "title": "Skill がむしろ邪魔になる世界線で、AI に残すべき情報とは何か？",
+    "link": "https://zenn.dev/koinunopochi/articles/17a2a89688254b",
+    "summary": "提供された内容が記事タイトルのみのため、詳細な要約はできませんが、タイトル自体が重要な問いを提示しています。\n\nそれは、「スキルがむしろ足かせとなるような未来において、AIに継承すべき情報は何であるか」というものです。この記事では、従来の専門知識やノウハウとは異なる、AIが真に役立つ形で人類の知見をどのように蓄積・活用すべきかについて考察されていると推測されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-16T23:58:12.698176"
+  },
+  {
+    "source": "Qiita",
+    "title": "担当製品の\"人力\"キャッチアップに疲れたので、\"AI\"に毎週の作業をまるっと任せてみた",
+    "link": "https://qiita.com/KoheiKushida/items/9698b77f73d19ccd962c",
+    "summary": "この記事の筆者は、担当製品であるAzureの情報を「人力」でキャッチアップする作業に疲弊し、以前は「選択と集中」で対応していました。しかし、生成AIの進化を受け、現在は「必要な情報源は全てAIに要約・整理させる」という方針に転換しています。具体的には、Azure関連情報を自動収集しAIが要約するWebサイトを開発。約1ヶ月の運用を経て安定したため、毎週行っていた情報キャッチアップ作業をAIに任せることに成功しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-16T23:58:21.814428"
+  },
+  {
     "source": "GIGAZINE",
     "title": "2026年9月16日のヘッドラインニュース",
     "link": "https://gigazine.net/news/20260916-headline/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-28T05:52:36.929215"
-  },
-  {
-    "source": "Qiita",
-    "title": "Databricksのai_top_driversで「売上が増えた要因」を分解してみた",
-    "link": "https://qiita.com/taka_yayoi/items/3d346566416729d39c26",
-    "summary": "Databricksの新しいベータ版SQL関数`ai_top_drivers()`は、売上や件数などの数字の増減要因を効率的に分析します。この関数は、2つの期間や集団を比較し、その増減に最も影響を与えた要素（切り口と値）を、貢献度が高い順に特定して返します。これにより、SQL一発で貢献分析が可能となり、「売上が増えた要因」といったビジネス上の問いへの迅速な洞察を得られます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-28T05:52:45.091568"
-  },
-  {
-    "source": "ITmedia",
-    "title": "中堅・中小の「情シス」減少中　専任人材減少の“副作用”に迫る",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/26/news035.html",
-    "summary": "中堅・中小企業では、情報システム部門の専任担当者（情シス）が減少傾向にあります。特に、中小企業の約65%で情シスが不在であり、中堅企業でも「ひとり情シス」が増加している状況です。\n\nこのIT運用を支える専任人材の不足は、企業のIT環境に様々な悪影響（副作用）を及ぼすことが、2つの調査から明らかになっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-27T16:56:12.363191"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AnthropicがClaude Coworkに独自の内蔵ブラウザを搭載、「Claude in Chrome」と使い分け可能",
-    "link": "https://gigazine.net/news/20260827-claude-cowork-built-in-browser/",
-    "summary": "Anthropicは、PC操作支援AI「Claude Cowork」に独自のブラウザを搭載したことを発表しました。この内蔵ブラウザにより、AIがPC操作をよりシームレスに支援できるようになると期待されます。この新機能は、サブスクリプションプランの有料ユーザーを対象に、今後順次提供される予定です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-27T16:56:21.821871"
-  },
-  {
-    "source": "Zenn",
-    "title": "検索条件をAIに言わせる時代の設定としてのSQL設計",
-    "link": "https://zenn.dev/nerisakana/articles/6a30e5cd9d71de",
-    "summary": "この記事は、「検索条件をAIに言わせる時代」に向けたSQL設計の重要性を説いています。\nこれは、AIがユーザーの意図を正確に理解し、適切なデータ検索条件を自律的に生成するための基盤として、SQLデータベースを設計する必要があることを意味します。\n将来的にAIがクエリ作成の中心を担うようになるため、AIが効率的かつ正確にデータを扱えるよう、SQLの構造やスキーマ設計を最適化する重要性を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-27T16:56:32.301634"
   }
 ]
