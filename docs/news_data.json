@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "2026年9月16日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20260916-headline/",
+    "summary": "人気作品「パペットスンスン」初の公式ガイドブック『パペットスンスン ガイドブック』が、2026年11月11日(水)に発売されることが発表されました。価格は税込2090円です。オンライン予約はすでに9月16日から開始されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-16T10:22:23.104696"
+  },
+  {
+    "source": "Zenn",
+    "title": "Knowledge CatalogでAIエージェントに自社のビジネス文脈を教える",
+    "link": "https://zenn.dev/web_benriya/articles/bigquery-knowledge-catalog-business-context",
+    "summary": "この記事は、「Knowledge Catalog」を活用してAIエージェントに企業独自のビジネス文脈を教える方法について述べています。\n\nこれにより、AIは一般的な情報だけでなく、特定の企業の専門用語、プロセス、顧客情報といった詳細なビジネス知識を効率的に学習することが可能になります。結果として、AIエージェントは企業の業務や質問に対し、より正確で適切な対応ができるようになると期待されます。記事中には具体的な数字は含まれていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-16T10:22:32.498058"
+  },
+  {
+    "source": "Qiita",
+    "title": "村中仁斗（むらなかまさと）｜G検定に合格した勉強法・学習記録｜AI・機械学習",
+    "link": "https://qiita.com/masa_muranaka/items/1aa26d68fd93db470654",
+    "summary": "村中仁斗氏は、2026年3月23日にJDLA Deep Learning for GENERAL G2026 #2（G検定）に合格したことを報告しています。この記事は、彼がG検定合格に至るまでの学習過程を記録したものです。\n\nG検定は、一般社団法人日本ディープラーニング協会（JDLA）が実施する資格試験で、AIや機械学習に関する基礎知識を問います。特にディープラーニングの仕組みや活用方法、関連する法律・倫理などが出題範囲で、ビジネスでAIを活用するための基礎理解を目的としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-16T10:22:41.013452"
+  },
+  {
     "source": "ITmedia",
     "title": "「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news012.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-27T16:56:32.301634"
-  },
-  {
-    "source": "Qiita",
-    "title": "【備忘録】Salesforce周りのMCP / Agent Skills / Headless開発を整理する - 2026年8月時点で何がどの用途なのか",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/d719b33ae5eac78983dd",
-    "summary": "SalesforceのAI連携では、Hosted MCP Server、Agent Skills、Headless 360といった多様な開発者向け要素が増え、複雑化しています。これらはMCPサーバー、ツール、プラグイン、上位コンセプトなど異なる種類が混在しており、用途の理解を困難にしています。本記事は、2026年8月25日時点の公式情報に基づき、これらの多岐にわたる要素の用途を整理し、開発者の正確な理解を促すことを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-27T16:56:41.752946"
-  },
-  {
-    "source": "ITmedia",
-    "title": "LINEヤフーが“ペタバイト級DWH”をクラウド移行　「処理時間2倍」の壁をどう突破した",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/19/news001.html",
-    "summary": "LINEヤフーは総容量3PB超のDWHをAmazon Redshiftへクラウド移行しました。移行当初は処理時間2倍などのピーク時性能課題に直面しましたが、マルチAZ構成や自動WLMを導入してこれを克服。これによりバッチ処理の高速化とNoOps化を実現しました。現在は公式MCPサーバ整備を通じて“AIレディ”な基盤構築を推進しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-27T02:24:13.267082"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Appleが発表イベント「Surprise and shine.」を9月10日2時に開催、新型iPhoneが登場か",
-    "link": "https://gigazine.net/news/20260827-apple-officially-announces-iphone-event/",
-    "summary": "Appleは、2026年9月10日2時(日本時間)に「Surprise and shine.」と題した発表イベントを開催すると発表しました。\nこのイベントでは、次期モデルの「iPhone 18シリーズ」が披露されると広く予想されています。\nさらに、同社初となる折りたたみiPhoneが発表される可能性も示唆されており、大きな注目を集めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-27T02:24:20.055500"
   }
 ]
