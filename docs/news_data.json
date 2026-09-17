@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "資生堂、AIエージェントで原料探索を95％削減　研究員の「目利き」を複数LLMで再現",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
+    "summary": "資生堂は、研究開発分野にAIエージェントを導入し、有望な化粧品原料の探索プロセスを革新しました。このAIエージェントは、複数LLMを組み合わせて研究員の「目利き」を再現し、膨大な候補から最適な原料を効率的に見極めます。その結果、原料探索にかかる時間を95%削減することに成功しました。このシステムは、探索時間の短縮だけでなく、提案される原料の数も増加させ、研究開発の効率化と品質向上に貢献しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-17T23:47:39.352378"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「Factorio」の乱数生成器を解析して「レジェンド品質のアイテム」が出る未来を予測する試み",
+    "link": "https://gigazine.net/news/20260918-reversing-factorio-rng/",
+    "summary": "工場建設ゲーム「Factorio」の拡張「Space Age」で導入されたアイテムの「品質」システムについて、コンピューター科学専攻の大学院生Gegell氏がその疑似乱数生成器を解析しました。彼はゲーム内の回路を使い、乱数の内部状態を割り出して、将来どのタイミングで高品質アイテムが生成されるかを予測する仕組みを構築。\n\nさらに、Gegell氏は不利な乱数を意図的に消費することで、最高品質である「レジェンド」アイテムが生成されるタイミングまで乱数列を進める自動化にも成功しました。これにより、高品質アイテムの計画的な生産が可能になったとのことです。",
+    "category": "DX・業務改善",
+    "content_type": "news",
+    "collected_at": "2026-09-17T23:47:49.150504"
+  },
+  {
+    "source": "Zenn",
+    "title": "Jev 所感 ダラダラと書く",
+    "link": "https://zenn.dev/meijin/articles/jev-impressions",
+    "summary": "この記事は、「Jev」について筆者が感じたことを、構成を意識せずに自由に書き記した「所感」であるとされています。タイトルと内容が共に「Jev 所感 ダラダラと書く」と明記されていることから、特定のテーマや構成に縛られず、思いつくままに記述されたものであることが示唆されます。\n\nしかし、提供された情報には「Jev」が具体的に何を指すのか、その所感の内容、または関連する数値などの詳細は一切含まれていません。このため、具体的な記事内容を要約することはできません。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-17T23:47:58.282878"
+  },
+  {
+    "source": "Qiita",
+    "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
+    "link": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9",
+    "summary": "Claude Codeの`/update-config`機能が、ファイルの権限検査に一致しない無効な`Write(path)`ルールを誤って生成していたことが判明しました。記事のテストでは、`deny Write(ファイル)`ルールは12回中12回書き込みを阻止できなかった一方、`deny Edit(ファイル)`ルールは12回中12回とも書き込みを正常に停止させました。つまり、`Write()`権限は機能せず、`Edit()`のみが新規作成やBashのリダイレクトを含む書き込みを停止させる有効な方法です。Claude Code 2.1.275（2026-09-17）で、`/update-config`が有効な`Edit(path)`ルールを記述するように修正されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-17T23:48:11.543608"
+  },
+  {
+    "source": "ITmedia",
     "title": "Windows 11、RDSやHyper-V、USB音声の不具合に対応するプログラムを配信　一部未解決の問題も",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/17/news041.html",
     "summary": "Microsoftは、Windows 11で「Hyper-V」「Remote Desktop Services」「USB Audio Class 1.0」の3つの不具合が発生した問題に対応するため、帯域外更新プログラムを配信しました。これらの不具合は、2026年9月の月例セキュリティ更新プログラム適用後に顕在化したものです。しかし、今回の更新プログラムをもってしても、一部の症状は依然として未解決のまま残っています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-29T03:25:15.870369"
-  },
-  {
-    "source": "Zenn",
-    "title": "全員をAI人材にしなくていい――現場AI活用をスケールする組織設計",
-    "link": "https://zenn.dev/minipoisson/articles/ai-scaling-org-design",
-    "summary": "この記事は、「全員をAI人材にする」という考え方ではなく、組織設計を通じて現場でのAI活用を効果的にスケールさせる方法を論じています。具体的には、一部のAI専門家が全体のシステム構築やサポートを行い、現場の従業員はAIツールを「使う」ことに注力する分業アプローチを提唱しています。これにより、高度な専門知識がない従業員でもAIの恩恵を受けられる環境を整え、企業全体の生産性向上とAI導入の加速を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-29T03:25:26.384872"
-  },
-  {
-    "source": "Qiita",
-    "title": "Qiita執筆をOS本体のStepやリリース作業へ混ぜなかった理由",
-    "link": "https://qiita.com/boraemon2000/items/4d46bac05049fe528d90",
-    "summary": "この記事は、Qiita執筆とOS本体の開発・リリース作業を明確に分離する理由を説明しています。`PROJECT_RULES.md`により、執筆者が記事の流れに合わせてOS本体のコードや文書などを変更することは固く禁じられています。この方針は、Qiitaでの記事制作や図解などの作業と、OS本体の作業とで、作業場所だけでなく責任範囲も完全に分けることを目的としています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-08-29T03:25:35.855706"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
-    "link": "https://gigazine.net/news/20260829-glm-5-3-open/",
-    "summary": "中国のAI企業Z.aiは、高性能AIモデル「GLM-5.3」を、約束通り日本時間の2026年8月29日0時に公開しました。このモデルはオープンモデルとして無償で提供されます。その性能は、業界をリードするClaude Fable 5やGPT-5.6 Solに匹敵するとされています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-28T17:46:37.024504"
-  },
-  {
-    "source": "Zenn",
-    "title": "「認知的負債」と「認知的降伏」— Addy Osmani が語る、AIに任せて失うもの",
-    "link": "https://zenn.dev/talks_tldr_jp/articles/tldr27-osmani-summary",
-    "summary": "Addy Osmani氏は、AIへの過度な依存がもたらすリスクとして「認知的負債」と「認知的降伏」という概念を提唱しています。認知的負債とは、AIに作業を任せることで、その分野における自身の知識や深い理解が徐々に低下していく状態を指します。さらに深刻な「認知的降伏」は、AIの出力を無批判に受け入れ、人間が批判的思考や検証能力を失う状態です。これらの現象は、人間の自律的な学習能力と深い理解を損ない、最終的には特定の認知能力を失う危険性を警告しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-28T17:46:46.332041"
   }
 ]
