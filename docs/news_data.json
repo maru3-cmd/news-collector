@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Windows 11、RDSやHyper-V、USB音声の不具合に対応するプログラムを配信　一部未解決の問題も",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/17/news041.html",
+    "summary": "Microsoftは、Windows 11で「Hyper-V」「Remote Desktop Services」「USB Audio Class 1.0」の3つの不具合が発生した問題に対応するため、帯域外更新プログラムを配信しました。これらの不具合は、2026年9月の月例セキュリティ更新プログラム適用後に顕在化したものです。しかし、今回の更新プログラムをもってしても、一部の症状は依然として未解決のまま残っています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-17T10:31:33.136251"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "2026年9月17日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20260917-headline/",
+    "summary": "松屋は、新メニュー「ほうれん草とカッテージチーズのカレー」を2026年9月22日午前10時より販売開始します。このカレーは、まろやかでクリーミーな味わいとスパイシーなソースが絶妙に調和した本格インドカレーとして登場。価格は税込780円です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-17T10:31:39.406109"
+  },
+  {
+    "source": "Zenn",
+    "title": "【Zenn力執筆】#11　もし私がCopilotならプレミアリーグのスタッツをどう作るだろうか",
+    "link": "https://zenn.dev/7min/articles/01c7abc22cc825",
+    "summary": "提供された記事の内容はタイトルのみですが、このタイトルから、筆者がもしAIアシスタントのCopilotの立場だったら、プレミアリーグのサッカー統計データをどのように作成・分析するかを探る内容であると推測されます。\n\n具体的には、どのようなデータポイント（例：得点、アシスト、パス成功率、走行距離など）を選び、CopilotのようなAIがそれらをどのように処理し、洞察を導き出すかといった方法論について議論されると予想されます。\n\nしかし、記事の具体的な内容が提供されていないため、この記事内で言及される重要なポイントや具体的な統計データ（数字）を含めることはできません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-17T10:31:50.180573"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI で社内業務を自動化したら、直すべきは AI ではなく「仕様の書き方」だった",
+    "link": "https://qiita.com/anchor_/items/c3025ad5f584c955b1a1",
+    "summary": "この記事は、JiraのPBIからPR作成までをClaude Code（Amazon Bedrock経由）で自動化する社内業務プロジェクトについて述べています。当初、AIの精度向上が課題だと予想されていましたが、実際にはAIではなく、受入条件やチケットの書き方など、人間側が書く「仕様の書き方」を改善することにほとんどの時間が費やされました。この経験から、AI導入において本当に直すべきはAIそのものではなく、その入力となる人間側の仕様の質を向上させることだと結論付けられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-17T10:31:58.191744"
+  },
+  {
+    "source": "ITmedia",
     "title": "AI時代のインフラ再設計　モデルとデータを統合制御する「コントロールプレーン」の条件",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/17/news002.html",
     "summary": "AI活用の競争軸がモデル性能から運用能力へと移行する中、AI時代のインフラ再設計が喫緊の課題となっています。特に、多様な環境に分散するAIモデルやデータを安全かつ柔軟に一元管理する「コントロールプレーン」の役割が重要です。このコントロールプレーンは、持続可能性、主権、統制をすべて両立させるAI基盤の実現に不可欠な条件であると解説されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-08-28T17:46:46.332041"
-  },
-  {
-    "source": "Qiita",
-    "title": "埋め込みモデルのEmbedding vectorsのばらつきをどう比較するか考えてみた",
-    "link": "https://qiita.com/k-omae/items/0d1bde5d7c18cf24a858",
-    "summary": "この記事は、RAGなどのAI開発で重要な埋め込みモデルについて、異なるモデルのEmbedding vectorsの統計的評価、特にそのばらつきを比較する方法を考察しています。埋め込みモデルは入力テキストをモデルごとに異なる$d_m$次元のベクトルに変換し、文書間の類似度は主にcosine類似度で測られるため、ベクトルは正規化された単位ベクトルとして議論が進められます。したがって、本稿は単位ベクトルの散らばり具合をいかに評価するかという課題を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-28T17:46:55.503847"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「生産性は上がったがROIが見えない」　AI活用を成果につなげるデータ基盤の条件",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/28/news015.html",
-    "summary": "AIエージェントの活用により業務生産性は向上しているものの、データの分散やコストの急増が原因で、多くの企業が投資対効果（ROI）を見出せていません。これは、企業がデータやAIに対する主権を失い、成果に結びつけられていない現状を示唆しています。\n\n本記事では、この課題を解決し、AI活用を真の成果につなげるため、企業がデータとAIの主権を取り戻すための課題解決アプローチとデータ基盤の条件について、Clouderaの視点から探ります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-28T05:52:20.653536"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アニメ雑誌主要3誌の表紙を創刊号から確認できる「Anime Magazine Covers」",
-    "link": "https://gigazine.net/news/20260828-anime-magazine-covers/",
-    "summary": "「Anime Magazine Covers」は、主要なアニメ雑誌3誌「アニメージュ」「アニメディア」「月刊ニュータイプ」の表紙を創刊号から確認できるサービスです。このサービスにより、各誌の歴代表紙が一覧でき、アニメ雑誌の歴史やデザインの変遷を一望できるようになっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-28T05:52:27.950984"
-  },
-  {
-    "source": "Zenn",
-    "title": "毎日のバックアップが「失敗」で赤くなった。犯人は、AIセッションが起動時に回す「朝の掃除」処理だった",
-    "link": "https://zenn.dev/leia_dev/articles/backup-failed-because-i-was-working",
-    "summary": "毎日のバックアップが「失敗」と表示され、システムの状態が赤くなる問題が発生しました。この原因は、AIセッションがシステム起動時に実行する「朝の掃除」処理にあることが判明しました。つまり、「朝の掃除」処理がバックアップの失敗を引き起こした直接的な犯人でした。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-28T05:52:36.929215"
   }
 ]
