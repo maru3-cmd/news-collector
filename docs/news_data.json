@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
+    "link": "https://gigazine.net/news/20260919-opik/",
+    "summary": "AIアプリ開発において、LLMの回答追跡、評価、プロンプト管理、本番環境での監視といった複雑なプロセスを効率化するため、オープンソースの「Opik」が無料で公開されました。\nOpikは、これらの検証に必要なトレーシング、評価、プロンプト管理、本番監視の機能を1つの画面に統合し、セルフホストも可能です。\nこれにより、開発者はAIエージェントの挙動を追跡・評価し、パフォーマンスの改善を効率的に進めることができるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-19T09:49:25.586074"
+  },
+  {
+    "source": "Zenn",
+    "title": "文章を書かないAI「Jev」を試してみた。AI Agentの判断係として使える？",
+    "link": "https://zenn.dev/makicoc/articles/d3a3fd4f4ac2c2",
+    "summary": "この記事では、「文章を書かないAI」というユニークな特徴を持つ「Jev」が紹介されています。筆者は、一般的な文章生成AIとは異なるこのJevを、他のAI Agentの「判断係」として活用できるかを検証しました。Jevが主に評価や決定といった役割を担い、複雑なAIシステムにおける意思決定を補助する可能性を探っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-19T09:49:33.898473"
+  },
+  {
+    "source": "Qiita",
+    "title": "判断特化AI「Jev」はUX検証に使える？ 正解手順なしでWebサイトを探索させてみた",
+    "link": "https://qiita.com/Aochan0604/items/a5bf7fc1a41e138b0a16",
+    "summary": "判断に特化したAIモデル「Jev」は、与えられた状態と選択肢から最適な一つを選ぶ能力を持つことから、WebサイトのUX検証への応用が期待されています。筆者は、Jevに正解手順を与えずに自作サイトを探索させたところ、24回の試行のうち、素直な導線では12回すべて成功した一方、分かりにくい導線では途中停止やループが発生しました。この結果は、Jevが初めてのユーザー視点での判断を再現する可能性を示唆していますが、人間にとっての使いやすさを完全に測れるわけではないと結論付けられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-19T09:49:42.519581"
+  },
+  {
     "source": "ITmedia",
     "title": "ChatGPTのMac向け新機能に「データ丸見え」のリスク？ 　セキュリティベンダーが指摘",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-30T10:48:06.111530"
-  },
-  {
-    "source": "Zenn",
-    "title": "気づいたら操縦席に座っていた ── AIに仕事をさせる人間には、計器がいる",
-    "link": "https://zenn.dev/maronsan/articles/airframe-one-machine",
-    "summary": "提供されたのは記事のタイトルのみで、本文がないため、内容を正確に要約することはできません。\n\nしかし、タイトル「気づいたら操縦席に座っていた ── AIに仕事をさせる人間には、計器がいる」からは、AIが業務を遂行する中で、人間はそれを監督・指揮する「操縦席」という立場にいることが示唆されます。この状況において、人間がAIのパフォーマンスや状況を適切に把握し、効果的に意思決定を行うためには、航空機の計器のように正確でリアルタイムな情報が不可欠であるという重要なメッセージが読み取れます。具体的な数字については、本文が提供されていないため含めることはできません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-30T10:48:15.707491"
-  },
-  {
-    "source": "Qiita",
-    "title": "Tool Engineeringを実装する — エージェントに渡す道具そのものを設計する",
-    "link": "https://qiita.com/Hideki_Tamae/items/f47582a494755b8db4ec",
-    "summary": "この記事は、AIエージェントに渡す「道具そのもの」を設計する「Tool Engineering」の実装に焦点を当てています。これは、Harness Engineering、Loop Engineering、Context Engineeringといった先行する実装ステップとは異なり、エージェントが世界に働きかけるための手段を直接設計する段階です。ツールの設計品質はモデルの性能に大きく影響するため、その設計の重要性が強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-30T10:48:23.477260"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIシステム侵害の行き着く先　Microsoftが突き止めた攻撃者の「真の目的」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/30/news005.html",
-    "summary": "Microsoftは、社内のAI活用を支える基盤を直接狙った侵害を**3件**観測しました。この基盤には、APIキーや社内データへの経路、プログラム実行権限といった極めて重要な情報が集中しています。攻撃者は、こうした集中する権限やデータを奪うことを真の目的としていると考えられます。企業は、このようなAIシステム侵害のリスクに対し、早急に対策を講じる必要があります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-29T23:41:41.372280"
   }
 ]
