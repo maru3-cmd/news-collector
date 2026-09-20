@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AIエージェント時代、ゼロトラストはどう変わる？　「マシンスピード」で対抗するデータ管理とSOCの未来",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/21/news007.html",
+    "summary": "AIエージェントの本格運用が進む中、セキュリティ対策はモデルや挙動まで検証する「拡張型ゼロトラスト」への移行が急務となっています。ClouderaのフィールドCTOは、このAI時代のセキュリティにおいてデータガバナンスの役割が極めて重要であると指摘。さらに、SOC（セキュリティオペレーションセンター）を「マシンスピード」で脅威に対抗できるよう改革する必要性を強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-20T23:42:08.329720"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
+    "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
+    "summary": "この記事は、Geminiに対応したスマートウォッチ「Google Pixel Watch 5」の実際の使用レビューについてです。外観レビューに続いて、ワークアウトや睡眠測定機能に焦点を当てて検証が行われました。提供されたスニペットには具体的な測定結果や数値は含まれていませんが、詳細な使用体験が本編で展開されることが示唆されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-20T23:42:19.248361"
+  },
+  {
+    "source": "Zenn",
+    "title": "60. ルールを増やしても止まらない",
+    "link": "https://zenn.dev/yamada_ai_dev/articles/promoted-rules-still-recur",
+    "summary": "「60. ルールを増やしても止まらない」と題されたこの記事は、タイトルが示す通り、ある問題や状況に対し、規則や制限をいくら増やしてもその進行を食い止める効果がないという簡潔なメッセージを伝えています。これは、表面的なルール追加が根本的な解決には至らず、むしろ無意味である可能性を示唆していると言えます。したがって、形式的な規制強化に頼るのではなく、より本質的なアプローチの重要性を暗に示唆していると解釈できます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-20T23:42:34.186491"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code の --worktree(-w)で複数タスクを並列実行する実装手順 — .env と node_modules が消える・ブランチの二重チェックアウトで落ちる・後片付け、3つのハマりどころ【2026】",
+    "link": "https://qiita.com/yureki_lab/items/4506ab0d289a784e8e97",
+    "summary": "この記事は、Claude Codeで複数のタスクを並行して実行する際に生じるファイル競合の問題を解決するため、`--worktree` (-w) フラグの使用方法を解説しています。`claude -w <名前>`コマンドで専用のworktreeが作成され（Claude Code **v2.1.267**、git **2.50.1**環境が前提）、これにより「1リポジトリ = 1作業ディレクトリ」から「1セッション = 1worktree」の運用へと移行し、複数タスクの同時進行が可能になります。\n\nまた、`.env`や`node_modules`の消失、ブランチの二重チェックアウトによるクラッシュ、後片付けといった3つの主なハマりどころと、その解決策も詳述されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-20T23:42:45.832342"
+  },
+  {
     "source": "GIGAZINE",
     "title": "netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」",
     "link": "https://gigazine.net/news/20260920-tailcat/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-01T00:53:58.792172"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI化する業務の優先順位づけ。効果と難易度の2軸で並べる手順",
-    "link": "https://zenn.dev/gen_ai_kiyozuka/articles/ai-task-priority-2x2-matrix",
-    "summary": "AI化を進める際、どの業務から着手すべきか優先順位をつけることが重要です。そのためには、「AI導入によって得られる効果の大きさ」と「導入の難易度」という2つの軸で業務を評価・分類する手法が有効とされます。この2軸マトリクスを用いることで、効果が高く難易度が低い業務は優先的に着手し、効果が低い業務は後回しにするなど、効率的かつ戦略的なAI導入計画を立てることが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-01T00:54:06.651993"
-  },
-  {
-    "source": "Qiita",
-    "title": "事務職からAIエンジニアを目指して:スポーツボウリング場構想・第三弾⑥⑦⑧",
-    "link": "https://qiita.com/Junko-Takahashi-Cloud/items/46987d486a497ac8221d",
-    "summary": "記事「スポーツボウリング場構想・第三弾」は、ボウリング場の店舗運営をシステム化する際の課題と複雑性を解説しています。単なる予約システムに留まらず、予約から来店、受付、レーン利用、決済までの一連の顧客フロー全体をシステムで管理する必要性を強調。\n\nさらに、顧客の「予約済み」「利用中」といった状態管理や、故障レーン、予約変更といったイレギュラーな事態への対応も不可欠だと指摘。既存システムとの連携を含め、店舗運営に直結する複雑な設計が求められることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-01T00:54:16.611945"
-  },
-  {
-    "source": "ITmedia",
-    "title": "サイボウズ「kintone」の動向に見る、AI時代に向けた大企業の課題と対策",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news095.html",
-    "summary": "サイボウズは、自社のサービス「kintone」の顧客動向と実績に基づき、AI時代における大企業の課題と対策について見解を示しました。この分析は、大企業がAI活用に関して直面する現状と、今後の対応策を探るものです。提示された見解は、AIの導入や活用を検討しているあらゆる企業にとって、有用な示唆を提供する可能性があります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-08-31T11:56:57.049658"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "PCを購入してWindowsを使わない場合の返金手続きまとめ「Refund4Freedom」",
-    "link": "https://gigazine.net/news/20260831-refund4freedom/",
-    "summary": "市販のPCの多くはWindowsを搭載して販売されており、Windowsを利用しないユーザーもライセンス料を全額支払わされる現状があります。この状況は不公平であるとの認識から、Windowsのライセンス料分の返金手続きを行うためのノウハウをまとめたウェブサイト「Refund4Freedom」が立ち上げられました。このサイトは、消費者がWindowsライセンス料を取り戻せるよう情報を提供しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-31T11:57:04.506374"
   }
 ]
