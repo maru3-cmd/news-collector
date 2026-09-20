@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」",
+    "link": "https://gigazine.net/news/20260920-tailcat/",
+    "summary": "netcatはネットワーク経由でのデータ送受信やポート接続に便利ですが、IPアドレス確認やポート開放などの複雑なネットワーク設定が必要でした。この課題を解決するため、netcatのシンプルな操作感を保ちつつ、Tailscaleの技術を活用した「Tailcat」が公開されました。TailcatはTailscaleのWireGuardによる暗号化とNAT越えの仕組みを利用。生成されたアドレスを共有するだけで、煩雑なネットワーク設定なしに2台のPCを安全に接続できます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-20T10:11:11.430492"
+  },
+  {
+    "source": "Zenn",
+    "title": "CBN 取扱説明書 第 2 章 — 私はルールをどう読むべきか",
+    "link": "https://zenn.dev/ai_to_ai/articles/cbn-manual-02-layers-and-injection-cost",
+    "summary": "恐れ入りますが、ご提示いただいたのは記事のタイトル「CBN 取扱説明書 第 2 章 — 私はルールをどう読むべきか」のみで、本文の内容が提供されておりません。\n\nそのため、記事の具体的な内容を要約することはできません。もし記事の本文をご提供いただけましたら、その内容に基づいて3-4文で簡潔に要約いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-20T10:11:23.046857"
+  },
+  {
+    "source": "Qiita",
+    "title": "僕は世界を知ろうと思うーAIと脳科学の数式20ー第1話「世界を逆から見る『ベイズの定理』」",
+    "link": "https://qiita.com/aokikenichi/items/b9afe622511c524975bb",
+    "summary": "この記事は、AIと脳科学における「ベイズの定理」が、事象の発生確率を逆から評価する独特の視点を提供することを解説しています。具体例として、1000回に1回しか発生しないサイバー攻撃を99%検知し、誤警報が1%という高性能AIを用いた状況が提示されます。AIが警報を出した際、直感的には攻撃されている確率が高いと思われますが、ベイズの定理を適用すると、実際に攻撃されている確率はわずか9%に過ぎないことが示され、直感とのギャップが強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-20T10:11:31.437118"
+  },
+  {
     "source": "ITmedia",
     "title": "開発者の道具から誰もが使うものへ　AIエージェント普及の現在地",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/20/news007.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-08-31T11:57:04.506374"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude CodeのConciseは節約設定ではない、Bedrock二重課金の顛末",
-    "link": "https://zenn.dev/ainewsdaily/articles/20260825_claude_code_t1",
-    "summary": "記事の内容が提供されておりませんので、タイトルから推測される情報に基づいて要約を作成します。\n\nClaude Codeの「Concise」設定は、多くのユーザーが期待するコスト節約機能ではなく、AWS BedrockでClaudeを利用する際に意図しない二重課金を引き起こす原因となる問題が発覚しました。この記事では、ConciseモードがBedrockの課金体系とどのように関連し、なぜ二重に費用が発生したのか、その具体的なメカニズムと詳細な経緯を解説しています。この顛末から、ユーザーはConcise設定の本来の意図を理解し、Bedrock利用時の課金挙動を慎重に確認する必要があるという重要な教訓が提示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-31T11:57:22.049550"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIにコードを書かせるほど上達しない？熟練を妨げる理由",
-    "link": "https://qiita.com/okssusucha/items/b667d9e94ae0d7d3f9f9",
-    "summary": "AIにコードを書かせるとプログラミングの上達を妨げる可能性があると記事は警告しており、その便利さが、経験を育むために必要な「つまずき」や「失敗」を奪うと指摘しています。AIを効果的に使うには経験が必要であるにもかかわらず、AIがその習得の苦労を肩代わりしてしまうという矛盾が存在します。ある大学の研究では、AIに頼って学習した学生は教科書のみの学生より数学の成績が17%低く、かつ本人たちは「うまくできている」と錯覚していたことが明らかになりました。記事はAIの使用自体を否定せず、使い方次第で上達の助けにもなり、「答え」ではなく「先生」のように活用することを促しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-08-31T11:57:30.323635"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「3つ星」「4つ星」獲得の“近道”はあるか？　SCS評価制度に向け、ノークリサーチが指標を公表",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news042.html",
-    "summary": "2026年度末に開始が目標とされるSCS評価制度は、数十項目にわたる要求事項を中堅・中小企業に課します。\nこの制度で「3つ星」「4つ星」獲得を目指す企業のために、ノークリサーチが新たな指標を公表しました。\nこの指標は、企業が多数の要求事項に対し、ツールの導入と運用ルール整備のどちらを優先すべきかを示し、具体的な対応策を導きます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-08-31T00:01:01.572560"
   }
 ]
