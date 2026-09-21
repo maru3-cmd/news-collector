@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない",
+    "link": "https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/",
+    "summary": "多くの人がスマートフォンを見過ぎていると感じ、SNSや動画サイトで時間を浪費している現状があります。しかし、新たな研究により、毎日のスクリーンタイムを削減する簡単な方法が見つかったとのことです。記事のタイトルによると、この方法は「スマホを見る時間を減らす目標」を立てることである可能性が示唆されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-21T11:13:26.934491"
+  },
+  {
+    "source": "Zenn",
+    "title": "Jevとは何か — 判断をソフトウェアに組み込む「System Oneモデル」の仕組み",
+    "link": "https://zenn.dev/takumaichida/articles/d4cd24282518be",
+    "summary": "この記事は、人間のような判断能力をソフトウェアに組み込むための新しいアプローチ「Jev」について解説しています。これは、人間の迅速かつ直感的な意思決定を司る「System Oneモデル」に基づいており、ソフトウェアがより効率的で人間らしい判断を下せるようにすることを目指します。Jevは、人間の直観的な思考プロセスを模倣することで、ソフトウェアの判断能力を向上させることを目的とした仕組みです。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-21T11:13:35.527097"
+  },
+  {
+    "source": "Qiita",
+    "title": "GitHub のリポジトリ5件に1件が、AI エージェントへの指示ファイルを持っていた——100万人の GitHub アカウント調査から（第2弾）",
+    "link": "https://qiita.com/hisashi-ito/items/62bdc1a983f3f7dc649a",
+    "summary": "100万件のGitHubアカウントを対象とした調査（第2弾）の結果、GitHubリポジトリの5件に1件（20%）がAIコーディングエージェントへの指示ファイル（例: `AGENTS.md`や`CLAUDE.md`など）を含んでいることが明らかになりました。\n\nこれらの指示ファイルは、リポジトリをクローンしてエージェントを起動すると、検査を経ずに自動的に文脈に取り込まれます。\n\nnpmの`postinstall`と同様に実行権限すら不要であるため、潜在的なセキュリティリスクがあると同調査は示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-21T11:13:44.681375"
+  },
+  {
     "source": "ITmedia",
     "title": "AIエージェント時代、ゼロトラストはどう変わる？　「マシンスピード」で対抗するデータ管理とSOCの未来",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/21/news007.html",
@@ -1321,32 +1348,5 @@
     "category": "クラウド・インフラ",
     "content_type": "article",
     "collected_at": "2026-09-01T10:38:00.985567"
-  },
-  {
-    "source": "Qiita",
-    "title": "【AI画像処理】ブラウザで動作する画像高画質化・ノイズ除去ツールの精度と活用検証",
-    "link": "https://qiita.com/ivav2330/items/a17387056340fe742013",
-    "summary": "本記事は、低解像度画像やレトロコンテンツのデジタル化における従来の画像補正技術の課題を指摘します。その解決策として、ディープラーニングを用いたAI画像高画質化（Image Upscaling / Restoration）に焦点を当てています。SRCNNやESRGANといったAIモデルを活用し、ブラウザ上で手軽に高精度な処理が行える実用ツールの精度と活用検証結果を共有することが目的です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-01T10:38:08.702316"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft、セキュリティ製品の8月更新を公開　AIエージェント拡大に伴いDefenderやEntraなど機能拡張",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/01/news033.html",
-    "summary": "Microsoftは、AIエージェントの利用拡大に対応するため、セキュリティ製品群の2026年8月分アップデートを公開しました。この更新では、Defenderでのサードパーティーデータ監視拡張やEntraによる複数テナント統制といった、製品横断的な機能強化が図られています。これにより、企業は増大するAIエージェントの脅威に対し、より包括的なセキュリティ対策を講じることが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-01T00:53:48.892140"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "iPhoneがAndroidを上回った唯一の年代は？GIGAZINE読者のスマホ利用率を調べてみた",
-    "link": "https://gigazine.net/news/20260901-gigazine-user-smartphone-android-maker/",
-    "summary": "GIGAZINEは、読者のスマートフォン利用状況を把握するため、2026年夏のプレゼントアンケートを実施しました。このアンケートでは、GIGAZINE読者が使用しているスマートフォンの種類（AndroidかiPhoneか）や、Androidスマートフォンのメーカーについて詳細に尋ねられました。設問の多くが複数選択可能であったため、各項目の割合を合計すると100％を超える可能性があります。記事の続きでは、これらの調査結果が詳しく分析されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-01T00:53:58.792172"
   }
 ]
