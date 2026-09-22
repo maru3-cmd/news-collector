@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20260922-onecli/",
+    "summary": "AIエージェントを社員ごとに導入する際の個別管理の課題を解決するため、オープンソースの「OneCLI」が公開されました。OneCLIは、各メンバーに専用のAIエージェントを割り当てながら、認証情報やアクセスルールをチーム単位で一元管理できるのが特徴です。無料で複数人のチームで利用可能で、セルフホストにも対応しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-22T10:26:03.054151"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI.GENERATE_TABLEで非構造化テキストを構造化データに変換する",
+    "link": "https://zenn.dev/web_benriya/articles/bigquery-ai-generate-table-structuring",
+    "summary": "AI.GENERATE_TABLEは、分析や活用が難しい非構造化テキストデータ（自由形式の文章など）を、構造化されたテーブル形式のデータへと自動的に変換するAI機能です。この機能を利用することで、膨大なテキストデータから重要な情報やパターンを効率的に抽出し、分析可能な形式に加工できます。これにより、データの前処理にかかる労力を削減し、より迅速かつ正確なデータ分析と洞察の獲得を可能にします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-22T10:26:10.449648"
+  },
+  {
+    "source": "Qiita",
+    "title": "コードを少しずつ壊して Jev の境界を測る ― 0.4 秒で答える審査員を信用する条件（48 回の審査）",
+    "link": "https://qiita.com/RamTuckey/items/ea8314169e65d9a0df4d",
+    "summary": "本記事は、0.4秒でコード品質を評価し、48回の審査で$0.0012という低コストで利用できるAI審査員「Jev」に焦点を当てています。人間がAIの判断が曖昧な部分のみをレビューするという、新しいコードレビューのあり方を可能にするため、このAIの「境界」と「癖」を理解することが重要だと指摘しています。筆者は、正常なTypeScript関数に`any`や`eval()`といった問題のある要素を段階的に追加し、Jevがどのように反応し、判定を変化させるかを測定することで、その特性を明らかにしようとしています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-22T10:26:20.616779"
+  },
+  {
     "source": "ITmedia",
     "title": "脱メインフレーム、7割超が失敗　背景に「生成AIへの過信」　2026年度上半期システム刷新記事ランキング",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-09-02T10:02:39.556652"
-  },
-  {
-    "source": "ITmedia",
-    "title": "分社化10年のHPE、望月社長に聞く「AIファクトリー」の差別化からVMware代替、対Cisco戦略まで",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news074.html",
-    "summary": "日本HPEの望月弘一社長は、分社化10年を迎える同社の、AI最適化が進む次の10年を見据えた日本市場戦略を語りました。同社は「AIファクトリー」の差別化と、データセンターの電力制約への対応を重点課題とします。さらに、VMwareからの移行需要を取り込み、Ciscoを視野に入れたネットワーク統合戦略で競争力強化を目指します。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-09-01T23:40:10.775744"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "江戸時代の街道の経路と所要日数がわかる「江戸時代の経路検索」",
-    "link": "https://gigazine.net/news/20260902-edo-routing/",
-    "summary": "要約エラー: 504 The request timed out. Please try again.",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-01T23:40:50.616705"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIガバナンスの要件を実行前に止めるまでつないだ――RPE M2の現在地",
-    "link": "https://zenn.dev/dantarg/articles/rpe-m2-governed-integration-closure",
-    "summary": "この記事は、AIガバナンスの要件を「RPE M2」という特定の枠組みがどのように管理しているかについて述べています。\n\nRPE M2は、AIシステムの「実行前」の段階から、最終的にシステムを「停止」させるまでの全ライフサイクルにわたり、ガバナンス要件を一貫して連結し、管理する仕組みを実現しているようです。これにより、AIが運用される全期間を通じて、途切れることのない包括的なガバナンス体制が確立されている現状が示唆されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-01T23:41:35.110390"
   }
 ]
