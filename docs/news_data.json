@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ClickFixからホテルWi-Fiの異変まで　2026年度上期セキュリティ記事トップ5",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/23/news015.html",
+    "summary": "この要約記事は、2026年度上期（4～9月）におけるサイバーセキュリティの動向をまとめたトップ5の記事を紹介しています。2026年のサイバー攻撃手口は昨年の常識が通用しないほど大きく変化しており、その被害は多様化しています。具体的には、偽のエラー警告、ホテルWi-Fiを悪用した攻撃、そして「たまたま選ばれる」形の新たな被害が増加していることが指摘されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-22T23:54:49.742748"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+    "link": "https://gigazine.net/news/20260923-screentime-cognition/",
+    "summary": "一般的にデジタル機器の画面を見る時間（スクリーンタイム）は認知能力に悪影響を及ぼすと懸念されがちです。しかし、6歳から9歳の子どもたちを8年間追跡した研究では、この通説に反する結果が示されました。この研究によると、幼少期にスクリーンタイムが長かった子どもほど、10代になったときの認知処理能力が高いことが明らかになりました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-22T23:54:57.229581"
+  },
+  {
+    "source": "Zenn",
+    "title": "Verifying Identity Consistency When Iterating on AI-Generated Pose...",
+    "link": "https://zenn.dev/fabryluka142/articles/f2d06d71664d11",
+    "summary": "この記事は、AIが生成したキャラクターのポーズを繰り返し変更・調整する際に、そのキャラクターの「同一性」を維持することの重要性について述べています。AIがポーズを生成し直すたびに、顔や服装といった識別可能な特徴が一貫しないリスクがあるため、正確な検証が不可欠です。これにより、デジタルツインやコンテンツ制作において、キャラクターの一貫した外見を保ち、質の高い出力を保証するための技術的課題と解決策を探っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-22T23:55:07.541218"
+  },
+  {
+    "source": "Qiita",
+    "title": "【2026年9月】Claude Opus 5.5がリリース！Fable 5.1超えの性能を40%安く・API破壊的変更まとめ",
+    "link": "https://qiita.com/htani0817/items/770773094cdfd0d67b19",
+    "summary": "2026年9月22日、Anthropicは高性能AIモデル「Claude Opus 5.5」をリリースしました。これは「5.5ファミリー」の第1弾で、上位モデルのFable 5.1と同等以上の性能を複数のベンチマークで示しています。\n\nまた、Opus 5と比較してトークン単価が20%減少し、典型的なワークロードでは約40%安価に利用できるようになりました。この発表はOpenAIがGPT-6 Sol / Lunaを発表した同日に行われ、AIフロンティアにおける競争が激化しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-22T23:55:16.675571"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
     "link": "https://gigazine.net/news/20260922-onecli/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-02T23:41:43.174707"
-  },
-  {
-    "source": "ITmedia",
-    "title": "eラーニングが成果に結びつかないのはなぜ？　従業員の55％、デジタル教育に「不満」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news025.html",
-    "summary": "生成AIの普及でデジタル人材育成が急務となる中、Gartnerの調査によると、従業員の55%が自社のデジタルスキル教育に「不満」を抱いていることが明らかになりました。多くの企業が教育施策に取り組む一方で、その効果が十分に感じられていない現状が浮き彫りになっています。記事では、この従業員の不満を解消し、人材育成を実際の成果に繋げるためのアナリストによる提言が紹介されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-02T10:02:08.771326"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Google Playで学習アプリの「AnkiDroid」が寄付リンクの存在を理由にポリシー違反と見なされる",
-    "link": "https://gigazine.net/news/20260902-ankidroid-google-play-policy-violation/",
-    "summary": "学習アプリ「AnkiDroid」が、アプリ内に寄付を募るリンクを表示していたことを理由に、Google Playの決済ポリシーに違反していると判断されました。Google Playはアプリ内での直接的な収益化や寄付を求めるリンクに対して厳しい規則を適用していることが示唆されます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-02T10:02:18.642945"
-  },
-  {
-    "source": "Zenn",
-    "title": "限定した情報で仮説を広げ、全体を把握して検証する｜null/undefinedの罠から学んだ、ジュニアエンジニアの多段AIデバッグ術",
-    "link": "https://zenn.dev/jinjer_techblog/articles/946ce16452a286",
-    "summary": "この記事は、ジュニアエンジニアがAIのデバッグで「null/undefinedの罠」に遭遇した経験から学んだ実践的な手法を解説しています。限られた情報しかない状況でも、仮説を広げてシステム全体を把握し、段階的に検証を進めることで問題を解決に導く「多段AIデバッグ術」が紹介されています。これは、未知のエラーに対し効率的に対処するための重要なスキルとして強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-02T10:02:27.332768"
-  },
-  {
-    "source": "Qiita",
-    "title": "全データ分析者驚愕！20代が多いほど売れる、でも20代は買ってない。って、どゆこと？",
-    "link": "https://qiita.com/Gotoubun_taiwan/items/dd07310bbb5d91646488",
-    "summary": "本記事は、データサイエンティストが有権者の投票行動分析を例に、特定の年代層と政党支持の関係を直接把握する難しさを解説しています。秘密投票の原則があるため、選挙区ごとの年代別有権者数や政党別得票数は分かっても、「30代の有権者のうち何%がA党に投票したか」といった詳細なクロス集計データは得られません。これは、データ分析において属性と行動の直接的な結びつきを見出す際の根本的な課題を浮き彫りにしています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-02T10:02:39.556652"
   }
 ]
