@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "脱メインフレーム、7割超が失敗　背景に「生成AIへの過信」　2026年度上半期システム刷新記事ランキング",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
+    "summary": "メインフレーム脱却などのレガシーシステム刷新プロジェクトにおいて、7割超が失敗している現状が報告されました。その背景には、「生成AIがあれば刷新は楽になる」という過信があると指摘されています。この記事では、2026年度上半期のシステム刷新関連記事トップ10を紹介し、システム刷新における生成AIの現在地と、AI時代に人間に残る役割について考察します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-22T00:23:05.660412"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIに頼って登山計画を立てた登山者たちが救助される",
+    "link": "https://gigazine.net/news/20260922-ai-climber-rescued/",
+    "summary": "カリフォルニア州の大学生3人が、標高4321.8mのシャスタ山を登山中に救助されました。彼らはAIで登頂計画を立てていたとのことです。しかし、このAIが作成した計画に従った結果、ルートから外れてしまったため、救助される事態となりました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-22T00:23:16.854120"
+  },
+  {
+    "source": "Zenn",
+    "title": "iPadでもMarkdownの添削がしたいんじゃ！",
+    "link": "https://zenn.dev/kswr/articles/markdown_review",
+    "summary": "この記事は、「iPadでもMarkdownの添削がしたい」という筆者の強い要望を簡潔に表明しています。筆者は、iPadの携帯性や利便性を活用し、Markdown形式で書かれた文書の校閲や修正を行いたいと考えているようです。これは、現状のiPad環境においてMarkdownファイルの効率的な添削に何らかの課題があることを示唆しており、その解決策やツールの必要性を訴えていると読み取れます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-22T00:23:24.437506"
+  },
+  {
+    "source": "Qiita",
+    "title": "RAGの検索評価、厳しく作るほど答えられなくなる。OSS実装6本の評価器を読み比べた",
+    "link": "https://qiita.com/engchina/items/fc08ab89909f9d63bc6b",
+    "summary": "業務マニュアル向けRAGにCRAGを導入したところ、LLMによる検索評価が厳しすぎ、資料に根拠があるにもかかわらず「不足」と誤判定する問題が浮上しました。139回のログ集計では、「不足」判定36回のうち28回（約78%）が誤拒否であり、結果として適切な情報を提示できない、あるいは不適切な情報を混ぜてしまう事態が発生しています。筆者はこのプロンプトの問題を認識し、OSS実装6本の評価器の設計思想を比較検討することで改善策を探っています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-22T00:23:33.671471"
+  },
+  {
     "source": "GIGAZINE",
     "title": "「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない",
     "link": "https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-01T23:41:35.110390"
-  },
-  {
-    "source": "Qiita",
-    "title": "Autonomous AI Databaseの ResourcePrincipalを使用して OCI ユーザーの API署名鍵不要で Select AIしてみてみた",
-    "link": "https://qiita.com/shirok/items/b4b0072073d6edcb0907",
-    "summary": "本記事は、Autonomous AI DatabaseにおいてResource Principalを活用することで、OCIユーザーのAPI署名鍵なしでSelect AIを実行できるか検証したドラフトです。これにより、鍵の生成や管理が不要となり、OCI Generative AIとの連携における認証プロセスが簡素化されるメリットを示しています。検証は2026年8月13日に行われたもので、AIデータベースと生成AIのよりスムーズな連携の可能性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-01T23:41:43.391188"
-  },
-  {
-    "source": "ITmedia",
-    "title": "イエローハットで不正アクセス　最大180万人が情報漏えいの対象",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news027.html",
-    "summary": "イエローハットは、同社の「WEB作業予約システム」が不正アクセスを受けたと発表しました。このサイバー攻撃により、最大約180万人分の個人情報が漏えいした可能性があるとのことです。同社は既に緊急対策を講じており、利用者に対して注意を呼びかけています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-01T10:37:43.290910"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "オープンソース動画編集ソフトのOpenShot Video Editorが史上最大のクリエイティブワークフローアップグレードを実現した「OpenShot 4.0」をリリース",
-    "link": "https://gigazine.net/news/20260901-openshot-4/",
-    "summary": "オープンソース動画編集ソフトのOpenShot Video Editorが、史上最大のクリエイティブワークフローアップグレードとなる「OpenShot 4.0」をリリースしました。このバージョンでは、画面・ウェブカメラ・マイク・システムオーディオをプロジェクトに直接録画する機能が追加されています。また、カラーホイールやLUTを用いた高度な色補正・グレーディングが可能になったほか、機械学習モデルによる被写体分離やアニメーションによるオーディオビジュアライゼーションも容易に実現できます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-01T10:37:50.161367"
-  },
-  {
-    "source": "Zenn",
-    "title": "Codexに作業を任せて外出したい ― PCを閉じても続ける方法",
-    "link": "https://zenn.dev/boku_yaji/articles/c1d58e24077274",
-    "summary": "この記事は、「Codex」のようなAIモデルに作業を任せ、ユーザーがPCを閉じて外出しても、その作業が中断されずに継続する方法について解説しています。これは、AIがローカルPCの稼働に依存せず、ユーザーが不在の間もバックグラウンドでタスクを進められるようにするための課題解決に焦点を当てています。具体的な方法としては、リモートサーバーやクラウド環境の利用、あるいは作業を継続するための特定のツールや設定が提案されていると推測されます。",
-    "category": "クラウド・インフラ",
-    "content_type": "article",
-    "collected_at": "2026-09-01T10:38:00.985567"
   }
 ]
