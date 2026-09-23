@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "CSS用の物理ベースのライティングシステム「Ambient CSS」",
+    "link": "https://gigazine.net/news/20260923-ambient-css/",
+    "summary": "Ambient CSSは、CSSのみを用いてウェブサイトやアプリケーションに物理ベースの照明システムを実装するフレームワークです。最大の特徴は、光源を定義するだけで、影やハイライト、表面のグラデーションが自動的に生成される点にあります。これにより、開発者は複雑な設定なしに、リッチな視覚効果を簡単に実現できるようになります。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-09-23T10:21:20.298803"
+  },
+  {
+    "source": "Zenn",
+    "title": "「目視して次へ」を、サーバーへ持ち込まない",
+    "link": "https://zenn.dev/miyakona/articles/dont-port-human-eyeballs",
+    "summary": "記事タイトル「「目視して次へ」を、サーバーへ持ち込まない」は、サーバー環境における手作業での確認や判断（「目視して次へ」）を排除することの重要性を強く訴えています。\n\nこの記事は、本番環境や開発プロセスにおいて人間が介在する手動確認が、ヒューマンエラーのリスクや作業効率の低下を招く大きな原因であることを指摘しています。そのため、サーバー上で行われる全てのステップを自動化し、テストやデプロイメント、運用監視などをプログラムで制御することを推奨しています。これにより、システムの信頼性を大幅に向上させるとともに、開発・運用サイクルの迅速化と安定したシステム構築を目指すメッセージが込められています。",
+    "category": "DX・業務改善",
+    "content_type": "article",
+    "collected_at": "2026-09-23T10:21:31.463360"
+  },
+  {
+    "source": "Qiita",
+    "title": "英語圏のマンガをAI翻訳で読む：テキスト検出→翻訳→植字のワークフローと便利ツール",
+    "link": "https://qiita.com/kevinbai199505/items/97b12bb07f7b08eb5071",
+    "summary": "AIを活用した漫画の自動翻訳ツールが実用レベルに達し、英語圏のWebコミックや同人誌を日本語で読むニーズに応えています。この翻訳ワークフローは、主に「テキスト領域の検出」「OCR」「機械翻訳」「植字」という4つのステップで構成されます。特に、OCRにおける手書きフォントや縦書きの認識精度、機械翻訳における漫画特有の文体への対応、そして植字での元の吹き出し形状に合わせたレイアウト調整が、翻訳の質を左右する重要なポイントとなります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-23T10:21:40.112136"
+  },
+  {
     "source": "ITmedia",
     "title": "ClickFixからホテルWi-Fiの異変まで　2026年度上期セキュリティ記事トップ5",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/23/news015.html",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-09-02T23:41:17.777510"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "CloudflareがCDNキャッシュを平均3分の1に圧縮、数PB級の容量を生み出す「Cache Transcoding」を試作",
-    "link": "https://gigazine.net/news/20260903-cloudflare-cache-transcoding/",
-    "summary": "Cloudflareは、CDNのキャッシュデータを圧縮し、既存ストレージを実質的に大容量化する新技術「Cache Transcoding」を試作しています。初期テストでは、データの保存サイズが平均で元の約3分の1に圧縮されることが確認されました。このシステムは、数％程度のCPU負荷増で数PB規模の実効キャッシュ容量を生み出す可能性を秘めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-02T23:41:25.325112"
-  },
-  {
-    "source": "Zenn",
-    "title": "レビューAIには、報告を信じさせない ― 突合レビューをどうさせているか",
-    "link": "https://zenn.dev/r2_san/articles/3a06fe3deb0abe",
-    "summary": "このレビューは、レビューAIの活用における独自のアプローチ「報告を信じさせない」という点に焦点を当てています。具体的には、AIが提示する情報を鵜呑みにせず、何らかの形で人間による検証や他のデータとの「突合レビュー」を行うことで、その信頼性を確保する手法を採っているようです。これにより、AIの効率性と人間の判断力を組み合わせ、レビュープロセスの精度と信頼性向上を目指していると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-02T23:41:34.007606"
-  },
-  {
-    "source": "Qiita",
-    "title": "Anthropic がコマース用エージェントをオープンソース化した",
-    "link": "https://qiita.com/jqit_suwa/items/1c0f27da8eb685f6ba05",
-    "summary": "Anthropicは9月2日、Claudeでショッピングエージェントを開発する際の参考実装として、「anthropics/commerce-agents」をApache 2.0ライセンスでオープンソース公開しました。このプロジェクトには、買い物客向けの「Shopping Agent」と店舗スタッフ向けの「Merchant Agent」の2種類のエージェントが含まれています。\n\nShopping Agentは商品検索や比較、注文追跡などを支援し、Merchant Agentは売上分析、在庫アラート、販促提案などをサポートします。顧客側と店舗側の両方に対応する、すぐに使えるコードが提供されている点が特徴です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-02T23:41:43.174707"
   }
 ]
