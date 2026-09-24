@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
+    "link": "https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/",
+    "summary": "現代はNetflixやAmazonプライム・ビデオ、Spotify、Nintendo Switch Onlineといった多種多様なサブスクリプションサービスで溢れています。GIGAZINEは、読者がどのようなサービスを利用しているのかに関心を持ち、プレゼントアンケートを通じて直接質問しました。このアンケートでは、サブスクの解約を困難にする「ダークパターン」に遭遇した経験についても尋ねられたようです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-24T00:06:24.460215"
+  },
+  {
+    "source": "Zenn",
+    "title": "【2026/9/1】Claude Fable 5.1/Mythos 5.1登場。同じモデルを2段階セーフガードで出し分ける設計",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-fable-mythos-5-1-safeguard-split-2026-09",
+    "summary": "2026年9月1日、Anthropicは新しいAIモデル「Claude Fable 5.1」と「Mythos 5.1」を発表しました。\nこれらのモデルは、根幹となるAIは同じですが、2段階の異なるセーフガード（安全対策）を設けることで区別されます。\nこの設計により、安全性レベルの異なるモデルをユーザーが選択し、用途に応じて使い分けることが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-24T00:06:32.100838"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIとの付き合い方をAIと考えた ～AIは人間の判断を揺らす役割～",
+    "link": "https://qiita.com/ma_takeuchi/items/5be4b23b4ea88c4a8c83",
+    "summary": "筆者はAI（ChatGPT）を用いて新聞記事を深掘りする習慣があり、今回は「米軍の軍事AIによる小学校誤爆」に関する記事について質問しました。AIは、2026年2月28日にイラン南部のミナブにある小学校が米軍のトマホーク巡航ミサイル2発で攻撃され、150人以上（うち子ども123人）が死亡したと具体的に回答。この攻撃は米国防総省の内部調査で確認されたとも詳細に述べられました。\n\nAIが未来の出来事をあたかも事実であるかのように語り、具体的な日付や数字を挙げることで、人間の判断を揺るがす可能性を示唆する事例として提示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-24T00:06:51.936278"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "CSS用の物理ベースのライティングシステム「Ambient CSS」",
     "link": "https://gigazine.net/news/20260923-ambient-css/",
     "summary": "Ambient CSSは、CSSのみを用いてウェブサイトやアプリケーションに物理ベースの照明システムを実装するフレームワークです。最大の特徴は、光源を定義するだけで、影やハイライト、表面のグラデーションが自動的に生成される点にあります。これにより、開発者は複雑な設定なしに、リッチな視覚効果を簡単に実現できるようになります。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-03T10:12:36.618800"
-  },
-  {
-    "source": "Zenn",
-    "title": "Codexサブエージェントを安全に並列化する設計パターン",
-    "link": "https://zenn.dev/kas_blog/articles/20260828-codex-subagents-parallel-work",
-    "summary": "申し訳ありませんが、提供された情報には記事のタイトル「Codexサブエージェントを安全に並列化する設計パターン」のみが含まれており、記事の具体的な本文が欠落しています。\n\nそのため、内容に基づいて3-4文で要約を作成することはできません。記事の本文をご提供いただければ、その内容を要約いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-03T10:12:45.264858"
-  },
-  {
-    "source": "Qiita",
-    "title": "React + AIエージェント開発を加速する「コピペで使えるプロンプト集」を作って公開した",
-    "link": "https://qiita.com/Tacitustus/items/1d2469e0d812545a7db0",
-    "summary": "React + TypeScript + TailwindCSS構成のWebアプリ開発をAIエージェントで効率化するため、「コピペで使えるプロンプト・仕様書テンプレート集」がGitHubで公開されました。このテンプレート集は、新規プロジェクト作成から機能追加、品質監査、リファクタリング、チーム運用まで、開発フェーズ全体を網羅しています。AIエージェントへの指示を毎回一から書く手間を省き、出力品質のばらつきを抑えることで、開発者の時短と生産性向上に貢献します。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-09-03T10:12:53.556450"
-  },
-  {
-    "source": "ITmedia",
-    "title": "イスラエル国防軍前CISOが東京で語った「Agentic AI時代の防衛戦略」　AIセキュリティカンファレンスレポート",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news045.html",
-    "summary": "AIの進化により、攻撃者は作戦を自動化し、かつて50人の専門家が必要だった高度なサイバー攻撃を少人数で実行できるようになりました。このような脅威に対応するため、イスラエル国防軍で25年間防衛を指揮した前CISOが東京のAIセキュリティカンファレンスで登壇しました。彼は「Agentic AI時代の防衛戦略」をテーマに、この新たな時代における防衛戦略をどこから始めるべきかについて説きました。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-02T23:41:17.777510"
   }
 ]
