@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "M365があるのに、なぜGoogle？　併用・乗り換えを決めた現場の理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news080.html",
+    "summary": "この記事は、Microsoft 365を利用している組織が、なぜGoogleツールを併用したり、乗り換えたりするのかを事例を通して考察しています。例えば、ソニー子会社はMicrosoft 365と生成AI「Gemini」を併用する一方、高崎市はM365との比較検討を経て「Google Workspace」を選択しました。これらの異なる判断から、組織がツールを選定する際の決め手がどこにあるのかを探ります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-24T10:36:09.440987"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「Androidユーザー向けのMac」を目指したAndroidベースのGoogle純正プレミアムノートPC「Googlebook」が登場",
+    "link": "https://gigazine.net/news/20260924-googlebook/",
+    "summary": "Googleは2026年9月21日、AndroidとChromeOSを組み合わせた全く新しいプレミアムノートPC「Googlebook」を発表しました。このAndroidベースのデバイスは、「Androidユーザー向けのMac」を目指しており、AppleのMacBookに対抗します。これは、2025年7月にGoogle関係者が語った、ChromeOSとAndroidを単一プラットフォームに統合するデバイスの実現となります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-24T10:36:20.109468"
+  },
+  {
+    "source": "Zenn",
+    "title": "「電源を抜けばいい、は通用しない」——Anthropicを辞めた研究者が語る、競争・減速・2年後の自分の仕事",
+    "link": "https://zenn.dev/talks_tldr_jp/articles/tldr32-coxon-summary",
+    "summary": "Anthropicを辞めたある研究者は、AIの急速な進化が「電源を抜けばいい」という単純な解決策ではもはや制御できないレベルに達していると語っています。彼は、AI開発における激しい競争と、それによる意図的な減速の必要性について言及しました。さらに、研究者自身の2年後の仕事さえ不透明であると述べ、AI分野の将来に対する深い考察と懸念を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-24T10:36:28.669369"
+  },
+  {
+    "source": "Qiita",
+    "title": "【社内ハッカソン】8時間・1人で社内SNSを作った話 ― AI（Claude Code）に何を任せ、何を任せなかったか",
+    "link": "https://qiita.com/MaikuTsuha/items/ece7cc6cea4b9414cf15",
+    "summary": "ある社内AI駆動開発ハッカソンで、参加者は8時間・1人の制限時間・人数で「チーム横断のコミュニケーション」をテーマとしたアプリ開発に挑みました。この挑戦では、Anthropic社のAI「Claude Code」が開発パートナーとして用いられ、AWS環境で写真と一言を投稿する社内SNSアプリ「自分も」が作成されました。\n\n記事では、開発においてAIに何を任せ、何を禁止し、どこでつまずいたかといった具体的なAI活用経験が詳細に語られています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-24T10:36:37.990254"
+  },
+  {
     "source": "GIGAZINE",
     "title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
     "link": "https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-09-03T23:41:08.616694"
-  },
-  {
-    "source": "Zenn",
-    "title": "成果の出ないAIエージェントを削除した基準 — AI社員の「解雇」判断とその後",
-    "link": "https://zenn.dev/joinclass/articles/ai-ai-20260902220004-12590",
-    "summary": "記事は、企業がAIエージェントを「AI社員」と見立て、成果が出ない場合に「解雇」する判断基準について考察しています。これは、AIの導入と運用において、人間と同様のパフォーマンス評価と、それに基づく継続可否の意思決定が行われることを意味します。具体的には、AIの有効性を測るための明確な基準設定と、解雇後の運用や組織への影響についても言及していると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-03T23:41:17.821861"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年9月4日",
-    "link": "https://qiita.com/ishisaka/items/a90767b269f6d6b692b9",
-    "summary": "「プログラミング雑記 2026年9月4日」と題されたこの記事は、AI界隈の目まぐるしい進展に触れつつ、主に.NETやマイクロソフト関連の最新技術動向をまとめたものです。\n\n主なトピックとして、GUIフレームワークであるAvaloniaのホットリロード機能が正式リリースされたことや、WinUI開発がGitHubへ完全に移行したことなどが紹介されています。また、VS Codeの公式ムービートレイラーの公開といった開発者向けのニュースも取り上げられています。\n\n本記事は、これら最新の技術アップデートを通じて、プログラミング界隈の活発な動きを伝える内容となっています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-09-03T23:41:25.708209"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「社長の声」悪用で被害45億円　元警視庁が明かす「AI詐欺」の手口",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news041.html",
-    "summary": "生成AIの進化によりサイバー攻撃が巧妙化し、「社長の声」を悪用したAI詐欺では45億円もの被害が発生しています。元警視庁職員などの専門家は、2026年に向けた警戒として、最新のボイスフィッシングやランサムウェア攻撃といった新たな脅威を挙げています。企業や組織は、これらの高度な手口に対抗するため、今すぐ対策を講じる必要性が強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-03T10:12:27.877762"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "地下1.6kmに設置されたダークマター検出器が「1つの奇妙な粒子」を検出したと報告",
-    "link": "https://gigazine.net/news/20260903-dark-matter-detector-spots-weird-particle/",
-    "summary": "宇宙の物質エネルギーの約25％、質量の約85％を占めるとされる仮説上の物質「ダークマター」を検出するため、地下1.6kmに設置された検出器「LUX-ZEPLIN(LZ)」が稼働しています。このLZ検出器が最近、「1つの奇妙な粒子」を検出したと報告しました。この検出は、長年の謎であるダークマターの正体解明に向けた重要な一歩となる可能性があります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-03T10:12:36.618800"
   }
 ]
