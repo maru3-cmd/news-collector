@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "パルグループ、狙われたのは「老朽化システム」だった　サーバ約100台停止から50日で復旧の軌跡",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news022.html",
+    "summary": "パルグループは、長く更新されていなかった老朽化システムへの侵入により、サーバ約100台が一斉停止し、各店舗の売上確認も不可能になる事態に見舞われました。全社のシステムを停止させるほどの攻撃を受けたものの、同社は侵入口を特定し、ITインフラをゼロから再構築する迅速な対応を取りました。その結果、約50日という期間でシステム復旧を達成した軌跡が本記事では紹介されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-09-25T10:39:48.244091"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Snapdragon X2シリーズでLinuxを公式サポートすることをQualcommが発表",
+    "link": "https://gigazine.net/news/20260925-qualcomm-snapdragon-x2-linux/",
+    "summary": "Qualcommは「Snapdragon Summit 2026」において、次世代のSnapdragon X2シリーズでLinuxを公式にサポートすることを発表しました。この決定は、Snapdragon X2を搭載するデバイスでのLinux利用を大幅に促進すると期待されます。これにより、開発者やユーザーにとって、より幅広いOS選択肢と柔軟性が提供されることになります。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-09-25T10:39:55.742144"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI.CLASSIFYでGROUP BYする — 分類軸を自然言語で定義する",
+    "link": "https://zenn.dev/web_benriya/articles/bigquery-ai-classify-group-by",
+    "summary": "この記事は、AIを活用した分類機能「AI.CLASSIFY」と「GROUP BY」操作を組み合わせたデータ分析手法について解説しています。特に重要なのは、分類の基準となる軸をプログラムコードではなく、自然言語で直接定義できる点です。これにより、ユーザーは柔軟かつ直感的にデータを分類し、高度な集計分析を行うことが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-25T10:40:03.742755"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIは「面白い」をカタチにできるのか？ Unity MCP + Antigravity（Gemini 3.8 Flash）にゲーム改善を丸投げしてみた",
+    "link": "https://qiita.com/_daisuke0802/items/0d190f49575e2833a867",
+    "summary": "本記事は、Google Antigravity（Gemini 3.8 Flash）とUnity MCPを用いて、AIがゲームをどこまで自律的に改善できるかを検証したものです。筆者は「面白くして」「ビジュアルを盛って」という曖昧な指示だけでAIにゲーム改善を丸投げし、人間はAIの提案から選択するだけという方法を取りました。\n\nAIが既存コードの意図を汲み取り、何を提案し、どこまでゲームを形にできるかを探るため、試行錯誤のプロセスが詳細に記されています。記事では、検証結果とともにCodexとの比較や、AIを使ったゲーム開発におけるリアルな課題感がまとめられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-25T10:40:13.154755"
+  },
+  {
+    "source": "ITmedia",
     "title": "Microsoft Defender、SIEMとXDR、AIを統合した「ISOC」をプレビュー提供　利用条件は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news050.html",
     "summary": "Microsoftは、SIEM（セキュリティ情報イベント管理）やXDR（拡張検知と対応）、脅威インテリジェンス、AI機能を統合した新しいセキュリティ運用プラットフォーム「ISOC」のプレビュー提供を開始しました。\nISOCは、担当者とAIが情報を共有して協働することで、次世代のSOC（セキュリティオペレーションセンター）運用を支援することを目指しています。\nこの統合ソリューションにより、より効率的で高度な脅威検知・対応が可能となります。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-04T23:33:39.850039"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI彼女アプリを作っていて気付いた。気持ちと約束と記憶は、同じ速さでは残らなかった",
-    "link": "https://zenn.dev/mitsukida/articles/e3da28f738a04f",
-    "summary": "AI彼女アプリを開発する中で、開発者はある重要な事実に気づきました。それは、人間の「気持ち」「約束」「記憶」という要素が、それぞれ異なる速さで変化し、持続しないということです。この発見は、AIが人間のような感情や関係性を完全に模倣することの難しさ、あるいはその本質的な非同期性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-04T23:34:16.625205"
-  },
-  {
-    "source": "Qiita",
-    "title": "「1+1=2」から AI Agent まで #00",
-    "link": "https://qiita.com/Snow315/items/5fdbe6c6dfb25304b259",
-    "summary": "「1+1=2」から AI Agent まで #00と題されたこの記事は、AIの急速な普及に直面し、焦りを感じる一ITエンジニアが、AI学習の必要性を訴えるものです。筆者は、資格取得などを通じてAI関連の専門用語には触れたものの、「LLMがなぜ動くのか」といった根本的な理解が不足していると認識しています。この現状を打破するため、筆者は自ら調べて実験することで、AIの仕組みを深掘りしていくことを決意しました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-04T23:34:34.503940"
-  },
-  {
-    "source": "ITmedia",
-    "title": "災害やサイバー攻撃に遭っても、10分で業務再開　日立ら「自動復旧」を実証",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/04/news048.html",
-    "summary": "日立などは、災害やサイバー攻撃が発生した場合でも、人手を介さずに業務を自動で再開させる実証に成功しました。このシステムは、600キロ超離れたデータセンター間でデータを同期し、約10分という短時間で業務を復旧させることが可能です。これにより、緊急時における企業の迅速かつ確実な事業継続が実現します。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-04T10:02:38.544994"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
-    "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
-    "summary": "2026年9月3日深夜、主要なAIサービスであるChatGPT、Claude、Grokの3社がほぼ同時刻にダウンしました。大手3社のサービスが同時に停止するという異例の事態でしたが、その原因は現時点では明らかになっていません。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-04T10:02:52.733608"
   }
 ]
