@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Microsoft Defender、SIEMとXDR、AIを統合した「ISOC」をプレビュー提供　利用条件は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news050.html",
+    "summary": "Microsoftは、SIEM（セキュリティ情報イベント管理）やXDR（拡張検知と対応）、脅威インテリジェンス、AI機能を統合した新しいセキュリティ運用プラットフォーム「ISOC」のプレビュー提供を開始しました。\nISOCは、担当者とAIが情報を共有して協働することで、次世代のSOC（セキュリティオペレーションセンター）運用を支援することを目指しています。\nこの統合ソリューションにより、より効率的で高度な脅威検知・対応が可能となります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-25T00:08:21.382552"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
+    "link": "https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/",
+    "summary": "2026年9月に発売された「iPhone 18 Pro」の分解動画が、電子機器の分解マニュアルで知られるiFixitによって公開されました。この動画では、iPhone 18 ProおよびPro MaxでApple史上初めて搭載された可変絞りカメラがどのような構造になっているかが詳細に解説されています。また、バッテリー交換のしやすさなど、修理の観点からも重要な情報が確認できます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-25T00:08:28.776333"
+  },
+  {
+    "source": "Zenn",
+    "title": "今日の市場ブリーフィング",
+    "link": "https://zenn.dev/bambampurin/articles/2026-09-04-market-daily",
+    "summary": "提供された記事の内容は「今日の市場ブリーフィング」というタイトルと内容のみで、具体的な情報が含まれていません。そのため、市場の動向、重要なポイント、特定の数字などを要約することはできません。\n\nもし記事の全文をご提供いただければ、その内容に基づいて3〜4文で簡潔に要約いたします。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-09-25T00:08:41.644990"
+  },
+  {
+    "source": "Qiita",
+    "title": "公開したAIアプリを初心者が安全に更新する手順",
+    "link": "https://qiita.com/boraemon2000/items/9e069b4ca1eccaa4746c",
+    "summary": "この記事は、ロリポップ！デプロイナウで公開したAIアプリを、GitHubの変更に基づいて安全に更新する初心者向けの手順を解説しています。更新時は、「ボタンの色を変える」など、結果を目で確認できる小さな変更に限定し、同じ公開URLで続けることが推奨されます。AIに作業を依頼する際は、「変更するファイル名、内容、確認方法」を具体的に伝え、「他の機能やファイルは変更しない」と明記することで、意図しない変更を避けることができます。更新前には、現在の公開URLの状態を確認することも重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-25T00:08:50.713760"
+  },
+  {
+    "source": "ITmedia",
     "title": "M365があるのに、なぜGoogle？　併用・乗り換えを決めた現場の理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news080.html",
     "summary": "この記事は、Microsoft 365を利用している組織が、なぜGoogleツールを併用したり、乗り換えたりするのかを事例を通して考察しています。例えば、ソニー子会社はMicrosoft 365と生成AI「Gemini」を併用する一方、高崎市はM365との比較検討を経て「Google Workspace」を選択しました。これらの異なる判断から、組織がツールを選定する際の決め手がどこにあるのかを探ります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-09-04T10:02:52.733608"
-  },
-  {
-    "source": "Zenn",
-    "title": "エンジニアの次、AIはどの仕事を直撃するのか？── 見抜くための3つのポイント",
-    "link": "https://zenn.dev/leading_ai/articles/closed-scoring-next-ai-frontier",
-    "summary": "提示されたのは記事のタイトルのみで、本文の内容が提供されていないため、詳細な要約はできません。\n\nしかし、タイトル「エンジニアの次、AIはどの仕事を直撃するのか？── 見抜くための3つのポイント」から推測すると、本記事はAIの進化が次に影響を与えるであろう職種を特定し、その兆候を見極めるための具体的な3つの視点や基準を解説していると考えられます。AIによる労働市場の変化、特に自動化の影響を受けやすい職種と、その見極め方が主な焦点であると予想されます。\n\nもし記事本文をご提供いただければ、内容に基づいた正確な要約を作成いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-04T10:03:00.674998"
-  },
-  {
-    "source": "Qiita",
-    "title": "🔍 審査官はQiita記事を引用した — ELYZA特許の審査記録を全部読む",
-    "link": "https://qiita.com/Ruria1024/items/17726dfb4369ca235687",
-    "summary": "2026年9月3日、ELYZAが「業務AIアプリをAIで作成する仕組み」で特許（特許第7759639号）を取得したと発表した際、「範囲が広すぎる」「新規性がない」との批判がX上で集中しました。同社は即座にリリースを修正し謝罪しましたが、批判は収まりませんでした。\n\n本記事は、この特許のJ-PlatPatで公開されている全ての審査書類を通読し、拒絶理由通知書、意見書、拒絶査定、審査官との電話記録、審判請求書、そして4段階に変化した請求項1といった詳細な記録を時系列で提示しています。結論は明示せず、読者がこれらの豊富な審査記録を基に各自で判断できるよう材料を提供しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-04T10:03:27.668390"
-  },
-  {
-    "source": "ITmedia",
-    "title": "2.78兆パラメータなのに「8GBで動く」Kimi K3　それでも企業利用が難しい理由",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/04/news005.html",
-    "summary": "2026年7月、Moonshot AIは2.78兆パラメータを持つオープンウェイトモデル「Kimi K3」を公開しました。このモデルはわずか8GBのメモリで動作可能であり、誰でも入手できる巨大モデルの登場として注目されています。オンプレミスでのAI内製化を目指す企業にとって大きな可能性を秘める一方で、その企業利用には依然として課題が残るとされています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-03T23:41:00.624117"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIの検索を強化する「RAG」をシンプルに始めて高度化する6つの方法",
-    "link": "https://gigazine.net/news/20260904-rag-is-simple/",
-    "summary": "RAG（検索拡張生成）は、大規模言語モデル(LLM)が外部文書を検索し、その情報に基づいて回答を生成する仕組みです。これはAIの検索能力を強化するもので、Hugging FaceやDatabricksで経験を持つAIエンジニア、ラファエル・ピエール氏がその具体的な方法を紹介しています。同氏は、RAGを単純な全文検索から始めて段階的に高度化する「6つの方法」を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-03T23:41:08.616694"
   }
 ]
