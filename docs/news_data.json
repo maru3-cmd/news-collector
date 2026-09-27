@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/27/news006.html",
+    "summary": "GoogleはAIエージェントを活用し、自社Webアプリケーションから500件を超えるクロスサイトスクリプティングの脆弱性を発見しました。AIによる脆弱性検出では誤検知が大量に発生しやすいという課題がある中、同社はこれをほぼゼロに抑えることに成功しています。この成果は、AIに最終的な判定を任せず、厳格な検証プロセスを組み合わせた独自の仕組みによって達成されました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-27T00:03:31.806710"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度",
+    "link": "https://gigazine.net/news/20260927-apple-watch-ultra-4-review/",
+    "summary": "「Apple Watch Ultra 4」は、2026年9月18日に発売されたApple Watchの最上位モデルです。GIGAZINE編集部員がSeries 3との比較を含めてレビューしたところ、本体は重く大きいものの、バッテリー持ちは「バツグン」と評価されました。また、iPhoneなしでも高精度な機能を発揮することが明らかになっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-27T00:03:43.090517"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Codeでデバッグログからバグの原因を特定する──AIが見落とす3つの落とし穴",
+    "link": "https://zenn.dev/muranyanta/articles/sf-20260907-cb6319",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 12.410717527s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 12\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-27T00:03:47.615184"
+  },
+  {
+    "source": "Qiita",
+    "title": "セッションID変数をフックで使う — Claude Code 実行ごとのログ分離",
+    "link": "https://qiita.com/joinclass/items/aa721fa92d729f756f61",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 7.63679345s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 7\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-27T00:03:52.384667"
+  },
+  {
     "source": "GIGAZINE",
     "title": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」",
     "link": "https://gigazine.net/news/20260926-ansel/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-06T09:46:09.268895"
-  },
-  {
-    "source": "Qiita",
-    "title": "ChatGPT/Claude/Grokの同時障害とGeminiの生存から考える、共有クラウドの単一障害点",
-    "link": "https://qiita.com/quotidia/items/f8c6dfa1e88045773403",
-    "summary": "2026年9月3日夜から4日未明（日本時間）にかけて、ChatGPT、Claude、Grokが相次いで接続不能となる大規模障害が発生しました。各社は原因を公表していませんが、英語媒体はMicrosoft AzureのEast USリージョンの障害が引き金となり、同基盤に依存していたこれら3サービスが同時に劣化した「共有依存」型の障害だと分析しています。対照的に、別基盤を利用するGoogle Geminiは稼働を継続しました。この事例は、主要AIサービスが共有クラウドに集中することで単一障害点となり得るリスクを浮き彫りにしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-06T09:46:18.477411"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
-    "link": "https://gigazine.net/news/20260906-web-ai-signs/",
-    "summary": "2022年11月のChatGPT登場以降、生成AIは急速に普及し、わずか4年足らずで人々の生活やオンラインコンテンツ制作において不可欠な存在となりました。この状況を受け、研究者らがウェブサイトにおける生成AIの利用状況を調査しました。その結果、ChatGPT登場以降に公開されたウェブサイトの約3分の1にAIによって作成された痕跡が見られることが判明しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-05T23:26:56.208515"
-  },
-  {
-    "source": "Zenn",
-    "title": "前払い・着手金ルールで未回収をゼロにした — ひとり法人の与信管理の実務",
-    "link": "https://zenn.dev/joinclass/articles/article-20260831220006-29744",
-    "summary": "この記事は、ひとり法人が未回収債権をゼロにするための実践的な与信管理術を紹介しています。その核心となるのは、「前払い・着手金ルール」の徹底導入です。このルールを適用することで、顧客からの支払いを確実に回収し、未回収リスクを完全に排除しています。結果として、安定した経営と健全な財務状況を維持している点を解説しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-09-05T23:27:03.879008"
-  },
-  {
-    "source": "Qiita",
-    "title": "実装で比較するAIコーディングツール2026：Claude Code・Copilot・Cursor・Windsurf・CodeiumをTier別に検証【セットアップコード付き】",
-    "link": "https://qiita.com/sescore/items/759b40df743961448da4",
-    "summary": "この記事は、2026年9月時点のAIコーディングツール市場における主要な選択肢「Claude Code、Copilot、Cursor、Windsurf、Codeium」を、実際のセットアップコードを含む実装ベースで比較検証しています。AIアシスタント市場は選択肢が増える一方で業界再編が進んでおり、CodeiumがWindsurfに統合され、さらにWindsurfが2025年にCognition社に買収されるといった変化が見られます。そのため、単なる機能比較表では実務判断が難しい現状を踏まえ、`npm install`や設定ファイル作成まで再現できる「実装寄りの比較記事」として、個人開発者やチームの導入検討者向けに実用的な情報を提供します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-05T23:27:11.701361"
   }
 ]
