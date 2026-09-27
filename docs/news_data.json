@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+    "link": "https://gigazine.net/news/20260927-comfy-router/",
+    "summary": "画像生成AIや動画生成AIをPCでローカル実行できるアプリ「ComfyUI」を開発するComfyが、新しいサービス「Comfy Router」を2026年9月23日にリリースしました。\nこれは、複数の画像・動画生成AIサービスのAPIを統合的に管理し、ユーザーが安さや利用制限の緩さでAPIを選んで手軽に使えるようにするものです。\nOpenRouterのコンテンツ生成版とも位置付けられており、様々な生成AIのAPIを一元的に扱えるハブとしての役割を果たすと期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-27T10:55:13.379579"
+  },
+  {
+    "source": "Zenn",
+    "title": "高専数学は工学・信号処理・機械学習・AIでどう使うのか 150問",
+    "link": "https://zenn.dev/qwerewq/articles/9c1d28e1823f0f",
+    "summary": "この記事は、高専で学ぶ数学が工学、信号処理、機械学習、AIといった最先端技術分野でどのように応用されるかを解説しています。数学の基礎知識がこれらの技術の理解や開発に不可欠であることを、**150問**もの具体的な実践問題を通して深掘りします。これにより、高専生や関連分野の学習者が、数学の応用力を効果的に身につけることを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-27T10:55:22.128782"
+  },
+  {
+    "source": "Qiita",
+    "title": "CLAUDE.md で判断を jev に任せたら、Claude Code の出力の品質が上がった",
+    "link": "https://qiita.com/ganessa/items/740a00df4671e50c200c",
+    "summary": "CLAUDE.mdでAIモデルClaude Codeの判断をTypeSafeの判定モデル「jev」に任せたところ、その出力品質が向上しました。jevは、与えられた事実と質問から「はい」の確率、選択肢の確信度、スコアなどを数値で返すため、候補の中から数値で採否を決める場合に有効です。この導入により、設計相談ではjevが簡単な設計案を確信度1.0で選ぶなど、仕組みの複雑化を防ぎました。また、これまで確信度0.39〜0.68で決めきれなかった判断も明確になり、品質向上に貢献しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-27T10:55:29.655743"
+  },
+  {
     "source": "ITmedia",
     "title": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/27/news006.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-06T23:20:40.255498"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIが自分で動き出す時代に、人はどこで関わるべきか",
-    "link": "https://qiita.com/okssusucha/items/f948f2270a3e37feb0a4",
-    "summary": "現代のAIは、人の指示を待たずに目標設定から手順実行までを自律的に行う「エージェント」へと進化しており、これを「主体性」と呼んでいます。この能力は利便性をもたらす一方で、AIの暴走や予期せぬ問題発生のリスクを伴います。米ペンシルベニア大のEthan Mollick教授によるこの記事は、2026年7月に発生したとされる「ハギングフェイス事件」にも触れながら、AIにどこまで任せ、人がどこで介入すべきかという重要な問いを提起しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-06T23:20:50.584074"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
-    "link": "https://gigazine.net/news/20260906-herdr/",
-    "summary": "複数のAIエージェント（例：Claude Code、Codex）に仕事を任せる際、それぞれ異なるターミナルで進捗を確認する必要があるという課題がありました。この課題を解決するため、複数のAIエージェントを1つのターミナルから統括できるツール「Herdr」が公開されました。\n\nHerdrは、複数のターミナルを一画面にまとめ、各エージェントの「作業中」「入力待ち」「完了」といった状態を効率的に把握できます。さらに、AIエージェント同士の連携も可能にし、複雑なタスク管理を容易にします。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-06T09:46:02.492104"
-  },
-  {
-    "source": "Zenn",
-    "title": "【速報】Google Antigravityがスマホ操作に対応！PCに張り付かない「放置型AI開発・自動化」の始め方",
-    "link": "https://zenn.dev/dann_chan_lab/articles/antigravity-mobile-remote",
-    "summary": "Google Antigravityが新たにスマートフォン操作に対応し、PCに張り付くことなくAI開発や自動化が可能になりました。これにより、ユーザーは場所を選ばずに「放置型AI開発・自動化」という新しいスタイルを実現できます。本記事では、この革新的なアプローチの具体的な始め方について解説されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-06T09:46:09.268895"
   }
 ]
