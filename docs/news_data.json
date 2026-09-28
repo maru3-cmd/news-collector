@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "全社展開とガバナンスをどう両立させる？　伊藤忠が明かす、大企業がAIエージェントを安全に実装する方法",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news081.html",
+    "summary": "伊藤忠商事は、AIエージェントの全社展開において、セキュリティと利便性の両立および大企業のガバナンスという課題に直面していました。同社はこの課題を克服するため、「最速ミニマムスタート」で迅速に導入し、「段階的なガバナンス拡張」で利用状況に応じたセキュリティ強化を図るアプローチを採用。さらに、グループ内の専門企業と連携することで、高度なインフラとAIガバナンスの構築を進めています。これにより、大企業におけるAIエージェントの安全な実装と全社展開を実現しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-28T00:09:58.135934"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
+    "link": "https://gigazine.net/news/20260928-damo-radar/",
+    "summary": "Alibaba傘下のDamo Academyは、CTスキャン画像を解析し、がんを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をオープンソース化し、GitHubで公開しました。このモデルは、放射線診断ワークフローにおける悪性腫瘍の見落としという重大な問題への対応を目的としています。RADARの公開により、医療診断の精度向上と研究開発への貢献が期待されます。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-09-28T00:16:11.222487"
+  },
+  {
+    "source": "Zenn",
+    "title": "ゲームAIの改善が本当に効いたかを確かめる、測る前に決める2つの判定規則のすすめ",
+    "link": "https://zenn.dev/genkunjc/articles/game-ai-preregistered-ab-two-rules",
+    "summary": "この記事は、ゲームAIの改善が実際に効果を発揮したかを客観的に評価するための方法を提案しています。効果測定を行う前に、改善の成否を判断するための具体的な基準を明確に設定することの重要性を強調。特に、事前に「2つの判定規則」を決定しておくことで、検証の曖昧さをなくし、より効率的かつ正確に改善の有無を判断できると推奨しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-28T00:16:22.142125"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIが『私はただのAI』と言う理由は、入力を包む飾り枠にあった",
+    "link": "https://qiita.com/okssusucha/items/2beed95ebb0a9e346eae",
+    "summary": "AIが「私はただのAIです」と答えるのは、その本質ではなく、ユーザーの質問をAIに渡す際に自動で付加される「飾り枠」（チャットテンプレート）が原因であることが、新しい研究で判明しました。この飾り枠によってAIの自己紹介の「口調」がオン・オフされるため、この決まり文句はAIの「中身」を語るものではないとされています。したがって、AIの自己紹介を額面通りに受け取るべきではないと、[arXivで公開された論文](https://arxiv.org/abs/2609.25021)は指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-28T00:16:33.729919"
+  },
+  {
     "source": "GIGAZINE",
     "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
     "link": "https://gigazine.net/news/20260927-comfy-router/",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-09-07T10:51:01.889730"
-  },
-  {
-    "source": "Qiita",
-    "title": "DevOps・MarketingOps・ContentOpsの自動化最前線 ― 今できることと、これからの課題",
-    "link": "https://qiita.com/dreamiyokoo/items/f3864dfc3ae64f016a2b",
-    "summary": "AIの急速な進化に伴い、ソフトウェア開発・運用のDevOpsに加え、マーケティング活動のMarketingOps、コンテンツ制作・配信のContentOpsといった幅広い業務で自動化が進んでいます。本記事はこれら3つの「Ops」を整理し、コード生成やCI/CD、記事執筆、SNS投稿といったタスクがAIエージェントに任せられる現状を提示。2026年時点でのAIによる自動化の可能性と限界、そして人間の判断が不可欠な領域について実務的な視点から考察しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-07T10:51:10.982275"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ServiceNowが「セキュリティ企業」になる理由　大型買収の裏にある勝算",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news027.html",
-    "summary": "AIの進化により、脆弱性の発覚から悪用までの猶予が数カ月から数時間に激減し、人手頼みのセキュリティ運用は限界を迎えています。この課題に対し、これまで資産管理を中核としてきたServiceNowが、「自律型セキュリティ」構想と6つの統合ソリューションを打ち出しました。これは、加速するAI時代の脅威に対抗するため、ServiceNowがセキュリティ企業へと本格的に変貌を遂げようとする戦略的転換を示しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-06T23:20:22.432224"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか",
-    "link": "https://gigazine.net/news/20260907-ai-coding-cost-efficient/",
-    "summary": "AIコーディングエージェントのコスト削減において、GitHubは、単純に出力トークン数を減らすと逆にコストがかさむ場合があると指摘しています。重要なのは、個々のインタラクションの短縮ではなく、適切なコンテキストを活かしてタスクを迅速かつ効率的に完了させる「効率」の向上です。\n\nつまり、コスト効率を向上させるには、ツールの呼び出し自体ではなく、最終的な「結果」に焦点を当てた最適化が求められます。GitHubはCopilotにこの原則に基づいた改善を施し、真の効率化を実現した事例を公開しました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-06T23:20:29.692655"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIは、そこにある関数をもう一度書く — RepoExecが測った「依存を再利用する力」",
-    "link": "https://zenn.dev/hidetzu/articles/repoexec-dependency-reuse",
-    "summary": "AIは、既存の関数やコードを「もう一度書く」、つまり再構築する能力を示しています。この記事は、このAIが持つ「依存を再利用する力」に焦点を当てています。具体的には、RepoExecというツールが、AIが既存の依存関係をどれだけ効率的に再利用しているかを測定しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-06T23:20:40.255498"
   }
 ]
