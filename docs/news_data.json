@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "損保ジャパン、Gemini Enterpriseを従業員約2万人に展開　標準機能の制約をどう補っている？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/28/news016.html",
+    "summary": "損保ジャパンは、従業員約2万人にGemini Enterpriseを全社展開しました。しかし、導入に際しては標準機能やクォータの上限などの制約がありました。これらの制約をどのように補ったのか、その仕組みについてチーフエンジニアの城市由佳理氏が講演で詳細を明かしました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-28T12:07:51.852342"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "昔の「ビデオCD」がWindowsのエクスプローラーを破壊するという報告",
+    "link": "https://gigazine.net/news/20260928-windows-explorer-video-cd/",
+    "summary": "Windowsにおいて、昔の「ビデオCD」の内容をPCへコピーしようとすると、転送速度が0になって停止し、その後WindowsのUIやエクスプローラーが正常に動作しなくなる問題が報告されています。この現象はWindows 10とWindows 11の両方で確認されており、報告者によると2023年前半のWindows Update以降に発生するようになったとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-28T12:08:02.243637"
+  },
+  {
+    "source": "Zenn",
+    "title": "5日間でBOCCO emoをAmbient Agentにした",
+    "link": "https://zenn.dev/ux_xu/articles/b4810d221ff23a",
+    "summary": "提示された情報では、「5日間でBOCCO emoをAmbient Agentにした」というタイトルのみで、記事の具体的な内容がありません。そのため、重要なポイントや数字を含めて要約を作成することはできません。\n\nもし記事本文をいただければ、その内容に基づいて要約を作成いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-28T12:08:08.204817"
+  },
+  {
+    "source": "Qiita",
+    "title": "【Google】AIの「記憶」はGoogleにも読めない? Private AI Computeのサーバー側メモリの仕組みを整理する",
+    "link": "https://qiita.com/kuno_/items/ffb705402e3c66f4a418",
+    "summary": "Googleは2026年9月23日、AIアシスタントが持つユーザーの長期記憶を、Google自身にも読めない形で保持するプライバシー保護の設計を発表しました。これは、クラウド上でAIの記憶を持たせながらも、その内容を極めて高いセキュリティで保護することを目的としています。具体的には、既存の「Private AI Compute」基盤にサーバー側の永続メモリを追加することで実現されますが、現時点では「今後提供する仕組み」の説明に留まっています。",
+    "category": "クラウド・インフラ",
+    "content_type": "article",
+    "collected_at": "2026-09-28T12:08:17.053734"
+  },
+  {
+    "source": "ITmedia",
     "title": "全社展開とガバナンスをどう両立させる？　伊藤忠が明かす、大企業がAIエージェントを安全に実装する方法",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news081.html",
     "summary": "伊藤忠商事は、AIエージェントの全社展開において、セキュリティと利便性の両立および大企業のガバナンスという課題に直面していました。同社はこの課題を克服するため、「最速ミニマムスタート」で迅速に導入し、「段階的なガバナンス拡張」で利用状況に応じたセキュリティ強化を図るアプローチを採用。さらに、グループ内の専門企業と連携することで、高度なインフラとAIガバナンスの構築を進めています。これにより、大企業におけるAIエージェントの安全な実装と全社展開を実現しています。",
@@ -1312,41 +1348,5 @@
     "category": "クラウド・インフラ",
     "content_type": "article",
     "collected_at": "2026-09-07T23:51:38.933404"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenClawで9体のAIエージェント経営OSを構築した実践記録",
-    "link": "https://qiita.com/sescore/items/0c1f0b6168e5199847ff",
-    "summary": "2026年9月現在、AIエージェントの実用化が進む中、筆者はOpenClawというマルチエージェント基盤上に9体のAIエージェントで構成される「経営OS」を構築しました。このOSはCEO、CFO、CTO、COO、CMOと秘書役からなります。OpenClawはAnthropic社のClaude Codeを核とし、各エージェントに固有の役割やツール権限を与えています。本記事では、OpenClawの具体的な設定方法、エージェント設計の実体験、技術的工夫と経営判断の両面を、実際のコード例とともに共有します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-07T23:51:48.919973"
-  },
-  {
-    "source": "ITmedia",
-    "title": "日立、フィジカルAIの4つの新サービスを発表　「なんちゃってFDE」で終わらせないアプローチとは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news040.html",
-    "summary": "日立は、フィジカルAIの実装を支援する4つの新しいサービスを発表しました。同社は、数多く出現する「FDE」という言葉に対し、フィジカルAIの実装を担うFDEをあえて単独のサービスではなく「チーム」として構成する独自のアプローチを取っています。これは、「1人のスーパーマンでは不十分」との認識に基づき、複雑なフィジカルAIの導入には多様な専門性を持つチームによる協業が不可欠であると考えているためです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-07T10:50:42.946617"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "DeepSeekが内モンゴル自治区にデータセンターを建設してHuawei製AIチップを16万基導入予定との報道、中国製GPUでAIを開発・運用する動きが加速",
-    "link": "https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/",
-    "summary": "中国のAI企業であるDeepSeekが、内モンゴル自治区でデータセンター建設計画を進めているとBloombergが報じました。このデータセンターには、Huawei製のAIチップ「Ascend 950DT」が最大16万基導入される予定です。この動きは、中国国内でAIの開発・運用に国産GPUを活用する流れが加速していることを示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-07T10:50:51.749562"
-  },
-  {
-    "source": "Zenn",
-    "title": "承認を全部飛ばすモードで動かしていたら、自分で書いた hook に止められた",
-    "link": "https://zenn.dev/just_ryo/articles/52e2c845d6fdd6",
-    "summary": "承認プロセスを全てスキップするモードで作業を進めていた開発者が、予期せず処理の停止に見舞われました。その原因は、他でもない彼自身が以前作成したシステムフックでした。つまり、承認を飛ばそうとした結果、自らが設けた安全装置によって止められるという皮肉な出来事でした。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-09-07T10:51:01.889730"
   }
 ]
