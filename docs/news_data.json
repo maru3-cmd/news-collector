@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIを使ったCOBOLのJava変換、「百害あって一利なし」　AI活用の“落とし穴”を考察",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news111.html",
+    "summary": "PM歴40年の筆者は、AIを使ったCOBOLからJavaへのコード自動変換について「極めて安易で危険」と強く警鐘を鳴らしています。筆者はこのアプローチを「百害あって一利なし」と断じ、レガシーシステム刷新におけるAI活用には期待しつつも、この特定の用途でのAI利用には深刻な懸念を示しています。この記事は、AI活用の“落とし穴”として、安易な自動変換による危険性を考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-29T11:40:01.545569"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「アメリカで使われている農薬には乳がんに関連する物質が含まれている」と主張する論文が発表される",
+    "link": "https://gigazine.net/news/20260929-breast-cancer-pesticide-chemicals/",
+    "summary": "Silent Spring Instituteの研究チームは、アメリカで使用される農薬に含まれる化学物質と乳がんの関連性に関する査読済み論文を学術誌Environmental Health Perspectivesで発表しました。この論文は、アメリカの農薬には少なくとも485種類の乳がんに関連する化学物質が含まれていると主張しています。これは、農薬の使用が女性の健康、特に乳がんのリスクに影響を与える可能性を示唆する重要な研究結果です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-29T11:40:09.243908"
+  },
+  {
+    "source": "Zenn",
+    "title": "なぜ、AIのせいでAI以外の事業をやっている事業主だけが一方的に得するのか？",
+    "link": "https://zenn.dev/pdfractal/articles/df7ca6260f2987",
+    "summary": "申し訳ありませんが、提供された内容がタイトル「なぜ、AIのせいでAI以外の事業をやっている事業主だけが一方的に得するのか？」のみで、本文がありません。\n\n記事の具体的な内容が分からないため、要約することはできません。もし可能であれば、記事の全文を提供していただけますでしょうか。そうすれば、3～4文で簡潔に要約させていただきます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-29T11:40:15.742956"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIが生成したコードのレビューで気をつけること",
+    "link": "https://qiita.com/yasufumi-tsunaki/items/91764144efde3730122c",
+    "summary": "AIが生成したコードは、Kotlinの文法やnull安全性が高く、ビルドも通り、ロジック単体では正しく動作することが多いため、実装速度を大幅に向上させます。しかし、AIはコードベース全体の構造理解や将来的な影響予測が難しく、レビューでは3つの点に特に注意が必要です。これらは、既存クラスへの追加か新規クラス作成かの判断、変更が他の画面やフローに波及する範囲の予測、そしてパフォーマンスや保守性といった非機能要件の考慮です。そのため、AI生成コードのレビューでは、基本的なロジックだけでなく、システム全体への影響や非機能要件が適切に満たされているかという、より高レベルな視点が不可欠となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-29T11:40:25.269243"
+  },
+  {
+    "source": "ITmedia",
     "title": "最も人気のAIユースケース、投資成果では“いまいち”だった　Gartner調査",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
     "summary": "Gartnerの調査によると、部門リーダーは人気や話題性の高いAIアプリケーションの導入を優先する傾向にあることが明らかになりました。しかし、導入率が高いAIユースケースと実際に高い投資効果をもたらしているユースケースの間にはギャップが存在します。この調査は、人気のAIユースケースが必ずしも最高の投資成果に繋がっているわけではないことを示唆しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-08T23:45:24.421369"
-  },
-  {
-    "source": "Qiita",
-    "title": "Token と Token ID は、辞書の「内容」と「その内容を指す番号」のような関係なのでは？ #04",
-    "link": "https://qiita.com/Snow315/items/8de6f0aef0bb0e6165d9",
-    "summary": "この記事は、Token（例: \"Hello\"）とそれに対応するToken ID（例: `9707`）の関係について探求しています。これまでの実験で文字列\"Hello\"がToken ID `9707`にトークン化されることが確認されており、GGUFのTokenizerのVocabulary内でもこの対応が見つかっています。筆者は、これまでの「TokenからToken IDへ」という方向性から一歩進め、Token ID `9707`を直接`/completion`エンドポイントのプロンプトとして渡す実験を行っています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-08T23:45:34.378748"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoftが9月セキュリティ更新を発表　クラウドサービス複数でCVSS 10.0を含む脆弱性を修正",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/08/news022.html",
-    "summary": "Microsoftは9月のセキュリティ更新で、複数のクラウドサービスの脆弱性を修正したと発表しました。特にAzure AI Languageを含む2件の脆弱性は、CVSS3.1で最大深刻度となる10.0と評価されています。これらの重大な脆弱性を含むすべての修正は、Microsoft側で既に緩和済みであるとされています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-08T10:11:30.692871"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIが設計した薬「レントセルチブ」が人間の生物学的年齢を若返らせたことが判明",
-    "link": "https://gigazine.net/news/20260908-ai-assisted-medicine-age-reversal/",
-    "summary": "AIを活用する製薬会社Insilico Medicineは、AIが設計した新薬「レントセルチブ」が、人間の生物学的年齢を若返らせる効果があることを報告しました。これは、AIが実際に開発した治療薬が人間に効果を示した事例の一つです。この発見は、AIが創薬プロセスに革新をもたらし、老化関連疾患への新たなアプローチを開く可能性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-08T10:11:42.795305"
-  },
-  {
-    "source": "Zenn",
-    "title": "Slack問い合わせチャンネルにGPTボットを常駐させたら、一次対応の43%が自己解決した話",
-    "link": "https://zenn.dev/solo_joshis/articles/2026-09-07-slackgpt-ai-tool-72",
-    "summary": "ある企業がSlackの問い合わせチャンネルにGPTボットを常駐させたところ、問い合わせに対する一次対応の効率が大幅に向上しました。このGPTボットがユーザーの質問に自動で回答することで、全一次対応の43%が自己解決するようになりました。これにより、担当者が対応する必要のある問い合わせが減り、業務負担の軽減に大きく貢献しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-08T10:15:42.138881"
   }
 ]
