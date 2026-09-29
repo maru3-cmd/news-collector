@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "最も人気のAIユースケース、投資成果では“いまいち”だった　Gartner調査",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
+    "summary": "Gartnerの調査によると、部門リーダーは人気や話題性の高いAIアプリケーションの導入を優先する傾向にあることが明らかになりました。しかし、導入率が高いAIユースケースと実際に高い投資効果をもたらしているユースケースの間にはギャップが存在します。この調査は、人気のAIユースケースが必ずしも最高の投資成果に繋がっているわけではないことを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-29T01:21:01.193985"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
+    "link": "https://gigazine.net/news/20260929-gigazine-user-update-check/",
+    "summary": "GIGAZINEは2026年夏に実施したプレゼントアンケートの結果に基づき、読者の記事更新チェック方法に関する調査結果を発表しました。調査によると、ブラウザの「ブックマーク」が41.9%で最も多く、記事更新を確認する主要な手段であることが判明しました。他にもX(旧Twitter)などのSNSやニュースアプリ、常にページを開いておくといった方法が挙げられ、記事ではこれらのチェック手段における年代別の違いについても分析しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-29T01:21:08.397965"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI開発時代だからこそ、テストの役割を見つめ直す",
+    "link": "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
+    "summary": "AI開発が急速に進む現代において、システム開発におけるテストの役割が改めて注目されています。AI特有の不確実性や複雑性に対応するため、従来のテスト手法を見直し、新たな視点からその重要性を捉え直す必要性が高まっています。これは、AIシステムの信頼性、安全性、そして倫理性を確保し、社会に適切に導入していく上で極めて重要な課題であるとされています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-29T01:21:16.623997"
+  },
+  {
+    "source": "Qiita",
+    "title": "公開した数字は片側だった——読者が公開リポから数え直し、2 日で 3 回訂正した（5 面 → 訂正 4 面 → 翌朝そろったのは 2 面）",
+    "link": "https://qiita.com/sumitsuke/items/5be933bc19a930b364a2",
+    "summary": "筆者は自身の成績表データが片側しか数字がないという誤りを、読者からの検証によって発見されました。これを受け、筆者は2日間で主要な訂正を3回、追加の反映を1回実施しました。当初5つあった公開面のうち、数字を持つ訂正対象は4面、最終的に翌朝そろっていたのは2面となりました。読者からの3通のコメントによる検証可能な指摘は、筆者自身による再確認の結果、全て成立しました。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-09-29T01:21:26.349174"
+  },
+  {
+    "source": "ITmedia",
     "title": "損保ジャパン、Gemini Enterpriseを従業員約2万人に展開　標準機能の制約をどう補っている？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/28/news016.html",
     "summary": "損保ジャパンは、従業員約2万人にGemini Enterpriseを全社展開しました。しかし、導入に際しては標準機能やクォータの上限などの制約がありました。これらの制約をどのように補ったのか、その仕組みについてチーフエンジニアの城市由佳理氏が講演で詳細を明かしました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-08T10:15:42.138881"
-  },
-  {
-    "source": "Qiita",
-    "title": "【第3弾】データ漏洩リスクゼロ。Hugging Face・外部API不使用の「完全オフライン」AI文字起こしパイプライン",
-    "link": "https://qiita.com/tool-bizsystems/items/3cb403336841dff5c3f7",
-    "summary": "本記事は、データ漏洩リスクをなくし、Hugging Faceや外部APIに依存しない「完全オフライン」のAI文字起こしパイプラインを構築する検証について述べています。特に、業界標準であるHugging Faceの「話者分離」機能は、ライセンス確認やアクセストークンが必要なため、オフライン環境での利用で大きな足かせとなっていました。この課題に対し、話者分離には「sherpa-onnx」（Pyannote ONNXモデル＋WeSpeaker埋め込みモデル）を、文字起こしには「Open」から始まる技術スタックを用いることで、完全にオフラインで動作するパイプラインを実現しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-08T10:15:53.354927"
-  },
-  {
-    "source": "ITmedia",
-    "title": "行政機関18万人を支える「源内」　わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
-    "summary": "デジタル庁は、約18万人の行政職員が利用する生成AI基盤「源内」の運用において、セキュリティと効率化の二律背反を解決しました。省庁ごとの環境分離によるセキュリティ確保は、運用負担の増大を招く課題でした。しかし、同庁は独自の設計により、わずか1～2人の担当者で高いセキュリティレベルを維持しつつ、効率的な運用を実現しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-07T23:51:22.800984"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？",
-    "link": "https://gigazine.net/news/20260908-autistici-inventati-case/",
-    "summary": "アメリカ財務省外国資産管理局(OFAC)は、イタリアの技術インフラ提供元であるAutistici/Inventati (A/I Collective)を「特別指定グローバルテロリスト(SDGT)」に指定しました。これは、テロ行為の実行犯だけでなく、その技術インフラをテロ対策制裁の対象とした初の事例であり、テロ対策における「物質的支援」の論理をデジタルインフラに適用した点で注目されています。A/I Collectiveはこの指定に猛反発しており、この前例のない決定が今後のデジタルインフラや国際関係にどのような影響を与えるかが焦点となっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-07T23:51:30.403841"
-  },
-  {
-    "source": "Zenn",
-    "title": "Docker Agent の eval が知りたいんだよォーー！！！！",
-    "link": "https://zenn.dev/xtm_blog/articles/50fe41fcba3ae7",
-    "summary": "この記事は、「Docker Agentの評価（eval）に関する情報が知りたい」という筆者の非常に強い願望を率直に表現しています。内容は一貫してこの一点に集約されており、Docker Agentの具体的な評価方法や結果、数値については一切触れられていません。筆者は、この評価情報へのアクセスを強く求めていることが伺えます。",
-    "category": "クラウド・インフラ",
-    "content_type": "article",
-    "collected_at": "2026-09-07T23:51:38.933404"
   }
 ]
