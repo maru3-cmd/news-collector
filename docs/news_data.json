@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html",
+    "summary": "この記事は、AIを「魔法の杖」ではなく、適切な学習を繰り返して初めて育つ「子ども」に例えています。筆者は学生時代の脳科学の実験を手掛かりに、AIが「ずる賢く」育つのを阻止するための条件を論じています。特に、IT負債の分析をAIに任せることの危うさや、AI向けデータセンター投資における落とし穴を指摘しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-30T00:52:46.767626"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "どんなウェブサイトでも内容を撃ちまくって破壊できる「Page Rage」",
+    "link": "https://gigazine.net/news/20260930-page-rage/",
+    "summary": "「Page Rage」は、ウェブサイトのコンテンツを仮想的に破壊して遊ぶことができるユニークなサービスです。ユーザーがアクセスしたウェブサイト上にジェットパックを装備したキャラクターを出現させ、表示されているテキストや画像など、サイト内のほぼあらゆる要素を撃ちまくって破壊することが可能です。これにより、ストレス解消やエンターテイメントとして、ウェブページを文字通り「破壊し尽くす」体験を楽しむことができます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-09-30T00:52:53.441686"
+  },
+  {
+    "source": "Zenn",
+    "title": "60点で出す勇気 ― AI協働設計術",
+    "link": "https://zenn.dev/dip_techblog/articles/7c1eb6ba802669",
+    "summary": "申し訳ありませんが、記事の本文が提供されていないため、要約を作成することができません。タイトル「60点で出す勇気 ― AI協働設計術」のみでは、具体的な内容や重要なポイント・数字を把握することができません。\n\n記事の本文をご提供いただければ、要約を作成いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-30T00:53:01.983902"
+  },
+  {
+    "source": "Qiita",
+    "title": "OpenAIが「有限の答えから選ぶ」Decisions APIを発表した日、自分の指示書の中に同じ形の判断が10個あった",
+    "link": "https://qiita.com/Hideki_Tamae/items/c73bee898bc8d74b6813",
+    "summary": "2026年9月29日のOpenAI「DevDay 2026」で、新しい「Decisions API」が発表されました。このAPIは、定義済みの質問に対し、有限の選択肢の中から文脈に基づいて最適な答えを1つ選んで返します。筆者は、自身の記事作成指示書の中に、このDecisions APIが実行するのと同じ形式の判断が10個あることを発見し、その類似性に注目しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-30T00:53:10.648755"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIを使ったCOBOLのJava変換、「百害あって一利なし」　AI活用の“落とし穴”を考察",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news111.html",
     "summary": "PM歴40年の筆者は、AIを使ったCOBOLからJavaへのコード自動変換について「極めて安易で危険」と強く警鐘を鳴らしています。筆者はこのアプローチを「百害あって一利なし」と断じ、レガシーシステム刷新におけるAI活用には期待しつつも、この特定の用途でのAI利用には深刻な懸念を示しています。この記事は、AI活用の“落とし穴”として、安易な自動変換による危険性を考察しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-09T10:13:18.406949"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Codeの/branchと/forkは何が違うのか",
-    "link": "https://qiita.com/vayaci/items/541072c4b9a68c5cefba",
-    "summary": "Claude Codeにおける`/branch`と`/fork`は、どちらも会話を分岐させるコマンドですが、その動作には明確な違いがあります。\n\n`/branch`は、現在のセッションから新しいブランチへ「移動」し、元のセッションは停止して独立した履歴を持つ新しいセッションで作業を進めます。一方、`/fork`は現在のセッションを「継続」したまま、その複製をバックグラウンドで開始し、元のセッションに影響を与えずに別の試行を並行して行えます。\n\nこの違いにより、`/branch`では`revert`や`merge`で元のセッションに戻したり結合したりできますが、`/fork`にはそのようなコマンドはありません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-09T10:13:26.783709"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AI検出」を「不正」と見なす危険　“Claude電子透かし”の技術的限界と企業の正しい運用設計",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/09/news013.html",
-    "summary": "AnthropicがAIモデルClaudeに導入するテキスト電子透かしは、AI生成コンテンツの検出を目的としています。しかし、この検出結果のみでAI不正利用を判断すると、技術的限界や誤検出の可能性から正規利用者に不当な負担をかける危険性があります。\n\n記事では、電子透かし技術の実態とEUのAI規制の意図を考察し、企業がその限界を理解した上で、利用者の負担を考慮した現実的な運用設計を行うべきだと提言しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-08T23:45:07.431025"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "テスラ車の一時停止標識無視により発生した交通事故で対向車のドライバーが死亡、自動運転システムは動作",
-    "link": "https://gigazine.net/news/20260909-tesla-stop-sign/",
-    "summary": "2025年7月、アメリカのニュージャージー州でテスラの「Full Self-Driving（FSD）」搭載モデル3が一時停止標識を無視して交差点に進入し、対向車と衝突する事故が発生しました。この事故により、対向車のドライバーが死亡しています。テスラのデータ調査の結果、事故発生時に運転支援システムであるFSDが作動していたことが確認されました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-08T23:45:15.331111"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeに最初の修正1件を任せるための依頼文と戻し方",
-    "link": "https://zenn.dev/esora_ueda/articles/first-fix-request-and-rollback-with-claude-code",
-    "summary": "この記事は、AIアシスタントのClaude Codeに初めてコード修正を依頼する際の手順と方法について解説しています。具体的には、修正内容を正確に伝えるための効果的な依頼文の作成方法と、修正されたコードを適切に受け取る（戻す）ための手順が詳細に示されています。これは、Claude Codeを活用して初めてコードの微調整や改善を行うユーザーが、スムーズに作業を進めるための実践的なガイドとなることを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-08T23:45:24.421369"
   }
 ]
