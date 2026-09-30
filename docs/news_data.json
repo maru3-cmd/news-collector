@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」　全社に行き渡ったコード、検証できているのか？【調査】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news097.html",
+    "summary": "大企業では、回答者の過半数が非エンジニアによる開発を実施しており、特にAI開発においてこの傾向が広がっています。これにより、全社に行き渡ったAI生成コードの品質や検証方法が大きな課題となっています。調査の結果、大企業のIT部門は単なる品質チェックに留まらず、より包括的な検証施策を求めていることが明らかになりました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-30T11:27:09.254821"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ローマ教皇レオ14世がAIの危険性に関する主張を否定したトランプ大統領やNVIDIAのジェンスン・フアンを非難",
+    "link": "https://gigazine.net/news/20260930-pope-leo-nvidia-trump-ai-threat/",
+    "summary": "2026年9月、Anthropicのダリオ・アモデイCEOがAIの壊滅的な危険性を警告したことに対し、トランプ大統領は「デマ」と否定し、NVIDIAのジェンスン・フアンCEOもAI研究所のリーダーの誠実さに欠けると非難しました。しかし、ローマ教皇レオ14世は、AIへの懸念は真剣に受け止めるべきであり、フェイクニュースではないと反論。AIの危険性に関する激しい議論が展開されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-09-30T11:27:21.828496"
+  },
+  {
+    "source": "Zenn",
+    "title": "【保存版】Cursorエンジニア・Lauren Tanが月2000PRをマージした信頼構築エンジニアリング",
+    "link": "https://zenn.dev/dragon1208/articles/506d19d4adb0c4",
+    "summary": "CursorエンジニアのLauren Tan氏は、「信頼構築エンジニアリング」という独自の取り組みを実践しました。彼女は月に2000件ものプルリクエスト（PR）をマージするという驚異的なペースを達成。これは、開発チーム内での信頼関係を築き、効率的なプロセスを確立するための重要な手法として注目されています。この記事は、その詳細を解説する「保存版」として紹介されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-09-30T11:27:31.527767"
+  },
+  {
+    "source": "Qiita",
+    "title": "Space Bunny Alphaをコーディングで使う：API設定・テスト・無料枠の注意点",
+    "link": "https://qiita.com/beatapi/items/cb8083d374e19cd660d3",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 23.950962153s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-09-30T11:27:36.065611"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html",
     "summary": "この記事は、AIを「魔法の杖」ではなく、適切な学習を繰り返して初めて育つ「子ども」に例えています。筆者は学生時代の脳科学の実験を手掛かりに、AIが「ずる賢く」育つのを阻止するための条件を論じています。特に、IT負債の分析をAIに任せることの危うさや、AI向けデータセンター投資における落とし穴を指摘しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-09T23:40:02.829536"
-  },
-  {
-    "source": "Zenn",
-    "title": "【第 3 回】AI のハルシネーションとの戦い — 検証器が保証しないものを機械で炙り出す",
-    "link": "https://zenn.dev/highfar/articles/vacuous-weak-misaligned-constraints",
-    "summary": "AIのハルシネーション（幻覚）は、既存の検証器では保証できない情報が生成されるという深刻な課題を提起しています。この記事は、そのような見過ごされがちなAIの誤りや不確かさを、別の機械的な手法を用いて特定し、「炙り出す」革新的なアプローチに焦点を当てています。これは、AIの信頼性と精度を向上させるための継続的な戦いを示す一連の取り組みの第3回にあたります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-09T23:40:11.623616"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIコーディングエージェント向けAcceptance Criteriaの書き方――「完了しました」を検証可能にする7項目",
-    "link": "https://qiita.com/tsuzuri_ai/items/8694fec0b8f944db4009",
-    "summary": "この記事は、AIコーディングエージェントにコード修正を依頼する際、「完了しました」という応答だけでは、修正の真偽や品質の検証が難しいという問題提起をしています。\nAI Agent時代には、何をもってタスクが「完了した」と見なすかの「Doneの定義」が特に重要だと指摘。\n本記事は、AIが書いたコードの「完了」を検証可能にするためのAcceptance Criteriaの書き方を、タイトルで示される「7項目」を通して解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-09T23:40:21.638674"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年9月9日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20260909-headline/",
-    "summary": "OMデジタルソリューションズのブランド「OM SYSTEM」は、同ブランド名を冠した初のミラーレス一眼カメラ「OM SYSTEM PEN」シリーズの発売を発表しました。この新製品は、2026年10月下旬にリリースされる予定です。これは「OM SYSTEM」ブランドとして初めての「PEN」シリーズとなり、注目を集めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-09T10:13:09.556183"
-  },
-  {
-    "source": "Zenn",
-    "title": "VLM量子化はLLMだけ見ない：ViT・Connector・LLMのbit配分を考える",
-    "link": "https://zenn.dev/kas_blog/articles/20260831-vlm-quantization-best-practices",
-    "summary": "この記事は、VLM（Vision-Language Model）の量子化について、LLM（Large Language Model）単体に焦点を当てる従来のアプローチを見直すことを提唱しています。VLMの性能と効率を最大化するためには、その構成要素であるVision Transformer (ViT)、Connector、そしてLLMの各モモジュール全体における最適なbit配分を総合的に検討する必要があると指摘しています。これにより、VLM量子化の新たな方向性を示すものです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-09T10:13:18.406949"
   }
 ]
