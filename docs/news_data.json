@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Omnissaが「Elara」を発表　AIエージェントの暴走を防ぐ“実行前の権限レイヤー”とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/01/news030.html",
+    "summary": "Omnissaは年次イベントで、「エージェンティック・エンドポイント」構想と、第3の製品ラインとなる「Omnissa Elara」を発表しました。これは、AIエージェントの急増に伴うガバナンスやセキュリティ上の新たな課題に対応するためのものです。特に、AIエージェントが重要操作を実行する前の段階で権限を統制する「実行前の権限レイヤー」を提供し、暴走を防ぐことを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-01T11:54:50.577685"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "政府運営の出会い系サービスで採用されたノーベル賞受賞者考案のアルゴリズムとは？",
+    "link": "https://gigazine.net/news/20261001-firstdate-gale-shapley-algorithm/",
+    "summary": "ノーベル賞受賞者によって考案された「ゲール-シャープレーアルゴリズム」は、政府運営の出会い系サービスで採用されています。\nこのマッチングアルゴリズムは、出会い系サービスだけでなく、大学の入学者選考や医師の研修先決定といった重要な分野でも活用されています。\n記事では、専門家がこのアルゴリズムがどのように男女のマッチングを行うのかを解説しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-01T11:55:00.416038"
+  },
+  {
+    "source": "Zenn",
+    "title": "判断特化AI「Jev」をCloudflare Workers AIで使い、求人票14項目の判定を600回0.05ドルで検証した",
+    "link": "https://zenn.dev/cosmicjan/articles/5f0f9f2632ba84",
+    "summary": "判断特化AI「Jev」がCloudflare Workers AIを利用し、求人票の14項目判定に関する検証が行われました。この検証は600回実行され、AIによる判断処理が効果的であることが示されました。特筆すべきは、これらの処理がわずか0.05ドルという極めて低コストで実現可能であった点です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-01T11:55:08.567606"
+  },
+  {
+    "source": "Qiita",
+    "title": "CodexにSkillを渡したら、402エラーの原因調査までやってくれた話",
+    "link": "https://qiita.com/harupython/items/2bc2f59ce6f6af1d07f1",
+    "summary": "本記事は、CodexにBright DataのSkillを与え、QiitaのPythonタグ記事を収集するCLI作成を通じて、外部サービス固有のエラー発生時にCodexがどこまで原因調査・設計変更を行えるかを検証した記録です。\n\n当初、Qiita公式API経由での記事取得は`HTTP 402 / policy_20140`エラーで停止しましたが、Codexはこれを調査し、Bright DataのBrowser APIへの切り替えを提案・実行しました。\n\nその結果、2ページ45件の記事取得に成功しましたが、このプロセスは完全自律ではなく、人間からの指示も一部必要でした。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-01T11:55:16.893841"
+  },
+  {
+    "source": "ITmedia",
     "title": "AI投資で成果を出す企業は何が違うのか　厚労省が白書で示した「条件」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/01/news019.html",
     "summary": "厚生労働省は2026年9月29日、「令和8年版 労働経済の分析」を公表し、AIと労働市場の現状について分析しました。この白書は、日本の生成AI利用率が主要国に比べて低いことを指摘しています。その上で、企業がAI投資で実際に成果を出すために必要な「条件」が存在すると示しており、その詳細が注目されます。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-09-10T23:33:12.622524"
-  },
-  {
-    "source": "Zenn",
-    "title": "安いモデルで回して、判定が取れなかった分だけ機械的に上位モデルへ回す",
-    "link": "https://zenn.dev/kodomo_news/articles/85-advisor-escalation",
-    "summary": "この戦略は、処理コストの最適化を目的としています。まず、費用対効果の高い安価なモデルでタスクを処理し、大部分のリクエストをそこで対応します。\n\nしかし、安価なモデルでは「判定が取れなかった」（処理できなかった、または適切な結果を出せなかった）特定のケースが存在します。\n\nこれらの未処理分のみを、自動的かつ機械的に高性能だが高コストな上位モデルへと回して処理を完了させます。\n\nこれにより、全体のコストを抑制しつつ、全てのタスクを確実に処理できる効率的なワークフローを構築することが可能になります。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-09-10T23:33:20.455631"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIレビューを先送りしたら、「知識の置き場」を作って失敗した話",
-    "link": "https://qiita.com/joyrswd/items/e6275b92c990d784e989",
-    "summary": "この記事は、AIレビューで見つかった指摘を全てその場で修正するのではなく、処理を後回しにするための整理について述べています。AIに自律的な作業をさせると、レビュー指摘によって作業範囲が無限に広がる傾向があるため、その場で直さない判断を明確にする必要がありました。\n\n当初は「今回対応しないレビュー指摘」の扱い方やその知見を共有するKnowledge Base（知識ベース）の構築を試みましたが、これは最終的に撤回されました。代わりに、レビュー指摘を「Accept now」（今回対応）や「Reject」を含む**4つのカテゴリ**に分類し、対応を効率化する仕組みを導入しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-10T23:33:29.992050"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "メールソフト「Thunderbird」がデスクトップ設定の改善計画を日本のトイレにちなんで「Project Toto」と命名",
-    "link": "https://gigazine.net/news/20260910-thunderbird-desktop-settings-project-toto/",
-    "summary": "メールソフト「Thunderbird」の開発チームは、デスクトップ設定の改善計画を2026年9月9日に発表しました。この新たな計画は「Project Toto」と名付けられ、日本のハイテクトイレにちなんで命名されました。プロジェクトの目的は、ユーザーのデスクトップ設定に関する体験を向上させることです。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-09-10T10:09:04.101931"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code で Matt Pocock skills の /implement を並列オーケストレーター化",
-    "link": "https://zenn.dev/daydreamer/articles/ee68b9023a7e45",
-    "summary": "Claude CodeというAIツールが活用され、ウェブ開発者Matt Pocock氏に関連する特定の「/implement」機能が並列オーケストレーター化されました。これは、複数の処理タスクを並行して効率的に管理・調整できる仕組みへと改善されたことを意味します。この取り組みにより、実装プロセスの処理能力と効率の大幅な向上が期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-10T10:09:14.414294"
   }
 ]
