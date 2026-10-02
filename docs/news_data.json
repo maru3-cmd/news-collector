@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
+    "link": "https://gigazine.net/news/20261002-opendlss-nr/",
+    "summary": "NVIDIAが発表したAIアップスケーリング技術「DLSS 5」をVulkanで再実装するプロジェクト「OpenDLSS-NR」が登場しました。これはゲームを高解像度化するDLSS 5の機能をオープンソースで提供するものです。特筆すべきは、この再実装版「OpenDLSS-NR」がオリジナルのDLSS 5とビット単位で完全に一致するという驚くべき成果を達成している点です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-02T11:26:49.666216"
+  },
+  {
+    "source": "Zenn",
+    "title": "フルスクラッチした極小言語モデルに、自分の小説を CPU 単一スレッドで0から学習させてみた",
+    "link": "https://zenn.dev/87right/articles/b8f26bba1f4c52",
+    "summary": "この記事では、著者がゼロからフルスクラッチで開発した極小言語モデルに関する実験が紹介されています。自身の小説データを学習用に使用し、その学習プロセスは驚くべきことにCPUの単一スレッドのみで行われました。これは、一般的な大規模モデルの学習とは異なり、限られた環境でもパーソナルな言語モデルを構築できる可能性を示唆するものです。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-02T11:26:57.829284"
+  },
+  {
+    "source": "Qiita",
+    "title": "OpenAI の Dots の「先回り」は、どこまで動いているのか。公式文書と X の報告 112 件で見る",
+    "link": "https://qiita.com/hisashi-ito/items/41d649f6316517f1f547",
+    "summary": "この記事は、OpenAIが発表した常時稼働エージェント「Dots」の主要機能である「先回り」（ユーザーに頼まれる前に調べて知らせる）が、実際にどこまで機能しているのかを調査したものです。筆者はDotsを直接試していないため、公式文書とX（旧Twitter）での112件のユーザー報告を情報源とし、調査の大半はClaude CodeなどのAIツールを活用して行われました。本記事は調査の経緯と方法を説明しており、具体的な「先回り」機能の動作状況に関する結論は提示されていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-02T11:27:08.269110"
+  },
+  {
     "source": "ITmedia",
     "title": "IT部門は「止める判断」を下せるか？　フロンティアAIによって変わる脅威への対応法",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/02/news010.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-09-11T23:41:13.931572"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code v2.1.269｜claude plugin eval でプラグインを採点｜毎日Changelog解説",
-    "link": "https://qiita.com/moha0918_/items/52f33cf70bea41809eb1",
-    "summary": "Claude Code v2.1.269の大型リリース（98項目）では、`claude plugin eval`が導入されました。これにより、プラグインの評価スイートを実行し、プラグイン有無によるスコアの差をJSONやHTMLレポートで確認できます。この更新は、否定始まりの`deny`ルールや`Bash(tee:*)`の許可範囲に影響を与え、`/output-style [name]`コマンドも追加されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-11T23:41:23.382513"
-  },
-  {
-    "source": "ITmedia",
-    "title": "さくらインターネットへの侵入は「3年前」にさかのぼるか　不正アクセス調査が完了",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/11/news067.html",
-    "summary": "さくらインターネットは、2026年8月に公表した一連の不正アクセスに関する調査を完了し、最終的な影響範囲と再発防止策を発表しました。当初の公表から影響を受けた可能性のあるアカウントが増加したと述べています。\n\n記事では、不正アクセスの侵入が「3年前」にさかのぼる可能性について言及されていますが、本文中ではその具体的な期間は明記されていません。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-11T10:05:03.479715"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
-    "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
-    "summary": "OpenAIのサム・アルトマンCEOが、全社会議でAI開発ペースを緩める方向で調整する可能性を示唆したと、経済紙ブルームバーグが報じました。この方針は、AI技術の安全性や倫理に関する議論が活発化する中で注目されます。しかし、OpenAI以外のAI開発企業がこの動きに追随するかどうかは現時点では不明です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-11T10:05:10.116552"
   }
 ]
