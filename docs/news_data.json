@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "IT部門は「止める判断」を下せるか？　フロンティアAIによって変わる脅威への対応法",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/02/news010.html",
+    "summary": "本記事は、IT部門が障害やサイバー攻撃に直面した際、「システムを止めない」という判断が、かえって復旧を遅らせ最悪の選択となる可能性を指摘しています。重要なのは、RTO（目標復旧時間）だけでは測れない「止める判断」の設計であり、そのための基準作りを提唱。さらに、経営層や関係部門との調整を通じて、ユーザー企業のIT部門が脅威への対応法を再構築する必要があることを強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-02T01:11:39.371238"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた",
+    "link": "https://gigazine.net/news/20261002-motel-room-life-history-discovery/",
+    "summary": "ニューヨーク・タイムズの報道によると、「植物の歴史」に関わる生物学的に重要な発見が、一般的な研究室ではなく、自動車利用者向けの安価なモーテルの一室でなされました。このユニークな発見は2026年に科学誌Journal of Phycologyで発表される予定です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-02T01:11:46.172662"
+  },
+  {
+    "source": "Zenn",
+    "title": "ループエンジニアリングには2種類ある —— 直すループと、育つループ",
+    "link": "https://zenn.dev/motimotinotch/articles/569ed5ab2743c1",
+    "summary": "ループエンジニアリングには、「直すループ」と「育つループ」という二つの主要なアプローチが存在します。前者の「直すループ」は、システムやプロセスの問題点を修正し、現状を改善することを目的としています。一方、後者の「育つループ」は、継続的な学習と成長を通じて新たな価値や能力を生み出すことに焦点を当てています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-02T01:11:54.513434"
+  },
+  {
+    "source": "Qiita",
+    "title": "position: stickyで表の見出し・先頭列を固定するときの7つの落とし穴と対処",
+    "link": "https://qiita.com/Kujira_AI/items/2b88947efb069eb43e18",
+    "summary": "この記事は、CSSの`position: sticky`を用いて大規模な表の見出しや先頭列を固定する際に開発者が直面した、7つの「落とし穴」とその具体的な対処法について解説しています。\n\n主な課題として、スクロール基準となる祖先要素の管理、`top`/`left`の実測値設定、`colspan`セルへの固定クラス適用ミス、`border-collapse`の考慮不足、`z-index`と背景色の指定漏れなどが挙げられています。\n\n解決策として、これらのポイントに加え、ResizeObserverを表と枠の両方に適用することの重要性などが、AI（Claude Code）との共同検証を通じて導き出されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-02T01:12:04.408275"
+  },
+  {
+    "source": "ITmedia",
     "title": "Omnissaが「Elara」を発表　AIエージェントの暴走を防ぐ“実行前の権限レイヤー”とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/01/news030.html",
     "summary": "Omnissaは年次イベントで、「エージェンティック・エンドポイント」構想と、第3の製品ラインとなる「Omnissa Elara」を発表しました。これは、AIエージェントの急増に伴うガバナンスやセキュリティ上の新たな課題に対応するためのものです。特に、AIエージェントが重要操作を実行する前の段階で権限を統制する「実行前の権限レイヤー」を提供し、暴走を防ぐことを目指しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-09-11T10:05:10.116552"
-  },
-  {
-    "source": "Zenn",
-    "title": "YOLO26nアーキテクチャ徹底解析 step3 | C3k2, SPPF, C2PSA ブロックとサブブロック",
-    "link": "https://zenn.dev/diiw/articles/yolo26n-architecture-step3",
-    "summary": "この記事は、YOLO26nアーキテクチャの徹底解析シリーズにおけるステップ3として、その主要な構成要素に焦点を当てています。具体的には、C3k2、SPPF、C2PSAといったブロックとその内部のサブブロックについて詳細に解説。これらのブロックは、YOLO26nモデルにおける効率的な特徴抽出や情報処理、そして高精度な物体検出機能を実現するための重要な役割を担っています。各ブロックの構造と機能の解明を通じて、YOLO26nの性能を支えるメカニズムを深く理解することができます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-11T10:05:23.004879"
-  },
-  {
-    "source": "Qiita",
-    "title": "C#で経費精算を監査する：Word規程とExcel明細をAIで照合",
-    "link": "https://qiita.com/iceblue/items/725bc1f282b666db065a",
-    "summary": "本記事では、Wordの経費精算規程とExcelの精算明細を照合する手作業での監査が、規定違反などの確認において大きな負担となっている問題を扱います。\n\n従来の監査ルールをコード化する方法は規程改定のたびに修正が必要で、明細と規程をAIに直接渡すだけでは正確な数値計算や結果の構造化が困難でした。\n\nそこで、C#と**Spire.Agent.Office**を活用し、AIに規程の理解と適合性判断を、文書エンジンにファイル操作や数値処理を分担させることで、監査プロセスを段階的に自動化し、これらの課題を解決する監査フローを構築します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-11T10:05:33.721620"
-  },
-  {
-    "source": "ITmedia",
-    "title": "CISAが6年ぶりに内部脅威対策ガイドを改訂　新たに加わった「AIの手口」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/11/news024.html",
-    "summary": "米政府機関CISAは、2020年以来6年ぶりに内部脅威対策ガイドを改訂しました。この改訂は、AIの急速な普及と働き方の変化を背景としています。特に、正規の権限を持つ内部者が組織のAIシステムを悪用する「AIの手口」への対策が新たに加えられました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-10T23:33:04.272805"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Tailwind CSSの開発元をShopifyが買収",
-    "link": "https://gigazine.net/news/20260911-tailwind-is-joining-shopify/",
-    "summary": "2026年9月9日、人気CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsが、eコマースプラットフォームのShopifyに参画することが、創設者アダム・ワサン氏によって発表されました。この発表では「参画」という言葉が用いられていますが、実質的にはShopifyによるTailwind Labsの買収と見られています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-09-10T23:33:12.622524"
   }
 ]
