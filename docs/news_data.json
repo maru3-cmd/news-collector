@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "「AIの同僚」をどう管理する？　OpenAIが企業ITに与えるインパクト",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/03/news002.html",
+    "summary": "OpenAIは年次イベント「DevDay 2026」で20を超える発表を行い、企業の働き方に大きなインパクトを与える新ツールを提示しました。特に、常時稼働エージェント「dots」と協働拠点「ChatGPT Space」は、AIを「同僚」として企業環境に統合する可能性を秘めています。これにより、企業ITや業務プロセスがどのように変革され、AIを管理する新たな課題が生じるかが問われています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-03T00:48:58.922758"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
+    "link": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
+    "summary": "ドイツは第二次世界大戦後、東ドイツと西ドイツに分裂し、1990年に再統一されました。\n新たな研究によると、再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者と比較して認知機能が良好であることが判明しました。\n具体的には、旧東ドイツ出身の人々は精神機能の低下が遅い傾向にあることが示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-03T00:49:08.593907"
+  },
+  {
+    "source": "Zenn",
+    "title": "「旧データを安全に使って」が遠回りになった──稼働中のデータ統合をAIと進めた話",
+    "link": "https://zenn.dev/choujiya/articles/787219b56b73c2",
+    "summary": "この記事は、「旧データを安全に使う」という従来のアプローチが遠回りであり非効率であった事例を紹介しています。システムが稼働中の状態でデータ統合を行うという難しい課題に対し、AI技術を導入することで解決策を見出しました。具体的には、AIを活用することで運用を停止することなく、効率的に旧データの統合を進めることに成功した話です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-03T00:49:17.662809"
+  },
+  {
+    "source": "Qiita",
+    "title": "【やってみよう】Copilot Studio × Azure DevOps で「自社専用AIコードレビューエージェント」を作る【後編】",
+    "link": "https://qiita.com/kaneoka_nr/items/2d77a4e096ef8de8223c",
+    "summary": "この記事は、Microsoft Copilot StudioとAzure DevOpsを連携させ、「自社のコーディング規約を熟知したAIコードレビューエージェント」を作るプロジェクトの後編を解説しています。前編で課題だった曖昧な指示に起因する404エラーを大幅に改善するため、Copilot Studioの「トピック」と「アダプティブカード」を活用。チャット内にドロップダウンなどのリッチな選択UIを実装しました。これにより、プロジェクト名やブランチ名の手入力・コピペ作業がゼロになり、タイポ知らずの爆速で快適なコードレビュー体験を実現しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-03T00:49:25.505524"
+  },
+  {
     "source": "GIGAZINE",
     "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
     "link": "https://gigazine.net/news/20261002-opendlss-nr/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-09-12T09:40:44.042716"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code の請求の8割は「居座り続けた出力」だった",
-    "link": "https://zenn.dev/maronsan/articles/nenpi-residency-cost",
-    "summary": "Claude Codeの利用において、請求金額の大部分が特定の出力形式に起因していることが明らかになりました。具体的には、請求の8割が「居座り続けた出力」によるもので、これはユーザーが不要になった後もコードの生成や表示が継続され、その間も課金が発生し続けていた状況を指します。この事実は、Claude Codeにおけるコスト効率の改善や、より効果的な出力管理の必要性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-12T09:40:53.601956"
-  },
-  {
-    "source": "Qiita",
-    "title": "LangGraph実践入門：自作エージェントから卒業して現場で動くAIエージェントを構築する完全ガイド",
-    "link": "https://qiita.com/lumichy/items/f646eb1d0d01eb67943b",
-    "summary": "「LangGraph実践入門」と題されたこの記事は、以前紹介された自作AIエージェントの学習効果と、その実務適用における課題について解説しています。自作エージェントは「THINK → ACT → OBSERVE」のループを通じて、AIエージェントの基本原理を深く理解するのに最適です。しかし、複数ユーザーの会話セッション永続化・分離といった、現場での安定稼働には多くの現実的な課題が存在します。本記事は、これらの課題を克服し、LangGraphを用いて現場で動くAIエージェントを構築するための完全ガイドとなることを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-12T09:41:04.021568"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "野生のサルが木の実を割るときに「過去に使われた石」を好むことが判明",
-    "link": "https://gigazine.net/news/20260912-wild-monkeys-track-tool-record/",
-    "summary": "野生のオマキザルに関する研究により、サルが木の実を割る道具として、過去に使われて使用痕跡が残っている石を好んで再利用する傾向があることが判明しました。これは、一度道具として利用され、その痕跡がある石の方が、再び選ばれる確率が高いことを示しています。研究者たちは、このような道具の再利用傾向が、初期のヒトにも当てはまる可能性を推測しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-11T23:41:06.592586"
-  },
-  {
-    "source": "Zenn",
-    "title": "Separating What Changes From What Must Persist: A Design Tradeoff...",
-    "link": "https://zenn.dev/tairagiang612/articles/8071984a94c5c8",
-    "summary": "提供されたタイトル「Separating What Changes From What Must Persist: A Design Tradeoff...」のみでは、記事の具体的な内容が不明なため、要約することはできません。\n\n記事の内容を要約するためには、本文を提供していただく必要があります。本文を共有していただければ、重要なポイントや数字を含めて3-4文で簡潔に要約いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-11T23:41:13.931572"
   }
 ]
