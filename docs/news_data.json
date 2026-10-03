@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック",
+    "link": "https://gigazine.net/news/20261003-airport-machiasobi31/",
+    "summary": "サブカルチャーの祭典「マチ★アソビ vol.31」が、2026年10月17日(土)・18日(日)に徳島で開催されます。これに向け、空の玄関口である徳島阿波おどり空港が恒例のアニメジャックで彩られました。\n\n『鬼滅の刃』や『Fate』シリーズ、『プリズマ☆イリヤ』などの人気アニメやゲーム作品が空港内を飾り、イベントの開催を盛り上げています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-03T10:43:15.747184"
+  },
+  {
+    "source": "Zenn",
+    "title": "MCP・API・Skillsの違いを整理する。AIとの壁打ちで直した3つの勘違い",
+    "link": "https://zenn.dev/zhaojiayi/articles/d5ad38fc02091a",
+    "summary": "この記事は、MCP、API、Skillsという3つの異なる概念の違いについて整理しています。筆者はAIとの対話（壁打ち）を通じてこれらの概念への理解を深め、当初抱いていた3つの誤解や勘違いを修正しました。これにより、AIが技術的な概念整理において効果的なツールとして活用されたことが示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-03T10:43:25.355361"
+  },
+  {
+    "source": "Qiita",
+    "title": "画像生成AIから見たGPU性能選択について",
+    "link": "https://qiita.com/naritomo08/items/83f54a6b311f04908886",
+    "summary": "この日本語記事は、画像生成AI向けGPUの選択において、どの性能要素が重要かを検証することを目的としています。特に、VRAM容量、VRAM帯域、GPU演算性能のうちどれが画像生成速度に最も影響するかを明らかにしようとしています。そのために、GeForce RTX 3060 12GB、RTX 4070 Ti SUPER 16GB、RTX 5060 Ti 16GB、RTX 5080 16GBの4種類のGPUを使用し、実際の画像生成時間を比較して最適なGPU性能要素を考察します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-03T10:43:34.336965"
+  },
+  {
     "source": "ITmedia",
     "title": "「AIの同僚」をどう管理する？　OpenAIが企業ITに与えるインパクト",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/03/news002.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-12T23:33:44.050340"
-  },
-  {
-    "source": "Zenn",
-    "title": "自己検算で直るのは「答えられなかった」だけ — 0.9B計算ミス3運用の50問比較 (K2 Horizon追試#02)",
-    "link": "https://zenn.dev/jinno_ai/articles/k2-horizon-calc-ops-retest",
-    "summary": "この記事は、自己検算が計算ミスにどれほど効果があるかを検証したものです。50問の比較実験（K2 Horizon追試#02）を通じて、「0.9B計算ミス3運用」という特定の学習・評価方式が用いられました。その結果、自己検算で修正できるのは「答えられなかった」問題に限定され、既に発生した計算ミス自体を自己検算で直すことは難しいという結論が示唆されています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-12T23:33:52.611708"
-  },
-  {
-    "source": "Qiita",
-    "title": "2026年9月13日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "link": "https://qiita.com/ennagara128/items/65f9a6ecd8a6945ca4d1",
-    "summary": "Qiitaの最新トレンド記事をAIが読み上げてくれるポッドキャストが、毎日朝7時に更新されています。このサービスは、前日夜のトレンド記事を基にしており、通勤中などにも手軽に「ながら聴き」できるよう設計されています。忙しい中でも効率的に最新情報をキャッチアップできるのが特徴で、利用者のフィードバックも歓迎されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-12T23:34:00.754749"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
-    "link": "https://gigazine.net/news/20260912-goose/",
-    "summary": "無料のオープンソースAIエージェント「goose」が公開されました。これは、ユーザーがOpenAI、Claude、Google Gemini、ローカルLLMなど複数のAIプロバイダーを用途や料金に応じて自由に切り替えながら利用できるツールです。デスクトップアプリ、CLI、APIといった多様なインターフェースに加え、MCPによるツール連携や自動化まで、あらゆるコード・ワークフローに対応した単一環境を提供します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-12T09:40:44.042716"
   }
 ]
