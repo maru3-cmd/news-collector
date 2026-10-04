@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "クラウドとAIの転換点？　Gartnerがハイプ・サイクルを発表、「過度な期待」と評した5つの技術",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/04/news003.html",
+    "summary": "Gartnerは、2026年の日本におけるクラウドとAIのハイプ・サイクルを発表しました。このサイクルでは、31の先端技術のうち5項目が「過度な期待」のピーク期にあると指摘されています。これは、クラウドの役割が根本的に変化しつつある現状を反映した結果とのことです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-04T00:14:49.146068"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+    "link": "https://gigazine.net/news/20261004-photon-matrix/",
+    "summary": "レーザービーム式蚊撃ち器「Photon Matrix」の予約受付が開始されました。この装置はスキャナーで蚊を検知し、手で叩くよりも高速にビームを発射します。これにより、効果的に蚊を駆除することが期待されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-04T00:15:25.440217"
+  },
+  {
+    "source": "Zenn",
+    "title": "「4GB GPUで8Bモデルを学習できる」というSoupの主張をRTX 5060 Tiで検証したら、学習は本当に動いたがアダプタが空だった",
+    "link": "https://zenn.dev/matsushima_a/articles/day-005-soup-layer-streaming-4gb-gpu",
+    "summary": "Soup氏の「4GB GPUで8Bモデルの学習が可能」という主張について、RTX 5060 Tiを用いて検証が行われました。結果として、見かけ上は学習が進行しているように見えましたが、重要なことに、検証中にGPUアダプタは実際には利用されておらず空の状態であったことが判明しました。これは、主張された学習がGPUの恩恵を受けていなかったか、実質的にGPUを使用していなかったことを示唆しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-04T00:16:10.076311"
+  },
+  {
+    "source": "Qiita",
+    "title": "GPUもPythonも使わず、CPUだけでAIを動かす小さなRust製エンジンRai",
+    "link": "https://qiita.com/okssusucha/items/750e44c02f9f31804a44",
+    "summary": "AI（特に言語モデル）の実行は通常、高価なGPUやPyTorchのような複雑な環境を必要とし、一般的なPCではハードルが高いのが現状です。\nそこに登場したRust製の新しいエンジン「Rai」は、計算の中身を全てRustで手書きし、外部ライブラリに一切頼らず、GPUもPythonも使わずにCPUだけでAI言語モデルを動かすことを可能にします。\nこの小さく中身を読める実行エンジンにより、インストールや準備の手間が大幅に削減され、普通のパソコンでもAIをより手軽に、かつ透過的に利用できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-04T00:16:40.494319"
+  },
+  {
     "source": "GIGAZINE",
     "title": "鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック",
     "link": "https://gigazine.net/news/20261003-airport-machiasobi31/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-13T10:41:59.421585"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeに「確認しなくていい範囲」を渡したら、開発時間が1日30分になった",
-    "link": "https://zenn.dev/mugen_web/articles/claude-code-permission-rules",
-    "summary": "AIコーディングアシスタント「Claude Code」を使った開発において、開発者は人間が確認する必要のないコードの範囲を明確に指示する工夫を行いました。\n\nこの「確認しなくていい範囲」を渡すアプローチにより、AIがより自律的にコードを生成・修正できるようになり、開発工程が大幅に効率化されました。\n\nその結果、1日あたりの開発時間をわずか30分にまで短縮することに成功した点が、この記事の重要なポイントです。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-13T10:42:07.902578"
-  },
-  {
-    "source": "Qiita",
-    "title": "Webアプリがあれば十分？それでもデスクトップアプリを使いたくなる場面について考えてみた",
-    "link": "https://qiita.com/CiciSee/items/ee9bed1a9d15d8b2ea47",
-    "summary": "最近のWebアプリはドキュメント編集、動画編集、AIチャット、画像生成、コーディングまでブラウザで完結できるほど高機能になり、インストール不要・OS不問という手軽さが最大の魅力です。筆者も以前は、容量消費や更新の手間を避けるためWeb版を重視していました。しかし、多くのAIツールを利用する中で、デスクトップアプリの方が便利だと感じる場面も少なくないと感じており、Webアプリだけで十分かという疑問を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-13T10:42:16.004748"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AIで解雇した従業員の3割は再雇用に」　Gartnerが指摘する経営層の誤算",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html",
-    "summary": "Gartnerは、2029年までにAIによる自動化で解雇された従業員の30%が、結局は企業に再雇用されると予測しています。この再雇用には以前よりも高いコストがかかると指摘されており、これは経営層の誤算によるものだとされています。つまり、AI導入計画における見通しの甘さや、人間のスキルへの再評価が「逆戻り」の主な要因となる見込みです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-12T23:33:34.805398"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ロボット掃除機の撮影機能で不倫の証拠を掴んだ男性が逆にプライバシー侵害で訴えられてしまう",
-    "link": "https://gigazine.net/news/20260913-man-jailed-record-wife-adultery/",
-    "summary": "台湾で、男性がロボット掃除機の撮影機能を使って妻の不倫現場を偶然発見し、その映像を証拠に裁判で勝訴しました。しかし、今度は妻からプライバシー侵害で反訴され、男性は罰金と懲役刑を科されることになりました。不倫の証拠を掴んで勝訴したにもかかわらず、その撮影方法が問題視され、男性が逆に罰則を受けるという異例の事例です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-12T23:33:44.050340"
   }
 ]
