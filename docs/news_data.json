@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "フィジカルAIは「ロボット単体」では成り立たない　NTTドコモビジネスが示すIoTからの進化の道筋",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/05/news062.html",
+    "summary": "NTTドコモビジネスは、ロボットや自動運転に必要な機能を全て機器単体に搭載することには、コストやサイズの点で限界があると指摘しています。同社は、この課題を解決するため、フィジカルAIの機能を通信網の側へ「オフロード」するという新たな発想を提唱。これは、IoTで培った通信基盤を活かし、次世代のフィジカルAIへと進化させる道筋を示すものです。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-05T12:48:24.206020"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "125Bの「Qwen3.8-Flash-Next」の量子化版をゲーミングPCで高速ローカル実行可能にするAI実行アプリ「Strata」",
+    "link": "https://gigazine.net/news/20261005-strata-local-ai/",
+    "summary": "AI実行アプリ「Strata」は、通常データセンター級のインフラが必要な大規模AIモデルを、一般的なハイエンドゲーミングPCでローカル実行可能にします。これにより、1250億パラメータを持つ最先端オープンモデル「Qwen3.8-Flash-Next」の量子化版を高速に動かすことが可能になります。Strataは、これまでアクセスが難しかった高性能AIを、より多くのユーザーが手軽に利用できる環境を提供します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-05T12:48:31.852033"
+  },
+  {
+    "source": "Zenn",
+    "title": "Fortranでつくるリバーシ用AI",
+    "link": "https://zenn.dev/clamini/articles/99c86961a1d6d2",
+    "summary": "この記事は、プログラミング言語Fortranを使用してリバーシの人工知能（AI）を開発するプロジェクトまたは記事のテーマを示しています。通常、科学技術計算に用いられることの多いFortranを、ボードゲームであるリバーシのAI作成に応用している点が特徴です。具体的なアルゴリズムや実装に関する詳細は提示されていませんが、Fortranを用いたユニークなAI開発の試みを紹介しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-05T12:48:42.391009"
+  },
+  {
+    "source": "Qiita",
+    "title": "RAG（検索拡張生成）をちゃんと理解する〜仕組み・必要な理由・AI エージェントとの関係〜",
+    "link": "https://qiita.com/y-yoshizaki/items/786813f72c034b2118ad",
+    "summary": "RAG（Retrieval-Augmented Generation：検索拡張生成）は、AIが回答を生成する前に、関連する資料を検索してその内容をAIに渡すことで、より正確な答えを引き出す仕組みです。これはAIが学習していない最新情報や社内データに基づいた回答を可能にし、AIが事実に基づかない情報（ハルシネーション）を生成するリスクを低減するために不可欠です。\n\n具体的には、ユーザーの質問に応じて外部データソースから情報を「検索（Retrieval）」し、その情報をAIへのプロンプトに「拡張（Augmented）」して、適切な回答を「生成（Generation）」させます。このプロセスは、AIエージェントがより信頼性の高い意思決定や情報処理を行う上で重要な役割を果たします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-05T12:48:50.367761"
+  },
+  {
     "source": "GIGAZINE",
     "title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
     "link": "https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-15T00:05:13.327622"
-  },
-  {
-    "source": "ITmedia",
-    "title": "城南信用金庫×日本IBMが取り組む「地域DX」　従来の事業モデルから脱却できるか？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news081.html",
-    "summary": "城南信用金庫は日本IBMと連携し、品川区と協力して地域DXの新たな取り組みを開始しました。これは、少子高齢化の進行により、地域金融機関が従来の事業モデルでは立ち行かなくなっている現状を打開するためです。本取り組みは、新たなスキームを通じて地域経済のデジタル変革を推進し、従来の事業モデルからの脱却と持続可能な成長を目指しています。",
-    "category": "DX・業務改善",
-    "content_type": "news",
-    "collected_at": "2026-09-14T11:03:32.347933"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Netflix・Disney+・Apple TV+・YouTube Premium・Spotifyなどのサブスク料金は5年間でなんと61％も値上がりしている",
-    "link": "https://gigazine.net/news/20260914-streaming-services-costs-higher-and-higher/",
-    "summary": "映画やドラマの視聴がDVDなどの物理メディアからストリーミングサービスへ移行する中、NetflixやDisney+といったサブスクリプションサービスの料金が大幅に値上がりしていることが判明しました。料金比較サイトHonestlyRankedの米国での調査によると、主要9サービスの月額料金合計は、2021年3月から2026年9月までの約5年間でなんと61％も上昇したと報告されています。これは、利便性の代償として消費者の負担が増加している現状を示しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-14T11:03:41.133299"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIエージェントを増やす前に、Frontend開発を4つの責務に分ける",
-    "link": "https://zenn.dev/heftykoo/articles/173a375b3c3752",
-    "summary": "この記事は、AIエージェントの導入や増強を計画している組織に対し、その前にフロントエンド開発体制を見直すことの重要性を強調しています。具体的には、フロントエンド開発を「4つの明確な責務」に分割し、専門性を高めることを提唱しています。この役割分担により、複雑化する開発プロセスの効率化が図られ、AIエージェントとのスムーズな連携や全体的な開発品質の向上が期待されます。これは、AIエージェントの潜在能力を最大限に引き出すための強固な基盤となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-14T11:03:51.677919"
-  },
-  {
-    "source": "Qiita",
-    "title": "ポニーテールはいいぞ！",
-    "link": "https://qiita.com/KaitoMuraoka/items/f65f1cc6ea44b2220482",
-    "summary": "「Ponytail」は、AI Agentに「過剰な実装を嫌うベテランエンジニア」の思考ルールを導入するプラグイン・ルールセットです。これは「最高のコードとは、書かずに済んだコードである」というコンセプトに基づいています。\nAIが不必要に複雑なコード、冗長なコメント、不要なライブラリを追加するといった過剰なエンジニアリングを防ぐことを目的としています。これにより、より簡潔で効率的なコード生成を促します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-14T11:03:59.697471"
   }
 ]
