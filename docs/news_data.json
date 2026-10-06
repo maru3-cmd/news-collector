@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "なぜ退会者の免許証が7年残る？　タイムズカー漏えいが問う“データの持ち方”",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/06/news018.html",
+    "summary": "カーシェアサービス「タイムズカー」への不正アクセスにより、退会者を含む約160万件の本人確認書類画像が漏えいしました。この事態は、なぜ退会後のデータが残っていたのかという疑問を提起しています。記事は、企業が不必要に情報を抱え込んでいないかという問題意識を示し、情報漏えい対策の出発点として「データの持ち方」を再考することの重要性を問いかけています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-06T01:58:44.912499"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始",
+    "link": "https://gigazine.net/news/20261006-openai-start-watermarking-chatgpt-text-eu/",
+    "summary": "OpenAIは、EUのAI法順守を目指し、ChatGPTやCodexで生成されたテキストに目に見えない透かしを追加する取り組みを開始しました。この透かしは、人間には知覚できない形で組み込まれ、AIが生成したテキストであることを識別できるようにするものです。この措置は、AIコンテンツの透明性を高め、AIによる誤情報の拡散防止などにも寄与することが期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-06T01:58:52.615507"
+  },
+  {
+    "source": "Zenn",
+    "title": "Microsoft Digital Defense Report 2026 流し読み（AIエージェント・ID・レジリエンス）",
+    "link": "https://zenn.dev/microsoft/articles/mddr-2026-overview",
+    "summary": "申し訳ありませんが、要約を作成するには記事の**内容（本文）**が必要です。現在提供されているのはタイトルのみです。\n\n記事の内容をここに貼り付けていただければ、その情報を基に3〜4文で、重要なポイントや数字を含めた要約を作成いたします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-06T01:59:00.090577"
+  },
+  {
+    "source": "Qiita",
+    "title": "Codexは毎日リセットされる？OpenAIの「28日間、改善かフルリセット」施策を整理",
+    "link": "https://qiita.com/sponge841841/items/ec7f09dacc0a091645c6",
+    "summary": "OpenAIのCodexについて「毎日リセットされる」という誤解が広まっていますが、これは正確ではありません。同社のTibo Sottiaux氏が発表したのは、今後28日間、Codex/Workユーザー向けに毎日「明確な改善を1つリリースする」か、それができない場合は「フルリセットを行う」という方針です。\n\nつまり、これは利用上限のリセットではなく、「毎日、改善かフルリセットのどちらか」が実施されることを意味します。この記事は、この施策の意味や他のリセットとの違いを整理しており、2026年10月6日時点の情報に基づいています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-06T01:59:09.470262"
+  },
+  {
+    "source": "ITmedia",
     "title": "フィジカルAIは「ロボット単体」では成り立たない　NTTドコモビジネスが示すIoTからの進化の道筋",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/05/news062.html",
     "summary": "NTTドコモビジネスは、ロボットや自動運転に必要な機能を全て機器単体に搭載することには、コストやサイズの点で限界があると指摘しています。同社は、この課題を解決するため、フィジカルAIの機能を通信網の側へ「オフロード」するという新たな発想を提唱。これは、IoTで培った通信基盤を活かし、次世代のフィジカルAIへと進化させる道筋を示すものです。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-15T10:33:52.582458"
-  },
-  {
-    "source": "ITmedia",
-    "title": "なぜ、会議支援AI市場が35・1％も成長？　「議事録作成」で終わらないニーズとは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news023.html",
-    "summary": "国内の会議支援AI市場は、2025年度に前年度比35.1％増と急成長しています。汎用的な生成AIツールでも議事録作成が可能であるにもかかわらず、この市場が伸び続けるのは、単に議事録を作成する以上のニーズがあるためです。記事は、ITRの調査に基づき、議事録作成に留まらない、より高度な会議支援に対する需要の変化が市場を牽引していることを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-15T00:04:39.971091"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "年代や月収によって普段の食事に支払う金額は変わるのか？朝食・昼食・おやつ・夕食それぞれで分析した結果",
-    "link": "https://gigazine.net/news/20260915-gigazine-user-daily-food-cost/",
-    "summary": "GIGAZINEは2026年夏に実施したプレゼントアンケートの結果に基づき、読者の日々の食費について詳細な分析を行いました。この記事では、朝食・昼食・おやつ・夕食それぞれに支払う金額がどれくらいなのかを調査しています。特に、年代や月収といった要因が、普段の食事に支払う金額やその配分にどのような影響を与えるのかを明らかにしようとしています。食費の個人差に焦点を当て、読者の食事への支出傾向を探ることが目的です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-15T00:04:49.854914"
-  },
-  {
-    "source": "Zenn",
-    "title": "MCPサーバーのツール設計 — AIに渡す「道具」の粒度と設計原則",
-    "link": "https://zenn.dev/yukihayama/articles/mcp-tool-design",
-    "summary": "この記事は、MCPサーバーにおけるツール設計の核心に迫り、AIが効果的に利用できる「道具」としての側面を深く掘り下げています。具体的には、AIが扱いやすい「道具」の最適な「粒度」とは何か、そしてその設計を導くべき「設計原則」について議論しています。AIとの連携を最大化し、サーバーシステムとの効率的かつ柔軟な相互作用を実現するための設計思想が提示されていると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-15T00:05:00.052644"
-  },
-  {
-    "source": "Qiita",
-    "title": "[初心者] AIコーディングが遅くなった？「読む量」を減らして速さを取り戻すIRV",
-    "link": "https://qiita.com/ShigemoriMasato/items/b8faed66e36023085ef5",
-    "summary": "AIコーディングにおいて、プロジェクトが大規模化すると、バグ修正の遅延や品質の低下が起こる問題が指摘されています。これはAIの性能だけでなく、変更前にAIが読み解かなければならない情報量が増加していることが原因だとされています。この記事では、1つの修正のためにAIが読む量を「IRV（Issue Reading Volume）」と定義し、この概念を通じてAIコーディングの速度と精度を取り戻すためのアプローチを提案しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-15T00:05:13.327622"
   }
 ]
