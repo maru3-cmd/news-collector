@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「液冷」の実物を見たことがありますか？　AIサーバを冷やす専門設備を取材してきた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/06/news016.html",
+    "summary": "AIサーバの発熱量増大に伴い、冷却システムが空冷から液冷へと急速に移行しています。NTTファシリティーズの検証施設では、この最先端の液冷設備の全貌が公開され、その実態が取材されました。\n\n取材では、サーバへ冷却液を供給するCDU（Coolant Distribution Unit）や複雑なステンレス配管、屋上の熱を排出する機器など、AI時代を支える液冷システムの具体的な構成要素が紹介されています。これにより、これまで見る機会の少なかった専門的な冷却技術の重要性が浮き彫りになりました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-06T12:17:51.485242"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ラジオでAIパーソナリティの活用が加速、労働組合や人間のパーソナリティからは不満の声",
+    "link": "https://gigazine.net/news/20261006-ai-co-host-dj-radio/",
+    "summary": "アメリカの一部の地域、特にロサンゼルスのラジオ局でAIパーソナリティの活用が加速していると、Los Angeles Timesが報じています。これは、ラジオ業界に新たな動きをもたらしていますが、労働組合や人間のパーソナリティからは強い不満の声が上がっています。技術導入による効率化と、人間の職務への影響が懸念されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-06T12:17:59.557293"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI で増えたノートを腐らせない — Obsidian × Claude Code の運用一式を公開",
+    "link": "https://zenn.dev/kaz_hira/articles/obsidian-claude-kit-release",
+    "summary": "本記事は、AIの活用によって増大するデジタルノートの管理と活用における課題に焦点を当てています。この課題に対し、ノートアプリObsidianとAIコードアシスタントClaude Codeを連携させることで、増え続ける知識が「腐る」（活用されずに埋もれる）のを防ぐ具体的な運用一式を公開。これにより、ノートを効率的に整理し、必要な情報を素早く引き出して活用し、AI時代における知的生産性を向上させるための実践的な方法を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-06T12:18:07.668589"
+  },
+  {
+    "source": "Qiita",
+    "title": "【第20回】サービス運営の生命線！利用規約・プライバシーポリシー・削除ガイドラインの整備と管理画面お問い合わせ連携",
+    "link": "https://qiita.com/Waipe/items/976314bfe6c91f02d5f2",
+    "summary": "本記事は、Webサービス、特に匿名掲示板の運営において、利用規約やプライバシーポリシー、削除ガイドラインといった法的ドキュメントの策定が極めて重要であることを強調しています。これらは「ノーヘル・無保険で高速道路を走るようなもの」と例えられ、名誉毀損や著作権侵害といったトラブルが発生した際に、開発者や運営者を守る唯一の盾となります。\n\n個人開発者が後回しにしがちな作業ですが、法的文書の整備と、管理画面に直結したお問い合わせ・削除要請管理システムの実装が、サービス運営の生命線であると指摘されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-06T12:18:17.996010"
+  },
+  {
+    "source": "ITmedia",
     "title": "なぜ退会者の免許証が7年残る？　タイムズカー漏えいが問う“データの持ち方”",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/06/news018.html",
     "summary": "カーシェアサービス「タイムズカー」への不正アクセスにより、退会者を含む約160万件の本人確認書類画像が漏えいしました。この事態は、なぜ退会後のデータが残っていたのかという疑問を提起しています。記事は、企業が不必要に情報を抱え込んでいないかという問題意識を示し、情報漏えい対策の出発点として「データの持ち方」を再考することの重要性を問いかけています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-15T23:49:34.259164"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年9月16日",
-    "link": "https://qiita.com/ishisaka/items/560e7e097b39528216c5",
-    "summary": "Qiitaは2026年9月16日にサービス開始15周年を迎え、会員数180万人以上、累計記事数120万本を突破しました。これを記念し、Markdownでスライドを作成できる「スライド機能」のベータ版公開や「Qiita AI Summit」の初開催といった新たな取り組みを実施。サイト内には記念アニメーションなどの仕掛けが用意され、ユーザーへの感謝を伝えるとともに、今後のイベントやAdvent Calendarを通じてさらなる発展を目指すことが示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-15T23:49:41.921411"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "マッチ箱サイズのIP-KVMスイッチ「JetKVM Mini」、有線接続と無線接続の両方に対応して1080pのビデオキャプチャ機能・オープンソースのファームウェア",
-    "link": "https://gigazine.net/news/20260915-jetkvm-mini/",
-    "summary": "「JetKVM Mini」は、ネットワーク経由でPCを遠隔操作できるマッチ箱サイズのIP-KVMスイッチです。有線・無線接続の両方に対応し、1080pのビデオキャプチャ機能を搭載しています。さらに、オープンソースのファームウェアを採用している点が特徴です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-15T10:33:34.302132"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIワークフローを作る前に試したい「小さな検証」",
-    "link": "https://zenn.dev/aiai_tool/articles/bcd734677d4939",
-    "summary": "提供された記事内容はタイトル「AIワークフローを作る前に試したい『小さな検証』」のみです。具体的な記事本文がないため、この情報だけでは要約を作成することができません。\n\n記事の具体的な内容をご提供いただけますでしょうか。そうすれば、3〜4文で重要なポイントや数字を含めて要約いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-15T10:33:42.674529"
-  },
-  {
-    "source": "Qiita",
-    "title": "Building Custom LLM Solutions: Why Generic AI Falls Short for Enterprise Workflows",
-    "link": "https://qiita.com/Exrwebflow/items/07ec1d31cb585ccad336",
-    "summary": "既製の汎用LLMは一般的なテキスト生成には優れていますが、企業の本番環境ではオーダーメイドの知能、厳格な評価、ドメイン固有の整合性が不可欠です。このため、汎用AIでは企業の複雑なワークフローに対応しきれないとされています。EXRWebflowは、こうした課題を解決するため、複雑な運用を自動化し、ドメインデータを保護し、信頼性の高いパフォーマンスを提供できるよう設計されたカスタムLLMアーキテクチャを開発しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-15T10:33:52.582458"
   }
 ]
