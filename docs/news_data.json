@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "光速を超えずに光より速く進むとどうなるのか？",
+    "link": "https://gigazine.net/news/20261007-faster-than-light/",
+    "summary": "2026年10月、フランシス・ハルツェン氏が「アイスキューブ・ニュートリノ観測所」の発案者として2026年度ノーベル物理学賞を受賞することが発表されました。この記事では、同観測所が観測する「チェレンコフ放射」の仕組み、具体的には「光速を超えるとどうなるのか」というその原理について解説しています。これは、科学系YouTubeチャンネルのBe Smart(ジョー・ハンソン博士)による説明に基づいています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-07T12:09:31.817454"
+  },
+  {
+    "source": "Zenn",
+    "title": "🦙 ALPACA-FW #10｜工程完了のQuality Gateについて。品質基準を保つための『よくある』開発標準をAIに落としこむ",
+    "link": "https://zenn.dev/alpaca_village/articles/alpaca-fw-10-quality-gates",
+    "summary": "ALPACA-FW #10では、開発工程完了時の品質を保証するための「Quality Gate（品質ゲート）」について解説しています。プロジェクトの品質基準を確実に維持することが目的とされており、そのために重要な役割を果たす要素です。この記事では、一般的に採用されている開発標準や品質管理のプラクティスをAI技術に落とし込むことで、品質維持の仕組みを強化し、自動化することを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-07T12:09:47.746839"
+  },
+  {
+    "source": "Qiita",
+    "title": "なぜEU AI Actは罰金の権限だけ動いたのか｜GPAI義務は2025年8月2日発効",
+    "link": "https://qiita.com/kinamocchi_tech/items/bc073c1d7d954d5578cd",
+    "summary": "本記事は、EUのAI規制（EU AI Act）の適用について解説しており、その全体適用日が2026年8月2日であることを確認しています。しかし、記事の主題は、なぜ罰金の権限だけが先行して適用され始めたのか、そして汎用AI（GPAI）に関する義務が2025年8月2日に発効する点にあります。提供された本文の冒頭では、これらの詳細や先行適用の理由についてはまだ触れられていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-07T12:11:46.167486"
+  },
+  {
     "source": "ITmedia",
     "title": "タイムズカー、焼肉きんぐなど数十社情報漏えい総まとめ　公表が相次ぐ3週間に何が起きたのか",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/07/news020.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-16T23:58:12.698176"
-  },
-  {
-    "source": "Qiita",
-    "title": "担当製品の\"人力\"キャッチアップに疲れたので、\"AI\"に毎週の作業をまるっと任せてみた",
-    "link": "https://qiita.com/KoheiKushida/items/9698b77f73d19ccd962c",
-    "summary": "この記事の筆者は、担当製品であるAzureの情報を「人力」でキャッチアップする作業に疲弊し、以前は「選択と集中」で対応していました。しかし、生成AIの進化を受け、現在は「必要な情報源は全てAIに要約・整理させる」という方針に転換しています。具体的には、Azure関連情報を自動収集しAIが要約するWebサイトを開発。約1ヶ月の運用を経て安定したため、毎週行っていた情報キャッチアップ作業をAIに任せることに成功しました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-16T23:58:21.814428"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年9月16日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20260916-headline/",
-    "summary": "人気作品「パペットスンスン」初の公式ガイドブック『パペットスンスン ガイドブック』が、2026年11月11日(水)に発売されることが発表されました。価格は税込2090円です。オンライン予約はすでに9月16日から開始されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-16T10:22:23.104696"
-  },
-  {
-    "source": "Zenn",
-    "title": "Knowledge CatalogでAIエージェントに自社のビジネス文脈を教える",
-    "link": "https://zenn.dev/web_benriya/articles/bigquery-knowledge-catalog-business-context",
-    "summary": "この記事は、「Knowledge Catalog」を活用してAIエージェントに企業独自のビジネス文脈を教える方法について述べています。\n\nこれにより、AIは一般的な情報だけでなく、特定の企業の専門用語、プロセス、顧客情報といった詳細なビジネス知識を効率的に学習することが可能になります。結果として、AIエージェントは企業の業務や質問に対し、より正確で適切な対応ができるようになると期待されます。記事中には具体的な数字は含まれていません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-16T10:22:32.498058"
   }
 ]
