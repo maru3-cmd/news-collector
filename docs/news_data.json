@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "タイムズカー、焼肉きんぐなど数十社情報漏えい総まとめ　公表が相次ぐ3週間に何が起きたのか",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/07/news020.html",
+    "summary": "カーシェアリングサービス「タイムズカー」から約660万件のアカウント情報が流出しました。この被害は単独のものではなく、2026年9月中旬からの約3週間にわたり、日本企業からの情報漏えい公表が相次ぎました。\n\nこの期間には、「焼肉きんぐ」を含む数十社で情報流出が確認されています。記事では、これらの企業が何社で、どのような情報が漏えいしたのかをまとめています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-07T01:07:24.315972"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
+    "link": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
+    "summary": "アメリカのテクノロジー企業のCEOが、NVIDIA製の高性能GPUを中国へ密輸した疑いで逮捕・起訴されました。これは、アメリカが中国のAI開発を安全保障上の脅威とみなし、高性能GPUの中国への輸出を禁止している中で発覚したものです。密輸されたGPUはGeForce RTX 4090やRTX 5090などで、総額は3億ドル（約470億円）を超えるとされています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-07T01:08:03.016132"
+  },
+  {
+    "source": "Zenn",
+    "title": "OpenAI API のプロンプトエンジニアリング基礎",
+    "link": "https://zenn.dev/akinori901/articles/20260927-plan063",
+    "summary": "OpenAI APIのプロンプトエンジニアリングは、大規模言語モデル（LLM）から意図した高品質な応答を引き出すための基礎技術です。その核心は、明確な指示、適切な文脈の提供、役割の設定、そして具体的な例（few-shot learning）の活用にあります。\n\nさらに、思考プロセスを段階的に誘導するチェーン・オブ・ソート（CoT）や、生成の多様性を制御する温度（temperature）などのAPIパラメータの調整も重要となります。これらの手法を組み合わせ、試行錯誤を重ねることで、LLMの潜在能力を最大限に引き出し、特定のタスクへの適応性を高めることができます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-07T01:08:14.995512"
+  },
+  {
+    "source": "Qiita",
+    "title": "【GitHub日報】リバースエンジニアリング特化reaが+2956で首位奪取 — 2026-10-07",
+    "link": "https://qiita.com/Git_Dayori/items/07004e91c7c786f3ecf5",
+    "summary": "2026年10月7日のGitHub日報によると、リバースエンジニアリング特化ツール「morluto/rea」が一日で2,956件のスターを獲得し、合計9,457スターで首位に躍り出ました。このTypeScript製ツールは、エージェントを用いてアプリやバイナリのリバースエンジニアリングを支援します。\n\nまた、Web・モバイル向けの次世代E2Eテストフレームワーク「tester-army/e2e」も、同日に1,725件のスターを増やし、注目を集めています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-07T01:09:24.579019"
+  },
+  {
+    "source": "ITmedia",
     "title": "「液冷」の実物を見たことがありますか？　AIサーバを冷やす専門設備を取材してきた",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/06/news016.html",
     "summary": "AIサーバの発熱量増大に伴い、冷却システムが空冷から液冷へと急速に移行しています。NTTファシリティーズの検証施設では、この最先端の液冷設備の全貌が公開され、その実態が取材されました。\n\n取材では、サーバへ冷却液を供給するCDU（Coolant Distribution Unit）や複雑なステンレス配管、屋上の熱を排出する機器など、AI時代を支える液冷システムの具体的な構成要素が紹介されています。これにより、これまで見る機会の少なかった専門的な冷却技術の重要性が浮き彫りになりました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-16T10:22:32.498058"
-  },
-  {
-    "source": "Qiita",
-    "title": "村中仁斗（むらなかまさと）｜G検定に合格した勉強法・学習記録｜AI・機械学習",
-    "link": "https://qiita.com/masa_muranaka/items/1aa26d68fd93db470654",
-    "summary": "村中仁斗氏は、2026年3月23日にJDLA Deep Learning for GENERAL G2026 #2（G検定）に合格したことを報告しています。この記事は、彼がG検定合格に至るまでの学習過程を記録したものです。\n\nG検定は、一般社団法人日本ディープラーニング協会（JDLA）が実施する資格試験で、AIや機械学習に関する基礎知識を問います。特にディープラーニングの仕組みや活用方法、関連する法律・倫理などが出題範囲で、ビジネスでAIを活用するための基礎理解を目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-16T10:22:41.013452"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news012.html",
-    "summary": "生成AIがレガシーシステム刷新の課題解決に貢献する一方で、日立は「人間のエンジニアが果たす役割は大きい」と強調しています。同社は、刷新プロジェクトにおける最大の“難所”にAIをどのように適用するかに焦点を当て、その中での人の役割の変化について論じています。これは、AI時代において、単なるCOBOL人材不足ではない、より本質的な人の役割を問い直すものです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-15T23:49:18.887695"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "頭の中で人や物を思い浮かべられない「アファンタジア」の研究が想像力に関する理論に影響を与えている",
-    "link": "https://gigazine.net/news/20260916-aphantasia-mental-imagery-brain-network/",
-    "summary": "アファンタジアとは、心の中で人や物といったイメージを視覚的に思い浮かべることができない状態を指します。人口の約2～5％にこの特性が見られるとされており、その研究が進められています。アファンタジアに関する研究は、人間の想像力に関する既存の理論に新たな知見をもたらし、その発展に寄与していると注目されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-15T23:49:25.222150"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeで「誤答だけの問題集」を作ってDatabricks DEAに合格した話",
-    "link": "https://zenn.dev/imikami/articles/770b07afb4932d",
-    "summary": "この記事は、筆者がDatabricks Certified Associate Data Engineer (DEA) 資格試験に合格するために、AIツールであるClaude Codeを独自に活用した体験談です。筆者は自身の弱点克服を目的とし、Claude Codeを使って「誤答だけの問題集」を作成しました。このAIを活用した効率的な学習方法により、見事にDatabricks DEA試験に合格しました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-15T23:49:34.259164"
   }
 ]
