@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "メインフレームのコードを外に出さずにAI開発　IBM Bobがオンプレ、エアギャップ対応",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news017.html",
+    "summary": "IBMは、メインフレームのコードを社外に出さずにAI開発を行いたい企業向けに、AI開発基盤「IBM Bob」の新たな運用方法を発表しました。これにより、企業は機密性の高いメインフレームのコードを自社管理のオンプレミス環境やエアギャップ環境内でAI開発に活用できるようになります。企業はセキュリティを確保しつつ、メインフレームの資産をAIの力で最大限に活用することが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-08T12:19:36.187310"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Google Chromeが一度断念した「JPEG XL形式のサポート」を改めて導入した理由とは？",
+    "link": "https://gigazine.net/news/20261008-google-chrome-155-jpeg-xl/",
+    "summary": "Google Chromeがバージョン155で、ロイヤリティフリーの画像フォーマットであるJPEG XL形式に一部対応しました。これは、一度はサポート廃止が検討されたJPEG XL形式を改めて導入したものです。なぜ今回改めてサポートが導入されたのかについては、Googleの開発チームが公式ブログでその理由を説明しています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-10-08T12:19:44.333591"
+  },
+  {
+    "source": "Zenn",
+    "title": "GitHubトレンド1位の動画制作エージェントOpenMontageを、有料APIキーなしで動かしてみた",
+    "link": "https://zenn.dev/matsushima_a/articles/day-009-zero-key-video-agent-gap",
+    "summary": "この記事は、GitHubトレンドで1位を獲得した動画制作エージェント「OpenMontage」について紹介しています。筆者は、この注目のツールを実際に動かしてみた体験を報告しています。特に重要な点として、通常は必要となる有料APIキーを使わずに、どこまで機能させることができるかという実験に焦点を当てています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-08T12:19:53.316848"
+  },
+  {
+    "source": "Qiita",
+    "title": "なぜ最強評価の中国AIモデルが株は「中立」なのか｜目標株価HK$1,880",
+    "link": "https://qiita.com/kinamocchi_tech/items/56f06ab0426b792772e5",
+    "summary": "最強評価を受けている中国AIモデルに関する記事です。このAIモデルは技術的に高い評価を受けているにもかかわらず、株価は「中立」と評価されており、目標株価はHK$1,880に設定されています。記事は、その評価が中立にとどまる背景や理由を解説しています。これはYouTubeチャンネル「きなこもっちーのテック深掘り」の動画解説記事です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-08T12:20:01.705793"
+  },
+  {
+    "source": "ITmedia",
     "title": "「製造データと暗黙知があれば勝てる」は幻想？　フィジカルAI“10の誤解”をGartnerが指摘",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news034.html",
     "summary": "「製造データや現場の暗黙知があれば、日本企業はフィジカルAIで自然と優位に立てる」という見方について、Gartnerはこれを誤解であると指摘しています。同社は、この考え方を幻想だとし、フィジカルAIに関する「10の誤解」を提示。既存の強みだけでは、フィジカルAI分野で勝てないという警鐘を鳴らしています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-09-17T23:47:58.282878"
-  },
-  {
-    "source": "Qiita",
-    "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
-    "link": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9",
-    "summary": "Claude Codeの`/update-config`機能が、ファイルの権限検査に一致しない無効な`Write(path)`ルールを誤って生成していたことが判明しました。記事のテストでは、`deny Write(ファイル)`ルールは12回中12回書き込みを阻止できなかった一方、`deny Edit(ファイル)`ルールは12回中12回とも書き込みを正常に停止させました。つまり、`Write()`権限は機能せず、`Edit()`のみが新規作成やBashのリダイレクトを含む書き込みを停止させる有効な方法です。Claude Code 2.1.275（2026-09-17）で、`/update-config`が有効な`Edit(path)`ルールを記述するように修正されました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-17T23:48:11.543608"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Windows 11、RDSやHyper-V、USB音声の不具合に対応するプログラムを配信　一部未解決の問題も",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/17/news041.html",
-    "summary": "Microsoftは、Windows 11で「Hyper-V」「Remote Desktop Services」「USB Audio Class 1.0」の3つの不具合が発生した問題に対応するため、帯域外更新プログラムを配信しました。これらの不具合は、2026年9月の月例セキュリティ更新プログラム適用後に顕在化したものです。しかし、今回の更新プログラムをもってしても、一部の症状は依然として未解決のまま残っています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-17T10:31:33.136251"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年9月17日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20260917-headline/",
-    "summary": "松屋は、新メニュー「ほうれん草とカッテージチーズのカレー」を2026年9月22日午前10時より販売開始します。このカレーは、まろやかでクリーミーな味わいとスパイシーなソースが絶妙に調和した本格インドカレーとして登場。価格は税込780円です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-17T10:31:39.406109"
-  },
-  {
-    "source": "Zenn",
-    "title": "【Zenn力執筆】#11　もし私がCopilotならプレミアリーグのスタッツをどう作るだろうか",
-    "link": "https://zenn.dev/7min/articles/01c7abc22cc825",
-    "summary": "提供された記事の内容はタイトルのみですが、このタイトルから、筆者がもしAIアシスタントのCopilotの立場だったら、プレミアリーグのサッカー統計データをどのように作成・分析するかを探る内容であると推測されます。\n\n具体的には、どのようなデータポイント（例：得点、アシスト、パス成功率、走行距離など）を選び、CopilotのようなAIがそれらをどのように処理し、洞察を導き出すかといった方法論について議論されると予想されます。\n\nしかし、記事の具体的な内容が提供されていないため、この記事内で言及される重要なポイントや具体的な統計データ（数字）を含めることはできません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-17T10:31:50.180573"
   }
 ]
