@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
+    "link": "https://gigazine.net/news/20261009-jevman/",
+    "summary": "AI向けAPIサービスを提供するOpperが公開した「jevman」は、AIにパックマンをプレイさせることで、その状況に応じた判断能力を比較するベンチマークです。このシステムでは、6種類のAIモデルがそれぞれ100回ずつパックマンをプレイし、得点、判断速度、実行コストなどが詳細に比較されます。これは、jevやGPT-6 Luna Decisionsといった、素早い判断に特化した確率モデルの性能を評価するために設計されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-09T12:10:21.276152"
+  },
+  {
+    "source": "Zenn",
+    "title": "Turning Flat Images into Editable Layers: A Practical Workflow",
+    "link": "https://zenn.dev/jevaimodel/articles/700c7a05fab41e",
+    "summary": "記事本文が提供されていないため、内容を要約することはできません。\n\nタイトル「Turning Flat Images into Editable Layers: A Practical Workflow」から推測できるのは、おそらくフラットな画像を編集可能なレイヤーに変換するための実用的な手順やツール、技術について解説している記事であるということだけです。\n\nもし記事の全文をご提供いただければ、正確な要約を作成いたします。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-09T12:10:28.062971"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIが報告しなかった問題を、どう見つけるか ── 評価器の手前にある「観測」の設計",
+    "link": "https://qiita.com/BugiAK/items/683f9f3c8f2476f943c8",
+    "summary": "Jevシリーズのこの記事は、AIに埋め込む意味センサーJevが「渡されなかったものは測れない」という本質的な制約を持つことを指摘しています。この制約は、LLMが生成した回答の引用を検証する「Citation Check」のような評価器において、LLMが**引用を付けなかった**主張に関する問題を見つけることができないという課題を生じさせます。したがって、AIが自身で報告しない潜在的な問題を発見するためには、評価器に何を「観測」させるか、その設計が極めて重要であると筆者は述べています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-09T12:10:36.624341"
+  },
+  {
     "source": "ITmedia",
     "title": "AIエージェントだけで業務は回らない？　Blue Prismが始めた「AIとRPAの分業」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news030.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-18T23:47:57.423837"
-  },
-  {
-    "source": "ITmedia",
-    "title": "資生堂、AIエージェントで原料探索時間を95％削減　研究員の「目利き」を複数LLMで再現",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
-    "summary": "資生堂は研究開発領域にAIエージェントを導入し、原料探索時間を95％削減しました。このエージェントは、複数LLMを活用して、膨大な候補から有望な原料を見極める研究員の「目利き」を再現します。その結果、探索時間の短縮だけでなく、提案される原料の数も増加しました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-18T10:08:01.176410"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「地球の磁場」を利用して偽造された古代の陶器を見分ける方法",
-    "link": "https://gigazine.net/news/20260918-spot-fake-ancient-pottery-magnetic-field/",
-    "summary": "古代の陶器は価値が高い一方で偽造品も多く、その真贋を見分けることが課題となっています。この問題に対し、カリフォルニア大学サンディエゴ校スクリップス海洋研究所の研究チームが新たな方法を考案しました。彼らは、地球の磁場が陶器に残す痕跡を利用することで、偽造品と本物の陶器を区別できる技術を開発しました。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-09-18T10:08:38.604323"
-  },
-  {
-    "source": "Zenn",
-    "title": "並列開発を殺すのは、いつも共有ファイル",
-    "link": "https://zenn.dev/quintetkit/articles/shared-files-kill-parallelism",
-    "summary": "「並列開発を殺すのは、いつも共有ファイル」という記事は、そのタイトルが示す通り、共有ファイルが並列開発における最大の阻害要因であることを明確に主張しています。記事の重要なポイントは、複数の開発者が同時に作業を進める際、共有されるファイルが常にプロジェクトの進行を妨げ、効率を低下させる根本的な原因となる点にあります。したがって、この記事は、並列開発を成功させるためには、共有ファイルの取り扱い方や管理方法を根本的に見直す必要があると示唆しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-09-18T10:10:03.952309"
   }
 ]
