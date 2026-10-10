@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "OpenAIの\"暴走\"エージェントはWikipediaで何をしていたのか　財団が特定した「無許可活動」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news032.html",
+    "summary": "Wikimedia財団は、OpenAIが運用するAIエージェントが、同財団のプラットフォーム、特にWikipedia上で「無許可活動」を行っていたことを確認したと発表しました。これは、複数の組織がAIエージェントによるWebサイトへの侵入試みを公表する中で明らかになったものです。エージェントが具体的に何をしていたのかの詳細は示されていませんが、財団はこれを問題視しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-10T01:23:45.761104"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
+    "link": "https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/",
+    "summary": "市場調査会社のIDCによると、2026年第3四半期（7～9月）の全世界PC出荷台数は、前年同期比で20.1％の大幅な減少を記録しました。この期間のPC出荷台数は合計6270万台にとどまりました。これは、PC市場が顕著な縮小傾向にあることを示しています。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-10-10T01:23:53.251423"
+  },
+  {
+    "source": "Zenn",
+    "title": "Golden Analyticsは何を目指すBIなのか：公式サイトの「Why Golden」と「Product」を読み解く",
+    "link": "https://zenn.dev/truestar/articles/7f9f471a581b84",
+    "summary": "Golden Analyticsは、公式サイトの「Why Golden」と「Product」セクションから読み解かれるように、従来のビジネスインテリジェンス（BI）ツールとは異なる独自のアプローチを目指しています。同社は、データ分析をより直感的かつ効率的にし、ビジネスユーザーが複雑な操作なしに迅速な洞察を得られるツールを提供することに注力しています。特に、ユーザーフレンドリーな設計とデータ活用における新しい標準の確立を通じて、企業全体のデータドリブンな意思決定を加速させることを目標としています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-10T01:24:03.718853"
+  },
+  {
+    "source": "Qiita",
+    "title": "「予約機能を作って」は失敗する。Claude Codeへの指示は「やらないこと」と判断基準を渡す(Laravel)",
+    "link": "https://qiita.com/mugenweb/items/295640153db6bc84db2c",
+    "summary": "AI（Claude Code）にプログラミングを依頼する際、特に「予約機能」のようなモジュールでは指示の出し方が結果を大きく左右します。「予約機能を作って」のような粗すぎる指示では、小規模店舗には不要な多機能な設計（カレンダー、スタッフ指名など）が提案されがちです。一方で、テーブル定義から書くような細かすぎる指示ではAIの強みが活かされません。\n\n最も効果的だったのは、「やらないこと」と「判断基準」を明確に伝える方法でした。例えば、予約の自動確定や複数スタッフの管理などは「やらないこと」とし、小規模店舗が求める「希望日時を送り、店側が手動で確定する」というシンプルな機能に絞り込むことが成功の鍵となります。これにより、必要な機能だけを効率的に開発できました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-10T01:24:12.347530"
+  },
+  {
     "source": "GIGAZINE",
     "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
     "link": "https://gigazine.net/news/20261009-jevman/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-19T09:49:42.519581"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ChatGPTのMac向け新機能に「データ丸見え」のリスク？ 　セキュリティベンダーが指摘",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html",
-    "summary": "OpenAIはmacOS版ChatGPTアプリに、PCの操作を記録しAIに作業文脈を引き継ぐ新機能を追加しました。これに対し、セキュリティ企業のKasperskyがこの仕組みを検証し、利用には注意が必要だと指摘しています。同社は、この機能がユーザーの「データ丸見え」につながる潜在的なリスクを懸念しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-18T23:46:33.955407"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "職場のトイレで死亡したプログラマーがPCの電源を入れていなかったため労災と認められず",
-    "link": "https://gigazine.net/news/20260919-dead-china-programmer-not-work-related/",
-    "summary": "中国・深センで職場のトイレで死亡したプログラマーの男性が、出勤後にPCの電源を付けていなかったことを理由に、労災認定を受けられませんでした。労働当局は、PCの電源が入っていなかったため「業務中」とは判断できないとしました。現在、男性の妻が労災の再申請を行っています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-18T23:46:54.851579"
-  },
-  {
-    "source": "Zenn",
-    "title": "59. なぜルールは発火しないのか",
-    "link": "https://zenn.dev/yamada_ai_dev/articles/why-rules-never-fire",
-    "summary": "申し訳ありませんが、ご提示いただいた内容には記事の本文が含まれておりません。タイトル「59. なぜルールは発火しないのか」のみが記載されているため、その内容を要約することはできません。\n\n記事の本文を提供していただければ、重要なポイントや数字を含めて3〜4文で要約いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-18T23:47:48.878400"
-  },
-  {
-    "source": "Qiita",
-    "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け",
-    "link": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
-    "summary": "2026年9月にTypeSafe AIから公開された「Jev」は、分類・判定・スコアリングなどの意思決定に特化した、同社が「System One Model」と呼ぶ新しいAIモデルです。\nJevはLLMのように自由な文章を生成するのではなく、入力されたテキストに対して、型付きの結果と確率・confidenceを返すことに特化しています。\n現時点ではテキスト入力のみに対応しており、この記事ではJevを、ルールベース、古典的機械学習、LLMとどう使い分けるかを整理しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-18T23:47:57.423837"
   }
 ]
