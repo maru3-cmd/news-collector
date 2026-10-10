@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される",
+    "link": "https://gigazine.net/news/20261010-cancers-infection/",
+    "summary": "世界保健機関(WHO)が2026年9月末に医学専門誌The Lancet Oncologyで発表した研究によれば、2024年に世界で発生したがん症例のうち、約12％は感染症が原因である可能性が高いことが示されました。この研究結果は、がんの発生において感染症が重要な要因となっていることを明らかにしています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-10T11:27:42.572859"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIの作業の質は「何を読ませているか」で決まる ― 文脈の置き場「AIカンパニー」と出口の設計",
+    "link": "https://zenn.dev/tmiyachi/articles/ai-company-context-design",
+    "summary": "このタイトルが示唆するのは、AIの作業品質が主に「何を読ませるか」、つまりAIに与える情報や文脈の質に左右されるという点です。特に「AIカンパニー」は、AIに適切な文脈を与える「文脈の置き場」としての役割を担い、その設計が重要になります。さらに、AIが生成した結果をどのように利用し、提示するかという「出口の設計」も、最終的な成果の質を決定する上で不可欠であると説明しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-10T11:27:51.849063"
+  },
+  {
+    "source": "Qiita",
+    "title": "NVIDIA粗利率75%の真実——原価6,400ドルが4万ドルに化ける理由",
+    "link": "https://qiita.com/kinamocchi_tech/items/ebd8185b57a76838e2cb",
+    "summary": "NVIDIAが高い粗利率を誇る背景には、自社で製造工場を持たないファブレスモデルにより設計に特化しているビジネス戦略があります。同社はGPUの設計を担い、製造工程をTSMCなどのパートナー企業に委託することで、効率的なビジネス構造を構築しています。\n\n具体例として、高性能AI用GPUである「H100」は、原価約6,400ドルに対し約40,000ドルで販売され、粗利率は約84%という非常に高い利益率を達成しています。この成功は、AI市場におけるNVIDIAの圧倒的な技術的優位性と、巧妙な分業体制によって支えられています。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-10-10T11:28:04.696419"
+  },
+  {
     "source": "ITmedia",
     "title": "OpenAIの\"暴走\"エージェントはWikipediaで何をしていたのか　財団が特定した「無許可活動」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news032.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-19T23:47:18.493965"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
-    "link": "https://gigazine.net/news/20260919-opik/",
-    "summary": "AIアプリ開発において、LLMの回答追跡、評価、プロンプト管理、本番環境での監視といった複雑なプロセスを効率化するため、オープンソースの「Opik」が無料で公開されました。\nOpikは、これらの検証に必要なトレーシング、評価、プロンプト管理、本番監視の機能を1つの画面に統合し、セルフホストも可能です。\nこれにより、開発者はAIエージェントの挙動を追跡・評価し、パフォーマンスの改善を効率的に進めることができるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-19T09:49:25.586074"
-  },
-  {
-    "source": "Zenn",
-    "title": "文章を書かないAI「Jev」を試してみた。AI Agentの判断係として使える？",
-    "link": "https://zenn.dev/makicoc/articles/d3a3fd4f4ac2c2",
-    "summary": "この記事では、「文章を書かないAI」というユニークな特徴を持つ「Jev」が紹介されています。筆者は、一般的な文章生成AIとは異なるこのJevを、他のAI Agentの「判断係」として活用できるかを検証しました。Jevが主に評価や決定といった役割を担い、複雑なAIシステムにおける意思決定を補助する可能性を探っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-19T09:49:33.898473"
-  },
-  {
-    "source": "Qiita",
-    "title": "判断特化AI「Jev」はUX検証に使える？ 正解手順なしでWebサイトを探索させてみた",
-    "link": "https://qiita.com/Aochan0604/items/a5bf7fc1a41e138b0a16",
-    "summary": "判断に特化したAIモデル「Jev」は、与えられた状態と選択肢から最適な一つを選ぶ能力を持つことから、WebサイトのUX検証への応用が期待されています。筆者は、Jevに正解手順を与えずに自作サイトを探索させたところ、24回の試行のうち、素直な導線では12回すべて成功した一方、分かりにくい導線では途中停止やループが発生しました。この結果は、Jevが初めてのユーザー視点での判断を再現する可能性を示唆していますが、人間にとっての使いやすさを完全に測れるわけではないと結論付けられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-19T09:49:42.519581"
   }
 ]
