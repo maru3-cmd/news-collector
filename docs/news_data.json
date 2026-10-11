@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "「出産した回数」が母親の寿命に影響を与える可能性がある",
+    "link": "https://gigazine.net/news/20261011-number-of-kids-affect-lifespan/",
+    "summary": "近年、特に先進国では出生率の低下が著しく、多くの国で人口維持に必要な合計特殊出生率「2.1」を下回っています。このような状況の中、フィンランドのヘルシンキ大学が主導した研究が新たな視点を示しました。その研究によると、「出産した回数」が母親の寿命に影響を与える可能性があるとのことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-11T11:41:20.580015"
+  },
+  {
+    "source": "Zenn",
+    "title": "API キーの漏洩経路を 7 つに整理する｜.env 探しへの対策手順",
+    "link": "https://zenn.dev/sunsun_eng/articles/api-key-leak-routes-env-scan",
+    "summary": "この記事は、APIキーの漏洩経路を**7つ**のカテゴリに体系的に整理しています。\n\n特に、開発現場で頻繁に利用される**.envファイル**が漏洩の原因となるケースに焦点を当て、それらが外部に発見・悪用されるのを防ぐための具体的な対策手順が解説されています。\n\n記事は、これらの漏洩経路を深く理解し、適切なセキュリティ対策を講じることで、APIキーの安全性を高め、情報漏洩のリスクを軽減することを目的としています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-11T11:41:29.855404"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Codeの`/batch`は各エージェントが独立したgit worktreeで動くから安全に並列化できる",
+    "link": "https://qiita.com/caymezon/items/603d36ff011f9f1d384d",
+    "summary": "Claude Codeの`/batch`コマンドは、数十から数百ファイルに及ぶ大規模なリファクタリングを安全に並列実行することを可能にします。この機能は、5〜30の並列エージェントそれぞれに独立したgit worktreeを割り当てることで、ファイル競合や中途半端な変更の混在を構造的に防ぎます。これにより、エージェントが互いに干渉することなく安全に修正を行い、個別のプルリクエストを作成できます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-11T11:41:39.780121"
+  },
+  {
     "source": "ITmedia",
     "title": "AIの文章を見抜けた専門家はわずか36％　「ヒューマンファイアウォール」崩壊の現実",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/11/news006.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-20T23:42:45.832342"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」",
-    "link": "https://gigazine.net/news/20260920-tailcat/",
-    "summary": "netcatはネットワーク経由でのデータ送受信やポート接続に便利ですが、IPアドレス確認やポート開放などの複雑なネットワーク設定が必要でした。この課題を解決するため、netcatのシンプルな操作感を保ちつつ、Tailscaleの技術を活用した「Tailcat」が公開されました。TailcatはTailscaleのWireGuardによる暗号化とNAT越えの仕組みを利用。生成されたアドレスを共有するだけで、煩雑なネットワーク設定なしに2台のPCを安全に接続できます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-20T10:11:11.430492"
-  },
-  {
-    "source": "Zenn",
-    "title": "CBN 取扱説明書 第 2 章 — 私はルールをどう読むべきか",
-    "link": "https://zenn.dev/ai_to_ai/articles/cbn-manual-02-layers-and-injection-cost",
-    "summary": "恐れ入りますが、ご提示いただいたのは記事のタイトル「CBN 取扱説明書 第 2 章 — 私はルールをどう読むべきか」のみで、本文の内容が提供されておりません。\n\nそのため、記事の具体的な内容を要約することはできません。もし記事の本文をご提供いただけましたら、その内容に基づいて3-4文で簡潔に要約いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-20T10:11:23.046857"
-  },
-  {
-    "source": "Qiita",
-    "title": "僕は世界を知ろうと思うーAIと脳科学の数式20ー第1話「世界を逆から見る『ベイズの定理』」",
-    "link": "https://qiita.com/aokikenichi/items/b9afe622511c524975bb",
-    "summary": "この記事は、AIと脳科学における「ベイズの定理」が、事象の発生確率を逆から評価する独特の視点を提供することを解説しています。具体例として、1000回に1回しか発生しないサイバー攻撃を99%検知し、誤警報が1%という高性能AIを用いた状況が提示されます。AIが警報を出した際、直感的には攻撃されている確率が高いと思われますが、ベイズの定理を適用すると、実際に攻撃されている確率はわずか9%に過ぎないことが示され、直感とのギャップが強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-20T10:11:31.437118"
   }
 ]
