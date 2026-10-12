@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "3社に1社がトークン予算超過　コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+    "summary": "生成AIの普及に伴いトークン支出が増加する中、アクセンチュアの調査によると、3社に1社が既に年間予算を超過しています。さらに、支出の8割が明確な事業成果に結びついていない実態が明らかになりました。しかし、トークンを経営資源として適切に管理することで、コスト増を最大44%抑制できる可能性が示唆されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-12T13:39:29.940129"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "iPhone 18 Proは「可変電圧供給(AVS)」に対応していない充電器でも高速充電可能",
+    "link": "https://gigazine.net/news/20261012-iphone-18-pro-battery-charge/",
+    "summary": "iPhone 18 ProおよびPro Maxは、可変電圧供給(AVS)対応充電器を用いることで高速充電が可能であると公式にアピールされています。しかし、海外メディアLTT Labsの実験結果は、その情報とは異なるものでした。LTT Labsは、AVSに対応していない充電器を使用した場合でも、公式が謳うのと同等の高速充電が可能であることを明らかにしました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-12T13:39:38.948857"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code Desktop上でネコ飼い始めました！",
+    "link": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-pixel-pet",
+    "summary": "本記事は、「Claude Code Desktop上でネコ飼い始めました！」という非常に簡潔なタイトルと内容で構成されています。\n\n筆者は、自身の開発環境であるClaude Code Desktop上で、仮想的なネコを飼育する新たな取り組みを開始したことを報告しています。具体的な方法や成果、関連する数値などの詳細は記事中に記載されていません。しかし、このユニークなプロジェクトの開始という主要なポイントが簡潔に述べられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-12T13:39:48.167777"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Haiku 5.5 は判断特化モデルの代わりになるのか？",
+    "link": "https://qiita.com/kikuziro/items/53465eeb52b464757555",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 7.409412893s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 7\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-12T13:39:52.617343"
+  },
+  {
     "source": "GIGAZINE",
     "title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
     "link": "https://gigazine.net/news/20261012-people-similar-mental-health/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-22T00:23:33.671471"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない",
-    "link": "https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/",
-    "summary": "多くの人がスマートフォンを見過ぎていると感じ、SNSや動画サイトで時間を浪費している現状があります。しかし、新たな研究により、毎日のスクリーンタイムを削減する簡単な方法が見つかったとのことです。記事のタイトルによると、この方法は「スマホを見る時間を減らす目標」を立てることである可能性が示唆されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-21T11:13:26.934491"
-  },
-  {
-    "source": "Zenn",
-    "title": "Jevとは何か — 判断をソフトウェアに組み込む「System Oneモデル」の仕組み",
-    "link": "https://zenn.dev/takumaichida/articles/d4cd24282518be",
-    "summary": "この記事は、人間のような判断能力をソフトウェアに組み込むための新しいアプローチ「Jev」について解説しています。これは、人間の迅速かつ直感的な意思決定を司る「System Oneモデル」に基づいており、ソフトウェアがより効率的で人間らしい判断を下せるようにすることを目指します。Jevは、人間の直観的な思考プロセスを模倣することで、ソフトウェアの判断能力を向上させることを目的とした仕組みです。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-21T11:13:35.527097"
-  },
-  {
-    "source": "Qiita",
-    "title": "GitHub のリポジトリ5件に1件が、AI エージェントへの指示ファイルを持っていた——100万人の GitHub アカウント調査から（第2弾）",
-    "link": "https://qiita.com/hisashi-ito/items/62bdc1a983f3f7dc649a",
-    "summary": "100万件のGitHubアカウントを対象とした調査（第2弾）の結果、GitHubリポジトリの5件に1件（20%）がAIコーディングエージェントへの指示ファイル（例: `AGENTS.md`や`CLAUDE.md`など）を含んでいることが明らかになりました。\n\nこれらの指示ファイルは、リポジトリをクローンしてエージェントを起動すると、検査を経ずに自動的に文脈に取り込まれます。\n\nnpmの`postinstall`と同様に実行権限すら不要であるため、潜在的なセキュリティリスクがあると同調査は示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-21T11:13:44.681375"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェント時代、ゼロトラストはどう変わる？　「マシンスピード」で対抗するデータ管理とSOCの未来",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/21/news007.html",
-    "summary": "AIエージェントの本格運用が進む中、セキュリティ対策はモデルや挙動まで検証する「拡張型ゼロトラスト」への移行が急務となっています。ClouderaのフィールドCTOは、このAI時代のセキュリティにおいてデータガバナンスの役割が極めて重要であると指摘。さらに、SOC（セキュリティオペレーションセンター）を「マシンスピード」で脅威に対抗できるよう改革する必要性を強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-20T23:42:08.329720"
   }
 ]
