@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「FDEは“成果報酬”にすべきだ」　日本オラクル社長に筆者の持論をぶつけてみた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/13/news058.html",
+    "summary": "企業のAI活用において注目されるFDEについて、筆者はそのあるべき姿を「成果報酬」であるべきだと提唱しています。この記事では、この持論を日本オラクル社長にぶつけつつ、同社の「オラクル版FDE」を紹介。FDEの理想的なあり方と、これから導入を検討する企業が押さえるべきポイントを考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-13T13:01:51.507880"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "「もしマインスイーパーがAAA級タイトルだったら」という過剰な演出と親切すぎる誘導が満載の「Triple-A Minesweeper」",
+    "link": "https://gigazine.net/news/20261013-triple-a-minesweeper/",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 35.827956836s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 35\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-13T13:02:24.195061"
+  },
+  {
+    "source": "Zenn",
+    "title": "導入1か月を振り返る — 任せろ・探させろ・鍛えさせろを1本の線で回した記録",
+    "link": "https://zenn.dev/takumahayami/articles/eigyou-ai-furikaeri-1kagetsu",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 31.262425466s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 31\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-13T13:02:28.759281"
+  },
+  {
+    "source": "Qiita",
+    "title": "生成AI時代「MVPをつくらない力」はどう変わるのか",
+    "link": "https://qiita.com/ymgc3/items/8b724ea30367de4baf35",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 26.73914379s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-13T13:02:33.282732"
+  },
+  {
+    "source": "ITmedia",
     "title": "「法律も規制も必要ない」　NVIDIAのファン氏、Anthropicの“AI開発減速論”に異論",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/13/news025.html",
     "summary": "Dreamforce 2026に登壇したAnthropicのアモデイCEOとNVIDIAのフアンCEOは、AI開発の減速論に関して異なる見解を示しました。アモデイCEOは、AIが完璧ではないと業界に自省を促し、開発の減速が必要であると主張しました。これに対しフアンCEOは、「法律も規制も必要ない」と述べ、AI開発の減速論に異論を唱えました。同じステージで、AIの未来に向けた開発のあり方について両者の意見は真っ向から対立しました。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-22T23:55:07.541218"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026年9月】Claude Opus 5.5がリリース！Fable 5.1超えの性能を40%安く・API破壊的変更まとめ",
-    "link": "https://qiita.com/htani0817/items/770773094cdfd0d67b19",
-    "summary": "2026年9月22日、Anthropicは高性能AIモデル「Claude Opus 5.5」をリリースしました。これは「5.5ファミリー」の第1弾で、上位モデルのFable 5.1と同等以上の性能を複数のベンチマークで示しています。\n\nまた、Opus 5と比較してトークン単価が20%減少し、典型的なワークロードでは約40%安価に利用できるようになりました。この発表はOpenAIがGPT-6 Sol / Lunaを発表した同日に行われ、AIフロンティアにおける競争が激化しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-22T23:55:16.675571"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
-    "link": "https://gigazine.net/news/20260922-onecli/",
-    "summary": "AIエージェントを社員ごとに導入する際の個別管理の課題を解決するため、オープンソースの「OneCLI」が公開されました。OneCLIは、各メンバーに専用のAIエージェントを割り当てながら、認証情報やアクセスルールをチーム単位で一元管理できるのが特徴です。無料で複数人のチームで利用可能で、セルフホストにも対応しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-22T10:26:03.054151"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI.GENERATE_TABLEで非構造化テキストを構造化データに変換する",
-    "link": "https://zenn.dev/web_benriya/articles/bigquery-ai-generate-table-structuring",
-    "summary": "AI.GENERATE_TABLEは、分析や活用が難しい非構造化テキストデータ（自由形式の文章など）を、構造化されたテーブル形式のデータへと自動的に変換するAI機能です。この機能を利用することで、膨大なテキストデータから重要な情報やパターンを効率的に抽出し、分析可能な形式に加工できます。これにより、データの前処理にかかる労力を削減し、より迅速かつ正確なデータ分析と洞察の獲得を可能にします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-22T10:26:10.449648"
-  },
-  {
-    "source": "Qiita",
-    "title": "コードを少しずつ壊して Jev の境界を測る ― 0.4 秒で答える審査員を信用する条件（48 回の審査）",
-    "link": "https://qiita.com/RamTuckey/items/ea8314169e65d9a0df4d",
-    "summary": "本記事は、0.4秒でコード品質を評価し、48回の審査で$0.0012という低コストで利用できるAI審査員「Jev」に焦点を当てています。人間がAIの判断が曖昧な部分のみをレビューするという、新しいコードレビューのあり方を可能にするため、このAIの「境界」と「癖」を理解することが重要だと指摘しています。筆者は、正常なTypeScript関数に`any`や`eval()`といった問題のある要素を段階的に追加し、Jevがどのように反応し、判定を変化させるかを測定することで、その特性を明らかにしようとしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-22T10:26:20.616779"
   }
 ]
