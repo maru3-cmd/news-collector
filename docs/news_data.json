@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「法律も規制も必要ない」　NVIDIAのファン氏、Anthropicの“AI開発減速論”に異論",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/13/news025.html",
+    "summary": "Dreamforce 2026に登壇したAnthropicのアモデイCEOとNVIDIAのフアンCEOは、AI開発の減速論に関して異なる見解を示しました。アモデイCEOは、AIが完璧ではないと業界に自省を促し、開発の減速が必要であると主張しました。これに対しフアンCEOは、「法律も規制も必要ない」と述べ、AI開発の減速論に異論を唱えました。同じステージで、AIの未来に向けた開発のあり方について両者の意見は真っ向から対立しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-13T02:46:13.900194"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "任天堂は物理的なゲームカートリッジを廃止する予定はないと幹部が発言",
+    "link": "https://gigazine.net/news/20261013-nintendo-physical-games/",
+    "summary": "任天堂は、物理的なゲームカートリッジを廃止する計画を当面持っていないことを明確にしました。同社のラテンアメリカ担当副社長がインタビューで発言し、「完全デジタルへの移行計画はない」と明言しています。これは、今後も物理メディアでのゲーム提供を継続するという任天堂の姿勢を示すものです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-13T02:46:20.440276"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI時代に開発手法をどう選ぶか",
+    "link": "https://zenn.dev/matsunaopen/articles/architecture-choice-in-ai-era",
+    "summary": "AI時代における開発手法の選択は、データ中心で不確実性の高いAI開発の特性を考慮することが重要です。従来のウォーターフォールやアジャイル開発をそのまま適用するのではなく、データ収集・前処理、モデルの継続的改善、そして運用監視を含むMLOpsといったAI特有の要件に対応するための調整や組み合わせが求められます。特に、試行錯誤を繰り返しながら素早くフィードバックを得るアジャイルなアプローチと、モデルのライフサイクル全体を管理するMLOpsの導入が有効とされます。プロジェクトの性質や目標に応じて、これらの手法を柔軟に組み合わせ、最適なアプローチを見つけることが成功の鍵となります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-13T02:46:29.819665"
+  },
+  {
+    "source": "Qiita",
+    "title": "PythonのhashでLLMキャッシュキーが別プロセスで変わる",
+    "link": "https://qiita.com/hironakamura_ai/items/bf1a562da1b91529c3cd",
+    "summary": "LLMのキャッシュキーとしてPythonの`hash()`関数を使用すると、別プロセスで同じ入力文字列でもハッシュ値が異なり、永続キャッシュが機能しない問題が発生しました。これは、Pythonの`hash()`がデフォルトで起動時にランダムなシードを使用するため、プロセスをまたぐと一貫性が失われることが原因です。\n\nこの問題を解決するため、ディスクやRedisに残す永続キャッシュキーには、SHA-256のようなプロセスに依存しないハッシュ関数を使用することが推奨されます。さらに、ハッシュ化するJSONデータは、キーの順序や空白を`sort_keys=True`などで正規化し、統一された形式にすることが重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-13T02:46:38.461512"
+  },
+  {
+    "source": "ITmedia",
     "title": "3社に1社がトークン予算超過　コスト増を最大44％抑える方法とは【アクセンチュア調査】",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
     "summary": "生成AIの普及に伴いトークン支出が増加する中、アクセンチュアの調査によると、3社に1社が既に年間予算を超過しています。さらに、支出の8割が明確な事業成果に結びついていない実態が明らかになりました。しかし、トークンを経営資源として適切に管理することで、コスト増を最大44%抑制できる可能性が示唆されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-22T10:26:20.616779"
-  },
-  {
-    "source": "ITmedia",
-    "title": "脱メインフレーム、7割超が失敗　背景に「生成AIへの過信」　2026年度上半期システム刷新記事ランキング",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
-    "summary": "メインフレーム脱却などのレガシーシステム刷新プロジェクトにおいて、7割超が失敗している現状が報告されました。その背景には、「生成AIがあれば刷新は楽になる」という過信があると指摘されています。この記事では、2026年度上半期のシステム刷新関連記事トップ10を紹介し、システム刷新における生成AIの現在地と、AI時代に人間に残る役割について考察します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-22T00:23:05.660412"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIに頼って登山計画を立てた登山者たちが救助される",
-    "link": "https://gigazine.net/news/20260922-ai-climber-rescued/",
-    "summary": "カリフォルニア州の大学生3人が、標高4321.8mのシャスタ山を登山中に救助されました。彼らはAIで登頂計画を立てていたとのことです。しかし、このAIが作成した計画に従った結果、ルートから外れてしまったため、救助される事態となりました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-22T00:23:16.854120"
-  },
-  {
-    "source": "Zenn",
-    "title": "iPadでもMarkdownの添削がしたいんじゃ！",
-    "link": "https://zenn.dev/kswr/articles/markdown_review",
-    "summary": "この記事は、「iPadでもMarkdownの添削がしたい」という筆者の強い要望を簡潔に表明しています。筆者は、iPadの携帯性や利便性を活用し、Markdown形式で書かれた文書の校閲や修正を行いたいと考えているようです。これは、現状のiPad環境においてMarkdownファイルの効率的な添削に何らかの課題があることを示唆しており、その解決策やツールの必要性を訴えていると読み取れます。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-22T00:23:24.437506"
-  },
-  {
-    "source": "Qiita",
-    "title": "RAGの検索評価、厳しく作るほど答えられなくなる。OSS実装6本の評価器を読み比べた",
-    "link": "https://qiita.com/engchina/items/fc08ab89909f9d63bc6b",
-    "summary": "業務マニュアル向けRAGにCRAGを導入したところ、LLMによる検索評価が厳しすぎ、資料に根拠があるにもかかわらず「不足」と誤判定する問題が浮上しました。139回のログ集計では、「不足」判定36回のうち28回（約78%）が誤拒否であり、結果として適切な情報を提示できない、あるいは不適切な情報を混ぜてしまう事態が発生しています。筆者はこのプロンプトの問題を認識し、OSS実装6本の評価器の設計思想を比較検討することで改善策を探っています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-22T00:23:33.671471"
   }
 ]
