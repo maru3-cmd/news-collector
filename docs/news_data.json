@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Active Directoryが“人質”に　ランサムウェアを使わない恐喝攻撃の手口とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news018.html",
+    "summary": "ランサムウェアによる暗号化やデータ破壊を伴わない、新たなタイプのサイバー恐喝攻撃が確認されました。この攻撃は、Windows環境の中核である企業のActive Directoryを乗っ取ることを手口としています。攻撃者はActive Directoryを掌握し、それを人質に取る形で企業を脅迫し、金銭を要求します。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-14T10:42:49.793067"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Googleの検索結果を収集するツールに通常とは異なるサイトが表示されているとの調査結果",
+    "link": "https://gigazine.net/news/20261014-google-serp-tool-poisoned/",
+    "summary": "Google検索結果の掲載ランキングデータを提供する複数の企業が使用する機械的収集ツールで、2026年9月以降、共通の不具合が発生していることが判明しました。\n複数の企業が同時期にこの問題を報告しており、業界全体に影響が及んでいると見られます。\nこの不具合により、これまでGoogle検索結果で上位に表示されていたウェブサイトが、これらのツールで収集したデータに一時的に含まれなくなる現象が発生しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-14T10:42:58.636002"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI に作らせた仕組みを後から確かめる Mitate【第5回 Agentic AI Hackathon with Google Cloud】",
+    "link": "https://zenn.dev/r2_san/articles/65920f04ae5456",
+    "summary": "「AIに作らせた仕組みを後から確かめる Mitate」という記事は、第5回 Agentic AI Hackathon with Google Cloudで取り上げられたコンセプトやプロジェクトを指しています。このアプローチでは、AIが生成したシステムやプロセスの動作や妥当性を、人間が後から検証します。「Mitate（見立て）」という言葉がキーワードで、AIの成果物に対する人間の評価の重要性を示唆していると考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-14T10:43:09.252544"
+  },
+  {
+    "source": "Qiita",
+    "title": "エージェントに想起させる：MCP 上で検索可能な会話履歴",
+    "link": "https://qiita.com/yshurik/items/0a18c01062e205cab63a",
+    "summary": "エージェントとのチャットは過去の履歴を記憶せず、毎回ゼロから始まるため、ユーザーは以前の会話内容を繰り返し説明する必要がありました。この記事は、この問題解決のために、わずかなコードで`recall_my_conversations`というツールを導入する方法を紹介しています。このツールを使用することで、エージェントは[funes]検索エンジンを活用し、現在のユーザー自身の過去のチャットを日付付きの抜粋として検索し、参照できるようになります。これにより、エージェントは会話履歴を踏まえた応答が可能になります。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-14T10:43:19.978620"
+  },
+  {
+    "source": "ITmedia",
     "title": "「やっと前に進める」　VMwareから独立して2年、Omnissa竹下社長が語る守りから攻めへの転換",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news019.html",
     "summary": "VMwareから独立して2年が経ったOmnissa Japanは、竹下雄輔社長の下、「守り」から「攻め」への転換期を迎えています。社長は、独立後の大半の期間を既存顧客との取引維持に費やしてきたと振り返り、ようやく前進できる段階に来たと語っています。特に日本市場では、ワークスペースの「縦割り」が課題であり、この点は米国での年次イベントを通じて認識されました。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-09-24T00:06:24.460215"
-  },
-  {
-    "source": "Zenn",
-    "title": "【2026/9/1】Claude Fable 5.1/Mythos 5.1登場。同じモデルを2段階セーフガードで出し分ける設計",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-fable-mythos-5-1-safeguard-split-2026-09",
-    "summary": "2026年9月1日、Anthropicは新しいAIモデル「Claude Fable 5.1」と「Mythos 5.1」を発表しました。\nこれらのモデルは、根幹となるAIは同じですが、2段階の異なるセーフガード（安全対策）を設けることで区別されます。\nこの設計により、安全性レベルの異なるモデルをユーザーが選択し、用途に応じて使い分けることが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-24T00:06:32.100838"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIとの付き合い方をAIと考えた ～AIは人間の判断を揺らす役割～",
-    "link": "https://qiita.com/ma_takeuchi/items/5be4b23b4ea88c4a8c83",
-    "summary": "筆者はAI（ChatGPT）を用いて新聞記事を深掘りする習慣があり、今回は「米軍の軍事AIによる小学校誤爆」に関する記事について質問しました。AIは、2026年2月28日にイラン南部のミナブにある小学校が米軍のトマホーク巡航ミサイル2発で攻撃され、150人以上（うち子ども123人）が死亡したと具体的に回答。この攻撃は米国防総省の内部調査で確認されたとも詳細に述べられました。\n\nAIが未来の出来事をあたかも事実であるかのように語り、具体的な日付や数字を挙げることで、人間の判断を揺るがす可能性を示唆する事例として提示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-24T00:06:51.936278"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "CSS用の物理ベースのライティングシステム「Ambient CSS」",
-    "link": "https://gigazine.net/news/20260923-ambient-css/",
-    "summary": "Ambient CSSは、CSSのみを用いてウェブサイトやアプリケーションに物理ベースの照明システムを実装するフレームワークです。最大の特徴は、光源を定義するだけで、影やハイライト、表面のグラデーションが自動的に生成される点にあります。これにより、開発者は複雑な設定なしに、リッチな視覚効果を簡単に実現できるようになります。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-09-23T10:21:20.298803"
-  },
-  {
-    "source": "Zenn",
-    "title": "「目視して次へ」を、サーバーへ持ち込まない",
-    "link": "https://zenn.dev/miyakona/articles/dont-port-human-eyeballs",
-    "summary": "記事タイトル「「目視して次へ」を、サーバーへ持ち込まない」は、サーバー環境における手作業での確認や判断（「目視して次へ」）を排除することの重要性を強く訴えています。\n\nこの記事は、本番環境や開発プロセスにおいて人間が介在する手動確認が、ヒューマンエラーのリスクや作業効率の低下を招く大きな原因であることを指摘しています。そのため、サーバー上で行われる全てのステップを自動化し、テストやデプロイメント、運用監視などをプログラムで制御することを推奨しています。これにより、システムの信頼性を大幅に向上させるとともに、開発・運用サイクルの迅速化と安定したシステム構築を目指すメッセージが込められています。",
-    "category": "DX・業務改善",
-    "content_type": "article",
-    "collected_at": "2026-09-23T10:21:31.463360"
   }
 ]
