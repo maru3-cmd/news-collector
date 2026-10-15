@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？　日立など5社、横浜と北九州をつないで実証",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news029.html",
+    "summary": "AIデータセンターの電力問題に対処するため、日立製作所や電源開発など5社が、AIの計算処理を再生可能エネルギーが豊富な時間や場所へ移す実証を総務省の支援のもと行います。これは「ワークロードシフト」と呼ばれ、発電状況に合わせてデータセンターの処理を動かすことで、電力の効率的な利用を目指すものです。具体的には、横浜と北九州、さらに上越新幹線の沿線を拠点として、電力供給と需要のバランスを取るこのシステムの実効性が検証されます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-15T00:10:43.066885"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮",
+    "link": "https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/",
+    "summary": "「WordCraft」は、Microsoft Wordの代替を目指して開発されているオープンソースの文書作成アプリです。Rust製のネイティブアプリであり、AIエージェントでの利用も考慮されています。\n\n2026年10月8日にバージョン0.1.0がリリースされて以降、わずか6日間でバージョン0.6.1に達するなど、高頻度でアップデートが行われています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-15T00:10:49.531789"
+  },
+  {
+    "source": "Zenn",
+    "title": "Applied Net 2026 に参加してきました！海外の保険テックイベントで感じたこと",
+    "link": "https://zenn.dev/hokan_blog/articles/20261009-applied-net-2026",
+    "summary": "提供された内容が記事のタイトルのみであるため、具体的な記事本文からの要約はできません。\n\nこの記事は、著者が海外で開催された保険テックイベント「Applied Net 2026」に参加した体験と、そこで感じたことについて報告するものです。イベントの開催年が2026年であることから、保険業界における最新のテクノロジー動向や将来の展望に焦点を当てていると推測されます。ただし、具体的なイベント内容、詳細な感想、あるいはその他の重要な数字については、このタイトルからは分かりません。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-15T00:11:00.399950"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI時代においてようやくプログラミング言語の格差は無くなった",
+    "link": "https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265",
+    "summary": "Rails World 2026でDHH氏は、プログラミングはAIに置き換わり、人間の役割はプロダクト開発にあるとし、「Rubyより英語の方が好きなプログラミング言語だ」と発言しました。筆者はこの考えに強く共感し、AI時代においてプログラミング言語の格差が解消されたと述べています。かつてC#で言語格差を経験した筆者にとって、現在の状況は長年思い描いていた理想的な未来の実現であるとしています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-15T00:11:10.359067"
+  },
+  {
+    "source": "ITmedia",
     "title": "Active Directoryが“人質”に　ランサムウェアを使わない恐喝攻撃の手口とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news018.html",
     "summary": "ランサムウェアによる暗号化やデータ破壊を伴わない、新たなタイプのサイバー恐喝攻撃が確認されました。この攻撃は、Windows環境の中核である企業のActive Directoryを乗っ取ることを手口としています。攻撃者はActive Directoryを掌握し、それを人質に取る形で企業を脅迫し、金銭を要求します。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-09-24T10:36:09.440987"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「Androidユーザー向けのMac」を目指したAndroidベースのGoogle純正プレミアムノートPC「Googlebook」が登場",
-    "link": "https://gigazine.net/news/20260924-googlebook/",
-    "summary": "Googleは2026年9月21日、AndroidとChromeOSを組み合わせた全く新しいプレミアムノートPC「Googlebook」を発表しました。このAndroidベースのデバイスは、「Androidユーザー向けのMac」を目指しており、AppleのMacBookに対抗します。これは、2025年7月にGoogle関係者が語った、ChromeOSとAndroidを単一プラットフォームに統合するデバイスの実現となります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-24T10:36:20.109468"
-  },
-  {
-    "source": "Zenn",
-    "title": "「電源を抜けばいい、は通用しない」——Anthropicを辞めた研究者が語る、競争・減速・2年後の自分の仕事",
-    "link": "https://zenn.dev/talks_tldr_jp/articles/tldr32-coxon-summary",
-    "summary": "Anthropicを辞めたある研究者は、AIの急速な進化が「電源を抜けばいい」という単純な解決策ではもはや制御できないレベルに達していると語っています。彼は、AI開発における激しい競争と、それによる意図的な減速の必要性について言及しました。さらに、研究者自身の2年後の仕事さえ不透明であると述べ、AI分野の将来に対する深い考察と懸念を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-24T10:36:28.669369"
-  },
-  {
-    "source": "Qiita",
-    "title": "【社内ハッカソン】8時間・1人で社内SNSを作った話 ― AI（Claude Code）に何を任せ、何を任せなかったか",
-    "link": "https://qiita.com/MaikuTsuha/items/ece7cc6cea4b9414cf15",
-    "summary": "ある社内AI駆動開発ハッカソンで、参加者は8時間・1人の制限時間・人数で「チーム横断のコミュニケーション」をテーマとしたアプリ開発に挑みました。この挑戦では、Anthropic社のAI「Claude Code」が開発パートナーとして用いられ、AWS環境で写真と一言を投稿する社内SNSアプリ「自分も」が作成されました。\n\n記事では、開発においてAIに何を任せ、何を禁止し、どこでつまずいたかといった具体的なAI活用経験が詳細に語られています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-24T10:36:37.990254"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
-    "link": "https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/",
-    "summary": "現代はNetflixやAmazonプライム・ビデオ、Spotify、Nintendo Switch Onlineといった多種多様なサブスクリプションサービスで溢れています。GIGAZINEは、読者がどのようなサービスを利用しているのかに関心を持ち、プレゼントアンケートを通じて直接質問しました。このアンケートでは、サブスクの解約を困難にする「ダークパターン」に遭遇した経験についても尋ねられたようです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-24T00:06:24.460215"
   }
 ]
