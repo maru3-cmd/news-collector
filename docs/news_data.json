@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「Firefox Enterprise」発表　ブラウザ管理を“クラウド任せ”にしない選択肢",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news036.html",
+    "summary": "Mozillaは、企業や政府機関向けのブラウザ製品「Firefox Enterprise」を発表しました。この製品の最大の特徴は、ブラウザの管理コンソールを各組織の自社インフラで運用できる点にあります。これにより、ブラウザ管理をクラウドに依存しない新たな選択肢が提供されます。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-10-15T23:58:07.506879"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "自宅のイラストを「エアコンや照明を操作できる絵」に改造してスマートホーム化を進めた記録",
+    "link": "https://gigazine.net/news/20261016-illustrated-smart-home-dashboard/",
+    "summary": "アントン・フロロフ氏は、オープンソースの「Home Assistant」を使って自宅のスマートホーム化を進めていましたが、家族が操作用アプリを使いたがらないことに悩んでいました。\n\nこの課題を解決するため、彼はイラストレーターに自宅の絵を描いてもらい、その絵の中の家電（エアコンや照明など）をタップすることで、実際の家電を操作できるオリジナルのダッシュボードを作成しました。\n\nこのユニークな方法により、アプリに不慣れな家族でも直感的にスマートホーム機器を操作できるようになりました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-15T23:58:16.714384"
+  },
+  {
+    "source": "Zenn",
+    "title": "今日の市場ブリーフィング",
+    "link": "https://zenn.dev/bambampurin/articles/2026-09-14-market-daily",
+    "summary": "申し訳ありませんが、ご提示いただいた記事の内容は「今日の市場ブリーフィング」としか記載されておらず、具体的な情報が含まれていません。そのため、この記事を3-4文で要約したり、重要なポイントや数字を含めたりすることはできません。\n\nもし要約が必要な場合は、記事の全文をご提供いただけますでしょうか。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-10-15T23:58:23.648398"
+  },
+  {
+    "source": "Qiita",
+    "title": "プログラミング雑記 2026年10月16日",
+    "link": "https://qiita.com/ishisaka/items/1022c2c5cc83caa37206",
+    "summary": "2026年10月16日のプログラミング雑記では、WAF（Web Application Firewall）を用いて不審なアクセスをブロックする際の注意点が解説されています。正規利用者を巻き添えにしないため、IPアドレス、事業者種別、JA4指紋、正規クローラーの有無を事前に精査することが重要です。\n\n国や一般的なブラウザなど影響範囲が広い条件は単独で使わず、bot判定スコア等と組み合わせる必要があり、確証がない場合は即座にブロックせず判断理由を記録する運用が推奨されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-15T23:58:34.745478"
+  },
+  {
+    "source": "ITmedia",
     "title": "「銀のさら」最大650万件漏えいか　委託先ランサム被害で預けたデータ取り出せず　点検すべき4項目",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/15/news024.html",
     "summary": "宅配すし「銀のさら」の登録者情報が最大約650万件漏えいした可能性があることが明らかになりました。これは、登録データの保管を委託していたサーバ運営会社がランサムウェア攻撃を受け、データの取り出しが困難になったためです。この事態は、企業が委託先事業者を選定・管理する上でのセキュリティ対策の重要性を浮き彫りにしています。",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-09-25T10:39:48.244091"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Snapdragon X2シリーズでLinuxを公式サポートすることをQualcommが発表",
-    "link": "https://gigazine.net/news/20260925-qualcomm-snapdragon-x2-linux/",
-    "summary": "Qualcommは「Snapdragon Summit 2026」において、次世代のSnapdragon X2シリーズでLinuxを公式にサポートすることを発表しました。この決定は、Snapdragon X2を搭載するデバイスでのLinux利用を大幅に促進すると期待されます。これにより、開発者やユーザーにとって、より幅広いOS選択肢と柔軟性が提供されることになります。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-09-25T10:39:55.742144"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI.CLASSIFYでGROUP BYする — 分類軸を自然言語で定義する",
-    "link": "https://zenn.dev/web_benriya/articles/bigquery-ai-classify-group-by",
-    "summary": "この記事は、AIを活用した分類機能「AI.CLASSIFY」と「GROUP BY」操作を組み合わせたデータ分析手法について解説しています。特に重要なのは、分類の基準となる軸をプログラムコードではなく、自然言語で直接定義できる点です。これにより、ユーザーは柔軟かつ直感的にデータを分類し、高度な集計分析を行うことが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-25T10:40:03.742755"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIは「面白い」をカタチにできるのか？ Unity MCP + Antigravity（Gemini 3.8 Flash）にゲーム改善を丸投げしてみた",
-    "link": "https://qiita.com/_daisuke0802/items/0d190f49575e2833a867",
-    "summary": "本記事は、Google Antigravity（Gemini 3.8 Flash）とUnity MCPを用いて、AIがゲームをどこまで自律的に改善できるかを検証したものです。筆者は「面白くして」「ビジュアルを盛って」という曖昧な指示だけでAIにゲーム改善を丸投げし、人間はAIの提案から選択するだけという方法を取りました。\n\nAIが既存コードの意図を汲み取り、何を提案し、どこまでゲームを形にできるかを探るため、試行錯誤のプロセスが詳細に記されています。記事では、検証結果とともにCodexとの比較や、AIを使ったゲーム開発におけるリアルな課題感がまとめられています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-25T10:40:13.154755"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Microsoft Defender、SIEMとXDR、AIを統合した「ISOC」をプレビュー提供　利用条件は？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news050.html",
-    "summary": "Microsoftは、SIEM（セキュリティ情報イベント管理）やXDR（拡張検知と対応）、脅威インテリジェンス、AI機能を統合した新しいセキュリティ運用プラットフォーム「ISOC」のプレビュー提供を開始しました。\nISOCは、担当者とAIが情報を共有して協働することで、次世代のSOC（セキュリティオペレーションセンター）運用を支援することを目指しています。\nこの統合ソリューションにより、より効率的で高度な脅威検知・対応が可能となります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-25T00:08:21.382552"
   }
 ]
