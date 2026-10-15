@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「銀のさら」最大650万件漏えいか　委託先ランサム被害で預けたデータ取り出せず　点検すべき4項目",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/15/news024.html",
+    "summary": "宅配すし「銀のさら」の登録者情報が最大約650万件漏えいした可能性があることが明らかになりました。これは、登録データの保管を委託していたサーバ運営会社がランサムウェア攻撃を受け、データの取り出しが困難になったためです。この事態は、企業が委託先事業者を選定・管理する上でのセキュリティ対策の重要性を浮き彫りにしています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-15T10:26:12.351707"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "メールアドレスが流出しても迷惑メールを自動拒否、最初の送信元からしか受信できない「Clova.Email」が登場",
+    "link": "https://gigazine.net/news/20261015-clova-email/",
+    "summary": "「Clova.Email」は、登録するサービスごとに専用のメールアドレスを作成し、最初にメールを送ってきた相手以外からのメールを自動的に拒否するサービスです。\nこの仕組みにより、メールアドレスが流出しても第三者からの迷惑メールを確実にシャットアウトできます。\n特に、無料プランでもメールアドレスを無制限に作成できる点が大きな特徴です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-15T10:26:22.651062"
+  },
+  {
+    "source": "Zenn",
+    "title": "Data Engineering Agentで自然言語からパイプラインを作る",
+    "link": "https://zenn.dev/web_benriya/articles/bigquery-data-engineering-agent-pipelines",
+    "summary": "「Data Engineering Agent」は、自然言語の指示に基づいてデータパイプラインを自動生成するAIエージェントです。これにより、データエンジニアリングの専門知識や複雑なプログラミングスキルがなくても、データ収集、変換、ロード（ETL）などのワークフローを迅速に構築・実行できます。この技術は、データ処理のプロセスを大幅に効率化し、開発時間の短縮とデータエンジニアリングの民主化を促進します。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-15T10:26:30.827761"
+  },
+  {
+    "source": "Qiita",
+    "title": "Every Policy Change, With a Name on It: Audit Trails for LLM Gateways",
+    "link": "https://qiita.com/nrouter_ai1991/items/457b6b1d34f6a3a36770",
+    "summary": "プロダクションAIシステムでは、モデル権限の拡大や予算上限の変更といったポリシー変更が知らぬ間に蓄積されがちです。これらの変更は通常のシステムログには記録されないため、後になってセキュリティ監査などで「誰が何を承認したか」を問われた際に、チャットや記憶から履歴を再構築することが非常に困難になります。本記事は、この課題を解決するためにLLMゲートウェイに監査証跡を導入し、すべてのポリシー変更に責任の所在を明確に記録することの重要性を提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-15T10:26:38.601174"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？　日立など5社、横浜と北九州をつないで実証",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news029.html",
     "summary": "AIデータセンターの電力問題に対処するため、日立製作所や電源開発など5社が、AIの計算処理を再生可能エネルギーが豊富な時間や場所へ移す実証を総務省の支援のもと行います。これは「ワークロードシフト」と呼ばれ、発電状況に合わせてデータセンターの処理を動かすことで、電力の効率的な利用を目指すものです。具体的には、横浜と北九州、さらに上越新幹線の沿線を拠点として、電力供給と需要のバランスを取るこのシステムの実効性が検証されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-09-25T00:08:21.382552"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
-    "link": "https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/",
-    "summary": "2026年9月に発売された「iPhone 18 Pro」の分解動画が、電子機器の分解マニュアルで知られるiFixitによって公開されました。この動画では、iPhone 18 ProおよびPro MaxでApple史上初めて搭載された可変絞りカメラがどのような構造になっているかが詳細に解説されています。また、バッテリー交換のしやすさなど、修理の観点からも重要な情報が確認できます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-25T00:08:28.776333"
-  },
-  {
-    "source": "Zenn",
-    "title": "今日の市場ブリーフィング",
-    "link": "https://zenn.dev/bambampurin/articles/2026-09-04-market-daily",
-    "summary": "提供された記事の内容は「今日の市場ブリーフィング」というタイトルと内容のみで、具体的な情報が含まれていません。そのため、市場の動向、重要なポイント、特定の数字などを要約することはできません。\n\nもし記事の全文をご提供いただければ、その内容に基づいて3〜4文で簡潔に要約いたします。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-09-25T00:08:41.644990"
-  },
-  {
-    "source": "Qiita",
-    "title": "公開したAIアプリを初心者が安全に更新する手順",
-    "link": "https://qiita.com/boraemon2000/items/9e069b4ca1eccaa4746c",
-    "summary": "この記事は、ロリポップ！デプロイナウで公開したAIアプリを、GitHubの変更に基づいて安全に更新する初心者向けの手順を解説しています。更新時は、「ボタンの色を変える」など、結果を目で確認できる小さな変更に限定し、同じ公開URLで続けることが推奨されます。AIに作業を依頼する際は、「変更するファイル名、内容、確認方法」を具体的に伝え、「他の機能やファイルは変更しない」と明記することで、意図しない変更を避けることができます。更新前には、現在の公開URLの状態を確認することも重要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-25T00:08:50.713760"
-  },
-  {
-    "source": "ITmedia",
-    "title": "M365があるのに、なぜGoogle？　併用・乗り換えを決めた現場の理由",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news080.html",
-    "summary": "この記事は、Microsoft 365を利用している組織が、なぜGoogleツールを併用したり、乗り換えたりするのかを事例を通して考察しています。例えば、ソニー子会社はMicrosoft 365と生成AI「Gemini」を併用する一方、高崎市はM365との比較検討を経て「Google Workspace」を選択しました。これらの異なる判断から、組織がツールを選定する際の決め手がどこにあるのかを探ります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-24T10:36:09.440987"
   }
 ]
