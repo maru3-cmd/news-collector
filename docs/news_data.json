@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
+    "summary": "日本企業で不正アクセスが多発する中、Gartnerは緊急対策の必要性を訴えています。特に、AIやエージェントの悪用により、これまで数週間を要した攻撃作業が数分に短縮される可能性があり、脅威は深刻化しています。これを受け、Gartnerは日本企業が早急に実施すべき「7つのアクション」を緊急提言しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-16T10:13:47.833242"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる",
+    "link": "https://gigazine.net/news/20261016-meta-scraping/",
+    "summary": "Metaは商用利用規約を更新し、2026年10月30日以降にFacebook、Instagram、Messenger、WhatsAppを利用する企業アカウントや著名人に適用されます。専門家によると、この新規約により、ビジネスアカウントに関連付けられたウェブサイトをMetaがクロールすることに企業が同意したものと見なされる可能性があります。これは、Metaが企業のウェブサイトデータを自動的に収集・利用することを意味し、企業は利用規約に注意を払う必要があります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-16T10:13:56.025987"
+  },
+  {
+    "source": "Zenn",
+    "title": "ai-deslop入門：AIが書いたTypeScriptの「雑さ」をOxlintで機械的に弾く【検証済み】",
+    "link": "https://zenn.dev/daichi01278/articles/oxlint-ai-deslop-ja",
+    "summary": "この記事は、AIが生成したTypeScriptコードに見られる「雑さ」や品質の低さを改善する方法について解説しています。具体的には、静的解析ツールであるOxlintを活用し、AIが書いたコードの品質問題を機械的に検出し、自動的に排除するアプローチを紹介。AI開発（ai-deslop）におけるコード品質管理の入門的な手法として、【検証済み】の方法論を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-16T10:14:05.496103"
+  },
+  {
+    "source": "Qiita",
+    "title": "【DGX Spark】Qwen3.8-27B に妥協して、そこから改良した記録 — TensorFold 実運用チューニング",
+    "link": "https://qiita.com/yanma0102/items/36b351991b1ee48b81f6",
+    "summary": "この記事は、DGX Spark（GB10, 128GBユニファイドメモリ）上で大規模言語モデルを運用する記録です。当初Flash-Nextでの課題に直面し、Qwen3.8-27B（MLX 4-bit + DFlash2）を常用モデルとして採用しました。\n\nこのQwen3.8-27Bは、安定性、速度、素直さの点で「正解」であることが実運用で確認されています。運用基盤の改善では、公式準拠のサンプリング（非thinkingで`presence_penalty=1.5`）を採用し、高速化には特に`--prefill-fp8`オプションが最も有効でした。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-16T10:14:16.541480"
+  },
+  {
+    "source": "ITmedia",
     "title": "「Firefox Enterprise」発表　ブラウザ管理を“クラウド任せ”にしない選択肢",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news036.html",
     "summary": "Mozillaは、企業や政府機関向けのブラウザ製品「Firefox Enterprise」を発表しました。この製品の最大の特徴は、ブラウザの管理コンソールを各組織の自社インフラで運用できる点にあります。これにより、ブラウザ管理をクラウドに依存しない新たな選択肢が提供されます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-26T10:23:34.136807"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIエージェント10体で個人メディアを運用していたら、校閲を通っていない記事が本番に出た話",
-    "link": "https://qiita.com/devoctane/items/d2d496b00570fcf474fe",
-    "summary": "筆者は、個人ブログの運営に10体のAIエージェントを導入し、記事の企画から執筆、校閲、デプロイまでを自動化するシステムを構築している。しかし、校閲を通っていない記事がそのまま本番に公開されるという事故が発生した。この問題は複数回起こり、修正には50分を要したという。本記事では、この事故の再現と原因、そして講じられた対策について詳述する。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-26T10:23:42.647366"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ",
-    "link": "https://gigazine.net/news/20260926-beijing-ban-drone/",
-    "summary": "中国の首都北京で、「北京市無人航空機管理条例」の改正案が可決され、ドローン（無人航空機）およびその部品の所持が禁止されました。この規制は、飛行だけでなく、ドローンの所持、保管、持ち込みも対象とする包括的なものです。この措置に伴い、政府による補助金制度も導入されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-26T00:15:14.782975"
-  },
-  {
-    "source": "Zenn",
-    "title": "MCP 2026-07-28仕様、最大の破壊的変更はセッション廃止 — ステートレス化とOAuth強化を読む",
-    "link": "https://zenn.dev/sktt_panda/articles/mcp-2026-07-28-stateless-oauth-spec",
-    "summary": "MCP 2026-07-28仕様では、従来のセッション管理が廃止されることが最大の「破壊的変更」として導入されます。この変更は、システムを完全にステートレス化し、OAuth認証のセキュリティと効率を大幅に強化することを主な目的としています。これにより、スケーラビリティやマイクロサービスとの親和性が向上する一方で、既存アプリケーションには広範な対応が必要となる見込みです。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-09-26T00:15:22.622097"
-  },
-  {
-    "source": "ITmedia",
-    "title": "パルグループ、狙われたのは「老朽化システム」だった　サーバ約100台停止から50日で復旧の軌跡",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news022.html",
-    "summary": "パルグループは、長く更新されていなかった老朽化システムへの侵入により、サーバ約100台が一斉停止し、各店舗の売上確認も不可能になる事態に見舞われました。全社のシステムを停止させるほどの攻撃を受けたものの、同社は侵入口を特定し、ITインフラをゼロから再構築する迅速な対応を取りました。その結果、約50日という期間でシステム復旧を達成した軌跡が本記事では紹介されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-09-25T10:39:48.244091"
   }
 ]
