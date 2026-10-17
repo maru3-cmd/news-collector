@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート",
+    "link": "https://gigazine.net/news/20261017-super-kigurumi-greeting-machiasobi31/",
+    "summary": "徳島の街全体を使ったアニメ・ゲームイベント「マチ★アソビ vol.31」の一環として、「スーパーきぐるみグリーティング」が開催されました。\n\nこのイベントでは、「ずんだもん」「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「キクーン」などのきぐるみたちが登場。可愛さを主張しながら阿波おどりを披露し、会場は大いに盛り上がりました。\n\n人気キャラクターたちのユニークなパフォーマンスに、参加者たちは熱狂しました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-17T09:47:33.716468"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI を並べて開発すると PR がぶつかる。その片づけを PR の前に済ませる道具を作った",
+    "link": "https://zenn.dev/soracolor/articles/cfd333d04d0aba",
+    "summary": "複数のAI開発を並行して進める際に、ソフトウェア開発におけるPull Request（PR）の競合が発生するという課題があります。この問題を解決するため、PRを提出する前にあらかじめ競合を解消できるツールが開発されました。これにより、開発者はPRの処理をスムーズに進め、並行AI開発の効率を高めることができます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-17T09:47:42.077984"
+  },
+  {
+    "source": "Qiita",
+    "title": "資料は、書いた6分後に古くなっていた",
+    "link": "https://qiita.com/hanamilo/items/e7ce683dbbb422c70cbf",
+    "summary": "この記事によると、筆者は当初52件の教訓を4つの型に分類していましたが、その後の再調査で71件の教訓と223件の失敗事例を分析した結果、両者から共通して7つの型が判明しました。\n\n最も多かった型は「書いてあることが、実物と違う」で、失敗事例223件中41件（18%）を占め、2位に9件差をつけています。\n\nまた、引き継ぎ文書は第38版から第49版へ更新されており、教訓の数が増えたことで新たな型が見えてきたと筆者は結論付けています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-17T09:47:50.740631"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
     "link": "https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/",
     "summary": "Appleが、未発表の「iPad mini(第8世代)」の存在を公式の規制情報掲載サイトを通じてうっかり示唆したようです。この新型iPad miniは、OLEDディスプレイを採用すると噂されており、2026年10月末に発表される見込みです。公式情報から示唆されたことで、Appleがこの次世代モデルを準備している可能性が高まっています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-27T10:55:29.655743"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/27/news006.html",
-    "summary": "GoogleはAIエージェントを活用し、自社Webアプリケーションから500件を超えるクロスサイトスクリプティングの脆弱性を発見しました。AIによる脆弱性検出では誤検知が大量に発生しやすいという課題がある中、同社はこれをほぼゼロに抑えることに成功しています。この成果は、AIに最終的な判定を任せず、厳格な検証プロセスを組み合わせた独自の仕組みによって達成されました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-27T00:03:31.806710"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度",
-    "link": "https://gigazine.net/news/20260927-apple-watch-ultra-4-review/",
-    "summary": "「Apple Watch Ultra 4」は、2026年9月18日に発売されたApple Watchの最上位モデルです。GIGAZINE編集部員がSeries 3との比較を含めてレビューしたところ、本体は重く大きいものの、バッテリー持ちは「バツグン」と評価されました。また、iPhoneなしでも高精度な機能を発揮することが明らかになっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-27T00:03:43.090517"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Codeでデバッグログからバグの原因を特定する──AIが見落とす3つの落とし穴",
-    "link": "https://zenn.dev/muranyanta/articles/sf-20260907-cb6319",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 12.410717527s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 12\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-27T00:03:47.615184"
   }
 ]
