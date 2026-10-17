@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
+    "link": "https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/",
+    "summary": "Appleが、未発表の「iPad mini(第8世代)」の存在を公式の規制情報掲載サイトを通じてうっかり示唆したようです。この新型iPad miniは、OLEDディスプレイを採用すると噂されており、2026年10月末に発表される見込みです。公式情報から示唆されたことで、Appleがこの次世代モデルを準備している可能性が高まっています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-17T00:05:02.026697"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIの応答を待つ間に元データが変わったら？ Firestoreで古い改定案を確定させない設計",
+    "link": "https://zenn.dev/yun_bow/articles/72433e0a2d061f",
+    "summary": "AIがデータ処理を行う際、応答を待つ間に元データが変更されると、古いデータに基づいた改定案が誤って確定されてしまうリスクが生じます。特にFirestoreのようなリアルタイムデータベース環境ではこの競合状態が発生しやすく、データの整合性維持が課題となります。\n\nこの記事は、AIの応答待ち中に元データが更新されても、古い改定案がシステムによって誤って確定されないようにするための設計の重要性を解説しています。これにより、不正確な情報の上書きを防ぎ、AIを活用したアプリケーションの信頼性を確保することを目指します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-17T00:05:37.864541"
+  },
+  {
+    "source": "Qiita",
+    "title": "【2026年版】AIエージェントの決済はどこまで来たか ― AP2・ACP・裁判所の判断を一次情報で確認した",
+    "link": "https://qiita.com/Next-Survive/items/83ecd56efc5a2b070ee1",
+    "summary": "2026年時点で、AIエージェントによる決済が既に可能になっており、ChatGPT内決済、AP2、CLIツールが2025年9月〜2026年2月にかけて順次リリースされています。ただし、これらの決済はAIが「勝手に」行うわけではなく、人が事前に署名し承認した範囲内でのみ実行されます。\n\n人が決済を止められるのは2か所しかなく、AIに決済を任せる場合は最初の1回に限定されます。また、裁判所はAIが実行した操作についても、CFAA（コンピューター詐欺及び不正使用防止法）上「アクセスしているのは顧客」と判断しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-17T00:05:47.813304"
+  },
+  {
     "source": "ITmedia",
     "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-27T00:03:47.615184"
-  },
-  {
-    "source": "Qiita",
-    "title": "セッションID変数をフックで使う — Claude Code 実行ごとのログ分離",
-    "link": "https://qiita.com/joinclass/items/aa721fa92d729f756f61",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 7.63679345s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 7\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-27T00:03:52.384667"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」",
-    "link": "https://gigazine.net/news/20260926-ansel/",
-    "summary": "「Ansel」は、多機能ゆえに複雑化しがちなRAW画像編集ソフトの課題に対応するため、「darktable」をベースに開発された、無料でオープンソースのRAW現像ソフトです。不要な機能を整理し、操作画面を再設計することで、写真編集作業をより直感的に、わかりやすくすることを目指しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-09-26T10:23:24.419416"
-  },
-  {
-    "source": "Zenn",
-    "title": "社内のAIが、社内の別のAIが出した提案を却下した話",
-    "link": "https://zenn.dev/limit_lab_works/articles/ai-committee-rejected-ai-proposal",
-    "summary": "ある企業で、社内の人工知能（AI）が、同じく社内の別のAIが出した提案を却下するという出来事がありました。\n\nこれは、企業内でのAI間の協調や意思決定プロセスにおける高度なインタラクションを示唆しています。この一件は、AIが単なるツールではなく、社内ガバナンスや業務フローにおいて自律的に判断を下す存在へと進化している可能性を浮き彫りにしています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-26T10:23:34.136807"
   }
 ]
