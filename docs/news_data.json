@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
+    "summary": "本記事は、人間とAIエージェントが協働して成果や目標を達成する際の業務管理について考察しています。そのマネジメント手法として、プロジェクト管理の適用が有効である可能性を提示。この考えは、NTTテクノクロスの「AI-PMO」構想から着想を得ています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-19T11:22:24.509725"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIのベンチマークテストは人間の仕事の1割しかカバーできていない",
+    "link": "https://gigazine.net/news/20261019-ai-benchmark-mapping/",
+    "summary": "AIの性能を測るベンチマークテストは、人間が行う仕事の遂行精度を評価するものが多いですが、これらのテストは実際の仕事全体のわずか1割程度しかカバーしていないという分析が発表されました。そのため、AIがベンチマークで高い性能を示したとしても、それは労働全体のごく一部に過ぎず、AIが広範囲な労働を代替できると結論づけるのは尚早である可能性が指摘されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-19T11:22:31.941837"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude CodeにPRレビューと動作確認を丸投げするときのプロンプトを公開する",
+    "link": "https://zenn.dev/ryoushin/articles/claude-code-pr-review-prompt",
+    "summary": "この記事では、AIアシスタント「Claude Code」にGitHubのプルリクエスト（PR）レビューと動作確認を効率的に任せるための具体的なプロンプトが公開されています。筆者は、これらのプロンプトを使うことでClaude Codeに作業を「丸投げ」し、開発プロセスの自動化と高速化を目指す方法を提案。公開されたプロンプトは、AIが正確にレビューと動作確認を実行できるよう工夫されており、実用的なAI活用ノウハウを提供しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-19T11:22:41.728727"
+  },
+  {
+    "source": "Qiita",
+    "title": "2日で47回の「進化」— 個人開発Macメニューバーアプリの実数メトリクス週末まとめ",
+    "link": "https://qiita.com/Atsuki33/items/1bd5641ad076e8e93cd0",
+    "summary": "この記事は、週末（10/18〜19）に行ったMacメニューバーアプリ「Conscio」の個人開発プロジェクトに関する実数メトリクスをまとめたものです。このプロジェクトは、学校に行っている間も自律的にコードを書き続けるループの実験として行われました。\n\n公開された3つのQiita記事は合計で800以上のPV（247、285、303）と、各記事に1つのストックを獲得しました。一方で、GitHubのスターは0、ユニーククローン者数は2、リリースzipのダウンロード数は1に留まっている現状を報告しています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-19T11:22:51.155430"
+  },
+  {
     "source": "GIGAZINE",
     "title": "天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由",
     "link": "https://gigazine.net/news/20261019-ceiling-fans/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-29T01:21:16.623997"
-  },
-  {
-    "source": "Qiita",
-    "title": "公開した数字は片側だった——読者が公開リポから数え直し、2 日で 3 回訂正した（5 面 → 訂正 4 面 → 翌朝そろったのは 2 面）",
-    "link": "https://qiita.com/sumitsuke/items/5be933bc19a930b364a2",
-    "summary": "筆者は自身の成績表データが片側しか数字がないという誤りを、読者からの検証によって発見されました。これを受け、筆者は2日間で主要な訂正を3回、追加の反映を1回実施しました。当初5つあった公開面のうち、数字を持つ訂正対象は4面、最終的に翌朝そろっていたのは2面となりました。読者からの3通のコメントによる検証可能な指摘は、筆者自身による再確認の結果、全て成立しました。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-29T01:21:26.349174"
-  },
-  {
-    "source": "ITmedia",
-    "title": "損保ジャパン、Gemini Enterpriseを従業員約2万人に展開　標準機能の制約をどう補っている？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/28/news016.html",
-    "summary": "損保ジャパンは、従業員約2万人にGemini Enterpriseを全社展開しました。しかし、導入に際しては標準機能やクォータの上限などの制約がありました。これらの制約をどのように補ったのか、その仕組みについてチーフエンジニアの城市由佳理氏が講演で詳細を明かしました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-28T12:07:51.852342"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "昔の「ビデオCD」がWindowsのエクスプローラーを破壊するという報告",
-    "link": "https://gigazine.net/news/20260928-windows-explorer-video-cd/",
-    "summary": "Windowsにおいて、昔の「ビデオCD」の内容をPCへコピーしようとすると、転送速度が0になって停止し、その後WindowsのUIやエクスプローラーが正常に動作しなくなる問題が報告されています。この現象はWindows 10とWindows 11の両方で確認されており、報告者によると2023年前半のWindows Update以降に発生するようになったとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-28T12:08:02.243637"
-  },
-  {
-    "source": "Zenn",
-    "title": "5日間でBOCCO emoをAmbient Agentにした",
-    "link": "https://zenn.dev/ux_xu/articles/b4810d221ff23a",
-    "summary": "提示された情報では、「5日間でBOCCO emoをAmbient Agentにした」というタイトルのみで、記事の具体的な内容がありません。そのため、重要なポイントや数字を含めて要約を作成することはできません。\n\nもし記事本文をいただければ、その内容に基づいて要約を作成いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-09-28T12:08:08.204817"
   }
 ]
