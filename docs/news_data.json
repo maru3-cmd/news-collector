@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「エージェントを守るのも、またエージェント」　Omnissa CPOが語るエンドポイントの次の形",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news032.html",
+    "summary": "VMwareのEUC部門から独立したOmnissaは、AIガバナンス製品「Elara」を発表しました。この製品は、エンドポイントでAIエージェントが動作する時代に、それらのエージェントを保護し管理することを目的としています。記事では、OmnissaのCPOがElaraの設計思想、競合との差別化要因、そして日本市場への見方について詳しく語っています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-20T10:30:02.325102"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Linux 7.3がリリースされる、Macのバックアップ機能「Time Machine」への対応やCPU・メモリ管理の改善など",
+    "link": "https://gigazine.net/news/20261020-linux-kernel-7-3/",
+    "summary": "リーナス・トーバルズ氏が2026年10月18日に、Linuxカーネルの最新バージョン「Linux 7.3」をリリースしました。このバージョンでは、Appleのバックアップ機能「Time Machine」への対応が主な新機能の一つです。その他、CPUやメモリの管理効率の改善、ファイルシステムの機能拡張など、多数の重要な変更が含まれています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-20T10:30:10.718383"
+  },
+  {
+    "source": "Zenn",
+    "title": "Data Preparation Agentでデータクレンジングを任せる",
+    "link": "https://zenn.dev/web_benriya/articles/bigquery-data-preparation-agent",
+    "summary": "この記事は、Data Preparation Agentの導入を通じて、複雑なデータクレンジング作業を効率的に自動化または外部委託する方法について解説しています。このエージェントを活用することで、データの不整合や重複といった問題を解決し、分析に適した高品質なデータを迅速に準備することが可能になります。結果として、手作業による負担が大幅に軽減され、データ準備にかかる時間と労力の削減、ひいてはデータ活用の加速が期待できるでしょう。",
+    "category": "DX・業務改善",
+    "content_type": "article",
+    "collected_at": "2026-10-20T10:30:23.382879"
+  },
+  {
+    "source": "Qiita",
+    "title": "静止画を動画に変える「画像→動画AI」の仕組みと、ブラウザだけで試せる実践ワークフロー",
+    "link": "https://qiita.com/wanxiaoba123/items/a044239f714839bec06c",
+    "summary": "「Image-to-Video（画像→動画）AI」は、1枚の静止画から数秒の動画を生成する技術として急速に実用レベルに達しています。その仕組みは、入力画像を潜在空間に変換し、テキストプロンプトなどで動きを条件付けた後、拡散モデルがフレーム間の一貫性を保ちながら動画を生成するというものです。この技術では1フレーム目が強く固定されるため、元画像の品質が生成される動画の品質を大きく左右します。本記事は、このImage-to-Video AIをローカル環境なしでブラウザだけで試す実践ワークフローと、きれいに動かすためのコツを紹介しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-20T10:30:32.286039"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIエージェントがやらかしたら誰の責任？　経営層までインシデントが届いた企業は8割",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/20/news030.html",
     "summary": "IBMの調査によると、欧州と中東の企業の8割でAIに関連するインシデントが経営層まで報告されています。しかし、これらのインシデントを受けてAIガバナンスを見直した企業は4割にとどまっています。記事は、自律化が進むAIエージェントが失敗した場合に誰が責任を負うべきかという重要な課題を提起しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-30T00:53:01.983902"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenAIが「有限の答えから選ぶ」Decisions APIを発表した日、自分の指示書の中に同じ形の判断が10個あった",
-    "link": "https://qiita.com/Hideki_Tamae/items/c73bee898bc8d74b6813",
-    "summary": "2026年9月29日のOpenAI「DevDay 2026」で、新しい「Decisions API」が発表されました。このAPIは、定義済みの質問に対し、有限の選択肢の中から文脈に基づいて最適な答えを1つ選んで返します。筆者は、自身の記事作成指示書の中に、このDecisions APIが実行するのと同じ形式の判断が10個あることを発見し、その類似性に注目しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-30T00:53:10.648755"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIを使ったCOBOLのJava変換、「百害あって一利なし」　AI活用の“落とし穴”を考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news111.html",
-    "summary": "PM歴40年の筆者は、AIを使ったCOBOLからJavaへのコード自動変換について「極めて安易で危険」と強く警鐘を鳴らしています。筆者はこのアプローチを「百害あって一利なし」と断じ、レガシーシステム刷新におけるAI活用には期待しつつも、この特定の用途でのAI利用には深刻な懸念を示しています。この記事は、AI活用の“落とし穴”として、安易な自動変換による危険性を考察しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-29T11:40:01.545569"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「アメリカで使われている農薬には乳がんに関連する物質が含まれている」と主張する論文が発表される",
-    "link": "https://gigazine.net/news/20260929-breast-cancer-pesticide-chemicals/",
-    "summary": "Silent Spring Instituteの研究チームは、アメリカで使用される農薬に含まれる化学物質と乳がんの関連性に関する査読済み論文を学術誌Environmental Health Perspectivesで発表しました。この論文は、アメリカの農薬には少なくとも485種類の乳がんに関連する化学物質が含まれていると主張しています。これは、農薬の使用が女性の健康、特に乳がんのリスクに影響を与える可能性を示唆する重要な研究結果です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-29T11:40:09.243908"
-  },
-  {
-    "source": "Zenn",
-    "title": "なぜ、AIのせいでAI以外の事業をやっている事業主だけが一方的に得するのか？",
-    "link": "https://zenn.dev/pdfractal/articles/df7ca6260f2987",
-    "summary": "申し訳ありませんが、提供された内容がタイトル「なぜ、AIのせいでAI以外の事業をやっている事業主だけが一方的に得するのか？」のみで、本文がありません。\n\n記事の具体的な内容が分からないため、要約することはできません。もし可能であれば、記事の全文を提供していただけますでしょうか。そうすれば、3～4文で簡潔に要約させていただきます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-29T11:40:15.742956"
   }
 ]
