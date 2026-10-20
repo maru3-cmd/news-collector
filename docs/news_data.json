@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIエージェントがやらかしたら誰の責任？　経営層までインシデントが届いた企業は8割",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/20/news030.html",
+    "summary": "IBMの調査によると、欧州と中東の企業の8割でAIに関連するインシデントが経営層まで報告されています。しかし、これらのインシデントを受けてAIガバナンスを見直した企業は4割にとどまっています。記事は、自律化が進むAIエージェントが失敗した場合に誰が責任を負うべきかという重要な課題を提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-20T00:48:28.627752"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？",
+    "link": "https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/",
+    "summary": "総務省統計局によると、日本の消費者物価指数は2021年9月以降60カ月連続で上昇しています。GIGAZINEは、このような物価上昇が続く中で、読者に対し「コンビニのおにぎり1個にいくらまで許せるか？」というアンケートを実施しました。記事では、おにぎりの許容価格に加え、読者から圧倒的支持を集める3大コンビニについても探っています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-20T00:48:37.998609"
+  },
+  {
+    "source": "Zenn",
+    "title": "大きな作業を Claude に任せきる 3 つの仕組み（tanacode の親子セッション・チェックリスト・最適化圧縮）",
+    "link": "https://zenn.dev/tanashun/articles/tanacode-parent-child-checklist-compact",
+    "summary": "本記事では、大規模な作業をAIアシスタントClaudeに効率的に任せるための3つの仕組みを解説しています。\n\n1つ目は「tanacodeの親子セッション」で、複雑なタスクを細分化してClaudeと段階的に連携するアプローチです。2つ目は、作業の抜け漏れを防ぎ精度を高めるための「チェックリスト」の活用。そして3つ目は、Claudeへの入力プロンプトを最適化して効率的な出力を促す「最適化圧縮」です。これらの仕組みにより、作業全体の精度と効率を向上させます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-20T00:48:46.654825"
+  },
+  {
+    "source": "Qiita",
+    "title": "【2026/10/7】Claude Haiku 5.5リリース——入力$0.10で9割安、ただしID差し替えだけでは動かない",
+    "link": "https://qiita.com/sakutto-panda/items/ddefe3f4ddf42502e850",
+    "summary": "2026年10月7日、AnthropicはClaude Haiku 5.5をリリースし、100Kトークン以下のプロンプトで入力$0.10 / 出力$0.50 per MTokと、Haiku 4.5の約10分の1（9割安）に料金を大幅に引き下げました。\n\nこの新モデルは、Terminal-Bench 4.0で0.0%から39.2%へ、OSWorld 2.1で15.7%から72.4%へと性能が飛躍的に向上し、1MのコンテキストとHaiku初のeffort設定も導入されています。\n\nただし、モデルIDの変更だけでは動作せず、「適応的思考」がデフォルトONのため、`temperature`（1以外）などの特定のパラメーターや従来の応答読み取り方法では400エラーが発生する点に注意が必要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-20T00:48:55.731854"
+  },
+  {
+    "source": "ITmedia",
     "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
     "summary": "本記事は、人間とAIエージェントが協働して成果や目標を達成する際の業務管理について考察しています。そのマネジメント手法として、プロジェクト管理の適用が有効である可能性を提示。この考えは、NTTテクノクロスの「AI-PMO」構想から着想を得ています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-09-29T11:40:15.742956"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIが生成したコードのレビューで気をつけること",
-    "link": "https://qiita.com/yasufumi-tsunaki/items/91764144efde3730122c",
-    "summary": "AIが生成したコードは、Kotlinの文法やnull安全性が高く、ビルドも通り、ロジック単体では正しく動作することが多いため、実装速度を大幅に向上させます。しかし、AIはコードベース全体の構造理解や将来的な影響予測が難しく、レビューでは3つの点に特に注意が必要です。これらは、既存クラスへの追加か新規クラス作成かの判断、変更が他の画面やフローに波及する範囲の予測、そしてパフォーマンスや保守性といった非機能要件の考慮です。そのため、AI生成コードのレビューでは、基本的なロジックだけでなく、システム全体への影響や非機能要件が適切に満たされているかという、より高レベルな視点が不可欠となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-29T11:40:25.269243"
-  },
-  {
-    "source": "ITmedia",
-    "title": "最も人気のAIユースケース、投資成果では“いまいち”だった　Gartner調査",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
-    "summary": "Gartnerの調査によると、部門リーダーは人気や話題性の高いAIアプリケーションの導入を優先する傾向にあることが明らかになりました。しかし、導入率が高いAIユースケースと実際に高い投資効果をもたらしているユースケースの間にはギャップが存在します。この調査は、人気のAIユースケースが必ずしも最高の投資成果に繋がっているわけではないことを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-29T01:21:01.193985"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
-    "link": "https://gigazine.net/news/20260929-gigazine-user-update-check/",
-    "summary": "GIGAZINEは2026年夏に実施したプレゼントアンケートの結果に基づき、読者の記事更新チェック方法に関する調査結果を発表しました。調査によると、ブラウザの「ブックマーク」が41.9%で最も多く、記事更新を確認する主要な手段であることが判明しました。他にもX(旧Twitter)などのSNSやニュースアプリ、常にページを開いておくといった方法が挙げられ、記事ではこれらのチェック手段における年代別の違いについても分析しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-29T01:21:08.397965"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI開発時代だからこそ、テストの役割を見つめ直す",
-    "link": "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
-    "summary": "AI開発が急速に進む現代において、システム開発におけるテストの役割が改めて注目されています。AI特有の不確実性や複雑性に対応するため、従来のテスト手法を見直し、新たな視点からその重要性を捉え直す必要性が高まっています。これは、AIシステムの信頼性、安全性、そして倫理性を確保し、社会に適切に導入していく上で極めて重要な課題であるとされています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-29T01:21:16.623997"
   }
 ]
