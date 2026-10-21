@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か　専門家に聞いた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news032.html",
+    "summary": "2026年9月下旬以降、情報漏えいやサイバー被害の公表が途切れることなく続いています。この記事は、この公表ラッシュがサイバー攻撃の増加によるものなのか、企業の検知能力が向上した結果なのか、あるいは企業側の根本的な変化によるものなのかを問いかけています。その原因を探るため、専門家の見解を尋ねています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-21T10:41:52.315621"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」",
+    "link": "https://gigazine.net/news/20261021-voxtral-3/",
+    "summary": "フランス企業のMistral AIが、音声AI群「Voxtral 3」をリリースしました。このAI群は、高精度なリアルタイム文字起こしAIを提供します。また、特定の人物の声を再現できる音声合成AIも含まれています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-21T10:42:03.638464"
+  },
+  {
+    "source": "Zenn",
+    "title": "ベトナムのAI開発会社に開発を依頼するなら？RAG・AIエージェントの実装で確認したい技術要件",
+    "link": "https://zenn.dev/sotatek_jp/articles/fb444894e1e642",
+    "summary": "このタイトルは、ベトナムのAI開発会社にRAG（Retrieval-Augmented Generation）やAIエージェントの開発を依頼する際に、プロジェクト成功のために確認すべき技術要件について述べています。具体的には、実装に必要な技術スタック、開発プロセス、セキュリティ、スケーラビリティといった観点から、依頼者が確認すべき重要なポイントが提示されていると考えられます。これにより、適切な開発パートナーを選定し、効率的な開発を実現するための指針が提供されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-21T10:42:13.202706"
+  },
+  {
+    "source": "Qiita",
+    "title": "OSSの門が閉じ始めた",
+    "link": "https://qiita.com/pitaspot/items/17a27481c204992fabf1",
+    "summary": "2026年に入り、Honoなどの有名OSSが外部からのプルリクエスト（PR）の受け付けを停止、初回承認関門の設置、AI製PRの禁止といった3種類の方法で閉じ始めています。この背景には、AIが大量かつ安価にPRを生成できるようになったことで、メンテナーの確認作業が追いつかず、多大な負担となっていることがあります。かつて送り手の信用を示す指標だったPRが、AIの登場によってその信頼性を失いつつある現状を、筆者はOSS運営者の視点から整理しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-21T10:42:22.708806"
+  },
+  {
+    "source": "ITmedia",
     "title": "セキュリティインシデント9カ月で607件、既に2025年超え　「公表が増えただけ」ではない理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news022.html",
     "summary": "トレンドマイクロの集計によると、2026年1～9月に国内組織が公表したセキュリティインシデントは607件に達し、既に2025年通年の594件を超過しました。特に9月後半から公表件数が急増しており、公的機関による注意喚起も相次いでいます。この状況は、単に公表が増えただけでなく、セキュリティ攻撃そのものが増加している可能性を示唆しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-01T00:55:01.256119"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code 2026年9月アップデートまとめ — /diff・/skill-doctor・無人運用の強化が地味に効く",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-code-2026-09-diff-skill-doctor-headless",
-    "summary": "2026年9月に行われたClaude Codeのアップデートでは、主に開発効率と運用面の強化が図られました。新機能として、コードの変更点を視覚化する`/diff`コマンドや、スキル向上を支援する`/skill-doctor`が導入されています。\n\n加えて、無人運用機能が強化されたことで、自動化された開発フローやメンテナンス作業がよりスムーズに行えるようになりました。これらの改善は、地味ながらも開発者の生産性向上と作業負荷軽減に大きく貢献すると期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-01T00:55:08.378317"
-  },
-  {
-    "source": "ITmedia",
-    "title": "大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」　全社に行き渡ったコード、検証できているのか？【調査】",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news097.html",
-    "summary": "大企業では、回答者の過半数が非エンジニアによる開発を実施しており、特にAI開発においてこの傾向が広がっています。これにより、全社に行き渡ったAI生成コードの品質や検証方法が大きな課題となっています。調査の結果、大企業のIT部門は単なる品質チェックに留まらず、より包括的な検証施策を求めていることが明らかになりました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-30T11:27:09.254821"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ローマ教皇レオ14世がAIの危険性に関する主張を否定したトランプ大統領やNVIDIAのジェンスン・フアンを非難",
-    "link": "https://gigazine.net/news/20260930-pope-leo-nvidia-trump-ai-threat/",
-    "summary": "2026年9月、Anthropicのダリオ・アモデイCEOがAIの壊滅的な危険性を警告したことに対し、トランプ大統領は「デマ」と否定し、NVIDIAのジェンスン・フアンCEOもAI研究所のリーダーの誠実さに欠けると非難しました。しかし、ローマ教皇レオ14世は、AIへの懸念は真剣に受け止めるべきであり、フェイクニュースではないと反論。AIの危険性に関する激しい議論が展開されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-30T11:27:21.828496"
-  },
-  {
-    "source": "Zenn",
-    "title": "【保存版】Cursorエンジニア・Lauren Tanが月2000PRをマージした信頼構築エンジニアリング",
-    "link": "https://zenn.dev/dragon1208/articles/506d19d4adb0c4",
-    "summary": "CursorエンジニアのLauren Tan氏は、「信頼構築エンジニアリング」という独自の取り組みを実践しました。彼女は月に2000件ものプルリクエスト（PR）をマージするという驚異的なペースを達成。これは、開発チーム内での信頼関係を築き、効率的なプロセスを確立するための重要な手法として注目されています。この記事は、その詳細を解説する「保存版」として紹介されています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-09-30T11:27:31.527767"
   }
 ]
