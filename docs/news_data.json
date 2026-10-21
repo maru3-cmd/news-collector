@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "セキュリティインシデント9カ月で607件、既に2025年超え　「公表が増えただけ」ではない理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news022.html",
+    "summary": "トレンドマイクロの集計によると、2026年1～9月に国内組織が公表したセキュリティインシデントは607件に達し、既に2025年通年の594件を超過しました。特に9月後半から公表件数が急増しており、公的機関による注意喚起も相次いでいます。この状況は、単に公表が増えただけでなく、セキュリティ攻撃そのものが増加している可能性を示唆しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-21T00:13:51.651897"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに",
+    "link": "https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 59.410604649s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 59\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-21T00:14:00.620218"
+  },
+  {
+    "source": "Zenn",
+    "title": "PowerShellだけで試すOllama HTTP API入門：/apiとOpenAI互換/v1を実測で確認",
+    "link": "https://zenn.dev/warrobotsxyz/articles/ollama-api-powershell-quickstart",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 54.840372666s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 54\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-21T00:14:05.189232"
+  },
+  {
+    "source": "Qiita",
+    "title": "Windowsで常駐プロセスをコンソールなしで自動起動：VBS + タスクスケジューラをOllamaで実機検証",
+    "link": "https://qiita.com/warrobotsxyz/items/580fac1ea3654097e47c",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 50.424982755s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 50\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-21T00:14:09.603664"
+  },
+  {
+    "source": "ITmedia",
     "title": "「エージェントを守るのも、またエージェント」　Omnissa CPOが語るエンドポイントの次の形",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news032.html",
     "summary": "VMwareのEUC部門から独立したOmnissaは、AIガバナンス製品「Elara」を発表しました。この製品は、エンドポイントでAIエージェントが動作する時代に、それらのエージェントを保護し管理することを目的としています。記事では、OmnissaのCPOがElaraの設計思想、競合との差別化要因、そして日本市場への見方について詳しく語っています。",
@@ -1312,41 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-09-30T11:27:31.527767"
-  },
-  {
-    "source": "Qiita",
-    "title": "Space Bunny Alphaをコーディングで使う：API設定・テスト・無料枠の注意点",
-    "link": "https://qiita.com/beatapi/items/cb8083d374e19cd660d3",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 23.950962153s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 23\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-30T11:27:36.065611"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html",
-    "summary": "この記事は、AIを「魔法の杖」ではなく、適切な学習を繰り返して初めて育つ「子ども」に例えています。筆者は学生時代の脳科学の実験を手掛かりに、AIが「ずる賢く」育つのを阻止するための条件を論じています。特に、IT負債の分析をAIに任せることの危うさや、AI向けデータセンター投資における落とし穴を指摘しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-09-30T00:52:46.767626"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "どんなウェブサイトでも内容を撃ちまくって破壊できる「Page Rage」",
-    "link": "https://gigazine.net/news/20260930-page-rage/",
-    "summary": "「Page Rage」は、ウェブサイトのコンテンツを仮想的に破壊して遊ぶことができるユニークなサービスです。ユーザーがアクセスしたウェブサイト上にジェットパックを装備したキャラクターを出現させ、表示されているテキストや画像など、サイト内のほぼあらゆる要素を撃ちまくって破壊することが可能です。これにより、ストレス解消やエンターテイメントとして、ウェブページを文字通り「破壊し尽くす」体験を楽しむことができます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-09-30T00:52:53.441686"
-  },
-  {
-    "source": "Zenn",
-    "title": "60点で出す勇気 ― AI協働設計術",
-    "link": "https://zenn.dev/dip_techblog/articles/7c1eb6ba802669",
-    "summary": "申し訳ありませんが、記事の本文が提供されていないため、要約を作成することができません。タイトル「60点で出す勇気 ― AI協働設計術」のみでは、具体的な内容や重要なポイント・数字を把握することができません。\n\n記事の本文をご提供いただければ、要約を作成いたします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-09-30T00:53:01.983902"
   }
 ]
