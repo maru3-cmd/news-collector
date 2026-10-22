@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Oracle Javaに55件の脆弱性　IPAが「早急に適用を」と促す対象は",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news058.html",
+    "summary": "IPAは、Oracle Javaに合計55件の脆弱性が確認されたとして注意喚起しました。このうち49件は、認証を必要とせずネットワーク経由で悪用される可能性があります。これらの脆弱性が悪用されると、攻撃者によるPCの制御に及ぶ恐れがあるため、IPAは早急な修正プログラムの適用を促しています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-22T10:43:54.802917"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "2026年10月22日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20261022-headline/",
+    "summary": "酒造メーカーの大関は、ラーメン店のコール「マシマシカラメ」に着想を得た新商品「ワンカップ マシマシカラメ300ml瓶詰」を2026年11月9日(月)に期間限定で発売すると発表しました。この商品は、通常より増量した300mlの内容量とアルコール18％の飲みごたえで「マシマシ」を表現し、キレのある辛口の味わいで「カラメ」を表現しています。価格は税込402円です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-22T10:44:01.696229"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIレビューの指摘は、どこで直すのを止めるか",
+    "link": "https://zenn.dev/miyakona/articles/review-findings-stop-by-impact",
+    "summary": "提供された記事は、「AIレビューの指摘は、どこで直すのを止めるか」というタイトルと同一の文章のみで構成されています。そのため、具体的な内容や詳細な議論は含まれていません。\n\nこの記事は、AIからの修正指摘に対し、どこまで対応し、どこで改善を終了すべきかという、開発やコンテンツ作成における重要な判断基準を問うものです。現状では、この問いに対する答えや、具体的なポイント・数字は示されていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-22T10:44:10.730456"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI エージェント 生成エージェント ~ STORM Act #3",
+    "link": "https://qiita.com/kataoka_se_sionic/items/97c52d49b37bbe48a54a",
+    "summary": "本記事は、AIエージェント「STORM Act」の実践例として、経営企画・営業企画担当者向けのAIエージェント作成について解説しています。このエージェントは、経営会議前に売上Excel、顧客VOC、会議録PDFという異なる3種類の資料を手作業で突き合わせる負担と、資料間での先行リスクの見落としを解決します。\n\n具体的には、3ファイルを添付して依頼するだけで週次経営レポートを自動生成し、最新完了週の自動判定、前週比較KPI、比較元がない値の「要確認」表示によって、その内容の正確性を確認できます。",
+    "category": "ビジネス・戦略",
+    "content_type": "article",
+    "collected_at": "2026-10-22T10:44:19.444659"
+  },
+  {
+    "source": "ITmedia",
     "title": "攻撃者のAIは「人間超え、寝ない」　それでも専門家が\"最優先の脅威ではない\"と言う理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/15/news025.html",
     "summary": "生成AIの登場により、サイバー攻撃は量・速度・質が飛躍的に向上し、「日本語の壁」が崩れたことで日本企業は規模を問わず狙われる脅威に直面しています。しかし、セキュリティ専門家はAIを現時点での「最優先の脅威ではない」と指摘しています。本記事では、企業が今最も優先して対策すべき脅威について、セキュリティ企業の経営者の見解を交えて解説しています。",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-10-02T01:11:54.513434"
-  },
-  {
-    "source": "Qiita",
-    "title": "position: stickyで表の見出し・先頭列を固定するときの7つの落とし穴と対処",
-    "link": "https://qiita.com/Kujira_AI/items/2b88947efb069eb43e18",
-    "summary": "この記事は、CSSの`position: sticky`を用いて大規模な表の見出しや先頭列を固定する際に開発者が直面した、7つの「落とし穴」とその具体的な対処法について解説しています。\n\n主な課題として、スクロール基準となる祖先要素の管理、`top`/`left`の実測値設定、`colspan`セルへの固定クラス適用ミス、`border-collapse`の考慮不足、`z-index`と背景色の指定漏れなどが挙げられています。\n\n解決策として、これらのポイントに加え、ResizeObserverを表と枠の両方に適用することの重要性などが、AI（Claude Code）との共同検証を通じて導き出されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-02T01:12:04.408275"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Omnissaが「Elara」を発表　AIエージェントの暴走を防ぐ“実行前の権限レイヤー”とは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/01/news030.html",
-    "summary": "Omnissaは年次イベントで、「エージェンティック・エンドポイント」構想と、第3の製品ラインとなる「Omnissa Elara」を発表しました。これは、AIエージェントの急増に伴うガバナンスやセキュリティ上の新たな課題に対応するためのものです。特に、AIエージェントが重要操作を実行する前の段階で権限を統制する「実行前の権限レイヤー」を提供し、暴走を防ぐことを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-01T11:54:50.577685"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "政府運営の出会い系サービスで採用されたノーベル賞受賞者考案のアルゴリズムとは？",
-    "link": "https://gigazine.net/news/20261001-firstdate-gale-shapley-algorithm/",
-    "summary": "ノーベル賞受賞者によって考案された「ゲール-シャープレーアルゴリズム」は、政府運営の出会い系サービスで採用されています。\nこのマッチングアルゴリズムは、出会い系サービスだけでなく、大学の入学者選考や医師の研修先決定といった重要な分野でも活用されています。\n記事では、専門家がこのアルゴリズムがどのように男女のマッチングを行うのかを解説しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-01T11:55:00.416038"
-  },
-  {
-    "source": "Zenn",
-    "title": "判断特化AI「Jev」をCloudflare Workers AIで使い、求人票14項目の判定を600回0.05ドルで検証した",
-    "link": "https://zenn.dev/cosmicjan/articles/5f0f9f2632ba84",
-    "summary": "判断特化AI「Jev」がCloudflare Workers AIを利用し、求人票の14項目判定に関する検証が行われました。この検証は600回実行され、AIによる判断処理が効果的であることが示されました。特筆すべきは、これらの処理がわずか0.05ドルという極めて低コストで実現可能であった点です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-01T11:55:08.567606"
   }
 ]
