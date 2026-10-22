@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "攻撃者のAIは「人間超え、寝ない」　それでも専門家が\"最優先の脅威ではない\"と言う理由",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/15/news025.html",
+    "summary": "生成AIの登場により、サイバー攻撃は量・速度・質が飛躍的に向上し、「日本語の壁」が崩れたことで日本企業は規模を問わず狙われる脅威に直面しています。しかし、セキュリティ専門家はAIを現時点での「最優先の脅威ではない」と指摘しています。本記事では、企業が今最も優先して対策すべき脅威について、セキュリティ企業の経営者の見解を交えて解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-22T00:18:22.066088"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」",
+    "link": "https://gigazine.net/news/20261022-permit-pending/",
+    "summary": "都市シミュレーター「Permit Pending」は、従来のシムシティのような自由な開発とは異なり、市民の要望や議会の承認を必要とするリアルな都市運営を特徴としています。このゲームでは、開発計画の不承認や住民からの反対といった、実際に起こりうる多様な障害が再現されています。プレイヤーは現実的な制約の中で都市を計画・運営する、より没入感のある体験ができます。本記事では、無料でプレイできるこのゲームを実際に体験した感想が紹介されています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-10-22T00:18:31.020093"
+  },
+  {
+    "source": "Zenn",
+    "title": "GitLab Orbit Local で、コードの影響範囲調査にかかる AI の token 消費を大きく減らす",
+    "link": "https://zenn.dev/azush/articles/72f59354b9d09c",
+    "summary": "GitLab Orbit Localは、AIを活用したコードの影響範囲調査におけるAIトークン消費を大幅に削減する機能です。この機能により、開発者はAI利用コストを抑えつつ、コードの変更がシステム全体に及ぼす影響を効率的に把握できるようになります。特に、大規模なプロジェクトでの影響分析プロセスを加速し、開発効率の向上に貢献することが期待されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-22T00:18:43.410471"
+  },
+  {
+    "source": "ITmedia",
     "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か　専門家に聞いた",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news032.html",
     "summary": "2026年9月下旬以降、情報漏えいやサイバー被害の公表が途切れることなく続いています。この記事は、この公表ラッシュがサイバー攻撃の増加によるものなのか、企業の検知能力が向上した結果なのか、あるいは企業側の根本的な変化によるものなのかを問いかけています。その原因を探るため、専門家の見解を尋ねています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-01T11:55:08.567606"
-  },
-  {
-    "source": "Qiita",
-    "title": "CodexにSkillを渡したら、402エラーの原因調査までやってくれた話",
-    "link": "https://qiita.com/harupython/items/2bc2f59ce6f6af1d07f1",
-    "summary": "本記事は、CodexにBright DataのSkillを与え、QiitaのPythonタグ記事を収集するCLI作成を通じて、外部サービス固有のエラー発生時にCodexがどこまで原因調査・設計変更を行えるかを検証した記録です。\n\n当初、Qiita公式API経由での記事取得は`HTTP 402 / policy_20140`エラーで停止しましたが、Codexはこれを調査し、Bright DataのBrowser APIへの切り替えを提案・実行しました。\n\nその結果、2ページ45件の記事取得に成功しましたが、このプロセスは完全自律ではなく、人間からの指示も一部必要でした。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-10-01T11:55:16.893841"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AI投資で成果を出す企業は何が違うのか　厚労省が白書で示した「条件」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/01/news019.html",
-    "summary": "厚生労働省は2026年9月29日、「令和8年版 労働経済の分析」を公表し、AIと労働市場の現状について分析しました。この白書は、日本の生成AI利用率が主要国に比べて低いことを指摘しています。その上で、企業がAI投資で実際に成果を出すために必要な「条件」が存在すると示しており、その詳細が注目されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-01T00:54:54.596594"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "約3000万円もかかる無響室を小型マイクとBluetoothスピーカーで代替",
-    "link": "https://gigazine.net/news/20261001-bluetooth-speaker-sound-chamber/",
-    "summary": "PC周辺機器の検証を行うLTT Labsが、通常約3000万円かかる高価な無響室に代わる、低コストな音響測定手法を開発しました。彼らはBluetoothスピーカー、小型マイク、そしてニューラルネットワークを組み合わせることで、人間の耳の音響特性を推定します。この手法では、1人につき10方向から音を測定し、残りの方向をAIが推定するため、従来よりも短時間かつ簡単に個人ごとの耳の特性を調べられる可能性を示しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-01T00:55:01.256119"
   }
 ]
