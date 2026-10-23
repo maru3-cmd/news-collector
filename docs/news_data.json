@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+    "summary": "生成AIは東大入試で合格者最高点を上回るほど進化しており、サイバー攻撃においてもその能力を大きく発揮しています。この高度なAIの登場により、もはやシステムを完全に防御し切ることは困難であるという前提に立つ必要があります。そのため、IT部門は来るべきAI攻撃に対し、被害を最小限に抑えるための具体的な「備え」を考えることが喫緊の課題となっています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-23T00:15:05.825571"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ",
+    "link": "https://gigazine.net/news/20261023-airbnb-checkout-chores-ban/",
+    "summary": "Airbnbは2026年10月20日、宿泊客に食器洗い**や**敷地外へのゴミ出し**といった**チェックアウト時のタスクを**原則**禁止する新ポリシーを発表しました。この変更は、**2026年11月20日以降に**入った予約から適用されます。これは、ホストが宿泊客に求める作業を明確化し、ゲストの利便性向上を目指すものとみられます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-23T00:15:15.780896"
+  },
+  {
+    "source": "Zenn",
+    "title": "OllamaのVRAM解放を実測で確認：keep_aliveとollama psの基本",
+    "link": "https://zenn.dev/warrobotsxyz/articles/ollama-keep-alive-vram-control",
+    "summary": "Ollamaは、`keep_alive`設定により、モデルがアクティブでない場合にVRAMを自動的に解放する機能を持っています。実測により、この設定時間（デフォルトは5分）が経過すると実際にVRAMが解放されることが確認されました。`ollama ps`コマンドを用いることで、現在ロードされているモデルと消費VRAMをリアルタイムで確認し、VRAM使用状況を効率的に管理できます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-23T00:15:23.839437"
+  },
+  {
+    "source": "ITmedia",
     "title": "Oracle Javaに55件の脆弱性　IPAが「早急に適用を」と促す対象は",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news058.html",
     "summary": "IPAは、Oracle Javaに合計55件の脆弱性が確認されたとして注意喚起しました。このうち49件は、認証を必要とせずネットワーク経由で悪用される可能性があります。これらの脆弱性が悪用されると、攻撃者によるPCの制御に及ぶ恐れがあるため、IPAは早急な修正プログラムの適用を促しています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-02T11:27:08.269110"
-  },
-  {
-    "source": "ITmedia",
-    "title": "IT部門は「止める判断」を下せるか？　フロンティアAIによって変わる脅威への対応法",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/02/news010.html",
-    "summary": "本記事は、IT部門が障害やサイバー攻撃に直面した際、「システムを止めない」という判断が、かえって復旧を遅らせ最悪の選択となる可能性を指摘しています。重要なのは、RTO（目標復旧時間）だけでは測れない「止める判断」の設計であり、そのための基準作りを提唱。さらに、経営層や関係部門との調整を通じて、ユーザー企業のIT部門が脅威への対応法を再構築する必要があることを強調しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-02T01:11:39.371238"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた",
-    "link": "https://gigazine.net/news/20261002-motel-room-life-history-discovery/",
-    "summary": "ニューヨーク・タイムズの報道によると、「植物の歴史」に関わる生物学的に重要な発見が、一般的な研究室ではなく、自動車利用者向けの安価なモーテルの一室でなされました。このユニークな発見は2026年に科学誌Journal of Phycologyで発表される予定です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-02T01:11:46.172662"
-  },
-  {
-    "source": "Zenn",
-    "title": "ループエンジニアリングには2種類ある —— 直すループと、育つループ",
-    "link": "https://zenn.dev/motimotinotch/articles/569ed5ab2743c1",
-    "summary": "ループエンジニアリングには、「直すループ」と「育つループ」という二つの主要なアプローチが存在します。前者の「直すループ」は、システムやプロセスの問題点を修正し、現状を改善することを目的としています。一方、後者の「育つループ」は、継続的な学習と成長を通じて新たな価値や能力を生み出すことに焦点を当てています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-02T01:11:54.513434"
   }
 ]
