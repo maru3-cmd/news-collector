@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
+    "summary": "OpenAIの新モデルは、20言語でのデータベースエンジン構築テストにおいて、平均合格率を従来の26.8%から87.4%へと大幅に向上させたと発表しました。この成果は、学習リソースが少ないCOBOLやFortranなどのレガシー言語をAIがどこまで扱えるかという課題に注目を集めています。特に、厳密な正確性が求められる既存のCOBOLプログラムの別言語への移行作業におけるAIの能力が期待されていますが、この記事では具体的な評価結果はまだ示されていません。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-23T10:35:50.783239"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "2026年10月23日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20261023-headline/",
+    "summary": "2026年10月23日のヘッドラインニュースとして、サンライズ50周年記念作品である劇場アニメ『装甲騎兵ボトムズ 灰色の魔女(ヘクセ)』の直前予告映像がYouTubeで公開されました。この作品は、2026年11月20日(金)に劇場公開される予定です。ファンは、公開まであと約1ヶ月に迫ったこの記念作品への期待を高めています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-23T10:36:02.200713"
+  },
+  {
+    "source": "Zenn",
+    "title": "大量の PR を AI にまとめて処理させよう！ TAKT 新機能の「takt merge」",
+    "link": "https://zenn.dev/nrs/articles/7716088a5ee7ce",
+    "summary": "TAKTは、大量に発生するPR（広報活動やプレスリリースなど）をAIでまとめて効率的に処理する新機能「takt merge」を発表しました。この機能は、AIを活用してPR関連のタスクを一括処理することで、企業の広報活動における業務の大幅な効率化と合理化を目指します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-23T10:36:13.382838"
+  },
+  {
+    "source": "Qiita",
+    "title": "テスト管理ツール TestLink の調査 (2026年版)",
+    "link": "https://qiita.com/puffy/items/8da039d11b5798d775fd",
+    "summary": "この記事は、2026年時点でのレガシーなウォーターフォール型SIプロジェクトにおけるテスト管理の課題を取り上げています。生成AIの導入が進む中で、非効率な「方眼Excel」によるテスト仕様書作成から脱却し、テスト設計から結果、レビューまでのプロセスを効率化する目的でTestLinkの活用を提案しています。\n\n2026年現在、TestLinkは活発な修正はないものの、バージョン1.19.20_fixedがPHP 8.5とMariaDB 10.5（Amazon Linux 2023上）で動作検証されており、十分に利用可能であると結論付けています。筆者は、このツールと生成AIを組み合わせることで、方眼Excelに依存しない効率的なテスト管理を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-23T10:36:25.070744"
+  },
+  {
+    "source": "ITmedia",
     "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
     "summary": "生成AIは東大入試で合格者最高点を上回るほど進化しており、サイバー攻撃においてもその能力を大きく発揮しています。この高度なAIの登場により、もはやシステムを完全に防御し切ることは困難であるという前提に立つ必要があります。そのため、IT部門は来るべきAI攻撃に対し、被害を最小限に抑えるための具体的な「備え」を考えることが喫緊の課題となっています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-03T00:49:17.662809"
-  },
-  {
-    "source": "Qiita",
-    "title": "【やってみよう】Copilot Studio × Azure DevOps で「自社専用AIコードレビューエージェント」を作る【後編】",
-    "link": "https://qiita.com/kaneoka_nr/items/2d77a4e096ef8de8223c",
-    "summary": "この記事は、Microsoft Copilot StudioとAzure DevOpsを連携させ、「自社のコーディング規約を熟知したAIコードレビューエージェント」を作るプロジェクトの後編を解説しています。前編で課題だった曖昧な指示に起因する404エラーを大幅に改善するため、Copilot Studioの「トピック」と「アダプティブカード」を活用。チャット内にドロップダウンなどのリッチな選択UIを実装しました。これにより、プロジェクト名やブランチ名の手入力・コピペ作業がゼロになり、タイポ知らずの爆速で快適なコードレビュー体験を実現しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-03T00:49:25.505524"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
-    "link": "https://gigazine.net/news/20261002-opendlss-nr/",
-    "summary": "NVIDIAが発表したAIアップスケーリング技術「DLSS 5」をVulkanで再実装するプロジェクト「OpenDLSS-NR」が登場しました。これはゲームを高解像度化するDLSS 5の機能をオープンソースで提供するものです。特筆すべきは、この再実装版「OpenDLSS-NR」がオリジナルのDLSS 5とビット単位で完全に一致するという驚くべき成果を達成している点です。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-02T11:26:49.666216"
-  },
-  {
-    "source": "Zenn",
-    "title": "フルスクラッチした極小言語モデルに、自分の小説を CPU 単一スレッドで0から学習させてみた",
-    "link": "https://zenn.dev/87right/articles/b8f26bba1f4c52",
-    "summary": "この記事では、著者がゼロからフルスクラッチで開発した極小言語モデルに関する実験が紹介されています。自身の小説データを学習用に使用し、その学習プロセスは驚くべきことにCPUの単一スレッドのみで行われました。これは、一般的な大規模モデルの学習とは異なり、限られた環境でもパーソナルな言語モデルを構築できる可能性を示唆するものです。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-10-02T11:26:57.829284"
-  },
-  {
-    "source": "Qiita",
-    "title": "OpenAI の Dots の「先回り」は、どこまで動いているのか。公式文書と X の報告 112 件で見る",
-    "link": "https://qiita.com/hisashi-ito/items/41d649f6316517f1f547",
-    "summary": "この記事は、OpenAIが発表した常時稼働エージェント「Dots」の主要機能である「先回り」（ユーザーに頼まれる前に調べて知らせる）が、実際にどこまで機能しているのかを調査したものです。筆者はDotsを直接試していないため、公式文書とX（旧Twitter）での112件のユーザー報告を情報源とし、調査の大半はClaude CodeなどのAIツールを活用して行われました。本記事は調査の経緯と方法を説明しており、具体的な「先回り」機能の動作状況に関する結論は提示されていません。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-02T11:27:08.269110"
   }
 ]
