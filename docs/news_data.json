@@ -1,5 +1,23 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
+    "link": "https://gigazine.net/news/20261024-access/",
+    "summary": "GIGAZINEは、有料メンバー向けにコメント機能のテストを開始しました。現時点ではコメントは編集部と有料メンバーのみが閲覧できますが、今後は無料メンバーや一般読者にも順次公開範囲を拡大する予定です。また、この記事では2026年度9月分のGIGAZINEアクセス解析結果も合わせて発表されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-24T00:07:56.407476"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code 2026年10月アップデート——Modsでツール呼び出しをTypeScriptで横取りできるようになった",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-code-mods-2026-10",
+    "summary": "Claude Codeは2026年10月のアップデートで、新機能「Mods」を導入しました。これにより、開発者はツール呼び出しをTypeScriptで「横取り」し、自由に制御できるようになります。この機能は、外部ツール連携やデータ処理において、より柔軟なカスタマイズと高度な制御を可能にします。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-24T00:08:05.300723"
+  },
+  {
     "source": "ITmedia",
     "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
@@ -1330,23 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-03T00:48:58.922758"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
-    "link": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
-    "summary": "ドイツは第二次世界大戦後、東ドイツと西ドイツに分裂し、1990年に再統一されました。\n新たな研究によると、再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者と比較して認知機能が良好であることが判明しました。\n具体的には、旧東ドイツ出身の人々は精神機能の低下が遅い傾向にあることが示されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-03T00:49:08.593907"
-  },
-  {
-    "source": "Zenn",
-    "title": "「旧データを安全に使って」が遠回りになった──稼働中のデータ統合をAIと進めた話",
-    "link": "https://zenn.dev/choujiya/articles/787219b56b73c2",
-    "summary": "この記事は、「旧データを安全に使う」という従来のアプローチが遠回りであり非効率であった事例を紹介しています。システムが稼働中の状態でデータ統合を行うという難しい課題に対し、AI技術を導入することで解決策を見出しました。具体的には、AIを活用することで運用を停止することなく、効率的に旧データの統合を進めることに成功した話です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-03T00:49:17.662809"
   }
 ]
