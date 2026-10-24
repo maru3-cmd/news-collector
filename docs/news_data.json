@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20261024-tymeslot/",
+    "summary": "「Tymeslot」は、予約ページの作成、複数カレンダーでの重複予約防止、ビデオ会議室の自動生成、確認メール送信といった機能を統合したオープンソースのスケジュール管理システムです。予約管理システムの機能が分散しがちな問題を解決します。セルフホスト可能で、予約件数の制限なく無料で利用できる点が大きな特徴です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-24T09:53:50.067583"
+  },
+  {
+    "source": "Zenn",
+    "title": "ネットが燃えている――GMOの国家への要請と、守る側が不利なわけ",
+    "link": "https://zenn.dev/moimoi/articles/security-gmo-active-cyber-defense",
+    "summary": "この記事のタイトルは、インターネットがサイバーセキュリティ上の危機に直面している状況を示唆しています。特に、大手IT企業であるGMOが、この問題に対処するため国家（政府）に対し支援や対策を要請している点が重要なポイントです。記事では、サイバー攻撃の「守る側」が本質的に不利な立場にある理由が分析されており、その構造的な課題が強調されています。これは、サイバーセキュリティが個社や私企業では対応しきれない、国家レベルでの喫緊の課題であることを浮き彫りにしています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-10-24T09:54:00.303128"
+  },
+  {
+    "source": "Qiita",
+    "title": "Turn Still Photos into Viral AI Meme Videos with VidTrend",
+    "link": "https://qiita.com/vidtrend/items/f449d61458651fadbf78",
+    "summary": "VidTrendは、静止画をAIミームの短尺動画に変換するサービスです。\nユーザーは1-2枚の写真をアップロードし、「Black Cat Clapping」のような検証済みモーションテンプレートを選ぶだけで、数分で9:16のMP4動画をエクスポートできます。\n料金はサブスクリプション不要の従量課金制で、$4.99から提供されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-24T09:54:07.934523"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
     "link": "https://gigazine.net/news/20261024-access/",
     "summary": "GIGAZINEは、有料メンバー向けにコメント機能のテストを開始しました。現時点ではコメントは編集部と有料メンバーのみが閲覧できますが、今後は無料メンバーや一般読者にも順次公開範囲を拡大する予定です。また、この記事では2026年度9月分のGIGAZINEアクセス解析結果も合わせて発表されています。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-10-03T10:43:15.747184"
-  },
-  {
-    "source": "Zenn",
-    "title": "MCP・API・Skillsの違いを整理する。AIとの壁打ちで直した3つの勘違い",
-    "link": "https://zenn.dev/zhaojiayi/articles/d5ad38fc02091a",
-    "summary": "この記事は、MCP、API、Skillsという3つの異なる概念の違いについて整理しています。筆者はAIとの対話（壁打ち）を通じてこれらの概念への理解を深め、当初抱いていた3つの誤解や勘違いを修正しました。これにより、AIが技術的な概念整理において効果的なツールとして活用されたことが示されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-03T10:43:25.355361"
-  },
-  {
-    "source": "Qiita",
-    "title": "画像生成AIから見たGPU性能選択について",
-    "link": "https://qiita.com/naritomo08/items/83f54a6b311f04908886",
-    "summary": "この日本語記事は、画像生成AI向けGPUの選択において、どの性能要素が重要かを検証することを目的としています。特に、VRAM容量、VRAM帯域、GPU演算性能のうちどれが画像生成速度に最も影響するかを明らかにしようとしています。そのために、GeForce RTX 3060 12GB、RTX 4070 Ti SUPER 16GB、RTX 5060 Ti 16GB、RTX 5080 16GBの4種類のGPUを使用し、実際の画像生成時間を比較して最適なGPU性能要素を考察します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-03T10:43:34.336965"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「AIの同僚」をどう管理する？　OpenAIが企業ITに与えるインパクト",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/03/news002.html",
-    "summary": "OpenAIは年次イベント「DevDay 2026」で20を超える発表を行い、企業の働き方に大きなインパクトを与える新ツールを提示しました。特に、常時稼働エージェント「dots」と協働拠点「ChatGPT Space」は、AIを「同僚」として企業環境に統合する可能性を秘めています。これにより、企業ITや業務プロセスがどのように変革され、AIを管理する新たな課題が生じるかが問われています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-03T00:48:58.922758"
   }
 ]
