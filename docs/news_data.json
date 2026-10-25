@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "GⅠ・菊花賞を武豊騎手がゴーイントゥスカイで制し史上最年長GⅠ勝利記録をみたび更新、二冠馬ロブチェンは14着",
+    "link": "https://gigazine.net/news/20261025-gointosky-wins-kikka-sho/",
+    "summary": "2026年10月25日に京都競馬場で開催されたGⅠ菊花賞（芝3000m）を、3番人気のゴーイントゥスカイが武豊騎手とのコンビで制しました。この勝利により、武豊騎手は自身の持つ史上最年長GⅠ勝利記録を再び更新しました。三冠達成が期待されていたロブチェンは、残念ながら14着に終わりました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-25T10:15:17.153484"
+  },
+  {
+    "source": "Zenn",
+    "title": "海外で話題の最新LLM「Kimi K3.1 Pro」と脆弱性監視「CVE Tracker」",
+    "link": "https://zenn.dev/ament3/articles/ai-digest-2026-10-24-0021",
+    "summary": "本記事は、海外で話題となっている最新の大規模言語モデル（LLM）「Kimi K3.1 Pro」について取り上げています。同時に、システムやソフトウェアの脆弱性を監視するツール「CVE Tracker」にも言及しています。\n\nこれら二つのテーマが、最新のテクノロジー動向やセキュリティの観点から議論されていると考えられます。具体的な機能や両者の関連性については、元の記事で詳しく解説されています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-10-25T10:15:35.779378"
+  },
+  {
+    "source": "Qiita",
+    "title": "Codexでワークスペース設定を読み込めないとき：ログと操作を分けて切り分ける",
+    "link": "https://qiita.com/OfoxAI/items/35a8d0fe187266230e90",
+    "summary": "Codexデスクトップアプリで「Couldn't load workspace settings」エラーが表示された場合、すぐに`config.toml`の変更やアプリの再インストールを行うのではなく、どの処理が失敗したのか原因を切り分けるべきです。このエラー表示だけでは、設定ファイルの破損やモデルの停止、アカウント停止を判断することはできません。\n\n本記事はデスクトップアプリの新しいチャットやワークスペース読み込み時のエラーを対象としており、APIサービスへの切り替えは解決策ではありません。この情報は2026年10月16日のOpenAI Codexリポジトリの公開報告に基づいています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-25T10:15:45.378731"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "マドンナの声が科学的に年齢不詳であることが判明",
     "link": "https://gigazine.net/news/20261025-madonna-voice-age/",
     "summary": "歌姫マドンナの声が科学的に分析された結果、通常加齢とともに見られる声の変化が、彼女の声にはほとんど見られないことが明らかになりました。このため、彼女の声は「科学的に年齢不詳である」と判明しました。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-10-04T11:24:18.057365"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI時代のセキュリティ対策を考える ― SEECAT 2026で学んだフォレンジック・サイバー攻撃・国民保護",
-    "link": "https://zenn.dev/soulgemanalyst/articles/024fe03538ccb8",
-    "summary": "本記事は、AI時代におけるセキュリティ対策に焦点を当てています。\nこの内容は、**SEECAT 2026**というイベントで得られた学びを基に構成されています。\n具体的には、フォレンジック（鑑識）、サイバー攻撃への対応、そして広範な国民保護といった多岐にわたる分野が考察されています。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-10-04T11:24:27.645321"
-  },
-  {
-    "source": "ITmedia",
-    "title": "クラウドとAIの転換点？　Gartnerがハイプ・サイクルを発表、「過度な期待」と評した5つの技術",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/04/news003.html",
-    "summary": "Gartnerは、2026年の日本におけるクラウドとAIのハイプ・サイクルを発表しました。このサイクルでは、31の先端技術のうち5項目が「過度な期待」のピーク期にあると指摘されています。これは、クラウドの役割が根本的に変化しつつある現状を反映した結果とのことです。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-04T00:14:49.146068"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-    "link": "https://gigazine.net/news/20261004-photon-matrix/",
-    "summary": "レーザービーム式蚊撃ち器「Photon Matrix」の予約受付が開始されました。この装置はスキャナーで蚊を検知し、手で叩くよりも高速にビームを発射します。これにより、効果的に蚊を駆除することが期待されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-04T00:15:25.440217"
   }
 ]
