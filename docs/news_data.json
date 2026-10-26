@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "なぜ日本の大企業はAIを活用しても「会社を変えられない」のか？　サイボウズが551社を調査",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/24/news003.html",
+    "summary": "サイボウズが551社の大企業を調査した結果、63%がAI活用戦略を策定済み、60%がAIを全社的に推進・活用していることが明らかになりました。しかし、AI活用が組織全体の変革に直結している企業はわずか21%にとどまっています。この調査は、多くの大企業がAI導入を進める一方で、それが会社全体の根本的な変化に繋がっていない現状と課題を浮き彫りにしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-26T11:39:26.632779"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される",
+    "link": "https://gigazine.net/news/20261026-steal-my-bitcoin/",
+    "summary": "2026年10月25日、「Steal My Bitcoin」というハッキングチャレンジが開催され、PHPの深刻な脆弱性を悪用してセキュリティ更新を適用していないウェブサイトからビットコインを盗むことが目的とされました。\n\n参加者は未更新サーバーへの侵入を試み、ビットコインの秘密鍵を入手できれば賞金が得られるというルールで、チャレンジ開始から約19時間後に攻略者が現れました。\n\nこの攻略者は、約2000ドル（約31万4000円）相当のビットコインを獲得したと報告されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-26T11:39:35.949558"
+  },
+  {
+    "source": "Zenn",
+    "title": "Cline の安全フック、本当に効いてる？ 5分でできる点検のしかた",
+    "link": "https://zenn.dev/shacikku3/articles/cline-safety-hook-check",
+    "summary": "この記事は、Clineの安全フックが設計通りに機能し、その安全性が「本当に効いているのか」を確認することの重要性を説いています。ユーザー自身がフックの有効性を判断できるよう、具体的な情報を提供しています。記事では、わずか5分という短時間で誰でも簡単に実施できる点検方法が紹介されており、日常的な安全確保に役立てることができます。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-10-26T11:39:44.044184"
+  },
+  {
+    "source": "Qiita",
+    "title": "14のAIエージェントが協調する自律型開発フレームワークの設計と実装",
+    "link": "https://qiita.com/fukukei23/items/c0dfd9c2313b1ba04cd9",
+    "summary": "本記事は、プロダクション品質のコードをAIで生成するため、14のAIエージェントが協調してソフトウェア開発ライフサイクル全体を自律実行するオープンソースフレームワーク「NexusCore」の設計と実装について解説しています。このフレームワークは、レビューやテスト、セキュリティ検査といった人間の開発者が行うプロセスを専門エージェントで自動化します。具体的には、235のPythonモジュールと4624のテストケースで構成され、8つのLLMプロバイダー統合、2段階の品質ゲート、Constitutional AIによるガバナンス自動化といった先進的な特徴を備えています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-26T11:39:52.894345"
+  },
+  {
     "source": "GIGAZINE",
     "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
     "link": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-05T12:48:24.206020"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "125Bの「Qwen3.8-Flash-Next」の量子化版をゲーミングPCで高速ローカル実行可能にするAI実行アプリ「Strata」",
-    "link": "https://gigazine.net/news/20261005-strata-local-ai/",
-    "summary": "AI実行アプリ「Strata」は、通常データセンター級のインフラが必要な大規模AIモデルを、一般的なハイエンドゲーミングPCでローカル実行可能にします。これにより、1250億パラメータを持つ最先端オープンモデル「Qwen3.8-Flash-Next」の量子化版を高速に動かすことが可能になります。Strataは、これまでアクセスが難しかった高性能AIを、より多くのユーザーが手軽に利用できる環境を提供します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-05T12:48:31.852033"
-  },
-  {
-    "source": "Zenn",
-    "title": "Fortranでつくるリバーシ用AI",
-    "link": "https://zenn.dev/clamini/articles/99c86961a1d6d2",
-    "summary": "この記事は、プログラミング言語Fortranを使用してリバーシの人工知能（AI）を開発するプロジェクトまたは記事のテーマを示しています。通常、科学技術計算に用いられることの多いFortranを、ボードゲームであるリバーシのAI作成に応用している点が特徴です。具体的なアルゴリズムや実装に関する詳細は提示されていませんが、Fortranを用いたユニークなAI開発の試みを紹介しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-05T12:48:42.391009"
-  },
-  {
-    "source": "Qiita",
-    "title": "RAG（検索拡張生成）をちゃんと理解する〜仕組み・必要な理由・AI エージェントとの関係〜",
-    "link": "https://qiita.com/y-yoshizaki/items/786813f72c034b2118ad",
-    "summary": "RAG（Retrieval-Augmented Generation：検索拡張生成）は、AIが回答を生成する前に、関連する資料を検索してその内容をAIに渡すことで、より正確な答えを引き出す仕組みです。これはAIが学習していない最新情報や社内データに基づいた回答を可能にし、AIが事実に基づかない情報（ハルシネーション）を生成するリスクを低減するために不可欠です。\n\n具体的には、ユーザーの質問に応じて外部データソースから情報を「検索（Retrieval）」し、その情報をAIへのプロンプトに「拡張（Augmented）」して、適切な回答を「生成（Generation）」させます。このプロセスは、AIエージェントがより信頼性の高い意思決定や情報処理を行う上で重要な役割を果たします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-05T12:48:50.367761"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
-    "link": "https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/",
-    "summary": "iPhoneには、ロック状態で一定時間経過すると自動再起動する「非アクティブ時再起動」機能が搭載されています。この機能は、警察が押収したiPhoneからのデータ抽出を困難にしていました。\n\nしかし、この非アクティブ時再起動を無効化し、警察がより容易にデータ抽出できるようにするツールが開発されたと、海外メディアの404 Mediaが報じました。これにより、押収されたiPhoneからの情報取得が効率化される見込みです。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-10-05T00:19:00.438607"
   }
 ]
