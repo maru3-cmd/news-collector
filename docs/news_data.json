@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
+    "link": "https://gigazine.net/news/20261029-anti-ai-words-in-script/",
+    "summary": "セキュリティ研究者のveritas氏により、AIによるコード解析を妨害する新たな手法が発見されました。これは、AIに搭載されている悪用防止機能や特定のフレーズを拒否する安全対策を逆手に取るものです。具体的には、「天安門事件」「台湾独立」「水道水に毒物混入」といった、AIが危険とみなすフレーズをコード内に意図的に混入させることで、AIによる解析を回避させると報じられています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-29T11:51:30.760309"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIへの指示、「いつもの一言」を変えるだけで精度が上がる理由",
+    "link": "https://zenn.dev/sunsun_eng/articles/improve-ai-prompt-precision-tips",
+    "summary": "AIの応答精度は、指示の与え方によって大きく左右されます。漠然とした「いつもの一言」ではなく、具体的な情報や文脈を盛り込んだ詳細な指示にすることで、AIはユーザーの意図を正確に把握しやすくなります。これにより、AIはより的確で高品質な出力を生成することが可能となり、作業効率と成果の質が向上します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-29T11:51:40.214449"
+  },
+  {
+    "source": "Qiita",
+    "title": "MCPサーバー自作は簡単？でも認証の3つのMUSTは外せない",
+    "link": "https://qiita.com/kinamocchi_tech/items/be1595ec93ce975fbf6f",
+    "summary": "MCPサーバーの自作は簡単に見えても、認証に関して「3つのMUST」が極めて重要であることを強調する記事です。自作の容易さとは裏腹に、セキュリティ上、これらの認証要件は決して外せないと解説しています。この内容は、YouTubeチャンネル「きなこもっちーのテック深掘り」で、AIに詳しいきなこ先生と生徒もっちーが対話形式で深く掘り下げて説明しています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-10-29T11:51:51.941767"
+  },
+  {
     "source": "ITmedia",
     "title": "製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-08T12:19:36.187310"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Google Chromeが一度断念した「JPEG XL形式のサポート」を改めて導入した理由とは？",
-    "link": "https://gigazine.net/news/20261008-google-chrome-155-jpeg-xl/",
-    "summary": "Google Chromeがバージョン155で、ロイヤリティフリーの画像フォーマットであるJPEG XL形式に一部対応しました。これは、一度はサポート廃止が検討されたJPEG XL形式を改めて導入したものです。なぜ今回改めてサポートが導入されたのかについては、Googleの開発チームが公式ブログでその理由を説明しています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-10-08T12:19:44.333591"
-  },
-  {
-    "source": "Zenn",
-    "title": "GitHubトレンド1位の動画制作エージェントOpenMontageを、有料APIキーなしで動かしてみた",
-    "link": "https://zenn.dev/matsushima_a/articles/day-009-zero-key-video-agent-gap",
-    "summary": "この記事は、GitHubトレンドで1位を獲得した動画制作エージェント「OpenMontage」について紹介しています。筆者は、この注目のツールを実際に動かしてみた体験を報告しています。特に重要な点として、通常は必要となる有料APIキーを使わずに、どこまで機能させることができるかという実験に焦点を当てています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-10-08T12:19:53.316848"
-  },
-  {
-    "source": "Qiita",
-    "title": "なぜ最強評価の中国AIモデルが株は「中立」なのか｜目標株価HK$1,880",
-    "link": "https://qiita.com/kinamocchi_tech/items/56f06ab0426b792772e5",
-    "summary": "最強評価を受けている中国AIモデルに関する記事です。このAIモデルは技術的に高い評価を受けているにもかかわらず、株価は「中立」と評価されており、目標株価はHK$1,880に設定されています。記事は、その評価が中立にとどまる背景や理由を解説しています。これはYouTubeチャンネル「きなこもっちーのテック深掘り」の動画解説記事です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-08T12:20:01.705793"
   }
 ]
