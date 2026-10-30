@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "検出も解析もAIに任せろ　それでも「一生任せられない」最後の判断",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news039.html",
+    "summary": "サイバー攻撃の量と速度が人の手の限界を超えているため、防御側でもAIの活用が不可欠となっています。AIは検出や解析の自動化を加速させ、セキュリティ担当者の負担を軽減します。しかし、AIがどれほど進化しても担当者の仕事が完全になくなることはなく、特に「最後の判断」といった人間にしかできない重要な役割が残るのかが、現在の大きな論点です。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-10-30T11:44:47.083763"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+    "link": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+    "summary": "ウォール・ストリート・ジャーナルによると、AppleはこれまでiPhoneを武器にメモリメーカーに対し大幅な値引きを強要してきました。しかし、AIの急速な普及によりメモリ需要が急増し、状況は一変しました。その結果、メモリ価格は高騰し、以前は安く買い叩かれていたメモリメーカーの立場がAppleに対して逆転していると指摘されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-30T11:44:54.579795"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI協働：FRB Launch続々報 — マウスを動かしたくなくて、リモコンが生まれた話（笑）",
+    "link": "https://zenn.dev/frb_tamasub/articles/ai-collaboration08-frb-launch-remote-experience",
+    "summary": "この記事は「AI協働」をテーマに、FRB（連邦準備制度理事会、またはその他FRBと略される機関）のローンチに関する続報を扱っています。内容は「マウスを動かしたくなくて、リモコンが生まれた」というユーモラスな比喩を用いて、AIが人々の操作負担を軽減し、より簡便で効率的な新しい働き方や利便性をもたらす可能性を示唆しています。AIの導入が、従来の煩雑な作業から解放されるような革新的な変化を生み出すことへの期待が込められています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-30T11:45:09.368819"
+  },
+  {
+    "source": "Qiita",
+    "title": "最新技術トレンドから見る「信頼性の担保」と「知識の構造化」について",
+    "link": "https://qiita.com/Necoze/items/e456fdd2a10837517327",
+    "summary": "この記事は、最新の技術トレンドにおいて「信頼性の担保」と「知識の構造化」が重要テーマであると指摘しています。特に、2026年10月に認証局eMudhraで発生した中間CA秘密鍵の脆弱性問題を事例に、インターネットの信頼基盤について考察。HTTPS通信におけるTLS証明書の役割を解説し、単なる暗号化だけでなく「接続先の認証」が信頼構築に不可欠であることを強調しています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-10-30T11:45:19.594358"
+  },
+  {
+    "source": "ITmedia",
     "title": "なぜ「更新できない」のか？　PHP騒動で見えた、パッチを先送りする企業の盲点",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html",
     "summary": "PHPの重大な脆弱性が原因で多くの企業が緊急対応に追われましたが、これは普段のパッチ適用やバージョンアップが、その負担から先送りされがちな現状を浮き彫りにしました。記事は、「必要になったら更新する」という判断の裏に、実は「更新できない」という深刻な問題が隠れている可能性を指摘しています。この「更新できない」という企業の盲点に対し、IT部門は日頃からシステムの更新条件を確認する必要があると提言しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-10T01:24:12.347530"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
-    "link": "https://gigazine.net/news/20261009-jevman/",
-    "summary": "AI向けAPIサービスを提供するOpperが公開した「jevman」は、AIにパックマンをプレイさせることで、その状況に応じた判断能力を比較するベンチマークです。このシステムでは、6種類のAIモデルがそれぞれ100回ずつパックマンをプレイし、得点、判断速度、実行コストなどが詳細に比較されます。これは、jevやGPT-6 Luna Decisionsといった、素早い判断に特化した確率モデルの性能を評価するために設計されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-09T12:10:21.276152"
-  },
-  {
-    "source": "Zenn",
-    "title": "Turning Flat Images into Editable Layers: A Practical Workflow",
-    "link": "https://zenn.dev/jevaimodel/articles/700c7a05fab41e",
-    "summary": "記事本文が提供されていないため、内容を要約することはできません。\n\nタイトル「Turning Flat Images into Editable Layers: A Practical Workflow」から推測できるのは、おそらくフラットな画像を編集可能なレイヤーに変換するための実用的な手順やツール、技術について解説している記事であるということだけです。\n\nもし記事の全文をご提供いただければ、正確な要約を作成いたします。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-09T12:10:28.062971"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIが報告しなかった問題を、どう見つけるか ── 評価器の手前にある「観測」の設計",
-    "link": "https://qiita.com/BugiAK/items/683f9f3c8f2476f943c8",
-    "summary": "Jevシリーズのこの記事は、AIに埋め込む意味センサーJevが「渡されなかったものは測れない」という本質的な制約を持つことを指摘しています。この制約は、LLMが生成した回答の引用を検証する「Citation Check」のような評価器において、LLMが**引用を付けなかった**主張に関する問題を見つけることができないという課題を生じさせます。したがって、AIが自身で報告しない潜在的な問題を発見するためには、評価器に何を「観測」させるか、その設計が極めて重要であると筆者は述べています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-09T12:10:36.624341"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェントだけで業務は回らない？　Blue Prismが始めた「AIとRPAの分業」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news030.html",
-    "summary": "生成AIの導入企業が増加する一方で、多くの企業がAIを実際の業務プロセスに組み込むことに課題を抱えています。Blue Prismは、その背景に「3つの壁」が存在すると分析しています。同社が日本で提供を開始した「WorkHQ」は、AIエージェントとRPA（ロボティック・プロセス・オートメーション）の役割を分担する「分業」モデルを通じて、この課題の解決を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-09T01:32:51.912166"
   }
 ]
