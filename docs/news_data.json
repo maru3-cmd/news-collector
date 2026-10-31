@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
+    "link": "https://gigazine.net/news/20261031-hitster-anison/",
+    "summary": "「HITSTER アニソン」は、1960年代から2020年代までのアニソンを聴き、その曲が何年のものかを当てて年代順に並べていく対戦型音楽カードゲームです。プレイヤーはどの曲がかかるか分からない状態で楽曲を聴き、タイムラインに正確に配置することを目指します。本記事では、このユニークなゲームを実際にプレイしたレポートが紹介されており、その魅力が伝えられています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-10-31T11:18:15.922959"
+  },
+  {
+    "source": "Zenn",
+    "title": "FH画像センサの有無判定を標準処理項目だけで組む——しきい値はOK／NG画像と専用の計測フローで決める",
+    "link": "https://zenn.dev/kensho_ya/articles/fh-presence-check-standard-items-threshold",
+    "summary": "この記事は、FH画像センサを使った部品などの有無判定に関するものです。このシステムは、特別なカスタム開発なしに、標準処理項目だけで構築できる点が特徴です。判定の精度を確保するため、合否の基準となるしきい値は、良品（OK）と不良品（NG）の画像データおよび専用の計測フローを用いて決定されます。これにより、シンプルかつ正確な有無判定が可能となります。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-10-31T11:18:25.921745"
+  },
+  {
+    "source": "Qiita",
+    "title": "言語とは何か、理解とは何か — 言語学から考える人工知能の可能性",
+    "link": "https://qiita.com/el_nakajox/items/40e22609fabbd1ea6db3",
+    "summary": "この文章は、AIが言葉を本当に理解しているのかという問いから、言語の本質について考察します。\n筆者は「目の前の犬をなぜ『犬』と呼ぶのか」という例を挙げ、言葉が既存のモノに名札を貼っただけではないことを提起しています。\n英語の「Dog」やフランス語の「Chien」のように、同じ動物でも呼び名が異なることから、「言語名称目録観」という、言葉はモノの名前の一覧であるという見方に疑問を投げかけています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-31T11:18:37.968233"
+  },
+  {
     "source": "ITmedia",
     "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "article",
     "collected_at": "2026-10-11T00:35:12.241918"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される",
-    "link": "https://gigazine.net/news/20261010-cancers-infection/",
-    "summary": "世界保健機関(WHO)が2026年9月末に医学専門誌The Lancet Oncologyで発表した研究によれば、2024年に世界で発生したがん症例のうち、約12％は感染症が原因である可能性が高いことが示されました。この研究結果は、がんの発生において感染症が重要な要因となっていることを明らかにしています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-10T11:27:42.572859"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIの作業の質は「何を読ませているか」で決まる ― 文脈の置き場「AIカンパニー」と出口の設計",
-    "link": "https://zenn.dev/tmiyachi/articles/ai-company-context-design",
-    "summary": "このタイトルが示唆するのは、AIの作業品質が主に「何を読ませるか」、つまりAIに与える情報や文脈の質に左右されるという点です。特に「AIカンパニー」は、AIに適切な文脈を与える「文脈の置き場」としての役割を担い、その設計が重要になります。さらに、AIが生成した結果をどのように利用し、提示するかという「出口の設計」も、最終的な成果の質を決定する上で不可欠であると説明しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-10T11:27:51.849063"
-  },
-  {
-    "source": "Qiita",
-    "title": "NVIDIA粗利率75%の真実——原価6,400ドルが4万ドルに化ける理由",
-    "link": "https://qiita.com/kinamocchi_tech/items/ebd8185b57a76838e2cb",
-    "summary": "NVIDIAが高い粗利率を誇る背景には、自社で製造工場を持たないファブレスモデルにより設計に特化しているビジネス戦略があります。同社はGPUの設計を担い、製造工程をTSMCなどのパートナー企業に委託することで、効率的なビジネス構造を構築しています。\n\n具体例として、高性能AI用GPUである「H100」は、原価約6,400ドルに対し約40,000ドルで販売され、粗利率は約84%という非常に高い利益率を達成しています。この成功は、AI市場におけるNVIDIAの圧倒的な技術的優位性と、巧妙な分業体制によって支えられています。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-10-10T11:28:04.696419"
   }
 ]
