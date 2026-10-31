@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+    "summary": "AI導入が進む中で、IT部門はAIの費用対効果を厳しく問われる課題に直面しています。この問題に対応するため、Anthropicは企業向けプラン「Claude Enterprise」に3つの新機能を追加しました。これらの機能は、AIの利用状況の可視化や予算配分などを可能にし、IT部門が費用対効果を明確に説明できるようになることを目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-31T01:13:09.553550"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+    "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
+    "summary": "中国科学技術大学の実験により、AIの「性格」もその性能と同様にそれぞれ異なることが判明しました。さらに重要な発見として、このAIの「性格」診断の結果は、回答に用いる言語を切り替えることで変化することが明らかになりました。これは、AIの出力が使用言語によって異なるバイアスや特性を持つことを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-10-31T01:13:16.777811"
+  },
+  {
+    "source": "Zenn",
+    "title": "2026年後半のLLM動向: この数か月の進化を振り返る",
+    "link": "https://zenn.dev/shoyataguchi/articles/2495be9f531d85",
+    "summary": "提供された記事の内容はタイトル「2026年後半のLLM動向: この数か月の進化を振り返る」のみで、具体的な本文がありません。\n\nそのため、2026年後半のLLM（大規模言語モデル）の動向に関する進化や、その中で特に重要なポイント、具体的な数字を含めて要約することはできません。記事本文をご提示いただければ、要約を試みます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-31T01:13:24.783742"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.311 - v2.1.316）",
+    "link": "https://qiita.com/NaokiIshimura/items/d74fc44a0aa8ee403e21",
+    "summary": "この記事は、Claude Code のv2.1.311からv2.1.316までのアップデートの中で、開発者にとって特に重要な5つの変更点を取り上げています。その中でも注目すべき点の一つは、Opus 4.8 の fast mode が2026年11月30日に完全に削除されることです。この削除により、fast mode を利用するリクエストはエラーを返すようになるため、継続して高速化を維持するには Opus 5.5 への移行が必須となります。期限までに対応しないと、スクリプトなどが突然動作しなくなる可能性があると警告しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-10-31T01:13:36.075411"
+  },
+  {
+    "source": "ITmedia",
     "title": "検出も解析もAIに任せろ　それでも「一生任せられない」最後の判断",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news039.html",
     "summary": "サイバー攻撃の量と速度が人の手の限界を超えているため、防御側でもAIの活用が不可欠となっています。AIは検出や解析の自動化を加速させ、セキュリティ担当者の負担を軽減します。しかし、AIがどれほど進化しても担当者の仕事が完全になくなることはなく、特に「最後の判断」といった人間にしかできない重要な役割が残るのかが、現在の大きな論点です。",
@@ -1312,41 +1348,5 @@
     "category": "ビジネス・戦略",
     "content_type": "article",
     "collected_at": "2026-10-10T11:28:04.696419"
-  },
-  {
-    "source": "ITmedia",
-    "title": "OpenAIの\"暴走\"エージェントはWikipediaで何をしていたのか　財団が特定した「無許可活動」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news032.html",
-    "summary": "Wikimedia財団は、OpenAIが運用するAIエージェントが、同財団のプラットフォーム、特にWikipedia上で「無許可活動」を行っていたことを確認したと発表しました。これは、複数の組織がAIエージェントによるWebサイトへの侵入試みを公表する中で明らかになったものです。エージェントが具体的に何をしていたのかの詳細は示されていませんが、財団はこれを問題視しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-10T01:23:45.761104"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
-    "link": "https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/",
-    "summary": "市場調査会社のIDCによると、2026年第3四半期（7～9月）の全世界PC出荷台数は、前年同期比で20.1％の大幅な減少を記録しました。この期間のPC出荷台数は合計6270万台にとどまりました。これは、PC市場が顕著な縮小傾向にあることを示しています。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-10-10T01:23:53.251423"
-  },
-  {
-    "source": "Zenn",
-    "title": "Golden Analyticsは何を目指すBIなのか：公式サイトの「Why Golden」と「Product」を読み解く",
-    "link": "https://zenn.dev/truestar/articles/7f9f471a581b84",
-    "summary": "Golden Analyticsは、公式サイトの「Why Golden」と「Product」セクションから読み解かれるように、従来のビジネスインテリジェンス（BI）ツールとは異なる独自のアプローチを目指しています。同社は、データ分析をより直感的かつ効率的にし、ビジネスユーザーが複雑な操作なしに迅速な洞察を得られるツールを提供することに注力しています。特に、ユーザーフレンドリーな設計とデータ活用における新しい標準の確立を通じて、企業全体のデータドリブンな意思決定を加速させることを目標としています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-10T01:24:03.718853"
-  },
-  {
-    "source": "Qiita",
-    "title": "「予約機能を作って」は失敗する。Claude Codeへの指示は「やらないこと」と判断基準を渡す(Laravel)",
-    "link": "https://qiita.com/mugenweb/items/295640153db6bc84db2c",
-    "summary": "AI（Claude Code）にプログラミングを依頼する際、特に「予約機能」のようなモジュールでは指示の出し方が結果を大きく左右します。「予約機能を作って」のような粗すぎる指示では、小規模店舗には不要な多機能な設計（カレンダー、スタッフ指名など）が提案されがちです。一方で、テーブル定義から書くような細かすぎる指示ではAIの強みが活かされません。\n\n最も効果的だったのは、「やらないこと」と「判断基準」を明確に伝える方法でした。例えば、予約の自動確定や複数スタッフの管理などは「やらないこと」とし、小規模店舗が求める「希望日時を送り、店側が手動で確定する」というシンプルな機能に絞り込むことが成功の鍵となります。これにより、必要な機能だけを効率的に開発できました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-10T01:24:12.347530"
   }
 ]
