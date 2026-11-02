@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "SaaSの“画面”が主役でなくなる時代、Workdayの価値はどこに残るのか　製品トップに聞いた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news021.html",
+    "summary": "Workdayは、従来のホーム画面をAIとの会話で操作するインターフェース「Sana」へと刷新しました。この新機能は、ClaudeやSlackなど外部データとの連携を強化し、ユーザー体験を向上させます。さらに、課金モデルも「AIがこなした仕事の量」に応じる形へと拡張され、SaaSの“画面”が主役でなくなる時代への対応を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-02T01:07:16.842813"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除",
+    "link": "https://gigazine.net/news/20261102-adguard-adblocking/",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 34.259002358s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 34\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-02T01:07:25.756036"
+  },
+  {
+    "source": "Zenn",
+    "title": "Copilot Studioを企業に18件展開して、最初に直面した設計の壁",
+    "link": "https://zenn.dev/sidejob/articles/a2e2c37e7bc449214",
+    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 29.822042154s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 29\n}\n]",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-02T01:07:30.193866"
+  },
+  {
+    "source": "Qiita",
+    "title": "4。CursorのマーケットプレイスでClaude Code拡張が改ざんされ最大5000人に届いた日、自分の環境で「使える」表示なのに接続が切れていたコネクタの数はその数字だった",
+    "link": "https://qiita.com/Hideki_Tamae/items/650feb3eb8391af59e86",
+    "summary": "2026年10月29日、CursorのマーケットプレイスでClaude Code拡張機能が約11時間にわたり改ざんされ、公式アカウントを装って最大5,000人のユーザーに配布されるインシデントが発生しました。この記事の筆者は、この「公式に見えても実体が異なる」という構図を受け、自身の環境で「使える」と表示されながらも実際には接続が切れていたコネクタが4つあることを発見しました。これは、見た目と実体の乖離が身近なツールにも存在し得るという注意喚起です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-02T01:07:42.642731"
+  },
+  {
     "source": "GIGAZINE",
     "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
     "link": "https://gigazine.net/news/20261101-wikipedia-ai-content/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-12T13:39:52.617343"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
-    "link": "https://gigazine.net/news/20261012-people-similar-mental-health/",
-    "summary": "最新の研究によると、「人は自分と似た人に引かれる」という傾向は、精神疾患を抱える人々に特に強く当てはまることが明らかになりました。この結果、似たような精神疾患を持つ人々がカップルになりやすい傾向が見られます。そのため、研究は家族内での精神疾患のリスクが高まる可能性を指摘しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-12T00:49:33.124133"
-  },
-  {
-    "source": "Zenn",
-    "title": "claude --worktree で同じリポジトリを並行して動かすときに、知っておきたい 5 つのこと",
-    "link": "https://zenn.dev/tanashun/articles/claude-code-worktree-parallel",
-    "summary": "この記事は、`claude --worktree` コマンドを用いて同じリポジトリを複数の作業ディレクトリで並行して動かす際に、開発者が知っておくべき5つの重要な事柄について解説しています。異なるブランチでの同時作業や機能開発を効率的に行うための情報がまとめられており、潜在的な競合や問題を回避しながらスムーズな開発フローを確立するのに役立つでしょう。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-12T00:49:45.108460"
-  },
-  {
-    "source": "Qiita",
-    "title": "0。「対象を広げたのに使っていない」と1か月前に書いた自分の記事のあと、その範囲が実際に使われた回数だった",
-    "link": "https://qiita.com/Hideki_Tamae/items/b34915a4894b28028b8d",
-    "summary": "この記事は、筆者が以前「優先度2」の適用範囲を広げたのにほとんど使っていないと自己診断した件について、その後の状況を報告しています。9月15日の診断記事以降、10月11日までの25回の定期実行において、「Tamae-OS全体」に広げたはずの自動化・エージェントに関するネタが実際に使用された回数は**0回**でした。\n\nこれは、Zenn/Qiita自動投稿パイプラインの障害記録を主軸としていた「優先度2」の対象を、9月7日にTamae-OS全体に拡張したにもかかわらず、その後1ヶ月以上も新しい範囲が全く活用されていない現状を示しています。筆者の自己診断後も、実態は変わっていないことが明らかになりました。",
-    "category": "DX・業務改善",
-    "content_type": "article",
-    "collected_at": "2026-10-12T00:49:57.898643"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「出産した回数」が母親の寿命に影響を与える可能性がある",
-    "link": "https://gigazine.net/news/20261011-number-of-kids-affect-lifespan/",
-    "summary": "近年、特に先進国では出生率の低下が著しく、多くの国で人口維持に必要な合計特殊出生率「2.1」を下回っています。このような状況の中、フィンランドのヘルシンキ大学が主導した研究が新たな視点を示しました。その研究によると、「出産した回数」が母親の寿命に影響を与える可能性があるとのことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-11T11:41:20.580015"
   }
 ]
