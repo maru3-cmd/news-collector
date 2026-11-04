@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "SDカードを挿入しないと時刻設定できないカーナビをジェイルブレイク",
+    "link": "https://gigazine.net/news/20261104-carnavi-jailbreak/",
+    "summary": "一部のカーナビは地図情報用のSDカードがないと時刻設定すらできないという不便な問題があります。これに対し、セキュリティ研究者のラスムス・モーラッツ氏は、ルノーの純正カーナビを「ジェイルブレイク（脱獄）」することで、SDカードなしで時刻を変更することに成功しました。この経緯は2026年11月2日に公開され、カーナビの制限を突破する一例として注目されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-04T13:21:19.772321"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code 2026年10月のアップデートまとめ:Mods、Code Review、Haiku 5.5",
+    "link": "https://zenn.dev/orivanai/articles/claude-code-2026-10-updates",
+    "summary": "Claude Codeは、2026年10月に発表されたアップデートで、複数の重要な改善が行われました。\n主な更新内容としては、新機能「Mods」の導入と「Code Review」機能の強化が挙げられます。\nさらに、提供されるモデルの一つである「Haiku」はバージョン5.5にアップグレードされ、性能向上が期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-04T13:21:28.623074"
+  },
+  {
+    "source": "Qiita",
+    "title": "【2026年末版】Claude Codeベストプラクティス解説｜以前から何が変わった？",
+    "link": "https://qiita.com/skwt20/items/39a876ecf1c4a80261ae",
+    "summary": "Claude Codeの公式ベストプラクティスは、モデルの進化に伴い約3ヶ月で大幅に更新されました。特に2026年11月1日時点の情報として、以前の「人間による細かな管理」から「Claudeに判断を任せ、絶対に守るべきルールだけを仕組みで強制する」という方針への大きな転換が示されています。これにより、Claude自身に任せられる範囲が拡大し、コンテキスト管理などの負担が軽減されたことが強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-04T13:21:37.045496"
+  },
+  {
     "source": "ITmedia",
     "title": "SaaS不要論、日本は“火種”が違った　セールスフォース小出会長が語る落としどころ",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/04/news022.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-10-14T10:42:58.636002"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI に作らせた仕組みを後から確かめる Mitate【第5回 Agentic AI Hackathon with Google Cloud】",
-    "link": "https://zenn.dev/r2_san/articles/65920f04ae5456",
-    "summary": "「AIに作らせた仕組みを後から確かめる Mitate」という記事は、第5回 Agentic AI Hackathon with Google Cloudで取り上げられたコンセプトやプロジェクトを指しています。このアプローチでは、AIが生成したシステムやプロセスの動作や妥当性を、人間が後から検証します。「Mitate（見立て）」という言葉がキーワードで、AIの成果物に対する人間の評価の重要性を示唆していると考えられます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-14T10:43:09.252544"
-  },
-  {
-    "source": "Qiita",
-    "title": "エージェントに想起させる：MCP 上で検索可能な会話履歴",
-    "link": "https://qiita.com/yshurik/items/0a18c01062e205cab63a",
-    "summary": "エージェントとのチャットは過去の履歴を記憶せず、毎回ゼロから始まるため、ユーザーは以前の会話内容を繰り返し説明する必要がありました。この記事は、この問題解決のために、わずかなコードで`recall_my_conversations`というツールを導入する方法を紹介しています。このツールを使用することで、エージェントは[funes]検索エンジンを活用し、現在のユーザー自身の過去のチャットを日付付きの抜粋として検索し、参照できるようになります。これにより、エージェントは会話履歴を踏まえた応答が可能になります。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-14T10:43:19.978620"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「やっと前に進める」　VMwareから独立して2年、Omnissa竹下社長が語る守りから攻めへの転換",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news019.html",
-    "summary": "VMwareから独立して2年が経ったOmnissa Japanは、竹下雄輔社長の下、「守り」から「攻め」への転換期を迎えています。社長は、独立後の大半の期間を既存顧客との取引維持に費やしてきたと振り返り、ようやく前進できる段階に来たと語っています。特に日本市場では、ワークスペースの「縦割り」が課題であり、この点は米国での年次イベントを通じて認識されました。",
-    "category": "ビジネス・戦略",
-    "content_type": "news",
-    "collected_at": "2026-10-14T00:44:21.679128"
   }
 ]
