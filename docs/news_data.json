@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始",
+    "link": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link/",
+    "summary": "iOS 27.3の最初のベータ版がリリースされ、AppleはiCloudの公開リンクに対するチェックを開始することが明らかになりました。これにより、「リンクを知っている人は誰でもアクセス可能」な設定でiCloudファイルを共有する際、共有アイテムが有害なコンテンツではないかAppleによって確認されます。この措置は、意図しない有害コンテンツの拡散を防ぐことを目的としています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-05T13:35:04.580673"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIに「勝手な推測」をさせない、ルールファイル設計の型",
+    "link": "https://zenn.dev/ai_secretary/articles/492069400e36aa",
+    "summary": "この記事は、AIが事実に基づかない情報や誤った推測（いわゆる「ハルシネーション」）を行うという一般的な課題に焦点を当てています。この問題を解決するため、「ルールファイル設計の型」という具体的なアプローチを提案しています。\n\nこの設計パターンを用いることで、AIの振る舞いを効果的に制御し、ユーザーの意図しない「勝手な推測」を防ぐことを目指します。これにより、AIの出力の信頼性を高め、より予測可能で正確な結果を得ることが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-05T13:35:14.168214"
+  },
+  {
+    "source": "Qiita",
+    "title": "【第053回】WebSocketが使えなくても諦めない！HTTPポーリング時のルーム名常時同期とキャッシュ整合性",
+    "link": "https://qiita.com/Waipe/items/1e6ad87c0aea8e5d3109",
+    "summary": "WebRTCを活用したP2Pチャットシステム「つゔぁいちゃんねる」は、WebSocketが利用できないネットワーク環境向けにHTTPの定期ロングポーリングをフォールバックとして提供しています。しかし、このHTTPポーリング使用時に、ホストが設定したルーム名がクライアント側でデフォルトの「P2Pチャットルーム」のまま同期されないという不具合が報告されました。この記事では、ルーム名の常時同期とキャッシュ整合性の問題を解決することが主題となっています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-05T13:35:23.720020"
+  },
+  {
     "source": "ITmedia",
     "title": "ニトリ、主要テーブル約2600本をAIで分析へ　独自ルールで名付けたデータをAIにどう理解させた？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news005.html",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "article",
     "collected_at": "2026-10-15T10:26:30.827761"
-  },
-  {
-    "source": "Qiita",
-    "title": "Every Policy Change, With a Name on It: Audit Trails for LLM Gateways",
-    "link": "https://qiita.com/nrouter_ai1991/items/457b6b1d34f6a3a36770",
-    "summary": "プロダクションAIシステムでは、モデル権限の拡大や予算上限の変更といったポリシー変更が知らぬ間に蓄積されがちです。これらの変更は通常のシステムログには記録されないため、後になってセキュリティ監査などで「誰が何を承認したか」を問われた際に、チャットや記憶から履歴を再構築することが非常に困難になります。本記事は、この課題を解決するためにLLMゲートウェイに監査証跡を導入し、すべてのポリシー変更に責任の所在を明確に記録することの重要性を提起しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-15T10:26:38.601174"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？　日立など5社、横浜と北九州をつないで実証",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news029.html",
-    "summary": "AIデータセンターの電力問題に対処するため、日立製作所や電源開発など5社が、AIの計算処理を再生可能エネルギーが豊富な時間や場所へ移す実証を総務省の支援のもと行います。これは「ワークロードシフト」と呼ばれ、発電状況に合わせてデータセンターの処理を動かすことで、電力の効率的な利用を目指すものです。具体的には、横浜と北九州、さらに上越新幹線の沿線を拠点として、電力供給と需要のバランスを取るこのシステムの実効性が検証されます。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-15T00:10:43.066885"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮",
-    "link": "https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/",
-    "summary": "「WordCraft」は、Microsoft Wordの代替を目指して開発されているオープンソースの文書作成アプリです。Rust製のネイティブアプリであり、AIエージェントでの利用も考慮されています。\n\n2026年10月8日にバージョン0.1.0がリリースされて以降、わずか6日間でバージョン0.6.1に達するなど、高頻度でアップデートが行われています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-15T00:10:49.531789"
   }
 ]
