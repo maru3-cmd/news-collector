@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "ニトリ、主要テーブル約2600本をAIで分析へ　独自ルールで名付けたデータをAIにどう理解させた？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news005.html",
+    "summary": "ニトリはBigQueryへのデータ基盤移行後、データが増加したことで、分析が一部の社員に限られる課題に直面しました。この状況を改善するため、同社は主要テーブル約2600本を対象に、会話型AIを導入して誰もがデータ分析できる環境を目指しています。しかし、社内独自の項目名がAIにとって理解の壁となり、その打開策として地道な作業の徹底を選びました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-05T01:53:34.950842"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "GTA6は発売2週間前の予約注文だけで770万本・1200億円近くを売り上げる",
+    "link": "https://gigazine.net/news/20261105-gta-6-over-750-million-preorders/",
+    "summary": "2026年11月19日発売予定の「グランド・セフト・オートVI(GTA6)」が、予約注文だけで驚異的な売上を達成しています。\n発売2週間前の時点で、予約注文だけで770万本を売り上げ、売上高は7億5000万ドル(約1186億円)以上に達したことが明らかになりました。\nこれは、同タイトルへの期待の高さを示す異例の数字です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-05T01:53:47.606596"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code × SessionStart/SessionEnd Hooks | セッション間の文脈を自作メモリで引き継ぐまで",
+    "link": "https://zenn.dev/yunisuta/articles/claude-code-sessionstart-sessionend-2v5are",
+    "summary": "この記事は、AIモデルClaudeとのセッション間で文脈を効率的に引き継ぐ方法について解説しています。具体的には、`SessionStart`および`SessionEnd`フックを活用し、自作のメモリシステムを構築することで、過去の対話履歴や重要な情報を次セッションへ継続させる手法が紹介されています。これにより、Claudeはより連続性のある応答やコード生成が可能となり、ユーザー体験が向上します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-05T01:53:57.459366"
+  },
+  {
+    "source": "Qiita",
+    "title": "Oracle AI Database 26ai の JSONについて(3) – JSON Collection Table",
+    "link": "https://qiita.com/TDM26587/items/ce1dd2eb97512221dc48",
+    "summary": "この記事は、Oracle AI Database 23c (23ai) で導入された「JSON Collection Table」について解説しています。これは、JSONドキュメントの格納と管理に特化した機能で、MongoDBやAmazon DocumentDBといった他のドキュメント指向データベースと同様の機能を提供します。Oracle AI DatabaseにおけるJSONデータは、「document-centric = yes」というガイドラインに従って扱われることが強調されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-05T01:54:07.615462"
+  },
+  {
     "source": "GIGAZINE",
     "title": "SDカードを挿入しないと時刻設定できないカーナビをジェイルブレイク",
     "link": "https://gigazine.net/news/20261104-carnavi-jailbreak/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-15T00:10:49.531789"
-  },
-  {
-    "source": "Zenn",
-    "title": "Applied Net 2026 に参加してきました！海外の保険テックイベントで感じたこと",
-    "link": "https://zenn.dev/hokan_blog/articles/20261009-applied-net-2026",
-    "summary": "提供された内容が記事のタイトルのみであるため、具体的な記事本文からの要約はできません。\n\nこの記事は、著者が海外で開催された保険テックイベント「Applied Net 2026」に参加した体験と、そこで感じたことについて報告するものです。イベントの開催年が2026年であることから、保険業界における最新のテクノロジー動向や将来の展望に焦点を当てていると推測されます。ただし、具体的なイベント内容、詳細な感想、あるいはその他の重要な数字については、このタイトルからは分かりません。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-15T00:11:00.399950"
-  },
-  {
-    "source": "Qiita",
-    "title": "AI時代においてようやくプログラミング言語の格差は無くなった",
-    "link": "https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265",
-    "summary": "Rails World 2026でDHH氏は、プログラミングはAIに置き換わり、人間の役割はプロダクト開発にあるとし、「Rubyより英語の方が好きなプログラミング言語だ」と発言しました。筆者はこの考えに強く共感し、AI時代においてプログラミング言語の格差が解消されたと述べています。かつてC#で言語格差を経験した筆者にとって、現在の状況は長年思い描いていた理想的な未来の実現であるとしています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-10-15T00:11:10.359067"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Active Directoryが“人質”に　ランサムウェアを使わない恐喝攻撃の手口とは",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news018.html",
-    "summary": "ランサムウェアによる暗号化やデータ破壊を伴わない、新たなタイプのサイバー恐喝攻撃が確認されました。この攻撃は、Windows環境の中核である企業のActive Directoryを乗っ取ることを手口としています。攻撃者はActive Directoryを掌握し、それを人質に取る形で企業を脅迫し、金銭を要求します。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-10-14T10:42:49.793067"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Googleの検索結果を収集するツールに通常とは異なるサイトが表示されているとの調査結果",
-    "link": "https://gigazine.net/news/20261014-google-serp-tool-poisoned/",
-    "summary": "Google検索結果の掲載ランキングデータを提供する複数の企業が使用する機械的収集ツールで、2026年9月以降、共通の不具合が発生していることが判明しました。\n複数の企業が同時期にこの問題を報告しており、業界全体に影響が及んでいると見られます。\nこの不具合により、これまでGoogle検索結果で上位に表示されていたウェブサイトが、これらのツールで収集したデータに一時的に含まれなくなる現象が発生しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-14T10:42:58.636002"
   }
 ]
