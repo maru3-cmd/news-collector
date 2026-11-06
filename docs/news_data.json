@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "Windows、10月の更新で社内Wi-Fi・VPNに影響も　IT部門が対応すべき直近の“期限”を整理",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news020.html",
+    "summary": "Microsoftは、Windowsの更新プログラムを適用すると社内Wi-FiやVPNに接続できなくなる可能性がある変更を明らかにしました。これは10月の更新で特に懸念されており、IT部門は影響を受ける環境を確認し、直近の期限までに必要な対応を完了させる必要があります。この対応を怠ると、社内ネットワークへの接続に支障が出る恐れがあります。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-06T13:19:07.620432"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？",
+    "link": "https://gigazine.net/news/20261106-open-closed-weight/",
+    "summary": "AIモデル提供プラットフォームOpenRouterの調査によると、オープンウェイトモデルの利用が急速に拡大しています。2026年9月末時点で、同プラットフォーム上位50モデルのトークン処理量のうち72%がオープンウェイトモデルによるもので、前年の27%から大幅に増加しました。このデータは、AI分野におけるオープンモデルの普及と重要性の高まりを明確に示しています。記事では、オープンウェイトモデルとクローズドウェイトモデルの違いについても解説しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-06T13:19:14.140780"
+  },
+  {
+    "source": "Zenn",
+    "title": "年間数億円のSaaSを、一人ｘ半年ｘバイブコーディングでリプレイスして感じた達成感と危機感",
+    "link": "https://zenn.dev/ttake/articles/0b6c8f887b160e",
+    "summary": "筆者は、年間数億円規模のSaaSシステムを、たった一人で半年という短期間のうちに「バイブコーディング」（勢いのある高速開発）によってリプレイスすることに成功し、大きな達成感を味わいました。この画期的な成果は、個人の能力と迅速な開発の可能性を強く示しています。\n\nしかし、その一方で、属人化や将来的なシステムの品質維持、運用体制などに対する潜在的な危機感も感じているとのことです。この体験は、現代のシステム開発における効率性と持続可能性の課題を提起するものと言えるでしょう。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-06T13:19:25.725508"
+  },
+  {
+    "source": "Qiita",
+    "title": "AIに内容の解説をさせるときのプロンプトエンジニアリング",
+    "link": "https://qiita.com/iroha_afternoon/items/5d35d54aa86ef657611e",
+    "summary": "この記事は、AIが内容を解説する際に「理解しやすい説明を書くためのルール」を提示しています。説明が分かりにくくなる主な原因は、「読者の理解度を考慮しない一律な説明」と「内容自体の誤り」の2点であると指摘。これに対し、理解負荷が高い箇所に説明を集中させ、書き始める前に内容を確定・検証する解決策を提案しています。また、説明は「全体の骨組み提示」「各部の詳細説明」「全体の流れの整理」という三段構成で記述することを推奨しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-06T13:19:33.827829"
+  },
+  {
+    "source": "ITmedia",
     "title": "Windows10月の更新で社内Wi-Fi・VPNに影響も　IT部門が対応すべき直近の“期限”を整理",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news020.html",
     "summary": "Microsoftは、Windowsの10月の更新プログラムにより、社内Wi-FiやVPN接続に影響が出る可能性を警告しています。これにより、企業ユーザーが社内ネットワークに接続できなくなる恐れがあります。IT部門は、この問題を防ぐため、Microsoftが示す期限までに適切な対応を講じる必要があります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-16T10:14:05.496103"
-  },
-  {
-    "source": "Qiita",
-    "title": "【DGX Spark】Qwen3.8-27B に妥協して、そこから改良した記録 — TensorFold 実運用チューニング",
-    "link": "https://qiita.com/yanma0102/items/36b351991b1ee48b81f6",
-    "summary": "この記事は、DGX Spark（GB10, 128GBユニファイドメモリ）上で大規模言語モデルを運用する記録です。当初Flash-Nextでの課題に直面し、Qwen3.8-27B（MLX 4-bit + DFlash2）を常用モデルとして採用しました。\n\nこのQwen3.8-27Bは、安定性、速度、素直さの点で「正解」であることが実運用で確認されています。運用基盤の改善では、公式準拠のサンプリング（非thinkingで`presence_penalty=1.5`）を採用し、高速化には特に`--prefill-fp8`オプションが最も有効でした。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-16T10:14:16.541480"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「Firefox Enterprise」発表　ブラウザ管理を“クラウド任せ”にしない選択肢",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news036.html",
-    "summary": "Mozillaは、企業や政府機関向けのブラウザ製品「Firefox Enterprise」を発表しました。この製品の最大の特徴は、ブラウザの管理コンソールを各組織の自社インフラで運用できる点にあります。これにより、ブラウザ管理をクラウドに依存しない新たな選択肢が提供されます。",
-    "category": "クラウド・インフラ",
-    "content_type": "news",
-    "collected_at": "2026-10-15T23:58:07.506879"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "自宅のイラストを「エアコンや照明を操作できる絵」に改造してスマートホーム化を進めた記録",
-    "link": "https://gigazine.net/news/20261016-illustrated-smart-home-dashboard/",
-    "summary": "アントン・フロロフ氏は、オープンソースの「Home Assistant」を使って自宅のスマートホーム化を進めていましたが、家族が操作用アプリを使いたがらないことに悩んでいました。\n\nこの課題を解決するため、彼はイラストレーターに自宅の絵を描いてもらい、その絵の中の家電（エアコンや照明など）をタップすることで、実際の家電を操作できるオリジナルのダッシュボードを作成しました。\n\nこのユニークな方法により、アプリに不慣れな家族でも直感的にスマートホーム機器を操作できるようになりました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-15T23:58:16.714384"
-  },
-  {
-    "source": "Zenn",
-    "title": "今日の市場ブリーフィング",
-    "link": "https://zenn.dev/bambampurin/articles/2026-09-14-market-daily",
-    "summary": "申し訳ありませんが、ご提示いただいた記事の内容は「今日の市場ブリーフィング」としか記載されておらず、具体的な情報が含まれていません。そのため、この記事を3-4文で要約したり、重要なポイントや数字を含めたりすることはできません。\n\nもし要約が必要な場合は、記事の全文をご提供いただけますでしょうか。",
-    "category": "ビジネス・戦略",
-    "content_type": "article",
-    "collected_at": "2026-10-15T23:58:23.648398"
   }
 ]
