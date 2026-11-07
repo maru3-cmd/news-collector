@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？",
+    "link": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives/",
+    "summary": "社会福祉制度が国民の寿命に与える影響は、近年の政治において重要な論点となっています。この疑問に対し、学術誌「Social Indicators Research」に掲載された論文が、その関連性を調査しました。具体的には、さまざまな発展段階にある国々を比較し、福祉制度の充実度と国民の寿命との関係性が分析されました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-07T11:58:36.427752"
+  },
+  {
+    "source": "Zenn",
+    "title": "完成形のひとつ手前",
+    "link": "https://zenn.dev/vbaman/articles/f59f101e55ffbf",
+    "summary": "このタイトルと内容のみで構成された記事は、「完成形のひとつ手前」という状態を簡潔に示しています。具体的な詳細や、何がその段階にあるのかという情報は一切提供されていません。\n\nしかし、「ひとつ手前」という言葉が示す通り、何かが最終段階に入り、あと\"ひとつ\"の過程で完成に至る直前の状況にあることが、唯一の重要なポイントです。つまり、この記事自体が「完成への最終段階」という状態を表現しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-07T11:58:47.279328"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code 入門：話しかける前の context を /context で見る",
+    "link": "https://qiita.com/tomo2929/items/90ddce41476cad77fc44",
+    "summary": "Claude Codeは、ユーザーがまだ何も入力していない状態でも既にcontext（AIが見ている情報全体）を持っており、これがトークン消費につながります。具体的には、`CLAUDE.md`、`auto memory`、`MCP のツール名`、`skill の説明`が事前contextに含まれています。`/context`コマンドでこの内訳を確認できます。例えば、起動直後の空のフォルダでも28.2kトークンが消費されており、`CLAUDE.md`を置くと35kトークンに増加します。この事前contextの理解は、不必要なトークン消費を抑え、Claudeが意図する指示を見失わないために重要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-07T11:58:54.647693"
+  },
+  {
     "source": "ITmedia",
     "title": "freeeは「AIコスト問題」をどう乗り越えた？　月100万件規模の処理で、汎用LLM比50分の1に",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news021.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-17T09:47:42.077984"
-  },
-  {
-    "source": "Qiita",
-    "title": "資料は、書いた6分後に古くなっていた",
-    "link": "https://qiita.com/hanamilo/items/e7ce683dbbb422c70cbf",
-    "summary": "この記事によると、筆者は当初52件の教訓を4つの型に分類していましたが、その後の再調査で71件の教訓と223件の失敗事例を分析した結果、両者から共通して7つの型が判明しました。\n\n最も多かった型は「書いてあることが、実物と違う」で、失敗事例223件中41件（18%）を占め、2位に9件差をつけています。\n\nまた、引き継ぎ文書は第38版から第49版へ更新されており、教訓の数が増えたことで新たな型が見えてきたと筆者は結論付けています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-17T09:47:50.740631"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
-    "link": "https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/",
-    "summary": "Appleが、未発表の「iPad mini(第8世代)」の存在を公式の規制情報掲載サイトを通じてうっかり示唆したようです。この新型iPad miniは、OLEDディスプレイを採用すると噂されており、2026年10月末に発表される見込みです。公式情報から示唆されたことで、Appleがこの次世代モデルを準備している可能性が高まっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-17T00:05:02.026697"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIの応答を待つ間に元データが変わったら？ Firestoreで古い改定案を確定させない設計",
-    "link": "https://zenn.dev/yun_bow/articles/72433e0a2d061f",
-    "summary": "AIがデータ処理を行う際、応答を待つ間に元データが変更されると、古いデータに基づいた改定案が誤って確定されてしまうリスクが生じます。特にFirestoreのようなリアルタイムデータベース環境ではこの競合状態が発生しやすく、データの整合性維持が課題となります。\n\nこの記事は、AIの応答待ち中に元データが更新されても、古い改定案がシステムによって誤って確定されないようにするための設計の重要性を解説しています。これにより、不正確な情報の上書きを防ぎ、AIを活用したアプリケーションの信頼性を確保することを目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-17T00:05:37.864541"
   }
 ]
