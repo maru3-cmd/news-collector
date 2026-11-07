@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "freeeは「AIコスト問題」をどう乗り越えた？　月100万件規模の処理で、汎用LLM比50分の1に",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news021.html",
+    "summary": "freeeは、月100万件規模の帳票を処理するAI OCRにおいて「AIコスト問題」を解決するため、独自のSLM（Small Language Model）を採用しました。これにより、汎用LLMのAPIと比較し、項目抽出の精度を最大10ポイント向上させ、処理速度を5倍に高速化。さらに、コストを50分の1に大幅削減することに成功し、AI活用の効率化を実現しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-07T01:26:28.548186"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+    "link": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
+    "summary": "2026年10月末に発表された「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光る機能が復活しました。これは以前のモデルで親しまれたデザイン要素の再来となります。特筆すべきは、この光るAppleロゴがユーザーの好みで消灯可能である点が明らかになったことです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-07T01:26:34.751261"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code の窓を増やしても、仕事は1つの窓に集まる。役の分け方と CLAUDE.md の書き方",
+    "link": "https://zenn.dev/ciel_lab/articles/5a9291e5cc3128",
+    "summary": "Claude Codeを用いた開発では、たとえ複数のウィンドウで作業しても、最終的にタスクは一つのウィンドウに集約される傾向があります。本記事は、このような作業の集中がもたらす課題に対処し、効率を向上させるための方策を提示しています。具体的には、役割を明確に分ける方法と、`CLAUDE.md`ファイルを効果的に記述する方法に焦点を当てています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-07T01:26:45.355622"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）",
+    "link": "https://qiita.com/NaokiIshimura/items/4884c18ed0efc432edc9",
+    "summary": "この記事は、Claude Codeのv2.1.317からv2.1.319までのアップデートの中から、実務に影響の大きい5つの変更点のうちの1つを詳述しています。特に、v2.1.319で追加された`permissions.denyInsteadOfPrompting`は、ターミナルセッションやサブエージェントなどによるツール呼び出し時に、権限プロンプトを表示せずに自動的に拒否し、タスクの継続を可能にします。これにより、プロンプト待ちによる中断を避け、同時にv2.1.319では読み取り専用コマンドに対する不要な権限プロンプトも解消されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-07T01:26:57.275826"
+  },
+  {
+    "source": "ITmedia",
     "title": "Windows、10月の更新で社内Wi-Fi・VPNに影響も　IT部門が対応すべき直近の“期限”を整理",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news020.html",
     "summary": "Microsoftは、Windowsの更新プログラムを適用すると社内Wi-FiやVPNに接続できなくなる可能性がある変更を明らかにしました。これは10月の更新で特に懸念されており、IT部門は影響を受ける環境を確認し、直近の期限までに必要な対応を完了させる必要があります。この対応を怠ると、社内ネットワークへの接続に支障が出る恐れがあります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-17T00:05:37.864541"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026年版】AIエージェントの決済はどこまで来たか ― AP2・ACP・裁判所の判断を一次情報で確認した",
-    "link": "https://qiita.com/Next-Survive/items/83ecd56efc5a2b070ee1",
-    "summary": "2026年時点で、AIエージェントによる決済が既に可能になっており、ChatGPT内決済、AP2、CLIツールが2025年9月〜2026年2月にかけて順次リリースされています。ただし、これらの決済はAIが「勝手に」行うわけではなく、人が事前に署名し承認した範囲内でのみ実行されます。\n\n人が決済を止められるのは2か所しかなく、AIに決済を任せる場合は最初の1回に限定されます。また、裁判所はAIが実行した操作についても、CFAA（コンピューター詐欺及び不正使用防止法）上「アクセスしているのは顧客」と判断しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-17T00:05:47.813304"
-  },
-  {
-    "source": "ITmedia",
-    "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
-    "summary": "日本企業で不正アクセスが多発する中、Gartnerは緊急対策の必要性を訴えています。特に、AIやエージェントの悪用により、これまで数週間を要した攻撃作業が数分に短縮される可能性があり、脅威は深刻化しています。これを受け、Gartnerは日本企業が早急に実施すべき「7つのアクション」を緊急提言しました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-16T10:13:47.833242"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる",
-    "link": "https://gigazine.net/news/20261016-meta-scraping/",
-    "summary": "Metaは商用利用規約を更新し、2026年10月30日以降にFacebook、Instagram、Messenger、WhatsAppを利用する企業アカウントや著名人に適用されます。専門家によると、この新規約により、ビジネスアカウントに関連付けられたウェブサイトをMetaがクロールすることに企業が同意したものと見なされる可能性があります。これは、Metaが企業のウェブサイトデータを自動的に収集・利用することを意味し、企業は利用規約に注意を払う必要があります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-16T10:13:56.025987"
-  },
-  {
-    "source": "Zenn",
-    "title": "ai-deslop入門：AIが書いたTypeScriptの「雑さ」をOxlintで機械的に弾く【検証済み】",
-    "link": "https://zenn.dev/daichi01278/articles/oxlint-ai-deslop-ja",
-    "summary": "この記事は、AIが生成したTypeScriptコードに見られる「雑さ」や品質の低さを改善する方法について解説しています。具体的には、静的解析ツールであるOxlintを活用し、AIが書いたコードの品質問題を機械的に検出し、自動的に排除するアプローチを紹介。AI開発（ai-deslop）におけるコード品質管理の入門的な手法として、【検証済み】の方法論を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-16T10:14:05.496103"
   }
 ]
