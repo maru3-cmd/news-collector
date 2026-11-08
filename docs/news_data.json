@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
+    "link": "https://gigazine.net/news/20261108-pupils-dilation-surprise/",
+    "summary": "人の瞳孔は、周囲が暗い時や感情が高ぶった際に開く現象が見られます。特に、人が驚いた時に瞳孔が拡大するメカニズムに焦点が当てられています。なぜこのような瞳孔の動きが起こるのかについて、ブラウン大学の研究者らが新たな研究結果をもとに解説しました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-08T00:58:07.330639"
+  },
+  {
+    "source": "Zenn",
+    "title": "【連載第3回】ゼロトラスト2層機械検査・SHA-256メモリ台帳・8案件MD健康診断と、第三者監査で暴かれた「継ぎ目」の4大バグ",
+    "link": "https://zenn.dev/kaeyuki/articles/d5b245ff77474e",
+    "summary": "本記事は、ゼロトラストの考え方に基づき導入された「2層機械検査」、セキュリティ強化のための「SHA-256メモリ台帳」、および「8案件MD健康診断」といった複数のセキュリティ対策について述べています。しかし、これらの取り組みにもかかわらず、システムの連携部分に脆弱性が存在しました。具体的には、第三者監査の結果、いわゆる「継ぎ目」と呼ばれるシステム間の連結箇所で、重大な4つのバグが発見されたことが明らかにされています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-11-08T00:58:15.101116"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code の Skills が増えすぎて AI が選べなくなる問題 — 命名規則と description の設計",
+    "link": "https://qiita.com/joinclass/items/3d05264c7d44f84b52f5",
+    "summary": "合同会社ジョインクラスは、17個のlaunchdジョブやZenn・Qiita・noteへの記事自動公開など、Claude Codeを業務に幅広く活用しています。しかし、わずか13個のスキルにもかかわらず、「Qiita用に書いて」と指示したのに`write-zenn`が動くといったスキルの誤選択が頻繁に発生しています。この問題の原因はClaude Codeの賢さではなく、モデルがスキル選択時に参照する**スキルの名前と説明の設計ミス**にあることが判明しました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-08T00:58:23.303112"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？",
     "link": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives/",
     "summary": "社会福祉制度が国民の寿命に与える影響は、近年の政治において重要な論点となっています。この疑問に対し、学術誌「Social Indicators Research」に掲載された論文が、その関連性を調査しました。具体的には、さまざまな発展段階にある国々を比較し、福祉制度の充実度と国民の寿命との関係性が分析されました。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-17T23:37:47.609226"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code の /loop は「固定間隔」と「セルフペーシング」をどう使い分けるか — launchd 17ジョブ運用からの実装メモ",
-    "link": "https://qiita.com/joinclass/items/fc9eabb2ddfbb2aeca07",
-    "summary": "合同会社ジョインクラスは、launchdの17ジョブとClaude Codeを用いて業務の98%を自動化していますが、「待つ処理」の実装に課題を抱えていました。Claude Codeの`/loop`機能には、間隔を指定する「固定間隔」と、モデルが次回の起動時刻を決める「セルフペーシング」の2つのモードがあります。この記事では、これらのモードの使い分けの基準を「監視対象の状態が変化する速さ」とし、周期が決まっている処理には固定間隔を推奨しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-17T23:37:56.887929"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート",
-    "link": "https://gigazine.net/news/20261017-super-kigurumi-greeting-machiasobi31/",
-    "summary": "徳島の街全体を使ったアニメ・ゲームイベント「マチ★アソビ vol.31」の一環として、「スーパーきぐるみグリーティング」が開催されました。\n\nこのイベントでは、「ずんだもん」「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「キクーン」などのきぐるみたちが登場。可愛さを主張しながら阿波おどりを披露し、会場は大いに盛り上がりました。\n\n人気キャラクターたちのユニークなパフォーマンスに、参加者たちは熱狂しました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-17T09:47:33.716468"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI を並べて開発すると PR がぶつかる。その片づけを PR の前に済ませる道具を作った",
-    "link": "https://zenn.dev/soracolor/articles/cfd333d04d0aba",
-    "summary": "複数のAI開発を並行して進める際に、ソフトウェア開発におけるPull Request（PR）の競合が発生するという課題があります。この問題を解決するため、PRを提出する前にあらかじめ競合を解消できるツールが開発されました。これにより、開発者はPRの処理をスムーズに進め、並行AI開発の効率を高めることができます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-17T09:47:42.077984"
   }
 ]
