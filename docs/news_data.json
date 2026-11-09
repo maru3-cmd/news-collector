@@ -1,5 +1,32 @@
 [
   {
+    "source": "ITmedia",
+    "title": "戸田建設、データ基盤を全社員に開放へ　「半歩前」のガバナンスとAIによるリスク判定",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news007.html",
+    "summary": "戸田建設は、テーブル数が約1600に増えたデータ基盤を全社員に開放する準備を進めています。この取り組みの主な課題は、事故報告書などに含まれる機微な情報の適切な管理です。\n\n同社は、データ利用が広がる「半歩前」にガバナンスルールを整備することでこれに対応します。具体的には、データのリスク判定をAIと人が分担する体制を構築し、安全なデータ活用を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-09T01:18:17.334534"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+    "link": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
+    "summary": "本レビューでは、YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードできる「VideoProc Converter AI」と、AIで低解像度動画を4K/8Kに高画質化する「Aiarty Video Enhancer」が紹介されています。これら2つのソフトを併用することで、低解像度のYouTube動画をダウンロードし、驚くほど簡単に4K高画質化できることが実証されました。動画の取得から高画質化までの一連の作業が手軽に実現でき、現在、期間限定で最大75％オフのキャンペーンも実施されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-09T01:18:27.719239"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code 2.1.309〜318まとめ：claude -pが黙って成功しなくなり、ultrathinkはxhighに",
+    "link": "https://zenn.dev/sktt_panda/articles/claude-code-2026-11-headless-exit-ultrathink",
+    "summary": "Claude Codeのバージョン2.1.309から318にかけての更新がまとめられました。このアップデートでは、`claude -p` コマンドの挙動が変更され、エラー時に黙って成功するのではなく、失敗を明確に通知するようになりました。さらに、`ultrathink` の設定が `xhigh` に変更されています。これらの変更は、ツールの透明性と信頼性を向上させるものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-09T01:18:42.723406"
+  },
+  {
     "source": "GIGAZINE",
     "title": "『SPY×FAMILY』TVアニメSeason 4＆劇場版第2弾の2027年展開が決定",
     "link": "https://gigazine.net/news/20261108-spy-family-season4-film2/",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-10-18T23:47:39.933960"
-  },
-  {
-    "source": "Zenn",
-    "title": "企画から投稿まで自動化：Zenn(GitHub連携)とQiita(API v2)を1リポジトリで回す記事ループ",
-    "link": "https://zenn.dev/warrobotsxyz/articles/ai-article-loop-zenn-qiita",
-    "summary": "この記事は、ZennとQiitaへの記事投稿プロセスを自動化する方法について解説しています。具体的には、一つのGitHubリポジトリを活用し、ZennのGitHub連携機能とQiitaのAPI v2を利用して自動化を実現します。これにより、記事の企画から投稿までの一連の作業を「記事ループ」として効率的に回し、運用負荷を軽減することを目指しています。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-10-18T23:47:47.046477"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "武器あり・乱入あり・羽交い締めありのハートフルバトルイベント「スーパーきぐるみファイト」後半戦レポート【マチ★アソビ vol.31】",
-    "link": "https://gigazine.net/news/20261018-super-kigurumi-fight-winner-machiasobi31/",
-    "summary": "マチ★アソビ vol.31で開催された「スーパーきぐるみファイト」は、キャラクター同士が白熱バトルを繰り広げるステージイベントです。このイベントは、武器や乱入、羽交い締めなども許される「ハートフルバトル」を特徴としています。前半戦では、ずんだもんが腕を拘束されたり、風船を科学の力で溶かして割ったりする波乱の展開が見られました。本記事では、さらなる波乱が予想される後半戦の様子がレポートされます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-18T09:59:40.016943"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIのコードレビューを「指摘1件まで」にしたら4回とも1件。「全部出して」は1件も増やさなかった",
-    "link": "https://zenn.dev/numarn/articles/code-review-max-findings-cap-handson",
-    "summary": "AIによるコードレビューの実験で、興味深い結果が出ました。AIに「指摘は1件まで」と指示したところ、4回の試行すべてで正確に1件の指摘を行いました。\n\nさらに、「指摘を全て出す」よう指示してもAIは追加の指摘を見つけず、結果としていずれのケースでも指摘は1件に留まりました。これは、AIが「1件」という指定の有無にかかわらず、検出する指摘の数が変わらないことを示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-18T09:59:49.350155"
   }
 ]
