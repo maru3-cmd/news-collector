@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "聞かれてから答えるAIはもう古い？　WorkdayのCEOが語る、人事・財務の自動化",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/10/news007.html",
+    "summary": "Workdayは、人の指示を待たずにバックグラウンドで人事・財務業務を遂行するAIエージェント「Autopilot」を発表しました。これは、従来の「聞かれてから答える」AIとは一線を画し、自律的な業務自動化を推進するものです。しかし、エージェントが業務を深く担うほど、課金、責任、雇用といった新たな課題が浮上しており、CEOのブースリ氏らが対応に追われています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-10T03:53:11.946767"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明",
+    "link": "https://gigazine.net/news/20261110-nvidia-megaspeed-commerce-dept-investigation/",
+    "summary": "NVIDIAのジェンスン・フアンCEOが、NVIDIA製AIチップを中国に横流ししている疑いのあるシンガポール企業Megaspeedの幹部女性と不倫関係にあったことが判明しました。これに関連し、Megaspeedを調査していたアメリカの商務省に対し、NVIDIAの弁護士が過去に介入していたことが明らかになっています。このNVIDIA側からの介入により、商務省は調査の中断を余儀なくされたと報じられています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-10T03:53:20.864633"
+  },
+  {
+    "source": "Zenn",
+    "title": "作詞生成と歌詞ASRを同じ入力契約に載せない短い設計メモ",
+    "link": "https://zenn.dev/jessica1007/articles/3f0b6651f6fc32",
+    "summary": "この短い設計メモは、作詞生成と歌詞ASR（自動音声認識）という二つの機能に関する重要な設計原則を提示しています。その中心的な提言は、これら二つの機能を「同じ入力契約（インプットの仕様や取り決め）」に含めるべきではないというものです。これは、それぞれの機能が求めるインプットの種類や形式が根本的に異なるため、独立したインターフェースや設計が求められることを示唆しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-10T03:53:33.122787"
+  },
+  {
+    "source": "Qiita",
+    "title": "営業メモからAIに「商談前チェック」を作らせるとき、線を引くのは確認事項と推測の境目",
+    "link": "https://qiita.com/satoshimizuhara/items/9dded942dae161aa2765",
+    "summary": "この記事は、営業部門がAIを用いて過去の顧客メモから商談前の確認事項を抽出する際に生じる課題と解決策を論じています。AIはメモにない推測事項を補って出力するため、これが商談で約束となり工場工程に影響を及ぼすリスクがあることから、「確認事項」と「推測」の厳密な線引きが不可欠と指摘されています。その解決策として、確認事項はメモの原文に紐付け、原文にない項目は「要確認（AI補完）」として区別し、推測は出力から消去するという3つの線引きルールが提案されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-10T03:53:42.496898"
+  },
+  {
+    "source": "ITmedia",
     "title": "NTT社長が説く　縮小市場で売り上げを伸ばすため、経営者が下すべき「3つの決断」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/09/news061.html",
     "summary": "NTTの島田社長は、市場が縮小傾向にある中でも、AIをうまく活用することで企業の売り上げを伸ばせると提唱しています。その実現のためには、経営者が特定の「3つの決断」を下す必要があると説きます。これらの要件を実践することが、厳しい市場環境下での企業成長の鍵となると強調しています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-20T00:48:28.627752"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？",
-    "link": "https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/",
-    "summary": "総務省統計局によると、日本の消費者物価指数は2021年9月以降60カ月連続で上昇しています。GIGAZINEは、このような物価上昇が続く中で、読者に対し「コンビニのおにぎり1個にいくらまで許せるか？」というアンケートを実施しました。記事では、おにぎりの許容価格に加え、読者から圧倒的支持を集める3大コンビニについても探っています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-20T00:48:37.998609"
-  },
-  {
-    "source": "Zenn",
-    "title": "大きな作業を Claude に任せきる 3 つの仕組み（tanacode の親子セッション・チェックリスト・最適化圧縮）",
-    "link": "https://zenn.dev/tanashun/articles/tanacode-parent-child-checklist-compact",
-    "summary": "本記事では、大規模な作業をAIアシスタントClaudeに効率的に任せるための3つの仕組みを解説しています。\n\n1つ目は「tanacodeの親子セッション」で、複雑なタスクを細分化してClaudeと段階的に連携するアプローチです。2つ目は、作業の抜け漏れを防ぎ精度を高めるための「チェックリスト」の活用。そして3つ目は、Claudeへの入力プロンプトを最適化して効率的な出力を促す「最適化圧縮」です。これらの仕組みにより、作業全体の精度と効率を向上させます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-20T00:48:46.654825"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026/10/7】Claude Haiku 5.5リリース——入力$0.10で9割安、ただしID差し替えだけでは動かない",
-    "link": "https://qiita.com/sakutto-panda/items/ddefe3f4ddf42502e850",
-    "summary": "2026年10月7日、AnthropicはClaude Haiku 5.5をリリースし、100Kトークン以下のプロンプトで入力$0.10 / 出力$0.50 per MTokと、Haiku 4.5の約10分の1（9割安）に料金を大幅に引き下げました。\n\nこの新モデルは、Terminal-Bench 4.0で0.0%から39.2%へ、OSWorld 2.1で15.7%から72.4%へと性能が飛躍的に向上し、1MのコンテキストとHaiku初のeffort設定も導入されています。\n\nただし、モデルIDの変更だけでは動作せず、「適応的思考」がデフォルトONのため、`temperature`（1以外）などの特定のパラメーターや従来の応答読み取り方法では400エラーが発生する点に注意が必要です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-20T00:48:55.731854"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
-    "summary": "本記事は、人間とAIエージェントが協働して成果や目標を達成する際の業務管理について考察しています。そのマネジメント手法として、プロジェクト管理の適用が有効である可能性を提示。この考えは、NTTテクノクロスの「AI-PMO」構想から着想を得ています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-19T11:22:24.509725"
   }
 ]
