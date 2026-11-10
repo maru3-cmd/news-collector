@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "車を遠隔解錠できる脆弱性が存在していたことが発覚、トヨタが対象の可能性あり",
+    "link": "https://gigazine.net/news/20261110-unlock-any-car-from-x-brand/",
+    "summary": "セキュリティ研究者により、一部の自動車メーカーのシステムに重大な脆弱性が発見されました。これにより、車のドアを遠隔で解錠したりエンジンを始動したりすることが可能になる状態だったと報告されています。メーカー名は公表されていませんが、トヨタとレクサスの車種がこの脆弱性の対象である可能性が指摘されています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-10T13:51:17.358027"
+  },
+  {
+    "source": "Zenn",
+    "title": "Garmin × Muse で「自分で育てる音声コーチ」を作った ― Voice Coach for Muse 開発記",
+    "link": "https://zenn.dev/comeonyama/articles/929d6272f9f1bf",
+    "summary": "GarminとMuseは共同で、「自分で育てる音声コーチ」という新しいコンセプトを持つアプリ「Voice Coach for Muse」を開発しました。このアプリは、ユーザーが自身のトレーニング状況や目標に合わせて、音声コーチの指導内容やフィードバックをパーソナライズできる点が特徴です。これにより、個々のニーズに最適化されたコーチングが提供され、より効果的なパフォーマンス向上をサポートすることが期待されます。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-10T13:51:25.445777"
+  },
+  {
+    "source": "Qiita",
+    "title": "Fable 5.2でGTA 6 Osaka Cityを作ってみた",
+    "link": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6",
+    "summary": "Fable 5.2を使用して、GTA 6のようなオープンワールド体験を大阪で実現するブラウザベースの3Dサンドボックスゲーム「VELA BAY」が開発されました。このゲームでは、通天閣やあべのハルカス周辺を自由に歩き回り、車を運転し、ミッションに挑戦できます。公式のGTA VI作品ではないものの、Rockstar Gamesのオープンワールドゲームに着想を得た独立したオリジナル作品であり、ブラウザから無料でプレイ可能です。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-10T13:51:37.287857"
+  },
+  {
     "source": "ITmedia",
     "title": "聞かれてから答えるAIはもう古い？　WorkdayのCEOが語る、人事・財務の自動化",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/10/news007.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-10-20T10:30:10.718383"
-  },
-  {
-    "source": "Zenn",
-    "title": "Data Preparation Agentでデータクレンジングを任せる",
-    "link": "https://zenn.dev/web_benriya/articles/bigquery-data-preparation-agent",
-    "summary": "この記事は、Data Preparation Agentの導入を通じて、複雑なデータクレンジング作業を効率的に自動化または外部委託する方法について解説しています。このエージェントを活用することで、データの不整合や重複といった問題を解決し、分析に適した高品質なデータを迅速に準備することが可能になります。結果として、手作業による負担が大幅に軽減され、データ準備にかかる時間と労力の削減、ひいてはデータ活用の加速が期待できるでしょう。",
-    "category": "DX・業務改善",
-    "content_type": "article",
-    "collected_at": "2026-10-20T10:30:23.382879"
-  },
-  {
-    "source": "Qiita",
-    "title": "静止画を動画に変える「画像→動画AI」の仕組みと、ブラウザだけで試せる実践ワークフロー",
-    "link": "https://qiita.com/wanxiaoba123/items/a044239f714839bec06c",
-    "summary": "「Image-to-Video（画像→動画）AI」は、1枚の静止画から数秒の動画を生成する技術として急速に実用レベルに達しています。その仕組みは、入力画像を潜在空間に変換し、テキストプロンプトなどで動きを条件付けた後、拡散モデルがフレーム間の一貫性を保ちながら動画を生成するというものです。この技術では1フレーム目が強く固定されるため、元画像の品質が生成される動画の品質を大きく左右します。本記事は、このImage-to-Video AIをローカル環境なしでブラウザだけで試す実践ワークフローと、きれいに動かすためのコツを紹介しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-20T10:30:32.286039"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIエージェントがやらかしたら誰の責任？　経営層までインシデントが届いた企業は8割",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/20/news030.html",
-    "summary": "IBMの調査によると、欧州と中東の企業の8割でAIに関連するインシデントが経営層まで報告されています。しかし、これらのインシデントを受けてAIガバナンスを見直した企業は4割にとどまっています。記事は、自律化が進むAIエージェントが失敗した場合に誰が責任を負うべきかという重要な課題を提起しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-20T00:48:28.627752"
   }
 ]
