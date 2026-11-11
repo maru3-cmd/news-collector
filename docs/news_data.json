@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "取引先のアプリから入り込むAI攻撃、自社の対策は届くか？　Microsoftが手口を公表",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news022.html",
+    "summary": "Microsoftが公表した手口によると、AIエージェントを使う攻撃者がGitHubに書き込まれたアプリケーションの認証情報を悪用し、取引先のアプリケーションを介して複数の企業の環境に侵入しています。このサプライチェーンを狙った攻撃は、ベンダーのアプリケーションには既存の条件付きアクセスが適用できないため、従来のセキュリティ対策では防ぎきれない脆弱性をもたらします。IT部門は、この新たな脅威に対し、何を調査し無効化すべきか、早急な検討が求められています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-11T13:01:41.591438"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
+    "link": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
+    "summary": "AmazonとAWSは、社内の問い合わせやシステムエラーの自動仕分けにAnthropicのAIモデル「Claude Sonnet 4.6」を利用していました。しかし、これを独自開発の意思決定モデル「Strands Decider」に置き換えることに成功しました。\n\nこの切り替えにより、AIによる自動仕分けにかかるコストを98％も削減できたと報告されています。これにより、大幅な運用コストの効率化を実現しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-11T13:01:50.822958"
+  },
+  {
+    "source": "Zenn",
+    "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
+    "link": "https://zenn.dev/theoj/articles/opencode-development-log",
+    "summary": "OpenCodeを拡張した新しいツール「いちょまる」が開発されました。この「いちょまる」は、複数の担当者が関わるタスクや定期的に実行されるプロセスを、一つのチャット画面に集約する機能を提供します。これにより、情報共有とプロジェクト管理の効率化が期待されます。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-11T13:02:00.915464"
+  },
+  {
+    "source": "Qiita",
+    "title": "日々アップデートを重ねる「yomiyasu」、日本語の推敲はどう変わる？v1.0.1・v2.5.0・v3.0.0に同じ文章を通して比べてみた",
+    "link": "https://qiita.com/inoyu-qiita/items/b0a7aee8d9f97cc21e2c",
+    "summary": "日本語推敲スキル「yomiyasu」がローンチから約1.5ヶ月でv3.0.0へメジャーアップデートされました。以前、v1.0.1の比較では、文章の構成と熱量を残しつつ一部の比喩や太字を修正する特徴が評価され、Xでも反響がありました。\n\nしかし、その比較はv1.0.1のみだったため、本記事ではv2.5.0とv3.0.0も加え、同じ文章を用いて改めて推敲能力の変化を比較検証します。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-11T13:02:24.044198"
+  },
+  {
+    "source": "ITmedia",
     "title": "米CISAがインシデント報告フォームを刷新　カギは攻撃を語る「共通言語」",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news021.html",
     "summary": "米国のCISA（サイバーセキュリティ・インフラセキュリティ庁）は、サイバーインシデント報告フォームを刷新しました。これは、これまで個々に報告されていたインシデントから、背後に潜む攻撃キャンペーンの全体像を把握することを目的としています。刷新の鍵は、攻撃を語る「共通言語」を確立し、より効果的な情報共有と分析を可能にすることです。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-21T10:42:03.638464"
-  },
-  {
-    "source": "Zenn",
-    "title": "ベトナムのAI開発会社に開発を依頼するなら？RAG・AIエージェントの実装で確認したい技術要件",
-    "link": "https://zenn.dev/sotatek_jp/articles/fb444894e1e642",
-    "summary": "このタイトルは、ベトナムのAI開発会社にRAG（Retrieval-Augmented Generation）やAIエージェントの開発を依頼する際に、プロジェクト成功のために確認すべき技術要件について述べています。具体的には、実装に必要な技術スタック、開発プロセス、セキュリティ、スケーラビリティといった観点から、依頼者が確認すべき重要なポイントが提示されていると考えられます。これにより、適切な開発パートナーを選定し、効率的な開発を実現するための指針が提供されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-21T10:42:13.202706"
-  },
-  {
-    "source": "Qiita",
-    "title": "OSSの門が閉じ始めた",
-    "link": "https://qiita.com/pitaspot/items/17a27481c204992fabf1",
-    "summary": "2026年に入り、Honoなどの有名OSSが外部からのプルリクエスト（PR）の受け付けを停止、初回承認関門の設置、AI製PRの禁止といった3種類の方法で閉じ始めています。この背景には、AIが大量かつ安価にPRを生成できるようになったことで、メンテナーの確認作業が追いつかず、多大な負担となっていることがあります。かつて送り手の信用を示す指標だったPRが、AIの登場によってその信頼性を失いつつある現状を、筆者はOSS運営者の視点から整理しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-21T10:42:22.708806"
-  },
-  {
-    "source": "ITmedia",
-    "title": "セキュリティインシデント9カ月で607件、既に2025年超え　「公表が増えただけ」ではない理由",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news022.html",
-    "summary": "トレンドマイクロの集計によると、2026年1～9月に国内組織が公表したセキュリティインシデントは607件に達し、既に2025年通年の594件を超過しました。特に9月後半から公表件数が急増しており、公的機関による注意喚起も相次いでいます。この状況は、単に公表が増えただけでなく、セキュリティ攻撃そのものが増加している可能性を示唆しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-10-21T00:13:51.651897"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに",
-    "link": "https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 59.410604649s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 59\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-21T00:14:00.620218"
   }
 ]
