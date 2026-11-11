@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "米CISAがインシデント報告フォームを刷新　カギは攻撃を語る「共通言語」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news021.html",
+    "summary": "米国のCISA（サイバーセキュリティ・インフラセキュリティ庁）は、サイバーインシデント報告フォームを刷新しました。これは、これまで個々に報告されていたインシデントから、背後に潜む攻撃キャンペーンの全体像を把握することを目的としています。刷新の鍵は、攻撃を語る「共通言語」を確立し、より効果的な情報共有と分析を可能にすることです。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-11T01:35:25.797264"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "GIGAZINE読者は記事広告で何をレビューしてほしいのか？",
+    "link": "https://gigazine.net/news/20261111-gigazine-review-survey/",
+    "summary": "GIGAZINEは、読者が製品購入前にスマートフォン発熱や冷凍食品の仕上がりなどを確認できるよう、編集部が実際に試すレビュー形式の記事広告を多数掲載しています。同サイトは、そうした記事広告でどのような製品やサービスを取り上げてほしいかを、2026年夏に実施した読者アンケートで尋ねました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-11T01:35:35.010919"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIで記事を書くのをやめた",
+    "link": "https://zenn.dev/headwaters/articles/27f416dd482b76",
+    "summary": "この記事は、筆者がかつてAIツールを用いて記事を執筆していた経験に言及しています。しかし、その実践を中止したという筆者の決断が主題となっています。具体的な停止理由やそれに伴う影響についての詳細はありませんが、AIによる執筆からの転換という明確なテーマが提示されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-11T01:35:46.144145"
+  },
+  {
+    "source": "Qiita",
+    "title": "2026年11月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "link": "https://qiita.com/ennagara128/items/16da3f3418ad1d1f3daa",
+    "summary": "このポッドキャストは、毎日朝7時に前日夜のQiitaトレンド記事をAIが要約して配信しています。通勤中などに「ながら聴き」で最新技術情報を効率的に収集できるのが特徴で、公式のQiita投稿よりも早くトレンドを把握できる可能性があります。例えば2026年11月11日版では「Pyxel 3.0」のリリース記事などが紹介されており、視聴者からのフィードバックも歓迎しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-11T01:35:56.250916"
+  },
+  {
     "source": "GIGAZINE",
     "title": "車を遠隔解錠できる脆弱性が存在していたことが発覚、トヨタが対象の可能性あり",
     "link": "https://gigazine.net/news/20261110-unlock-any-car-from-x-brand/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-21T00:14:00.620218"
-  },
-  {
-    "source": "Zenn",
-    "title": "PowerShellだけで試すOllama HTTP API入門：/apiとOpenAI互換/v1を実測で確認",
-    "link": "https://zenn.dev/warrobotsxyz/articles/ollama-api-powershell-quickstart",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 54.840372666s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 54\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-21T00:14:05.189232"
-  },
-  {
-    "source": "Qiita",
-    "title": "Windowsで常駐プロセスをコンソールなしで自動起動：VBS + タスクスケジューラをOllamaで実機検証",
-    "link": "https://qiita.com/warrobotsxyz/items/580fac1ea3654097e47c",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 50.424982755s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 50\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-21T00:14:09.603664"
-  },
-  {
-    "source": "ITmedia",
-    "title": "「エージェントを守るのも、またエージェント」　Omnissa CPOが語るエンドポイントの次の形",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news032.html",
-    "summary": "VMwareのEUC部門から独立したOmnissaは、AIガバナンス製品「Elara」を発表しました。この製品は、エンドポイントでAIエージェントが動作する時代に、それらのエージェントを保護し管理することを目的としています。記事では、OmnissaのCPOがElaraの設計思想、競合との差別化要因、そして日本市場への見方について詳しく語っています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-20T10:30:02.325102"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Linux 7.3がリリースされる、Macのバックアップ機能「Time Machine」への対応やCPU・メモリ管理の改善など",
-    "link": "https://gigazine.net/news/20261020-linux-kernel-7-3/",
-    "summary": "リーナス・トーバルズ氏が2026年10月18日に、Linuxカーネルの最新バージョン「Linux 7.3」をリリースしました。このバージョンでは、Appleのバックアップ機能「Time Machine」への対応が主な新機能の一つです。その他、CPUやメモリの管理効率の改善、ファイルシステムの機能拡張など、多数の重要な変更が含まれています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-20T10:30:10.718383"
   }
 ]
