@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "JAL、約50年使った基幹システムを刷新　停止6時間の大移行を支えた“2つのPM”",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news002.html",
+    "summary": "JALは、約50年間使い続けた自前の旅客基幹システムをクラウドサービスへ刷新しました。この大規模な移行は、現場の業務制約に対する抵抗や、初の試みとなるアジャイル開発への不安を乗り越えて実現され、システム停止は6時間に抑えられました。刷新を率いた西畑智博氏は、プロジェクトから得た学びと、自身が社長を務めたJALカードでのAI活用について語っています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-12T02:35:40.038574"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+    "link": "https://gigazine.net/news/20261112-apple-support-community-closing/",
+    "summary": "Appleは、Apple製品ユーザーが質問や回答を投稿できる「Appleサポートコミュニティ」を、2026年11月20日に閉鎖すると発表しました。このコミュニティは1998年から名称を変えつつ運営され、約28年間の歴史を持つフォーラムでした。今回の閉鎖により、ユーザー間の重要な情報交換の場が幕を閉じます。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-12T02:35:47.344214"
+  },
+  {
+    "source": "Zenn",
+    "title": "Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい",
+    "link": "https://zenn.dev/sktt_panda/articles/meta-muse-app-spaces-what-you-can-do-2026-11",
+    "summary": "Metaの「Muse」アプリに関する記事で、その主要機能「Spaces」が紹介されています。この「Spaces」は、ユーザーが会話形式で自分専用のアプリを作成できる革新的な機能です。記事は、この機能が提供する新しい体験が非常に楽しいと強調しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-12T02:35:54.637277"
+  },
+  {
+    "source": "ITmedia",
     "title": "取引先のアプリから入り込むAI攻撃、自社の対策は届くか？　Microsoftが手口を公表",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news022.html",
     "summary": "Microsoftが公表した手口によると、AIエージェントを使う攻撃者がGitHubに書き込まれたアプリケーションの認証情報を悪用し、取引先のアプリケーションを介して複数の企業の環境に侵入しています。このサプライチェーンを狙った攻撃は、ベンダーのアプリケーションには既存の条件付きアクセスが適用できないため、従来のセキュリティ対策では防ぎきれない脆弱性をもたらします。IT部門は、この新たな脅威に対し、何を調査し無効化すべきか、早急な検討が求められています。",
@@ -1321,32 +1348,5 @@
     "category": "開発・プログラミング",
     "content_type": "news",
     "collected_at": "2026-10-22T00:18:31.020093"
-  },
-  {
-    "source": "Zenn",
-    "title": "GitLab Orbit Local で、コードの影響範囲調査にかかる AI の token 消費を大きく減らす",
-    "link": "https://zenn.dev/azush/articles/72f59354b9d09c",
-    "summary": "GitLab Orbit Localは、AIを活用したコードの影響範囲調査におけるAIトークン消費を大幅に削減する機能です。この機能により、開発者はAI利用コストを抑えつつ、コードの変更がシステム全体に及ぼす影響を効率的に把握できるようになります。特に、大規模なプロジェクトでの影響分析プロセスを加速し、開発効率の向上に貢献することが期待されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-22T00:18:43.410471"
-  },
-  {
-    "source": "ITmedia",
-    "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か　専門家に聞いた",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news032.html",
-    "summary": "2026年9月下旬以降、情報漏えいやサイバー被害の公表が途切れることなく続いています。この記事は、この公表ラッシュがサイバー攻撃の増加によるものなのか、企業の検知能力が向上した結果なのか、あるいは企業側の根本的な変化によるものなのかを問いかけています。その原因を探るため、専門家の見解を尋ねています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-10-21T10:41:52.315621"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」",
-    "link": "https://gigazine.net/news/20261021-voxtral-3/",
-    "summary": "フランス企業のMistral AIが、音声AI群「Voxtral 3」をリリースしました。このAI群は、高精度なリアルタイム文字起こしAIを提供します。また、特定の人物の声を再現できる音声合成AIも含まれています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-21T10:42:03.638464"
   }
 ]
