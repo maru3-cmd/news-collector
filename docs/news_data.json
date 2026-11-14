@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "AIを使って科学論文を偽造してみたらこうなった",
+    "link": "https://gigazine.net/news/20261114-ai-generated-scientific-papers/",
+    "summary": "学術出版業界では、AIが生成する低品質なコンテンツ「AIスロップ」が問題視されています。この状況を受け、フリーライターのベンジャミン・スクーゼ氏はAIツールを用いて偽造論文を生成する実証実験を実施しました。彼はこの実験を通じ、学術出版システムの未来について考察を行っています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-14T01:54:07.740986"
+  },
+  {
+    "source": "Zenn",
+    "title": "大会運営の秘書役を、AIエージェント「Muse」と乗り切りました",
+    "link": "https://zenn.dev/edtech_guild/articles/b08522651d8ea3",
+    "summary": "提供された情報に基づくと、記事はAIエージェント「Muse」を活用して大会運営の秘書役を成功裏に務め上げた経験について述べています。これは、煩雑な業務をAIのサポートによって効率的に処理し、運営を円滑に進められたことを示唆しています。イベント運営におけるAIの具体的な活用事例として、その有用性が強調されています。ただし、具体的な業務内容や、効率化の度合いを示す数字などの詳細な情報は提供されていません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-14T01:54:18.647790"
+  },
+  {
+    "source": "Qiita",
+    "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.321 - v2.1.325）",
+    "link": "https://qiita.com/NaokiIshimura/items/497afd9a11879d369d19",
+    "summary": "この記事は、Claude Codeのv2.1.321からv2.1.325までのアップデートの中から、実務に影響の大きい変更点を5つ選び紹介しています。特に、v2.1.325ではセキュリティ強化のため、サンドボックス内でのBashコマンド実行が既定で確認を求めるように変更されました。これにより、スケジュールタスクや`/loop`なども無人実行時に確認が必要となります。従来通りの自動実行を継続するには、`sandbox.autoAllowBashIfSandboxed: true`を設定する必要があります。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-14T01:54:27.377044"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
     "link": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
     "summary": "オープンソースのスマートホームサービス「Home Assistant」を運営するOpen Home Foundationの商業部門Nabu Casaが、「Home Assistant Connect AUX-2」を発売しました。このサービスは異なるメーカーのIoTデバイスを一元管理できます。今回発売されたAUX-2は、既存の非スマートホーム機器をスマートホームデバイスとして連携させ、生まれ変わらせることを目的としています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-24T00:08:05.300723"
-  },
-  {
-    "source": "ITmedia",
-    "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
-    "summary": "OpenAIの新モデルは、20言語でのデータベースエンジン構築テストにおいて、平均合格率を従来の26.8%から87.4%へと大幅に向上させたと発表しました。この成果は、学習リソースが少ないCOBOLやFortranなどのレガシー言語をAIがどこまで扱えるかという課題に注目を集めています。特に、厳密な正確性が求められる既存のCOBOLプログラムの別言語への移行作業におけるAIの能力が期待されていますが、この記事では具体的な評価結果はまだ示されていません。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-23T10:35:50.783239"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "2026年10月23日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20261023-headline/",
-    "summary": "2026年10月23日のヘッドラインニュースとして、サンライズ50周年記念作品である劇場アニメ『装甲騎兵ボトムズ 灰色の魔女(ヘクセ)』の直前予告映像がYouTubeで公開されました。この作品は、2026年11月20日(金)に劇場公開される予定です。ファンは、公開まであと約1ヶ月に迫ったこの記念作品への期待を高めています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-23T10:36:02.200713"
-  },
-  {
-    "source": "Zenn",
-    "title": "大量の PR を AI にまとめて処理させよう！ TAKT 新機能の「takt merge」",
-    "link": "https://zenn.dev/nrs/articles/7716088a5ee7ce",
-    "summary": "TAKTは、大量に発生するPR（広報活動やプレスリリースなど）をAIでまとめて効率的に処理する新機能「takt merge」を発表しました。この機能は、AIを活用してPR関連のタスクを一括処理することで、企業の広報活動における業務の大幅な効率化と合理化を目指します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-23T10:36:13.382838"
   }
 ]
