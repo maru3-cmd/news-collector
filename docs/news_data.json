@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "高速回転するホイールが発する火花を超スローモーションで捉えたムービー",
+    "link": "https://gigazine.net/news/20261114-10-billion-sparks/",
+    "summary": "YouTubeチャンネル「The Slow Mo Guys」が、ハイスピードカメラを駆使した最新のスローモーションムービーを公開しました。この動画では、高速回転するホイールから円状に放出される火花が、超スローモーションで詳細に捉えられています。彼らは、通常では見えない瞬間の美しさやダイナミズムを、独自の視点から鮮やかに映し出しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-14T12:35:40.153892"
+  },
+  {
+    "source": "Zenn",
+    "title": "SAST の外側を探す AI：SonarQube Hunter Agent の仕組みと導入条件",
+    "link": "https://zenn.dev/r_goto/articles/sonarqube-hunter-agent",
+    "summary": "この記事は、従来のSAST（Static Application Security Testing）の限界を超越し、AIを活用して新たなセキュリティリスクを検出する「SonarQube Hunter Agent」について解説しています。このAgentは、静的解析では見過ごされがちな、SASTの「外側」に存在する潜在的な脆弱性や複雑な挙動に基づく問題を特定することを目指しています。\n\n具体的には、ランタイム環境やより広範なコードベースにおける相互作用から生じるセキュリティ課題を発見する可能性を秘めています。記事では、この先進的なHunter Agentの具体的な仕組みがどのように機能するのか、そして企業や開発チームが導入を検討する際に考慮すべき条件が詳しく説明されています。",
+    "category": "セキュリティ",
+    "content_type": "article",
+    "collected_at": "2026-11-14T12:35:48.083241"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI製アプリの「最後の2割」を3〜5日で見積もる — 画面数ではなく「継ぎ目」で数える5行の見積もり",
+    "link": "https://qiita.com/cpcai/items/478d5bf178bbad8749ae",
+    "summary": "AI製アプリの「最後の2割」を3〜5日で仕上げるための見積もり方法として、従来の画面数ではなく「継ぎ目（seam）」を基準に作業量を測る「5行の見積もり」が提案されています。この方法では、公開日に「動いている必要がある」画面に限定し、最初の有料ユーザーが触る画面と管理画面に絞り込みます。例えばピラティス予約アプリでは、顧客側5画面と管理側2画面の計7画面が対象とされ、それ以外は「やらないことリスト」とされます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-14T12:35:57.825475"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "AIを使って科学論文を偽造してみたらこうなった",
     "link": "https://gigazine.net/news/20261114-ai-generated-scientific-papers/",
     "summary": "学術出版業界では、AIが生成する低品質なコンテンツ「AIスロップ」が問題視されています。この状況を受け、フリーライターのベンジャミン・スクーゼ氏はAIツールを用いて偽造論文を生成する実証実験を実施しました。彼はこの実験を通じ、学術出版システムの未来について考察を行っています。",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "article",
     "collected_at": "2026-10-24T09:54:00.303128"
-  },
-  {
-    "source": "Qiita",
-    "title": "Turn Still Photos into Viral AI Meme Videos with VidTrend",
-    "link": "https://qiita.com/vidtrend/items/f449d61458651fadbf78",
-    "summary": "VidTrendは、静止画をAIミームの短尺動画に変換するサービスです。\nユーザーは1-2枚の写真をアップロードし、「Black Cat Clapping」のような検証済みモーションテンプレートを選ぶだけで、数分で9:16のMP4動画をエクスポートできます。\n料金はサブスクリプション不要の従量課金制で、$4.99から提供されます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-24T09:54:07.934523"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
-    "link": "https://gigazine.net/news/20261024-access/",
-    "summary": "GIGAZINEは、有料メンバー向けにコメント機能のテストを開始しました。現時点ではコメントは編集部と有料メンバーのみが閲覧できますが、今後は無料メンバーや一般読者にも順次公開範囲を拡大する予定です。また、この記事では2026年度9月分のGIGAZINEアクセス解析結果も合わせて発表されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-24T00:07:56.407476"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code 2026年10月アップデート——Modsでツール呼び出しをTypeScriptで横取りできるようになった",
-    "link": "https://zenn.dev/sktt_panda/articles/claude-code-mods-2026-10",
-    "summary": "Claude Codeは2026年10月のアップデートで、新機能「Mods」を導入しました。これにより、開発者はツール呼び出しをTypeScriptで「横取り」し、自由に制御できるようになります。この機能は、外部ツール連携やデータ処理において、より柔軟なカスタマイズと高度な制御を可能にします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-24T00:08:05.300723"
   }
 ]
