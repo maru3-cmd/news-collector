@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
+    "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
+    "summary": "Insta360 Mic Proは、動画撮影時にクリアな音声を録音するための高性能ワイヤレスマイクです。送信機に好きな画像を表示できるカラーE-Inkディスプレイを搭載し、AIノイズキャンセリング機能や最大400mのワイヤレス伝送に対応しています。特に、32bit float内部録音により、大きな音でも音割れせずに収録できるのが特徴です。本レビュー記事では、これらの機能を屋内外で実際に検証しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-15T13:01:10.783911"
+  },
+  {
+    "source": "Zenn",
+    "title": "/goalを使わずStopフックを自作したら、Claude Codeが止まらず使用量が増え続けた",
+    "link": "https://zenn.dev/kagaribilab/articles/claude-code-stop-hook-loop",
+    "summary": "筆者は、Claude Codeの停止に通常使用する`/goal`コマンドを使用せず、独自の「Stopフック」を自作しました。しかし、この自作フックが適切に機能しなかったため、Claude Codeは停止することなく実行を継続。その結果、意図せずClaudeの利用量が増加し続けてしまいました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-15T13:01:18.316244"
+  },
+  {
+    "source": "Qiita",
+    "title": "2026年におすすめの複数話者リップシンク／AIポッドキャスト動画ツール7選｜2人の声を、それぞれの口へ正しく振り分ける",
+    "link": "https://qiita.com/kanekoyuu931/items/63978c89bc5a85e77ba4",
+    "summary": "この記事は、2026年におすすめの複数話者リップシンク／AIポッドキャスト動画ツールを紹介しており、特に「2人の声をそれぞれの口へ正しく振り分ける」という課題に焦点を当てています。\n\n1枚の写真から2人掛けトークや対話シーンを生成する最適なツールとして、FreeLipSyncが推奨されています。これは、2つの顔にセリフと声を個別に割り当て、口を独立して同期できるためです。\n\nその他にも、長尺素材からの話者割り出しにはRask AI、録音会話の編集にはDescriptやRiverside、企業向けの出演者ライブラリにはHeyGenやSynthesiaが適しているとされています。\n\n記事は、「2人」のリップシンクにはセリフの振り分け（ルーティング）という特別な課題があり、1人を前提とした多くの既存ツールではこれを解決できないと強調しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-15T13:01:28.616424"
+  },
+  {
     "source": "ITmedia",
     "title": "“初めてのインシデント調査”に備えられる　JPCERT/CCがチェックリストを無償公開",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/15/news003.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-10-25T10:15:17.153484"
-  },
-  {
-    "source": "Zenn",
-    "title": "海外で話題の最新LLM「Kimi K3.1 Pro」と脆弱性監視「CVE Tracker」",
-    "link": "https://zenn.dev/ament3/articles/ai-digest-2026-10-24-0021",
-    "summary": "本記事は、海外で話題となっている最新の大規模言語モデル（LLM）「Kimi K3.1 Pro」について取り上げています。同時に、システムやソフトウェアの脆弱性を監視するツール「CVE Tracker」にも言及しています。\n\nこれら二つのテーマが、最新のテクノロジー動向やセキュリティの観点から議論されていると考えられます。具体的な機能や両者の関連性については、元の記事で詳しく解説されています。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-10-25T10:15:35.779378"
-  },
-  {
-    "source": "Qiita",
-    "title": "Codexでワークスペース設定を読み込めないとき：ログと操作を分けて切り分ける",
-    "link": "https://qiita.com/OfoxAI/items/35a8d0fe187266230e90",
-    "summary": "Codexデスクトップアプリで「Couldn't load workspace settings」エラーが表示された場合、すぐに`config.toml`の変更やアプリの再インストールを行うのではなく、どの処理が失敗したのか原因を切り分けるべきです。このエラー表示だけでは、設定ファイルの破損やモデルの停止、アカウント停止を判断することはできません。\n\n本記事はデスクトップアプリの新しいチャットやワークスペース読み込み時のエラーを対象としており、APIサービスへの切り替えは解決策ではありません。この情報は2026年10月16日のOpenAI Codexリポジトリの公開報告に基づいています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-25T10:15:45.378731"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "マドンナの声が科学的に年齢不詳であることが判明",
-    "link": "https://gigazine.net/news/20261025-madonna-voice-age/",
-    "summary": "歌姫マドンナの声が科学的に分析された結果、通常加齢とともに見られる声の変化が、彼女の声にはほとんど見られないことが明らかになりました。このため、彼女の声は「科学的に年齢不詳である」と判明しました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-24T23:51:46.482405"
   }
 ]
