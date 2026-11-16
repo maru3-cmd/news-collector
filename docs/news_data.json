@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "195店舗の電話対応を約70％削減　未来屋書店は最多の「商品の問い合わせ」をAIにどうさばかせた",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news030.html",
+    "summary": "未来屋書店は、店舗スタッフが電話応対で業務を中断する負担を軽減するため、電話応対AIを導入しました。このAI導入により、全国195店舗の電話対応業務を約70%削減することに成功。特に件数の多い「商品の問い合わせ」を効率的に処理する仕組みを構築し、スタッフの負担軽減と業務効率化を実現しました。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-16T01:28:28.543280"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
+    "link": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
+    "summary": "映画「バック・トゥ・ザ・フューチャー」でタイムマシンに必要な1.21GW（12億1000万W）もの膨大な電力を、市販のスピーカーに瞬間的に流し込むとどうなるかという実験が公開されました。\nこの検証は、電気工作系YouTuberのPhotonicinduction氏によって行われました。\n同氏は、家庭用電源からその途方もない電力を生み出し、スピーカーに供給する様子を捉えた動画を公開しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-16T01:28:41.969498"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code自動化の実例｜定期実行48本とサブエージェント15部署を毎日回す仕組み",
+    "link": "https://zenn.dev/orectic/articles/claude-code-ai-org-daily-operations",
+    "summary": "この記事は、Claude Codeを活用した具体的な自動化の実例を紹介しています。その仕組みでは、毎日**48本**のタスクが定期的に自動実行されています。さらに、**15部署**の業務を効率化するためのサブエージェントも毎日稼働するよう構築されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-16T01:28:52.286305"
+  },
+  {
+    "source": "Qiita",
+    "title": ".NET 11のFile-based Apps：C#をスクリプトのように直接実行できるように",
+    "link": "https://qiita.com/axzxs2001/items/72f5476a40b508416734",
+    "summary": "C#で簡単なツールを開発する際、通常必要となるプロジェクト作成や`.csproj`ファイルの設定は手間がかかります。この問題に対し、.NET 10で導入され、.NET 11で機能が強化されたFile-based Appsが解決策を提供します。これにより、C#ソースファイルをPythonのように直接実行できるだけでなく、NuGetパッケージの利用やWeb APIの構築まで可能になりました。開発者はC#コードに集中し、プロジェクト設定やビルド処理は.NET SDKに任せられるようになります。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-16T01:29:00.172737"
+  },
+  {
     "source": "GIGAZINE",
     "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
     "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-26T11:39:52.894345"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
-    "link": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
-    "summary": "シアトル拠点のEndurance Energyが、海面下約1.6kmの活火山付近で世界初の海底地熱発電の実証実験に成功しました。この実験では水中発電が確認されましたが、発電時間は10秒未満と短時間でした。しかし、この成果は水中における新たな再生可能エネルギーの利用可能性を実証する重要な一歩となります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-25T23:40:36.923624"
-  },
-  {
-    "source": "Zenn",
-    "title": "臨床試験をひもとく：AI研究者のためのガイド（第1回）ワークフローとAIの可能性",
-    "link": "https://zenn.dev/keiji_ai_japan/articles/8248a0d8cc0143",
-    "summary": "提供されたタイトルと情報に基づくと、このガイドはAI研究者向けに臨床試験の基本を解説するものです。特に「第1回」では、臨床試験の具体的なワークフローを詳細にひもとき、その各段階でAI技術がどのように活用され、価値をもたらしうるかに焦点を当てています。これにより、AI研究者が自身の専門知識を臨床試験の課題解決に応用し、医療分野への貢献を促進するための理解を深めることを目的としています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-25T23:40:45.377357"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIで公開済みの記事に誤りを見つけたとき、更新・訂正告知・非公開化を選ぶ基準",
-    "link": "https://qiita.com/boraemon2000/items/5cab73e38c583a15247b",
-    "summary": "公開済みの記事に誤りが見つかった際、筆者はAIで修正する前に、誤りの種類や読者への影響を考慮し、被害拡大を防ぐ判断が重要だと述べています。軽微な誤字などは通常の「更新」で対応できる一方、申込期限のように読者に影響する間違いは「訂正を明示して更新」する必要があります。特に個人情報や未公開情報が含まれる場合は、まず「非公開化」を優先すべきだとして、誤りの性質に応じたこれら3つの基準を提示しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-25T23:40:54.068976"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GⅠ・菊花賞を武豊騎手がゴーイントゥスカイで制し史上最年長GⅠ勝利記録をみたび更新、二冠馬ロブチェンは14着",
-    "link": "https://gigazine.net/news/20261025-gointosky-wins-kikka-sho/",
-    "summary": "2026年10月25日に京都競馬場で開催されたGⅠ菊花賞（芝3000m）を、3番人気のゴーイントゥスカイが武豊騎手とのコンビで制しました。この勝利により、武豊騎手は自身の持つ史上最年長GⅠ勝利記録を再び更新しました。三冠達成が期待されていたロブチェンは、残念ながら14着に終わりました。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-25T10:15:17.153484"
   }
 ]
