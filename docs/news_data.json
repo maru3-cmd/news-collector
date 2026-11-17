@@ -1,6 +1,33 @@
 [
   {
     "source": "ITmedia",
+    "title": "規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+    "summary": "IBMとMicrosoftは、規制の厳しい業界向けにAIエージェントの実証から本番運用への移行を支援する業界特化型基盤「Imagine Enterprise」を発表しました。この基盤は、6000種類を超える構築済みエージェントやアセットを提供することで、企業のAI導入を促進します。これにより、企業は一からAIエージェントを構築したり、既存システムを置き換えたりすることなく、効率的にAI技術を導入・活用することが可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-17T04:14:09.530446"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に",
+    "link": "https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/",
+    "summary": "2026年11月12日に発生した世界規模のOutlookやExchange Onlineのサービス障害について、Microsoftは暫定的な調査報告書を公表しました。報告によると、障害の主な原因は2026年7月のバグ修正で混入した新たなバグと複数のインフラ上の問題が複合的に作用したためです。これにより障害が連鎖的に拡大し、結果としてサーバーの80%以上が応答不能に陥りました。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-11-17T04:14:17.207826"
+  },
+  {
+    "source": "Zenn",
+    "title": "Agent SkillsがLinux Foundation傘下に——手持ちの27スキルを仕様で検査したら6本が不合格",
+    "link": "https://zenn.dev/sktt_panda/articles/agent-skills-aaif-spec-check-2026-10",
+    "summary": "Agent SkillsがLinux Foundationの傘下に入りました。これに伴い、既存の27のスキルを仕様に基づいて検査したところ、そのうち6本が不合格と判定されました。この結果は、エージェントスキルの標準化と品質保証を強化していく動きを示しています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-17T04:14:28.428814"
+  },
+  {
+    "source": "ITmedia",
     "title": "アクセンチュアが説く「業務そのものの創り直し」とは？　AI活用が事業成果に結びつかない企業に向けた2つのポイント",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news056.html",
     "summary": "この記事によると、多くの企業がAIのPoC（実証実験）を重ねても、本番導入や事業成果に結び付かない課題に直面しています。アクセンチュアは、この状況を打開するため、単に既存業務をAI化するのではなく、「業務そのもの」をAI活用を前提に根本的に再設計することを提唱しています。これは、AIの潜在能力を最大限に引き出し、真の事業成果へと繋げるための重要なアプローチであると考察されています。",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-27T00:59:28.020359"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
-    "link": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
-    "summary": "多くの企業が生産性や収益性向上のためAIツールやエージェントを導入しています。しかし、投資会社Apolloのチーフエコノミストであるトルステン・スロク氏は、AIがテクノロジー業界以外のアメリカ企業には経済的利益をほとんどもたらしていないとするレポートを発表しました。この指摘は、AI投資の恩恵が限定的である可能性を示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-27T00:59:34.764495"
-  },
-  {
-    "source": "Zenn",
-    "title": "複数AIの引き継ぎで残すべき最小の記録",
-    "link": "https://zenn.dev/neoru/articles/ad4e1f9d518f47",
-    "summary": "複数AIシステムの引き継ぎでは、後任者がスムーズに業務を引き継ぎ、システムを安定運用できるよう、必要最小限の記録を残すことが極めて重要です。この記録には、各AIモデルの目的、学習データ、アーキテクチャ、バージョン、評価指標、および運用環境に関する核心情報が含まれると考えられます。最小限の情報を文書化することで、引き継ぎ時の混乱や知識の散逸を防ぎ、AIシステムの継続的な機能維持と将来的な発展を可能にします。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-27T00:59:47.038579"
-  },
-  {
-    "source": "Qiita",
-    "title": "13。『許可リストを見る手段がない』と前日に書いた記事のあと、プロキシを完全にバイパスする宛先の数を数えたらその数字だった",
-    "link": "https://qiita.com/Hideki_Tamae/items/40701c4ae7f8dc6ce153",
-    "summary": "この記事によると、執筆者は自身の自動投稿システムが動作する実行環境で、送信方向のプロキシを完全にバイパスする宛先が「13」あることを発見しました。これは、以前の記事で報道・メディア系ドメインへの到達失敗を経験し、「許可リストを見る手段がない」と結論付けていた状況を受けての発見です。しかし、実際にはプロキシをバイパスする宛先の一覧が環境ドキュメントに平文で記載されており、以前の結論が半分間違いだったことが判明しました。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-27T00:59:58.016689"
   }
 ]
