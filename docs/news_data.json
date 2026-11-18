@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+    "summary": "多くの企業がChatGPTによる自社の紹介内容を把握したいというニーズに応え、OpenAIは企業向けの確認機能をβ版で提供開始しました。この新機能により、企業はChatGPTが自社をどのように説明しているかを知ることができます。さらに、米国の対象企業は、自社のAIエージェントをChatGPT広告のリンク先に設定することも可能になります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-18T03:13:50.404659"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "サイコパシーやサディズムの傾向がある人は初回のデートで異性から高い評価を受ける可能性",
+    "link": "https://gigazine.net/news/20261118-psychopathy-sadism-more-appealing-dates/",
+    "summary": "一般的に忌避されがちなサイコパシー（精神病質）やサディズム（他人に苦痛を与えることを楽しむ性質）といった特性が、異性からの評価に意外な影響を与える可能性が示されました。ある実験では、異性愛者の男女が短時間会話した際、これらの特性が高い人ほど、初対面の異性から高い評価を受けやすいことが明らかになりました。この結果は、一見ネガティブな特性が、初回のデートのような短い交流においては魅力的に映ることがあるという興味深い洞察を提供しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-18T03:13:57.453907"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI時代のサイバー防御にデセプションは有効なのか――ローカルLLMを使って実験してみた",
+    "link": "https://zenn.dev/masuda_masuo/articles/2026-11-18-ai-deception-lab",
+    "summary": "この記事は、AIが関与する現代のサイバー攻撃に対し、デセプション（欺瞞技術）がどの程度有効な防御策となるかを検証しています。具体的には、ローカルに構築された大規模言語モデル（LLM）を攻撃者の役割に見立て、デセプション環境に対する反応を実験しました。この実験を通じて、AIを活用した攻撃に対するデセプション技術の有効性やその可能性、課題を探求しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-18T03:14:05.866100"
+  },
+  {
+    "source": "Qiita",
+    "title": "【Ignite 2026 速報】Microsoft Foundry アップデートまとめ（継続的改善、Copilot harness、Microsoft IQ、GPT-6.2 ほか）",
+    "link": "https://qiita.com/nohanaga/items/d32af11646d3cb755f19",
+    "summary": "Microsoft Ignite 2026で発表されたMicrosoft Foundryの主要アップデートは、「継続的改善」に焦点を当てています。これは、デプロイ後のAIエージェントのパフォーマンスを、本番環境でのトレースや専門家フィードバックに基づいて評価・最適化・再学習するサイクルを確立するものです。この継続的改善ループは、確立、特定、最適化、検証の4つのステップで構成され、「Insights」機能はGA（一般提供）として、Agent Optimizerの新機能などはプレビューとして提供されます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-18T03:14:15.538681"
+  },
+  {
     "source": "GIGAZINE",
     "title": "VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」",
     "link": "https://gigazine.net/news/20261117-project-maya/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-10-28T00:49:18.318695"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI クローラーを名乗るアクセスは、何を探していたのか ― 名乗りと行動を照らしてみた",
-    "link": "https://zenn.dev/t4n4bot4/articles/50b508a3630ea1",
-    "summary": "提供されたタイトル「AI クローラーを名乗るアクセスは、何を探していたのか ― 名乗りと行動を照らし合わせてみた」のみに基づくと、この記事はAIクローラーを名乗るアクセスが具体的にどのような情報や目的で活動しているのかを分析しています。\n\nアクセス元が自ら名乗った情報と、実際のサーバー上での行動パターンや収集データを詳細に比較・照合することで、その真の意図や正当性を検証しようとしています。\n\nこれにより、表面上の名乗りと実際の行動との間に乖離がないか、あるいは悪意のあるアクセスがAIクローラーを装っていないかといった実態を明らかにすることを目的としていると考えられます。\n（※記事内容が提供されていないため、タイトルからの推測に基づいています。具体的なポイントや数字は記事本文に記載されているはずです。）",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-28T00:49:30.246901"
-  },
-  {
-    "source": "Qiita",
-    "title": "1。英国政府が自律型AIエージェントの事故調査体制整備を発表した日、自分の3つの自動投稿トリガーのうち、最新の指示書を持たないまま凍結されていた数はその数字だった",
-    "link": "https://qiita.com/Hideki_Tamae/items/62f296bc334c253a977d",
-    "summary": "英国政府は2026年10月12日、自律型AIエージェントが関わる重大インシデントに対応するため、専門の調査能力整備を含むAIセキュリティ対策パッケージを発表しました。この対策では、事故発生時に「エージェントが何を指示されていたか」などを明らかにする調査を行うとされています。筆者はこの発表を受け、自身の3つの自動投稿トリガーのうち、最新の指示書を持たないまま凍結されている1つの状況を、事故調査の問いと重ねて自己点検しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-28T00:49:39.694123"
-  },
-  {
-    "source": "ITmedia",
-    "title": "HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
-    "summary": "HISは、法人出張の見積もり業務にAIエージェントとロボットを導入しました。これにより、月間で100時間の業務時間削減を達成しています。2023年頃からAIによる効率化を試みていたものの、当初は期待する精度を得られずにいたと報じられています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-27T11:08:25.383262"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」",
-    "link": "https://gigazine.net/news/20261027-nietzschian-debugger/",
-    "summary": "「Nietzschian Debugger」は、AIが直接的な修正方法を教える代わりに、開発者に繰り返し質問を投げかけることで不具合の原因を考えさせるデバッグツールです。このツールはGitHubで公開されており、開発者自身の問題解決能力を鍛え、AIへの過度な依存を減らすことを目指しています。一般的なAIデバッグツールとは異なり、開発者の思考力を促進するユニークなアプローチを取っています。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-10-27T11:08:32.608076"
   }
 ]
