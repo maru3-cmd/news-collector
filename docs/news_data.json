@@ -1,5 +1,23 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
+    "link": "https://gigazine.net/news/20261118-xestrata/",
+    "summary": "「XeStrata」は、1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCでローカル実行できる、無料のオープンソースソフトウェアです。これは、既存の「Strata」をベースに、GPUの計算処理をオープンな標準規格「SYCL」で書き直すことで開発されました。その結果、Intel製GPUへの対応が実現し、Intel・AMD・NVIDIA製のあらゆるGPUを共通のコードで扱えるようになります。これにより、幅広いユーザーが高性能AIモデルを手軽に利用できるようになります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-18T14:40:59.378299"
+  },
+  {
+    "source": "Zenn",
+    "title": "Copilot が「承認推奨」とした PR に、マイグレーションを止める穴があった。AI のレビューを 3 段に重ねる",
+    "link": "https://zenn.dev/tzp/articles/eecb5507534410",
+    "summary": "Copilotが「承認推奨」としたプルリクエスト（PR）に、システム移行（マイグレーション）を停止させる深刻なバグが発見されました。この事例は、AIによるコードレビューの信頼性における課題を浮き彫りにしました。対応策として、AIによるレビュープロセスを「3段に重ねる」という多層的な検証体制が導入され、品質保証の強化が図られます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-18T14:41:07.726975"
+  },
+  {
     "source": "ITmedia",
     "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
@@ -1330,23 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-10-28T11:44:01.930970"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Oracle、AIで業務アプリを「記録」から「成果」の基盤へ　人の判断はどこに残る",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news019.html",
-    "summary": "Oracleは「Oracle AI World 2026」で、業務アプリケーションを「記録の基盤」から「成果を生み出す基盤」へと変革させる戦略を発表しました。\n同社は、AIの活用により、この進化を推進します。\n具体的には、AIエージェントが単なる提案に留まらず、統制の取れた環境下で実際の業務を実行し、具体的な成果に結びつける役割を担うとしています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-28T00:49:10.767758"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
-    "link": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
-    "summary": "GIGAZINEは、読者がどのような分野に深く関心を持っているかを明らかにするため、2026年夏に「あなたは何オタクですか？(複数選択可)」という読者アンケートを実施しました。この調査は、ガジェットやAI、ゲーム、アニメ、食などGIGAZINEが扱う多様なジャンルにおける読者の「オタク趣味」を探るものです。アンケート結果は、年代や性別、ゲーム・マンガとの関わりといった要素と関連付けて詳細に分析されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-28T00:49:18.318695"
   }
 ]
