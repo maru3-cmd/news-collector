@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "認証なしでリモートコード実行の恐れ、Javaに脆弱性「Java4Shell」　JiraやJenkinsで攻撃実証の報告も",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news055.html",
+    "summary": "米CISAとIPAは、認証なしでリモートコード実行（RCE）の恐れがあるJavaの脆弱性「Java4Shell」について注意喚起を公開しました。この脆弱性はJavaの実行環境に影響を与え、JiraやJenkinsといった環境での攻撃実証も報告されています。組織に対し、この修正プログラムを直ちに適用するよう強く求めています。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-19T14:46:31.282785"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
+    "link": "https://gigazine.net/news/20261119-speech-cpp/",
+    "summary": "「speech.cpp」は、録音やリアルタイムでの文字起こし、テキストの音声読み上げができる日本語特化型の無料オープンソースツールです。\nこのツールは、GPUを必要とせずCPUだけで動作し、ブラウザから手軽に利用できる点が特徴です。\n具体的には、日本語音声認識AI「Haas-ja-v1.0」と音声合成AI「Irodori-TTS」などを統合して提供されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-19T14:46:38.714725"
+  },
+  {
+    "source": "Zenn",
+    "title": "Decision Model「H2O Lightning」を試してみる：Colabで注文と納品書の画像を照合する",
+    "link": "https://zenn.dev/nakanishitf/articles/9d946756c074d4",
+    "summary": "本記事は、Decision Model「H2O Lightning」をGoogle Colab上で活用し、注文書と納品書の画像データを自動的に照合する試みを解説しています。これは、AIや機械学習を用いて、従来の文書照合業務に内在する手間やエラーリスクを削減し、効率化と精度向上を図るための実践的な検証です。異なる形式の文書間での情報の一致を正確に判断するモデルの構築と評価に焦点を当てており、経理や業務プロセスの自動化に貢献する可能性を探ります。記事の内容からは具体的な数値は読み取れません。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-19T14:46:47.919875"
+  },
+  {
+    "source": "Qiita",
+    "title": "NVIDIA Brev の侵害と、AI 開発プラットフォームが「狩られた」1 か月",
+    "link": "https://qiita.com/0xNurstar/items/2838925283717c174534",
+    "summary": "NVIDIAのGPU仮想マシン向けプラットフォームBrevが、16日間にわたる不正アクセスを受け、顧客VMへのSSHキー漏洩の可能性が浮上しました。NVIDIAはすでにキーをローテーションし、悪用証拠はないと発表しています。\n\nしかし、これは単発のインシデントではなく、10月初旬から11月中旬にかけてBrevを含め十数社のAI開発プラットフォームが同様の侵害を公表しています。これらの攻撃の共通の標的は、開発者がマシン上に残しているクレデンシャルであるとされています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-19T14:46:56.702931"
+  },
+  {
+    "source": "ITmedia",
     "title": "PHPが再び重大脆弱性を修正へ　10月の“緊急対応”と今回は何が違うのか",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news048.html",
     "summary": "PHPのセキュリティチームは、サポート中の全バージョンに影響する新たな脆弱性の修正を予告しました。この修正は日本時間2026年11月19日夜に公開される予定です。最も高い深刻度は「Critical」とされていますが、該当する条件は限定的とのことです。",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "article",
     "collected_at": "2026-10-29T11:51:51.941767"
-  },
-  {
-    "source": "ITmedia",
-    "title": "製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
-    "summary": "AI活用が個人タスクの効率化から、AIを価値創出の仕組みの中心に据える「AIネイティブ企業」へと進化しています。特に製造業では、どのようなAIネイティブ化を目指し、何から取り組むべきかが課題となっています。この課題に対し、将来のAIの役割から「逆算」して、各社のAIネイティブ化の道筋を描く診断サービスが登場しました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-29T01:22:53.224374"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "タッチ操作対応のPROLED XDRディスプレイ搭載MacBook Proが2026年11月6日に登場、M5 Pro/Max搭載で価格は49万9800円から",
-    "link": "https://gigazine.net/news/20261029-prooled-xdr-display-macbook-pro/",
-    "summary": "Appleは2026年10月28日、「Pro and tell.」イベントで、タッチ操作に対応したMacBook Proを発表しました。新開発の「PROLED XDRディスプレイ」は最大2000ニトの輝度と120Hzのリフレッシュレートを実現し、M5 ProおよびM5 Maxチップを搭載しています。14インチと16インチモデルが用意され、2026年11月6日に発売されます。価格は49万9800円からで、最高スペックの構成は257万6800円です。",
-    "category": "開発・プログラミング",
-    "content_type": "news",
-    "collected_at": "2026-10-29T01:23:01.299624"
-  },
-  {
-    "source": "Zenn",
-    "title": "Vidu Q4 の画像から動画：最初のフレームを整えてから動きを書く",
-    "link": "https://zenn.dev/yoxi957/articles/4c7f5cfa1e49c4",
-    "summary": "この記事は、Vidu Q4が画像から動画を生成する技術について解説しています。そのプロセスは、まず動画の「最初のフレーム」となる画像を正確に準備・設定することから始まります。次に、その設定された最初のフレームに対して具体的な「動き」を定義していくことで、動画全体が作成されます。この手法により、静止画から動的なコンテンツを生み出すことが可能になります。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-29T01:23:09.740677"
-  },
-  {
-    "source": "Qiita",
-    "title": "Devinの料金が“溶ける”瞬間と、溶かさない原則 ― ACUは「時間」でなく「仕事量」で増える",
-    "link": "https://qiita.com/startdevin/items/eab4f0b47258f51c7d14",
-    "summary": "Devinの利用料金は、ユーザーが最も気にする点の一つであり、「使った時間」ではなく「Devinがこなした仕事量」によって決まります。同じ作業でも料金が大きく異なるのは、この仕事量がユーザーの“投げ方”（指示の出し方）次第で大きく変動するためです。したがって、プラン変更を検討する前に指示の出し方を見直すことで、同じ作業でも料金を大幅に抑えることが可能になります。この記事は、料金が「溶ける」瞬間を避け、消費を抑える原則を解説しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-10-29T01:23:19.298774"
   }
 ]
