@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "「名ばかりFDE」を見抜けるか？　依頼検討時に確認したい10項目",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news028.html",
+    "summary": "「名ばかりFDE」と称されるAI導入支援サービスの実態に対し、エンジニアが現場で開発しているかどうかに疑問が呈されています。AI導入支援を手掛けるゴムマリは、信頼できるサービスを見抜くための依頼前に確認すべき10項目を整理しました。同社は国内40社の公式サイトでの記載状況を調査し、その結果を公表しており、IT部門が見積もり時に確認すべき重要なヒントとなります。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-20T02:44:51.243315"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+    "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
+    "summary": "Microsoftは、Windows PCをUSB4ケーブルで相互接続する新機能「RDMA over USB4」を発表しました。これにより、複数のPCのメモリやGPU計算能力を共有し、単一のAI処理クラスターとして機能させることが可能になります。この機能は、大型AIモデルの処理を高速化することを目的としており、専用機材が不要でUSBケーブルのみで手軽に接続できます。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-20T02:44:58.468911"
+  },
+  {
+    "source": "Zenn",
+    "title": "長尺AI動画は「一発生成」から「AI制作チーム」へ――Googleが公開した4つのマルチエージェント研究",
+    "link": "https://zenn.dev/humanos_lab/articles/97f578b0eb47db",
+    "summary": "Googleは、長尺AI動画の制作アプローチが、これまでの「一発生成」から、複数のAIが連携する「AI制作チーム」によるものへと大きく転換していることを発表しました。\nこの新しいパラダイムでは、個々のAIが専門的な役割を分担し、複雑なタスクを協調的に処理することで、より高品質で長い動画の生成を目指します。\n具体的には、Googleがこの方向性を示す**4つのマルチエージェント研究**を公開し、AI動画制作の未来像を提示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-20T02:45:08.833918"
+  },
+  {
+    "source": "Qiita",
+    "title": "Motion Control AIでキャラクター画像に動画の動きを転送する",
+    "link": "https://qiita.com/haoli197654/items/806b07005599614e9676",
+    "summary": "「Motion Control AI」は、キャラクター画像（写真、アバター、イラストなど）に参考動画のダンスやジェスチャーといった動き、タイミング、カメラリズムを転送するAI動画生成サービスです。ブラウザ上でキャラクター画像とモーション動画を入力するだけで、新たなキャラクター動画を生成できます。\n\nこれにより、TikTokやReels向けのキャラクター動画や広告案を効率的に試作可能。出力品質、向き、背景、プロンプトなどの設定も細かく調整でき、開発者向けのAPIも提供されています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-20T02:45:19.101643"
+  },
+  {
+    "source": "ITmedia",
     "title": "認証なしでリモートコード実行の恐れ、Javaに脆弱性「Java4Shell」　JiraやJenkinsで攻撃実証の報告も",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news055.html",
     "summary": "米CISAとIPAは、認証なしでリモートコード実行（RCE）の恐れがあるJavaの脆弱性「Java4Shell」について注意喚起を公開しました。この脆弱性はJavaの実行環境に影響を与え、JiraやJenkinsといった環境での攻撃実証も報告されています。組織に対し、この修正プログラムを直ちに適用するよう強く求めています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-30T01:26:07.396425"
-  },
-  {
-    "source": "Qiita",
-    "title": "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法",
-    "link": "https://qiita.com/boraemon2000/items/55ba2b61ef20e6f644d4",
-    "summary": "この記事は、AIへの指示（プロンプト）を改善する際、変更後に以前合格したテストが失敗しても、どの変更で問題が再発したのか追跡できない課題を提起しています。その原因は、指示のバージョンとテスト結果が別々に記録され、紐付けられていないため、AIの出力変化の理由を特定できない点にあります。\n\nこの問題を解決するため、筆者は「どの指示Versionを使ったか」「どのテストケースを実行したか」「期待と実際の結果がどう違ったか」という3つのポイントを同じ記録で結びつける管理方法を提案しています。これにより、AIの出力変化の履歴と失敗の原因を効率的に追跡できるようになります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-30T01:26:17.608132"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
-    "link": "https://gigazine.net/news/20261029-anti-ai-words-in-script/",
-    "summary": "セキュリティ研究者のveritas氏により、AIによるコード解析を妨害する新たな手法が発見されました。これは、AIに搭載されている悪用防止機能や特定のフレーズを拒否する安全対策を逆手に取るものです。具体的には、「天安門事件」「台湾独立」「水道水に毒物混入」といった、AIが危険とみなすフレーズをコード内に意図的に混入させることで、AIによる解析を回避させると報じられています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-29T11:51:30.760309"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIへの指示、「いつもの一言」を変えるだけで精度が上がる理由",
-    "link": "https://zenn.dev/sunsun_eng/articles/improve-ai-prompt-precision-tips",
-    "summary": "AIの応答精度は、指示の与え方によって大きく左右されます。漠然とした「いつもの一言」ではなく、具体的な情報や文脈を盛り込んだ詳細な指示にすることで、AIはユーザーの意図を正確に把握しやすくなります。これにより、AIはより的確で高品質な出力を生成することが可能となり、作業効率と成果の質が向上します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-29T11:51:40.214449"
-  },
-  {
-    "source": "Qiita",
-    "title": "MCPサーバー自作は簡単？でも認証の3つのMUSTは外せない",
-    "link": "https://qiita.com/kinamocchi_tech/items/be1595ec93ce975fbf6f",
-    "summary": "MCPサーバーの自作は簡単に見えても、認証に関して「3つのMUST」が極めて重要であることを強調する記事です。自作の容易さとは裏腹に、セキュリティ上、これらの認証要件は決して外せないと解説しています。この内容は、YouTubeチャンネル「きなこもっちーのテック深掘り」で、AIに詳しいきなこ先生と生徒もっちーが対話形式で深く掘り下げて説明しています。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-10-29T11:51:51.941767"
   }
 ]
