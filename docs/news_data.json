@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
+    "link": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
+    "summary": "ウェイクフォレスト大学の研究により、ヒヨコの脳細胞は酸素が極めて少ない状態でも2時間以上にわたって電気信号を出し続けることが判明しました。これは、酸素不足で数分以内に一部が死に始める人間の脳細胞とは対照的です。この研究は、ヒヨコの脳組織が低酸素環境下で驚くべき生存能力を持つことを示しています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-21T13:47:09.510989"
+  },
+  {
+    "source": "Zenn",
+    "title": "Museを使ってZOZOTOWNで買い物してみた",
+    "link": "https://zenn.dev/april_sugar/articles/muse-zozotown-shopping",
+    "summary": "この記事は、筆者がZOZOTOWNでAIファッションアシスタント「Muse」を使って買い物をした体験についてまとめています。\n\nMuseは、ユーザーの好みや閲覧履歴に基づき最適な商品を提案するZOZOTOWNの機能です。筆者は、このツールが実際の買い物においてどれほど効果的で便利であるかを検証した、そのプロセスと結果を紹介しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-21T13:47:21.280446"
+  },
+  {
+    "source": "Qiita",
+    "title": "【第068回】オウム返しと定型句の蔓延を防げ！類似度判定（コサイン類似度）によるレスの多様性強制",
+    "link": "https://qiita.com/Waipe/items/5f9f7062718650ba5850",
+    "summary": "「つゔぁいちゃんねる」の開発において、3,000名の住民に2,000種類の職業を与え、ユニークな肩書きを実装しました。しかし、ユーザーからは「キャラ被り」や「オウム返し」、定型句によるレスのワンパターン化に対し、「背筋が凍るような痛烈なクレーム」が寄せられました。\n\n具体的には、「腰痛も悪化しそうだな」といった発言が複数の後続レスで継ぎ接ぎされたり、OLペルソナが毎回同じ挨拶をするなど、レスの多様性の欠如が問題視されています。この記事では、この課題に対し「コサイン類似度」を用いた類似度判定でレスの多様性を強制し、各ペルソナがその文脈で独自の渾身のレスを生み出すことを目指します。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-21T13:47:32.004438"
+  },
+  {
     "source": "ITmedia",
     "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-31T11:18:37.968233"
-  },
-  {
-    "source": "ITmedia",
-    "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-    "summary": "AI導入が進む中で、IT部門はAIの費用対効果を厳しく問われる課題に直面しています。この問題に対応するため、Anthropicは企業向けプラン「Claude Enterprise」に3つの新機能を追加しました。これらの機能は、AIの利用状況の可視化や予算配分などを可能にし、IT部門が費用対効果を明確に説明できるようになることを目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-31T01:13:09.553550"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
-    "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
-    "summary": "中国科学技術大学の実験により、AIの「性格」もその性能と同様にそれぞれ異なることが判明しました。さらに重要な発見として、このAIの「性格」診断の結果は、回答に用いる言語を切り替えることで変化することが明らかになりました。これは、AIの出力が使用言語によって異なるバイアスや特性を持つことを示唆しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-31T01:13:16.777811"
-  },
-  {
-    "source": "Zenn",
-    "title": "2026年後半のLLM動向: この数か月の進化を振り返る",
-    "link": "https://zenn.dev/shoyataguchi/articles/2495be9f531d85",
-    "summary": "提供された記事の内容はタイトル「2026年後半のLLM動向: この数か月の進化を振り返る」のみで、具体的な本文がありません。\n\nそのため、2026年後半のLLM（大規模言語モデル）の動向に関する進化や、その中で特に重要なポイント、具体的な数字を含めて要約することはできません。記事本文をご提示いただければ、要約を試みます。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-31T01:13:24.783742"
   }
 ]
