@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+    "summary": "IDCが発表した調査結果によると、「AIが普及すると人員が減る」という通説は誤りであることが示されました。実際には、AI投資で高いROI（投資収益率）を得ている組織ほど、将来的に増員を見込む割合が高いと判明しています。これは、AIで成果を出す企業がなぜ人員を増やすのかという、従来の認識とは異なる新たな疑問を提起しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-21T02:55:01.887161"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
+    "link": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/",
+    "summary": "SpaceXのイーロン・マスクCEOは、衛星インターネットサービスStarlinkを通じて地球上のあらゆる場所で通信可能にする計画を明かしました。特に建物内の圏外エリア撲滅のため、小型の屋上設置型基地局の設計を完了したと述べています。これにより、Starlink衛星からの電波が届きにくい場所でも通信を確保し、”どこでも通信”を実現する狙いです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-21T02:55:08.555563"
+  },
+  {
+    "source": "Zenn",
+    "title": "MuseのAI秘書が忘れないメモリ設計の作り方｜3層に分けて古い決定と新しい決定の混線を防ぐ実践メモ",
+    "link": "https://zenn.dev/sktt_panda/articles/muse-memory-3layers",
+    "summary": "この記事は、MuseのAI秘書が情報を忘れずに機能するためのメモリ設計について解説しています。この設計は、古い決定と新しい決定が混線するのを防ぐために「3層」に分けて管理される点が特徴です。これによりAIの判断の一貫性が保たれ、実践的な課題解決を目指しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-21T02:55:17.864493"
+  },
+  {
+    "source": "Qiita",
+    "title": "AI エージェント時代における評価駆動開発の優位性と大規模開発への拡張に関する調査",
+    "link": "https://qiita.com/hisashi-ito/items/ea31d324ac02f3fa5e4e",
+    "summary": "AIエージェントの普及により実装コストが劇的に低下したことで、特に非決定的で複雑なプログラム開発において「評価駆動開発（EDD）」の優位性が高まっています。EDDは一人や少人数での開発に適しており、本記事ではその進め方を整理します。さらに、OpenAIやAnthropicなどの公開資料を基に、大人数や多数のAIエージェントが関わる大規模な開発へEDDを拡張する際の課題と解決策を考察しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-21T02:55:26.731626"
+  },
+  {
+    "source": "ITmedia",
     "title": "nginxに深刻な脆弱性、遠隔からコードを実行される可能性も　「バージョン確認だけ」では不十分な理由",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news039.html",
     "summary": "Webサーバ「nginx」に、認証なしで遠隔からコードを実行される恐れのある深刻な脆弱性が発見されました。これに対処するため、修正版が公開されています。しかし、自社のサーバが安全かどうかの判断には、バージョン番号の確認だけでは不十分です。このため、システム管理者はバージョン情報以外の要素も確認し、適切な対策を講じる必要があります。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-10-31T01:13:24.783742"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.311 - v2.1.316）",
-    "link": "https://qiita.com/NaokiIshimura/items/d74fc44a0aa8ee403e21",
-    "summary": "この記事は、Claude Code のv2.1.311からv2.1.316までのアップデートの中で、開発者にとって特に重要な5つの変更点を取り上げています。その中でも注目すべき点の一つは、Opus 4.8 の fast mode が2026年11月30日に完全に削除されることです。この削除により、fast mode を利用するリクエストはエラーを返すようになるため、継続して高速化を維持するには Opus 5.5 への移行が必須となります。期限までに対応しないと、スクリプトなどが突然動作しなくなる可能性があると警告しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-31T01:13:36.075411"
-  },
-  {
-    "source": "ITmedia",
-    "title": "検出も解析もAIに任せろ　それでも「一生任せられない」最後の判断",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news039.html",
-    "summary": "サイバー攻撃の量と速度が人の手の限界を超えているため、防御側でもAIの活用が不可欠となっています。AIは検出や解析の自動化を加速させ、セキュリティ担当者の負担を軽減します。しかし、AIがどれほど進化しても担当者の仕事が完全になくなることはなく、特に「最後の判断」といった人間にしかできない重要な役割が残るのかが、現在の大きな論点です。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-10-30T11:44:47.083763"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
-    "link": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
-    "summary": "ウォール・ストリート・ジャーナルによると、AppleはこれまでiPhoneを武器にメモリメーカーに対し大幅な値引きを強要してきました。しかし、AIの急速な普及によりメモリ需要が急増し、状況は一変しました。その結果、メモリ価格は高騰し、以前は安く買い叩かれていたメモリメーカーの立場がAppleに対して逆転していると指摘されています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-10-30T11:44:54.579795"
-  },
-  {
-    "source": "Zenn",
-    "title": "AI協働：FRB Launch続々報 — マウスを動かしたくなくて、リモコンが生まれた話（笑）",
-    "link": "https://zenn.dev/frb_tamasub/articles/ai-collaboration08-frb-launch-remote-experience",
-    "summary": "この記事は「AI協働」をテーマに、FRB（連邦準備制度理事会、またはその他FRBと略される機関）のローンチに関する続報を扱っています。内容は「マウスを動かしたくなくて、リモコンが生まれた」というユーモラスな比喩を用いて、AIが人々の操作負担を軽減し、より簡便で効率的な新しい働き方や利便性をもたらす可能性を示唆しています。AIの導入が、従来の煩雑な作業から解放されるような革新的な変化を生み出すことへの期待が込められています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-30T11:45:09.368819"
   }
 ]
