@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
+    "link": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
+    "summary": "プライベートメッセンジャーアプリのSignalは、AIエージェントによる情報収集からユーザーのプライバシーを守るため、モバイルアプリでのAIによるスクリーンショット撮影機能を制限しました。これは、AIがSignalの築き上げてきたプライバシー保護機能を損なうと判断したためです。Signalはまた、OSレベルのAIエージェントによる広範な情報収集についても警鐘を鳴らしています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-22T01:46:45.361985"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code で会話をまたいでも忘れない引き継ぎの書き方｜HANDOVER は途中のものだけ・状態は1か所",
+    "link": "https://zenn.dev/orectic/articles/claude-code-session-handover-md",
+    "summary": "この記事は、Claude Codeを使ってAIとの会話が中断しても、前の文脈を忘れないように効果的な引き継ぎを行う方法を解説しています。主なポイントは二つで、一つは「HANDOVERは途中のものだけ」、つまり未完了のタスクのみを引き継ぎ対象とすることです。もう一つは「状態は1か所」で、タスクの現在の状態や進捗状況を一箇所で集中的に管理することの重要性を強調しています。これにより、AIとの共同作業において、中断や再開があってもスムーズなコミュニケーションと効率的なタスク管理を実現します。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-22T01:46:53.645383"
+  },
+  {
+    "source": "Qiita",
+    "title": "2026年11月22日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "link": "https://qiita.com/ennagara128/items/70ce7e25f1122e7d56ce",
+    "summary": "Qiitaは、前日夜の最新トレンド記事をAIがポッドキャスト化し、毎日朝7時に更新するサービスを提供しています。これは通勤中などでの「ながら聴き」を想定しており、ユーザーからのフィードバックを募っています。例えば、2026年11月22日のトレンド記事では、Microsoft 365 CopilotがOneDriveファイルを直接編集できるようになった件などが取り上げられています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-22T01:47:02.533934"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
     "link": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
     "summary": "ウェイクフォレスト大学の研究により、ヒヨコの脳細胞は酸素が極めて少ない状態でも2時間以上にわたって電気信号を出し続けることが判明しました。これは、酸素不足で数分以内に一部が死に始める人間の脳細胞とは対照的です。この研究は、ヒヨコの脳組織が低酸素環境下で驚くべき生存能力を持つことを示しています。",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "article",
     "collected_at": "2026-11-01T00:32:30.998685"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
-    "link": "https://gigazine.net/news/20261031-hitster-anison/",
-    "summary": "「HITSTER アニソン」は、1960年代から2020年代までのアニソンを聴き、その曲が何年のものかを当てて年代順に並べていく対戦型音楽カードゲームです。プレイヤーはどの曲がかかるか分からない状態で楽曲を聴き、タイムラインに正確に配置することを目指します。本記事では、このユニークなゲームを実際にプレイしたレポートが紹介されており、その魅力が伝えられています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-10-31T11:18:15.922959"
-  },
-  {
-    "source": "Zenn",
-    "title": "FH画像センサの有無判定を標準処理項目だけで組む——しきい値はOK／NG画像と専用の計測フローで決める",
-    "link": "https://zenn.dev/kensho_ya/articles/fh-presence-check-standard-items-threshold",
-    "summary": "この記事は、FH画像センサを使った部品などの有無判定に関するものです。このシステムは、特別なカスタム開発なしに、標準処理項目だけで構築できる点が特徴です。判定の精度を確保するため、合否の基準となるしきい値は、良品（OK）と不良品（NG）の画像データおよび専用の計測フローを用いて決定されます。これにより、シンプルかつ正確な有無判定が可能となります。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-10-31T11:18:25.921745"
-  },
-  {
-    "source": "Qiita",
-    "title": "言語とは何か、理解とは何か — 言語学から考える人工知能の可能性",
-    "link": "https://qiita.com/el_nakajox/items/40e22609fabbd1ea6db3",
-    "summary": "この文章は、AIが言葉を本当に理解しているのかという問いから、言語の本質について考察します。\n筆者は「目の前の犬をなぜ『犬』と呼ぶのか」という例を挙げ、言葉が既存のモノに名札を貼っただけではないことを提起しています。\n英語の「Dog」やフランス語の「Chien」のように、同じ動物でも呼び名が異なることから、「言語名称目録観」という、言葉はモノの名前の一覧であるという見方に疑問を投げかけています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-10-31T11:18:37.968233"
   }
 ]
