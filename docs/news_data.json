@@ -1,6 +1,33 @@
 [
   {
     "source": "GIGAZINE",
+    "title": "生殖器をこすることでコウモリから身を守る「ガ」がいる",
+    "link": "https://gigazine.net/news/20261122-hawkmoth-ultrasound-defense/",
+    "summary": "フロリダ大学などの研究チームは、一部のスズメガのオスがコウモリから身を守るため、生殖器の小片を腹部にこすりつけて超音波を出す独特な防御メカニズムを持つことを発見しました。この超音波発信には、生殖器を別の小片、硬いトゲ、または小突起のいずれかにこすりつけるという3つの異なる方法が確認されています。これは昆虫の生殖器を用いた珍しい防衛手段です。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-22T13:40:39.811503"
+  },
+  {
+    "source": "Zenn",
+    "title": "個人の事業を Claude Code に自走させて、10 月の売上は ¥0 だった",
+    "link": "https://zenn.dev/showgo/articles/claude-code-autopilot-zero-revenue",
+    "summary": "この記事は、ある個人事業主が自身の事業をAIアシスタント「Claude Code」に自律的に運営させようと試みた経験について述べています。しかし、その試みが行われた10月の売上は「0円」であったと報告されています。この結果は、AIによる事業の完全な自走化が現在のところ必ずしも成功に結びつくわけではないことを示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-22T13:40:48.834057"
+  },
+  {
+    "source": "Qiita",
+    "title": "エディタを開かずに GAS を追加・編集・保存 ── GASクイックの Drive コピー導入と、チャット AI 連携の話",
+    "link": "https://qiita.com/shu15511551/items/0d0eb9d4c9f8318ae427",
+    "summary": "記事によると、「GASクイック」はAIを使わずに133本のマクロを管理・実行するツールですが、導入時に6つのファイル（合計1万2千行以上）の手動コピペやスクリプトIDの書き換えが必要で、マイマクロ編集時もApps Scriptエディタが別タブで開くなど利便性に課題がありました。\n\n筆者はこれらの問題を解決するため、大元のスクリプトをスプレッドシートとしてGoogle Driveコピーで一発導入可能にすることで、エディタを開かずにGASの追加・編集・保存ができるように改善する方針を示しています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-22T13:40:57.973793"
+  },
+  {
+    "source": "GIGAZINE",
     "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
     "link": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
     "summary": "プライベートメッセンジャーアプリのSignalは、AIエージェントによる情報収集からユーザーのプライバシーを守るため、モバイルアプリでのAIによるスクリーンショット撮影機能を制限しました。これは、AIがSignalの築き上げてきたプライバシー保護機能を損なうと判断したためです。Signalはまた、OSレベルのAIエージェントによる広範な情報収集についても警鐘を鳴らしています。",
@@ -1321,32 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "article",
     "collected_at": "2026-11-01T12:08:31.918563"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
-    "link": "https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/",
-    "summary": "男女平等実現には管理職の意識改革が不可欠であるという認識のもと、アメリカとデンマークの研究チームが興味深い結果を発表しました。この研究によると、男性管理職に娘が生まれると、その組織で女性従業員の雇用が増加する傾向が見られます。さらに、娘が生まれた男性管理職のもとでは、女性従業員の収入も増加するという結果が示されています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-01T00:32:16.774150"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code の会話履歴が消える日数を4か所に別々に書いたら、--settings が勝った(既定は30日)",
-    "link": "https://zenn.dev/numarn/articles/claude-cleanup-period-days-precedence-handson",
-    "summary": "この記事は、Claude Codeの会話履歴が消える日数の設定に関する検証結果を報告しています。既定では履歴が30日後に消滅する設定となっていますが、筆者はこの日数を変更しようとしました。4つの異なる場所にそれぞれ別々の消滅日数を設定した結果、最終的に`--settings`で指定された設定が他の全ての設定を上書きし、最も優先されることが明らかになりました。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-01T00:32:23.401804"
-  },
-  {
-    "source": "Qiita",
-    "title": "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順",
-    "link": "https://qiita.com/DnD-inc/items/db2eb87387603d2f788b",
-    "summary": "東京商工リサーチによると、2026年度上半期（4〜9月）の人手不足倒産は前年同期比17.0%増の240件で、集計開始以来過去最多を更新し5年連続の増加となりました。全体の倒産件数も5,373件と13年ぶりの高水準に達し、物価高・人件費上昇に加え、人材の確保・育成・引き継ぎに関する構造的問題が背景にあります。\n\nこの記事では、担当者不在による業務停滞を防ぐため、属人化した業務をシステムで引き継ぐ具体的な手順を提示しています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-11-01T00:32:30.998685"
   }
 ]
