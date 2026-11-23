@@ -1,5 +1,32 @@
 [
   {
+    "source": "ITmedia",
+    "title": "Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/23/news001.html",
+    "summary": "セキュリティ企業Rubrikは、Microsoft 365 Copilotに無害な文書をアップロードするだけで、攻撃者がAIアシスタントに直接命令を出して乗っ取れる「ChatMate」と呼ばれる脆弱性を実証しました。この手法により、ユーザーの機密情報が流出するリスクがありましたが、Microsoftは既にこの脆弱性を修正済みです。Microsoftは、この重要な発見に対してRubrikに4万8000ドルの報奨金を支払いました。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-23T02:03:39.923802"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
+    "link": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/",
+    "summary": "ニューヨーク市議会で審議中の「配送保護法」は、Amazonの配送サービスパートナー(DSP)プログラムのような配送業務の委託を阻止しようとしています。これに対しAmazonは強く反対し、法案が成立した場合の影響を消費者に直接訴えるため、配送物に警告ラベルを貼り始めました。このラベルには、「ニューヨーク市議会は注文ごとに最大5ドル(約790円)の追加料金を課す可能性があります」と記されており、法案が消費者に与える潜在的なコストを強調し、反対を訴えています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-23T02:03:46.695249"
+  },
+  {
+    "source": "Zenn",
+    "title": "Museで判断待ちダッシュボードを作る方法｜AI秘書の運用と定期タスクを1画面で見える化した実践記録",
+    "link": "https://zenn.dev/sktt_panda/articles/muse-dashboard-judgment",
+    "summary": "この記事は、ノーコードツール「Muse」を活用し、「判断待ちダッシュボード」を構築する方法について解説しています。このダッシュボードは、AI秘書の運用状況と定期的に発生するタスクの進捗を、たった1画面で一元的に「見える化」することを目的としています。ユーザーが多岐にわたるタスクの判断待ち状況を効率的に把握できるよう、その実践記録が共有されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-23T02:03:56.008660"
+  },
+  {
     "source": "GIGAZINE",
     "title": "生殖器をこすることでコウモリから身を守る「ガ」がいる",
     "link": "https://gigazine.net/news/20261122-hawkmoth-ultrasound-defense/",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-11-02T01:07:42.642731"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
-    "link": "https://gigazine.net/news/20261101-wikipedia-ai-content/",
-    "summary": "AI生成テキストが普及する中、Wikipediaでは記事本文でのAI利用を原則禁止するガイドラインを設けています。このガイドラインに違反するコンテンツを見つけて削除するため、ボランティア活動「WikiProject AI Cleanup」が創設されました。\n\nその創設メンバーが、AI生成コンテンツの特定と排除を目指すこの活動について語っています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-11-01T12:08:12.449159"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIに無人運用させたパイプラインで、エラーを出さずに壊れていた8件と検知の作り方",
-    "link": "https://zenn.dev/zenn_content/articles/unattended-pipeline-silent-failures",
-    "summary": "AIが無人運用するデータパイプラインにおいて、システムはエラーを報告せず正常稼働しているように見えながらも、実際には「壊れている」というサイレント障害が8件発生しました。この記事は、通常の監視では見過ごされがちなこれらの隠れた問題が引き起こすリスクと、なぜエラーが出ないのかその原因を深掘りしています。そして、システムの真の健全性を判断し、このようなステルス的な障害を早期に検知するための具体的な方法論やアプローチについて解説しています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-01T12:08:22.018142"
-  },
-  {
-    "source": "Qiita",
-    "title": " 【第050回】招待URLから合言葉が漏洩する大ピンチ！アドレスバーの&key=完全撤去とメモリ内管理",
-    "link": "https://qiita.com/Waipe/items/50ff2277dae0938b298c",
-    "summary": "「つゔぁいちゃんねる」開発者が提供するWebRTCチャットにおいて、招待URLに合言葉が`&key=`パラメータとして平文で含まれ、ブラウザのアドレスバーに残存するという重大なセキュリティホールが発見されました。これは、画面共有やURLの再共有時にパスワードが漏洩する危険性があるため、セキュリティエンジニアからの指摘を受けました。\n\n利便性のために実装された機能でしたが、「URLに機密情報を含めてはならない」というWebセキュリティの鉄則に反していました。そのため、今後は`&key=`パラメータを招待URLおよびアドレスバーから完全に撤去し、パスワードをセキュアにメモリ内で管理する改修が行われます。",
-    "category": "セキュリティ",
-    "content_type": "article",
-    "collected_at": "2026-11-01T12:08:31.918563"
   }
 ]
