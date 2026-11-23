@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
+    "link": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/",
+    "summary": "NVIDIAの取締役会は、2026年11月23日23時頃にジェンスン・フアン氏を再びCEOに任命したと発表しました。これにより、フアン氏はNVIDIAのトップとして復帰し、同社の経営を再び指揮することになります。",
+    "category": "ビジネス・戦略",
+    "content_type": "news",
+    "collected_at": "2026-11-23T16:38:17.343223"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIと協働して、調味料の開封日管理ツールを個人開発・公開した記録",
+    "link": "https://zenn.dev/hidaka_sj/articles/fb56d548f3a53a",
+    "summary": "本記事は、ある個人開発者がAIと協働し、調味料の開封日を管理するツールの開発・公開に至った記録です。このツールは、調味料の使い忘れや食品ロス削減を目的としており、効率的な期限管理を可能にします。開発プロセスにAIを活用することで、個人でも実用的なツールを構築し、公開できた点が特徴として挙げられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-23T16:38:25.334397"
+  },
+  {
+    "source": "Qiita",
+    "title": "GLM-5.4とGLM-5.3はどう選ぶ？Loop Transformer、画像入力、Coding Planのcreditを検証項目で整理",
+    "link": "https://qiita.com/whitemarshall/items/664246f4c6d5afdcc0a2",
+    "summary": "この記事は、GLM-5.3からGLM-5.4へのコーディングエージェント切り替えについて、新モデルの変更点と判断基準を整理しています。GLM-5.4はLoop Transformer構造と画像入力に対応しますが、既存リポジトリでの具体的な不具合修正効果は未検証です。\n\nZ.aiの2026年11月23日発表やモデル仕様に基づき、「今判断できる差」と「自身の環境で測るべき差」を区別して検討すべきとされます。特にCoding Planで複数ファイルを修正する場合はGLM-5.4を試す選択肢が示されています。ただし、記事内のcredit計算は公開係数に基づく推定であり、両モデルの実測値ではないことに留意が必要です。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-23T16:38:35.840516"
+  },
+  {
     "source": "ITmedia",
     "title": "Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/23/news001.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-11-02T01:07:16.842813"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除",
-    "link": "https://gigazine.net/news/20261102-adguard-adblocking/",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 34.259002358s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 34\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-11-02T01:07:25.756036"
-  },
-  {
-    "source": "Zenn",
-    "title": "Copilot Studioを企業に18件展開して、最初に直面した設計の壁",
-    "link": "https://zenn.dev/sidejob/articles/a2e2c37e7bc449214",
-    "summary": "要約エラー: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 29.822042154s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 29\n}\n]",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-02T01:07:30.193866"
-  },
-  {
-    "source": "Qiita",
-    "title": "4。CursorのマーケットプレイスでClaude Code拡張が改ざんされ最大5000人に届いた日、自分の環境で「使える」表示なのに接続が切れていたコネクタの数はその数字だった",
-    "link": "https://qiita.com/Hideki_Tamae/items/650feb3eb8391af59e86",
-    "summary": "2026年10月29日、CursorのマーケットプレイスでClaude Code拡張機能が約11時間にわたり改ざんされ、公式アカウントを装って最大5,000人のユーザーに配布されるインシデントが発生しました。この記事の筆者は、この「公式に見えても実体が異なる」という構図を受け、自身の環境で「使える」と表示されながらも実際には接続が切れていたコネクタが4つあることを発見しました。これは、見た目と実体の乖離が身近なツールにも存在し得るという注意喚起です。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-02T01:07:42.642731"
   }
 ]
