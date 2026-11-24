@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "CrowdStrikeがZscalerを約439億ドルで買収へ　顧客の契約は「いつ」「どう」変わる？",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news053.html",
+    "summary": "CrowdStrikeが、ネットワーク接続を守るZscalerを企業価値ベースで約439億ドルで買収し、エンドポイントとネットワークセキュリティの統合を目指します。しかし、この買収手続きの完了は早くても2027年8月になる見込みです。両社の製品を利用している顧客の契約が「いつ」「どのように」変更されるかは、今後の焦点となります。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-24T05:40:32.786083"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
+    "link": "https://gigazine.net/news/20261124-ladybird-now-alpha/",
+    "summary": "Google ChromeやMicrosoft Edgeなど主要なウェブブラウザの多くがGoogle主導のChromiumを基盤とする中、独自開発のブラウザエンジンを搭載した独立系ブラウザ「Ladybird」が登場しました。これはGoogleのエコシステムから離れた新しい選択肢を提供します。今回、その「Ladybird」のアルファ版が正式にリリースされました。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-11-24T05:40:39.236827"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claude Code の新しい /ship で、PR のレビューから修正までを任せてみた",
+    "link": "https://zenn.dev/visionarray/articles/c14b6f8aa9056e",
+    "summary": "本記事は、AnthropicのAIモデルであるClaude Codeに導入された新機能「/ship」の試用レポートです。筆者は、ソフトウェア開発におけるプルリクエスト（PR）のレビュープロセスから、指摘されたコードの修正作業まで、一連のタスクをこのAIに任せてみました。AIがどこまで自律的にレビューと修正を行えるのか、その実用性や効果について検証しているものと考えられます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-24T05:40:48.769454"
+  },
+  {
+    "source": "Qiita",
+    "title": "New Relic の公式スキルを活用し、自然言語からダッシュボードを作成する",
+    "link": "https://qiita.com/seamoooooo/items/79f7ba11e0787ac2427b",
+    "summary": "この記事は、New RelicのCoding Agentと公式スキルを組み合わせることで、複雑なダッシュボード作成が劇的に効率化されることを紹介しています。これまで、アプリの応答時間などのデータ要求に対応する際、NRQLのプロンプト調整に手間がかかりがちでした。\n\nしかし、この新しいアプローチでは、日本語の依頼1回で11本のNRQLを自動作成・検証し、NerdGraphを用いて11チャートのダッシュボードを構築することに成功しました。これにより、自然言語から迅速かつ正確にテレメトリデータを可視化し、必要な情報をダッシュボードで確認できるようになります。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-24T05:40:58.262991"
+  },
+  {
     "source": "GIGAZINE",
     "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
     "link": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-11-02T13:57:32.577346"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "Hacker Newsで言及された1万5000冊超の書籍をランキングにした「Hacker Books」トップ10、テクノロジー愛好家が好きな本とは？",
-    "link": "https://gigazine.net/news/20261102-hackerbooks-mentioned-books-hacker-news/",
-    "summary": "Hacker Newsは、Yコンビネータが運営するテクノロジーやスタートアップに特化したソーシャルニュースサイトです。このサイトで言及された1万5000冊超の書籍を集計し、ユーザーによる言及数や推薦数に基づきランキング化したウェブサイトが「Hacker Books」です。Hacker Booksは、テクノロジー愛好家がどのような本を好むのかを知るためのツールとなっています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-02T13:57:40.788716"
-  },
-  {
-    "source": "Zenn",
-    "title": "EVM simulationが成功しても止める：AIエージェントのALLOW・WARN・BLOCK設計",
-    "link": "https://zenn.dev/rinku/articles/evm-simulation-policy-decisions",
-    "summary": "この記事は、AIエージェントがEVM (Ethereum Virtual Machine) simulationを実行する際、単に成功したからといって無条件に続行するのではなく、途中で停止させる安全設計について解説しています。これは、AIエージェントの自律行動における信頼性と安全性を確保するための重要なメカニズムです。具体的には、「ALLOW（許可）」「WARN（警告）」「BLOCK（停止）」という3段階の判断基準を用いて、予期せぬリスクや望ましくない結果を未然に防ぎます。この設計により、AIエージェントはより安全かつ賢明に複雑なタスクを実行することが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-02T13:57:48.809127"
-  },
-  {
-    "source": "Qiita",
-    "title": "YouTube’s New AI Music Labeling: What You Need to Know",
-    "link": "https://qiita.com/orsonamiri/items/08ceff8ff8e863ac8184",
-    "summary": "AIは音楽制作を急速に変革しており、クリエイターは数分で完全な楽曲、合成ボーカル、楽器演奏、メロディーなどを生成できるようになりました。AI生成トラックがストリーミングで普及するにつれて、人間によるものか機械によるものかを区別するのがますます困難になっています。この透明性を向上させるため、デジタル音楽サービスは開示システムを導入し、生成AIの貢献度をリスナーが理解できるよう努めています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-02T13:57:59.498902"
-  },
-  {
-    "source": "ITmedia",
-    "title": "SaaSの“画面”が主役でなくなる時代、Workdayの価値はどこに残るのか　製品トップに聞いた",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news021.html",
-    "summary": "Workdayは、従来のホーム画面をAIとの会話で操作するインターフェース「Sana」へと刷新しました。この新機能は、ClaudeやSlackなど外部データとの連携を強化し、ユーザー体験を向上させます。さらに、課金モデルも「AIがこなした仕事の量」に応じる形へと拡張され、SaaSの“画面”が主役でなくなる時代への対応を目指しています。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-11-02T01:07:16.842813"
   }
 ]
