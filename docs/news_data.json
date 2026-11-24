@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得",
+    "link": "https://gigazine.net/news/20261124-amazon-acquire-decart/",
+    "summary": "Amazonは2026年11月23日、イスラエルのAIスタートアップ「Decart」が開発した、AIチップの性能を引き出すAI処理最適化技術「Decart Optimization Stack(DOS)」の主要事業を買収すると発表しました。\n\nBloombergによると、買収額は約1兆2000億円（75億ドル）に上るとされています。この買収には、Decartの共同創業者、AI研究者、エンジニアもAmazonに加わることが含まれており、Amazonは重要な技術と人材を獲得します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-24T16:34:23.597074"
+  },
+  {
+    "source": "Zenn",
+    "title": "妻の「らくらくホン」の2段階認証（6桁番号）が大変そうだったので、AIと1日で「番号ピン留めアプリ」を自作した話",
+    "link": "https://zenn.dev/gomachan70/articles/9731a13f330077",
+    "summary": "著者は、妻が「らくらくホン」で6桁の2段階認証番号を入力するのに苦労しているのを見て、その負担を軽減するアプリの開発を決意しました。AIを活用することで、表示された番号を簡単にピン留めできる「番号ピン留めアプリ」を自作。わずか1日という短期間でこのアプリを完成させ、妻の認証作業を大幅に効率化することができました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-24T16:34:30.930235"
+  },
+  {
+    "source": "Qiita",
+    "title": "GLM-5.4はどこまで完成品を渡せたか？GPT-6.1 Solとの同一6課題で検証",
+    "link": "https://qiita.com/whitemarshall/items/dafd1c3050c042b0c149",
+    "summary": "GLM-5.4は数学の全5問を正解し、ブラウザで動作するHTMLのポモドーロタイマーや、家、降雪、煙を含む雪の村の映像をコードから生成するなど、高い能力を示しました。一方で、SVGのコードブロック付加の不完全さや、映像のカメラワークに課題が残る場面もありました。\n\nGPT-6.1 Solとの同一6課題での比較検証では、GLM-5.4が90.50/100点に対し、GPT-6.1 Solは98.33/100点と、後者が優勢でした。数学やWebページ・Pythonの課題では同点でしたが、この得点差の大半は文章の厳密な制約から生じたものです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-24T16:34:42.188575"
+  },
+  {
     "source": "ITmedia",
     "title": "CrowdStrikeがZscalerを約439億ドルで買収へ　顧客の契約は「いつ」「どう」変わる？",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news053.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-11-03T03:09:31.480887"
-  },
-  {
-    "source": "Zenn",
-    "title": "完了フラグで二重実行は止まるか、8プロセスで210回試した",
-    "link": "https://zenn.dev/ai_jarvis/articles/d5a86ce187b139",
-    "summary": "この記事は、「完了フラグ」という一般的な手法が、プログラムやタスクの「二重実行」をどの程度効果的に防ぐことができるかを検証しています。具体的には、8つの並行プロセスを用いて、合計210回にわたる試行が実施されました。本検証は、完了フラグの信頼性や、多重実行環境下での限界を明らかにする目的で行われています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-11-03T03:09:41.554162"
-  },
-  {
-    "source": "Qiita",
-    "title": "LLMへのシステムプロンプトを固定化することで反応速度の向上と使用するTOKEN量を減らせる？",
-    "link": "https://qiita.com/kataoka_se_sionic/items/ee9f293f18b1a1fdc2b4",
-    "summary": "LLMチャットボットでは、AIへの指示となるシステムプロンプトがユーザーメッセージよりも大きい場合が多く、対話が続いても同じプロンプトを毎回送り続ける現状がある。これは無駄が多く、AIの反応速度低下や使用TOKEN量の増加につながる可能性がある。この記事は、この非効率性に対し、システムプロンプトを固定化することで改善できないかという疑問を提起している。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-03T03:09:49.609413"
-  },
-  {
-    "source": "ITmedia",
-    "title": "富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
-    "summary": "この記事は、富士通とNECのCFOが分析する、2026年下期以降のITサービス需要動向に焦点を当てています。彼らは、サイバー攻撃への緊急対応や膨らむAIコスト、部材の高騰といった複合的な不安要素が今後の需要に与える影響を考察。両社の受注状況と決算会見での発言に基づき、将来の市場変化を探ります。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-11-02T13:57:32.577346"
   }
 ]
