@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "“悪意なき情報漏えい”をどう防ぐ？　生成AI時代のシャドーIT対策",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news016.html",
+    "summary": "従業員に悪意がなくても、生成AIへの入力、私用スマホでの撮影、SNSへの投稿といった日常行動から情報漏えいが発生するリスクがあります。特に生成AI時代においては、「シャドーAI」としてシャドーITの範囲が広がり、情報流出の新たな経路となっています。IT部門は、この悪意なき情報漏えいを防ぐため、シャドーIT/AIのリスクにどう向き合い、対策を講じるべきかが重要な課題です。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-25T04:41:11.179862"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功",
+    "link": "https://gigazine.net/news/20261125-openai-gpt-6-protein/",
+    "summary": "2026年11月24日、OpenAIは汎用大規模言語モデル(LLM)のGPT-6シリーズが、生物学に特化したAIなしで新たなタンパク質の立体構造とアミノ酸配列を設計できることを発表しました。この技術は、推論とコーディングだけで機能します。特にGPT-6.2による設計は、実際にタンパク質を合成し、意図した標的に結合することが実験室で検証されました。これは、AIが生命科学分野に大きな影響を与える可能性を示唆しています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-25T04:41:18.913262"
+  },
+  {
+    "source": "Zenn",
+    "title": "34回読まれて0部は「まだ分からない」——ClaudeとChatGPTに検証させた購入率3%の計算",
+    "link": "https://zenn.dev/ai_onomi/articles/bbf918498baeb0",
+    "summary": "この記事は、あるコンテンツが34回読まれたにも関わらず、販売につながる購入が0部だったケースを検証しています。これは目標とする購入率3%に基づいて「まだ結果は分からない」と評価される状況です。記事では、この購入率の評価や関連する計算の妥当性を、ClaudeとChatGPTというAIツールを用いて検証した経緯が説明されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-25T04:41:25.896661"
+  },
+  {
+    "source": "Qiita",
+    "title": "登録の曖昧さを会話で解く、LLM提案と再検証",
+    "link": "https://qiita.com/RYOITABASHI/items/c8c4dbdaece096d58b5e",
+    "summary": "2026年7月24日、AI「Shelly」は「明日の準備をよろしく」のような曖昧な依頼に対し、内容が未定なのに実行日時を尋ねる問題が確認されました。これに対し、同日のコミット48c31439fでLLMによるタスク明確化判定が導入され、2026年8月1日のコミット7e33f4c0eではLLMが複数ターンの登録会話を主導する「Tier 3」が実装されました。\n\nただし、LLMに会話を任せつつも、その提案をそのまま採用するのではなく、スケジュールの再検証や人間による最終確認を維持する方針です。これにより、会話の自由度を高めながら、登録内容の正確性をどう検証するかが課題となっています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-25T04:41:35.471445"
+  },
+  {
     "source": "GIGAZINE",
     "title": "AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得",
     "link": "https://gigazine.net/news/20261124-amazon-acquire-decart/",
@@ -1312,41 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-11-03T13:05:45.842079"
-  },
-  {
-    "source": "Zenn",
-    "title": "Amazon Q Developer for GitHub を個人リポジトリで試した記録（2026-10）",
-    "link": "https://zenn.dev/kyto64/articles/amazon-q-github-report",
-    "summary": "この記事は、Amazon Q Developer for GitHubを個人リポジトリで試した記録をまとめたものです。内容は、将来の時点である2026年10月におけるツールの利用状況に焦点を当てています。個人開発環境での導入方法、具体的な機能、使用感、そして直面した課題などが詳細に報告されていると推測されます。読者は、この記事を通じて未来のGitHub Copilot代替機能の利用可能性やその実態を把握できるでしょう。",
-    "category": "開発・プログラミング",
-    "content_type": "article",
-    "collected_at": "2026-11-03T13:05:58.866543"
-  },
-  {
-    "source": "Qiita",
-    "title": "Your AI Will Negotiate With Your Friend's AI: Inside Meta's Muse Network - Plus 1B Free Tokens to Test It",
-    "link": "https://qiita.com/Denebrixai0/items/fb185e63d93c388a8bd4",
-    "summary": "Metaは、AIをスマートグラス「Muse」に搭載することで、AIを画面から顔（日常）へと移行させています。\nこの「Museネットワーク」では、ユーザーのAIが友人のAIと、旅行計画、交渉、買い物などで直接連携できるようになります。\nこの強力なシステムは多くのトークンを消費しますが、プライバシーに関する注意点も指摘されています。\n現在、テスト用に10億の無料トークンがコード「ISWMYZ」で提供されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-03T13:06:07.426984"
-  },
-  {
-    "source": "ITmedia",
-    "title": "もう何もかも漏れている……それでも「暗黒の10月」に焦らなかった筆者がした“たった一つの地道な作業”",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/03/news007.html",
-    "summary": "2026年10月は、免許証画像の流出や劇場型ランサムウェア攻撃など、歴史に残る重大な情報漏えい事件が相次ぎ、「暗黒の10月」と呼ばれました。筆者も複数のサービスから漏えい通知を受け取ったものの、焦らずに対応できました。これは、漏えいが報告されたほとんどのサービスにおいて、事前に「ある一つの地道な作業」をしていたためです。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-11-03T03:09:20.922997"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
-    "link": "https://gigazine.net/news/20261103-circuithub-the-grid/",
-    "summary": "CircuitHubは、アメリカ国内で回路基板を製造する新システム「The Grid」を発表しました。このシステムは、中国・深圳の工場と比較して約2倍の速さで回路基板を納品可能と謳っています。The Gridは工場全体を巨大なロボットとして機能させ、注文に応じて異なる設計の基板を自動で製造できます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-03T03:09:31.480887"
   }
 ]
