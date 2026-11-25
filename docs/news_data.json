@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」",
+    "link": "https://gigazine.net/news/20261125-talorys/",
+    "summary": "自分専用のAIエージェントを運用する際にかかるVPS契約料や有料AIのAPI利用料、管理の手間といったコストを解決するため、オープンソースの「Talorys」が紹介されました。これはCloudflareの無料アカウントを利用し、コマンド1つで手軽に構築できるパーソナルAIエージェントです。AIチャット、タスク管理、メモリー、リマインダーといった多様な機能を備え、低コストで自分だけのAI環境を実現します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-25T16:16:59.636647"
+  },
+  {
+    "source": "Zenn",
+    "title": "AIで作ったLPをPlaywrightで測るClaude Codeスキルを作った",
+    "link": "https://zenn.dev/futaake/articles/d9d176b0362805",
+    "summary": "この記事は、AI（特にClaude Codeスキル）を活用し、AIが生成したLP（ランディングページ）のパフォーマンスをPlaywrightで計測するシステムを開発した事例を紹介しています。このシステムは、AIによるLP作成からPlaywrightを用いた効果測定までを自動化し、開発・検証プロセスの効率化を図ります。AIが実用的なWebアプリケーションの構築とその評価までを一貫して行える、新たな可能性を示唆する画期的な取り組みです。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-25T16:17:08.112628"
+  },
+  {
+    "source": "Qiita",
+    "title": "複数のAIエージェントに作業させたら、進捗管理のほうが先に壊れた話",
+    "link": "https://qiita.com/kirbykaito/items/d61df518ddfb2b1ed131",
+    "summary": "複数のAIエージェントに作業を分担させた際、成果物の質よりも進捗管理が最初に課題となり、「作業が終わったか」が不明瞭になる問題が頻発しました。これは、作業の状態管理が流れてしまう会話の中にしかなく、情報が埋もれてしまうことが原因でした。\n\nこの課題を解決するため、各作業の「担当・状態・最終更新」を1行で管理する「作業台帳」を導入しました。状態が変わるごとに担当エージェントが報告し、管理側が台帳を更新する仕組みです。\n\nこれにより、会話に頼らず台帳で進捗を確認できるようになり、進捗管理の問題が解消されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-25T16:17:16.583120"
+  },
+  {
     "source": "ITmedia",
     "title": "“悪意なき情報漏えい”をどう防ぐ？　生成AI時代のシャドーIT対策",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news016.html",
@@ -1321,32 +1348,5 @@
     "category": "その他",
     "content_type": "news",
     "collected_at": "2026-11-04T01:45:23.375825"
-  },
-  {
-    "source": "Zenn",
-    "title": "社内システムのデザインガイドラインを、根拠つきで AI と作る",
-    "link": "https://zenn.dev/genda_jp/articles/43f2c7a4088b2f",
-    "summary": "この記事は、AIを活用して社内システムのデザインガイドラインを策定する取り組みについて述べています。単なるデザイン指針ではなく、AIが根拠に基づいたガイドラインを生成することで、その説得力と実効性を高めることを目指しています。これにより、社内システムのデザイン標準を確立し、より使いやすい環境を構築するための具体的で合理的な基準を提供することが可能となります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-04T01:45:31.191550"
-  },
-  {
-    "source": "Qiita",
-    "title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "link": "https://qiita.com/ennagara128/items/07a86b6446de07491ecc",
-    "summary": "この記事は、Qiitaの最新トレンド記事をAIが読み上げるポッドキャストについて紹介しています。前日夜のトレンド記事を元に、毎日朝7時に更新され、通勤中などにながら聴きすることで手軽に情報収集が可能です。サービスの改善のため、利用者からのフィードバックを求めています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-04T01:45:41.791685"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "歩くのと同じくらいゆっくりなランニングでも気分が良くなって認知機能が向上する",
-    "link": "https://gigazine.net/news/20261103-very-slow-running-benefit-brain/",
-    "summary": "筑波大学などの研究チームが行った実験により、歩くのと同じくらいゆっくりなランニングであっても、メンタルヘルスや脳に良い影響があることが示されました。この研究は、速く走るのが苦手な人でも気軽にランニングを取り入れ、気分を良くし認知機能を向上させられる可能性を報告しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-03T13:05:45.842079"
   }
 ]
