@@ -1,5 +1,41 @@
 [
   {
+    "source": "ITmedia",
+    "title": "内製化してもリードタイムが縮まらない原因はテスト　コクヨが約150件を自動化した方法",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news023.html",
+    "summary": "コクヨは開発の一部を内製化しましたが、テストとリリースが従来のままでリードタイムが短縮されない課題に直面していました。この解決策として自動テストを導入し、約150件のテストを延べ1～2カ月という短期間で構築することに成功しました。これによりテスト工程の効率化を図り、リードタイム短縮を目指しており、記事ではその具体的なツール選択やテストプロセスの変革について解説されています。",
+    "category": "DX・業務改善",
+    "content_type": "news",
+    "collected_at": "2026-11-26T03:50:43.896843"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "曲げたり引っ張ったりすればするほど強度を増す素材が開発される",
+    "link": "https://gigazine.net/news/20261126-get-stronger-polymer/",
+    "summary": "ワシントン大学の研究チームが、従来の常識を覆す画期的な新素材を開発しました。この素材は、曲げたり引っ張ったりといった力が加わると、その部分だけが硬化する特性を持ちます。さらに、単に硬くなるだけでなく、劣化することなく、力を加えれば加えるほど強度が増していくという驚くべき特徴を備えています。",
+    "category": "開発・プログラミング",
+    "content_type": "news",
+    "collected_at": "2026-11-26T03:50:53.391249"
+  },
+  {
+    "source": "Zenn",
+    "title": "Claudeの週の使用量が91%に達して、記事制作のどこをCodexに渡すか考えた",
+    "link": "https://zenn.dev/orectic/articles/claude-usage-limit-codex-offload-judgment",
+    "summary": "AIツールClaudeの週使用量が91%という高い水準に達しました。これを受け、記事制作のワークフローを最適化するため、現状の運用を見直す必要が生じています。具体的には、記事制作プロセスのどの部分を別のAIツールであるCodexに割り振るべきか、検討が進められています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-26T03:51:04.020292"
+  },
+  {
+    "source": "Qiita",
+    "title": "【Windows版】claude-memプラグインのインストールから起動テストまで完全ガイド",
+    "link": "https://qiita.com/goyle/items/82e0267ddf8128128f1d",
+    "summary": "この記事は、Claude Codeのセッション履歴を永続化・検索するプラグイン「claude-mem」をWindows環境にインストールし、動作テストする手順を解説する完全ガイドです。従来の導入手順でWindows環境での問題があったため、本記事ではその修正版が提供されています。Windows 10/11とNode.js v18以上を動作確認環境とし、claude-memをWindowsで導入したいClaude Codeユーザーを対象としています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-26T03:51:13.667875"
+  },
+  {
     "source": "GIGAZINE",
     "title": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」",
     "link": "https://gigazine.net/news/20261125-talorys/",
@@ -1312,41 +1348,5 @@
     "category": "セキュリティ",
     "content_type": "news",
     "collected_at": "2026-11-04T13:21:19.772321"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code 2026年10月のアップデートまとめ:Mods、Code Review、Haiku 5.5",
-    "link": "https://zenn.dev/orivanai/articles/claude-code-2026-10-updates",
-    "summary": "Claude Codeは、2026年10月に発表されたアップデートで、複数の重要な改善が行われました。\n主な更新内容としては、新機能「Mods」の導入と「Code Review」機能の強化が挙げられます。\nさらに、提供されるモデルの一つである「Haiku」はバージョン5.5にアップグレードされ、性能向上が期待されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-04T13:21:28.623074"
-  },
-  {
-    "source": "Qiita",
-    "title": "【2026年末版】Claude Codeベストプラクティス解説｜以前から何が変わった？",
-    "link": "https://qiita.com/skwt20/items/39a876ecf1c4a80261ae",
-    "summary": "Claude Codeの公式ベストプラクティスは、モデルの進化に伴い約3ヶ月で大幅に更新されました。特に2026年11月1日時点の情報として、以前の「人間による細かな管理」から「Claudeに判断を任せ、絶対に守るべきルールだけを仕組みで強制する」という方針への大きな転換が示されています。これにより、Claude自身に任せられる範囲が拡大し、コンテキスト管理などの負担が軽減されたことが強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-04T13:21:37.045496"
-  },
-  {
-    "source": "ITmedia",
-    "title": "SaaS不要論、日本は“火種”が違った　セールスフォース小出会長が語る落としどころ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/04/news022.html",
-    "summary": "米国発のSaaS不要論は、日本では異なる経緯で広まったと指摘されています。セールスフォース・ジャパンの小出伸一会長は、日本固有の“火種”がその背景にあるとし、SaaSの将来について語りました。今後の落としどころとして、FDE体制の強化や課金モデルの転換が必要であるとの見解を示しています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-04T01:45:11.538278"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
-    "link": "https://gigazine.net/news/20261104-girls-band-cry-the-movie/",
-    "summary": "2024年春に放送されたTVアニメ『ガールズバンドクライ』の劇場版新作、『ガールズバンドクライ THE MOVIE』が2027年5月21日に公開されることが決定しました。本作のティザービジュアルと特報映像が既に解禁されています。キャッチコピー「怒りも喜びも哀しさも全部ぶちこめ。」が示唆するように、感情豊かな物語が期待されます。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-04T01:45:23.375825"
   }
 ]
