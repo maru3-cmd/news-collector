@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "1Passwordに不正アクセス、顧客の氏名など流出　「保管庫は無事」でも残る注意点は",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news054.html",
+    "summary": "パスワード管理ツールを提供する1Passwordが不正アクセスを受け、一部顧客の氏名や電子メールアドレスなどが流出しました。同社は、パスワードが保管されている「保管庫」の中身は無事だと説明し、顧客のパスワード自体は安全であると強調しています。しかし、攻撃者がどのようにシステムに侵入したのかは依然として不明であり、今後の注意が必要とされます。",
+    "category": "セキュリティ",
+    "content_type": "news",
+    "collected_at": "2026-11-26T15:53:35.546515"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた",
+    "link": "https://gigazine.net/news/20261126-flipflop/",
+    "summary": "「flipflop」は、Windows、Mac、Linux、Android間でファイルやテキストを共有できる無料のオープンソースアプリです。クラウドストレージへのアップロードや端末を探す手間を省き、一度ペアリングした端末間で簡単にデータ共有が可能です。LANやインターネット経由はもちろん、実験的機能としてBluetoothでのファイル転送にも対応しています。",
+    "category": "クラウド・インフラ",
+    "content_type": "news",
+    "collected_at": "2026-11-26T15:53:41.926369"
+  },
+  {
+    "source": "Zenn",
+    "title": "プロジェクトごとに、ルールが少しずつ違っていく。1つの標準を十数のプロジェクトに配るまで",
+    "link": "https://zenn.dev/intprime/articles/devstd-01-one-standard-many-repos",
+    "summary": "この記事は、プロジェクトごとにルールが少しずつ異なってしまう現状を課題としています。その解決策として、複数のプロジェクトで共通して利用できる「1つの標準」を確立する重要性を説いています。特に、この標準を**十数**ものプロジェクト全体に浸透させ、適用するまでの道のりや課題に焦点を当てています。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-26T15:53:53.416512"
+  },
+  {
+    "source": "Qiita",
+    "title": "IBM Bob／PP4iで本番環境への誤更新を防ぐ【① IBM iのユーザープロファイル・権限管理編】",
+    "link": "https://qiita.com/onoyu1o12/items/0d944e2d9814d304e06d",
+    "summary": "IBM Bob Premium Package for i (PP4i) を使用し、IBM i側の権限管理によって本番環境への誤更新が防止できるか検証されました。特殊権限を持たないBob専用ユーザーに対し、テスト環境には`*CHANGE`、擬似本番環境には`*USE`の権限を設定し、データ更新を試みました。\n\nその結果、擬似本番環境では更新が権限エラー（SQL0551）により拒否され、在庫数は元の100のまま保護されることが確認されました。この検証により、IBM i側の権限管理が、AIエージェントによる開発においても本番環境のデータを守るセキュリティ基盤として機能することが示されました。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-26T15:54:01.999310"
+  },
+  {
+    "source": "ITmedia",
     "title": "内製化してもリードタイムが縮まらない原因はテスト　コクヨが約150件を自動化した方法",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news023.html",
     "summary": "コクヨは開発の一部を内製化しましたが、テストとリリースが従来のままでリードタイムが短縮されない課題に直面していました。この解決策として自動テストを導入し、約150件のテストを延べ1～2カ月という短期間で構築することに成功しました。これによりテスト工程の効率化を図り、リードタイム短縮を目指しており、記事ではその具体的なツール選択やテストプロセスの変革について解説されています。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-11-05T01:53:34.950842"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "GTA6は発売2週間前の予約注文だけで770万本・1200億円近くを売り上げる",
-    "link": "https://gigazine.net/news/20261105-gta-6-over-750-million-preorders/",
-    "summary": "2026年11月19日発売予定の「グランド・セフト・オートVI(GTA6)」が、予約注文だけで驚異的な売上を達成しています。\n発売2週間前の時点で、予約注文だけで770万本を売り上げ、売上高は7億5000万ドル(約1186億円)以上に達したことが明らかになりました。\nこれは、同タイトルへの期待の高さを示す異例の数字です。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-05T01:53:47.606596"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code × SessionStart/SessionEnd Hooks | セッション間の文脈を自作メモリで引き継ぐまで",
-    "link": "https://zenn.dev/yunisuta/articles/claude-code-sessionstart-sessionend-2v5are",
-    "summary": "この記事は、AIモデルClaudeとのセッション間で文脈を効率的に引き継ぐ方法について解説しています。具体的には、`SessionStart`および`SessionEnd`フックを活用し、自作のメモリシステムを構築することで、過去の対話履歴や重要な情報を次セッションへ継続させる手法が紹介されています。これにより、Claudeはより連続性のある応答やコード生成が可能となり、ユーザー体験が向上します。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-05T01:53:57.459366"
-  },
-  {
-    "source": "Qiita",
-    "title": "Oracle AI Database 26ai の JSONについて(3) – JSON Collection Table",
-    "link": "https://qiita.com/TDM26587/items/ce1dd2eb97512221dc48",
-    "summary": "この記事は、Oracle AI Database 23c (23ai) で導入された「JSON Collection Table」について解説しています。これは、JSONドキュメントの格納と管理に特化した機能で、MongoDBやAmazon DocumentDBといった他のドキュメント指向データベースと同様の機能を提供します。Oracle AI DatabaseにおけるJSONデータは、「document-centric = yes」というガイドラインに従って扱われることが強調されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-05T01:54:07.615462"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "SDカードを挿入しないと時刻設定できないカーナビをジェイルブレイク",
-    "link": "https://gigazine.net/news/20261104-carnavi-jailbreak/",
-    "summary": "一部のカーナビは地図情報用のSDカードがないと時刻設定すらできないという不便な問題があります。これに対し、セキュリティ研究者のラスムス・モーラッツ氏は、ルノーの純正カーナビを「ジェイルブレイク（脱獄）」することで、SDカードなしで時刻を変更することに成功しました。この経緯は2026年11月2日に公開され、カーナビの制限を突破する一例として注目されています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-11-04T13:21:19.772321"
   }
 ]
