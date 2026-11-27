@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "ClaudeのMCP連携に新機能　スキルもMCP経由で提供、削除前の確認も",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news029.html",
+    "summary": "Anthropicは、ClaudeがMCP（Claudeを外部サービスと連携させる仕組み）の4つの新機能に対応すると発表しました。これにより、スキルがMCP経由で提供されるようになり、ユーザーはより多様な機能を利用できるようになります。また、重要なデータ削除前の確認機能も追加され、セキュリティと利便性が向上します。これらの機能強化により、Claudeの外部連携がさらに充実すると期待されています。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-27T15:41:40.618299"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
+    "link": "https://gigazine.net/news/20261127-d2/",
+    "summary": "「D2」は、テキストで記述するだけで美しい図を自動生成できるツールです。2022年のレビュー以降、手描き風デザイン、アニメーション、ターミナル表示可能なASCII出力など、表現方法が大きく広がりました。さらに、2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジンもオープンソース化されました。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-27T15:41:50.910711"
+  },
+  {
+    "source": "Zenn",
+    "title": "AI動画の「カットごとに顔が変わる・尺が合わない・文字が潰れる」を解決する『音声先行クロック＋IDロック』演出術",
+    "link": "https://zenn.dev/coco666/articles/68a496ecd207c8",
+    "summary": "この記事は、AI動画制作で頻発する「カットごとに顔が変わる」「動画の尺が合わない」「文字が潰れる」といった課題への解決策を提示しています。これらの問題に対し、解決策として「音声先行クロック」と「IDロック」という演出術が提案されています。音声先行クロックは音声を基準に動画の尺とタイミングを制御し、IDロックはキャラクターの顔などを特定のIDで固定することで、動画全体の一貫性を保ちます。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-27T15:41:58.984929"
+  },
+  {
+    "source": "Qiita",
+    "title": "数学が苦手な人のための電験三種数学入門",
+    "link": "https://qiita.com/mahaya123/items/bdaacfee44e3462ce8ef",
+    "summary": "本記事は、数学が苦手な人でも電験三種の学習に必要な数学を基礎から学べる入門書です。難しい公式の証明は省略し、公式の意味、計算方法、そして計算結果から何が判断できるかに焦点を当て、数学を課題解決の手段として解説します。\n\n例えば第1章では、四則演算と括弧の計算優先順位を学び、12Vの電源と2Ω、4Ωの抵抗からなる直列回路に2Aの電流が流れる例を通して、電気の基本計算を習得します。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-27T15:42:08.297990"
+  },
+  {
+    "source": "ITmedia",
     "title": "退会者の免許証がなぜ7年残る？　漏えいが問う“データの持ち方”",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news030.html",
     "summary": "タイムズカーへの不正アクセスにより、退会者を含む約160万件の本人確認書類画像が漏洩しました。この事案で問題となっているのは、退会後も免許証などのデータがなぜ7年間も保管されていたのかという点です。これは、相次ぐ情報漏洩事案を踏まえ、企業が顧客データをどのように保有・管理すべきかという「データの持ち方」を根本的に問い直すものです。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-11-06T13:19:33.827829"
-  },
-  {
-    "source": "ITmedia",
-    "title": "Windows10月の更新で社内Wi-Fi・VPNに影響も　IT部門が対応すべき直近の“期限”を整理",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news020.html",
-    "summary": "Microsoftは、Windowsの10月の更新プログラムにより、社内Wi-FiやVPN接続に影響が出る可能性を警告しています。これにより、企業ユーザーが社内ネットワークに接続できなくなる恐れがあります。IT部門は、この問題を防ぐため、Microsoftが示す期限までに適切な対応を講じる必要があります。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-06T01:54:39.973599"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
-    "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
-    "summary": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」は、NASAやWikipediaといった著名なウェブサイトに影響を与える可能性がありました。しかし、悪用される前に修正パッチがリリースされたため、大規模な被害は回避されました。IEEE Spectrumは、このPHP2ShellをAI時代に起こり得る事態への警告、いわば「炭鉱のカナリア」であると指摘しています。",
-    "category": "セキュリティ",
-    "content_type": "news",
-    "collected_at": "2026-11-06T01:54:46.633629"
-  },
-  {
-    "source": "Zenn",
-    "title": "レビューは深いほど良いのか：Code Review の Quick/Standard/Deep をローカルの深さと対応させる",
-    "link": "https://zenn.dev/norman6464/articles/code-review-quick-standard-deep",
-    "summary": "この記事は、コードレビューの深さがレビューの質や効果にどう影響するかという問いを探求しています。具体的には、「Quick」「Standard」「Deep」という異なる深さのコードレビュー手法を取り上げ、それぞれが最適なアプローチであるかを検証。その際、これらのレビューレベルを「ローカルの深さ」という独自の概念と対応させることで、レビューの効率性と有効性を分析している点がポイントです。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-11-06T01:54:54.563196"
-  },
-  {
-    "source": "Qiita",
-    "title": "プログラミング雑記 2026年11月6日",
-    "link": "https://qiita.com/ishisaka/items/bc45e3f3415f83ab5c11",
-    "summary": "2026年11月6日付けの「プログラミング雑記」では、最新の技術ニュースや記事が紹介されています。\nISUCON2026に関しては、参加チームの利用言語比率に加え、今回初めて集計されたAIハーネスとモデルの利用状況、および総合上位チームの構成が公開されており、筆者はGo言語の利用が予想より多いと述べています。\nさらに、C# 15で導入される主要な新機能についても言及されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-06T01:55:06.345930"
   }
 ]
