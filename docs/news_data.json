@@ -1,6 +1,42 @@
 [
   {
     "source": "ITmedia",
+    "title": "退会者の免許証がなぜ7年残る？　漏えいが問う“データの持ち方”",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news030.html",
+    "summary": "タイムズカーへの不正アクセスにより、退会者を含む約160万件の本人確認書類画像が漏洩しました。この事案で問題となっているのは、退会後も免許証などのデータがなぜ7年間も保管されていたのかという点です。これは、相次ぐ情報漏洩事案を踏まえ、企業が顧客データをどのように保有・管理すべきかという「データの持ち方」を根本的に問い直すものです。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-27T03:52:18.735839"
+  },
+  {
+    "source": "GIGAZINE",
+    "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+    "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+    "summary": "NVIDIAは、画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」を無償のオープンウェイトモデルとして公開しました。この300億パラメータを持つモデルは、従来の拡散モデルではなく自己回帰モデルを採用しているのが特徴です。ハーネスと組み合わせることで、GPT-Image-2を超える高い画像生成能力を発揮します。",
+    "category": "AI・生成AI",
+    "content_type": "news",
+    "collected_at": "2026-11-27T03:52:27.075460"
+  },
+  {
+    "source": "Zenn",
+    "title": "「使っていない人のプロファイルまで毎時作られる」は本当か｜核は公式ヘルプでも裏が取れた",
+    "link": "https://zenn.dev/ocha50107/articles/56b70a8ff61540",
+    "summary": "あるサービスにおいて、「利用していない人のプロファイルまで毎時作成されている」という懸念が取り沙汰されていました。この記事はこの主張の真偽を検証し、その結果、公式ヘルプによってこの事実が裏付けられたと報じています。つまり、ユーザーが直接サービスを利用していない状況でも、継続的にデータが収集され、プロファイルが作成されている実態が確認されました。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-27T03:52:36.188750"
+  },
+  {
+    "source": "Qiita",
+    "title": "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula, Native Dialogue Sync & 20-Reference Control",
+    "link": "https://qiita.com/mryangsd/items/ffe331b34f0eb8fd44c1",
+    "summary": "このガイドは、Magi2Proプラットフォーム上でReference-to-Videoワークフローを活用し、高精度プロンプトを作成するための主要な技術を解説しています。各プロンプトは、480B MoE推論エンジンと直接連携し、1080p 25fpsの動画とネイティブオーディオを単一パスで生成します。本ガイドは、Five-Part Shot Formulaを核とし、Native Dialogue Syncや20-Reference Controlといった特徴も扱います。",
+    "category": "その他",
+    "content_type": "article",
+    "collected_at": "2026-11-27T03:52:47.258717"
+  },
+  {
+    "source": "ITmedia",
     "title": "1Passwordに不正アクセス、顧客の氏名など流出　「保管庫は無事」でも残る注意点は",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news054.html",
     "summary": "パスワード管理ツールを提供する1Passwordが不正アクセスを受け、一部顧客の氏名や電子メールアドレスなどが流出しました。同社は、パスワードが保管されている「保管庫」の中身は無事だと説明し、顧客のパスワード自体は安全であると強調しています。しかし、攻撃者がどのようにシステムに侵入したのかは依然として不明であり、今後の注意が必要とされます。",
@@ -1312,41 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "article",
     "collected_at": "2026-11-06T01:55:06.345930"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始",
-    "link": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link/",
-    "summary": "iOS 27.3の最初のベータ版がリリースされ、AppleはiCloudの公開リンクに対するチェックを開始することが明らかになりました。これにより、「リンクを知っている人は誰でもアクセス可能」な設定でiCloudファイルを共有する際、共有アイテムが有害なコンテンツではないかAppleによって確認されます。この措置は、意図しない有害コンテンツの拡散を防ぐことを目的としています。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-05T13:35:04.580673"
-  },
-  {
-    "source": "Zenn",
-    "title": "AIに「勝手な推測」をさせない、ルールファイル設計の型",
-    "link": "https://zenn.dev/ai_secretary/articles/492069400e36aa",
-    "summary": "この記事は、AIが事実に基づかない情報や誤った推測（いわゆる「ハルシネーション」）を行うという一般的な課題に焦点を当てています。この問題を解決するため、「ルールファイル設計の型」という具体的なアプローチを提案しています。\n\nこの設計パターンを用いることで、AIの振る舞いを効果的に制御し、ユーザーの意図しない「勝手な推測」を防ぐことを目指します。これにより、AIの出力の信頼性を高め、より予測可能で正確な結果を得ることが可能になります。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-05T13:35:14.168214"
-  },
-  {
-    "source": "Qiita",
-    "title": "【第053回】WebSocketが使えなくても諦めない！HTTPポーリング時のルーム名常時同期とキャッシュ整合性",
-    "link": "https://qiita.com/Waipe/items/1e6ad87c0aea8e5d3109",
-    "summary": "WebRTCを活用したP2Pチャットシステム「つゔぁいちゃんねる」は、WebSocketが利用できないネットワーク環境向けにHTTPの定期ロングポーリングをフォールバックとして提供しています。しかし、このHTTPポーリング使用時に、ホストが設定したルーム名がクライアント側でデフォルトの「P2Pチャットルーム」のまま同期されないという不具合が報告されました。この記事では、ルーム名の常時同期とキャッシュ整合性の問題を解決することが主題となっています。",
-    "category": "その他",
-    "content_type": "article",
-    "collected_at": "2026-11-05T13:35:23.720020"
-  },
-  {
-    "source": "ITmedia",
-    "title": "ニトリ、主要テーブル約2600本をAIで分析へ　独自ルールで名付けたデータをAIにどう理解させた？",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news005.html",
-    "summary": "ニトリはBigQueryへのデータ基盤移行後、データが増加したことで、分析が一部の社員に限られる課題に直面しました。この状況を改善するため、同社は主要テーブル約2600本を対象に、会話型AIを導入して誰もがデータ分析できる環境を目指しています。しかし、社内独自の項目名がAIにとって理解の壁となり、その打開策として地道な作業の徹底を選びました。",
-    "category": "AI・生成AI",
-    "content_type": "news",
-    "collected_at": "2026-11-05T01:53:34.950842"
   }
 ]
