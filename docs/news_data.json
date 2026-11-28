@@ -1,5 +1,32 @@
 [
   {
+    "source": "GIGAZINE",
+    "title": "正しい情報ほど煽りタイトルは逆効果で信頼性を失ってしまうという研究結果",
+    "link": "https://gigazine.net/news/20261128-clickbait-paradox/",
+    "summary": "動画のサムネイルや記事の見出しに誇張した表現を使う「クリックベイト」は、再生数やアクセス数を増やすために利用されます。しかし、ある研究結果によると、若いSNSユーザーはクリックベイトに引きつけられなくなっています。むしろ、発信する情報が正しくても、クリックベイトが原因でコンテンツが敬遠され、信頼性を損なう可能性があると示されています。",
+    "category": "その他",
+    "content_type": "news",
+    "collected_at": "2026-11-28T14:38:01.259359"
+  },
+  {
+    "source": "Zenn",
+    "title": "Windows で Claude Code・Codex CLI が黙って壊れる40か所の地図と、PC を調べる1行",
+    "link": "https://zenn.dev/kamijo_aoto/articles/windows-claude-code-silent-map",
+    "summary": "この記事は、Windows環境でClaude CodeやCodex CLIがエラーメッセージなしに動作を停止する「サイレントクラッシュ」問題について解説しています。具体的には、こうした問題が発生する可能性のある40箇所の原因や場所を特定した「地図」が示されています。さらに、ユーザーが自身のPC環境を診断し、問題の原因を特定するための簡潔な1行のコマンドも提供されています。",
+    "category": "AI・生成AI",
+    "content_type": "article",
+    "collected_at": "2026-11-28T14:38:10.598016"
+  },
+  {
+    "source": "Qiita",
+    "title": "【第075回】Googleマップのiframeまで翻訳されて崩壊！？DOM翻訳フィルターの除外リスト完全防壁",
+    "link": "https://qiita.com/Waipe/items/79ad285d66ce9e5cc9be",
+    "summary": "「つゔぁいちゃんねる」の開発録第75回では、自動言語判定機能の実装後、Googleマップの埋め込みが自動翻訳によって破壊される「HTMLタグ誤爆事件」が発生しました。これは、日本人の投稿にもかかわらずGoogleマップのiframeタグが英語と誤認され、翻訳エンジンがHTMLタグ自体を切り刻んでしまったのが原因です。その結果、地図は消滅し、壊れたタグや謎の長文英語が残り、誤って外国語用の翻訳枠まで付与されました。記事は、この技術的真相を解明し、「実質テキスト判定」などを用いてDOM翻訳フィルターの除外リストを強化するとしています。",
+    "category": "開発・プログラミング",
+    "content_type": "article",
+    "collected_at": "2026-11-28T14:38:20.226122"
+  },
+  {
     "source": "ITmedia",
     "title": "運用担当者はなぜ離脱するのか？　“消耗の背景”に迫る調査結果が発表",
     "link": "https://www.itmedia.co.jp/enterprise/articles/2611/28/news005.html",
@@ -1321,32 +1348,5 @@
     "category": "AI・生成AI",
     "content_type": "news",
     "collected_at": "2026-11-07T01:26:28.548186"
-  },
-  {
-    "source": "GIGAZINE",
-    "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
-    "link": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
-    "summary": "2026年10月末に発表された「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光る機能が復活しました。これは以前のモデルで親しまれたデザイン要素の再来となります。特筆すべきは、この光るAppleロゴがユーザーの好みで消灯可能である点が明らかになったことです。",
-    "category": "その他",
-    "content_type": "news",
-    "collected_at": "2026-11-07T01:26:34.751261"
-  },
-  {
-    "source": "Zenn",
-    "title": "Claude Code の窓を増やしても、仕事は1つの窓に集まる。役の分け方と CLAUDE.md の書き方",
-    "link": "https://zenn.dev/ciel_lab/articles/5a9291e5cc3128",
-    "summary": "Claude Codeを用いた開発では、たとえ複数のウィンドウで作業しても、最終的にタスクは一つのウィンドウに集約される傾向があります。本記事は、このような作業の集中がもたらす課題に対処し、効率を向上させるための方策を提示しています。具体的には、役割を明確に分ける方法と、`CLAUDE.md`ファイルを効果的に記述する方法に焦点を当てています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-07T01:26:45.355622"
-  },
-  {
-    "source": "Qiita",
-    "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）",
-    "link": "https://qiita.com/NaokiIshimura/items/4884c18ed0efc432edc9",
-    "summary": "この記事は、Claude Codeのv2.1.317からv2.1.319までのアップデートの中から、実務に影響の大きい5つの変更点のうちの1つを詳述しています。特に、v2.1.319で追加された`permissions.denyInsteadOfPrompting`は、ターミナルセッションやサブエージェントなどによるツール呼び出し時に、権限プロンプトを表示せずに自動的に拒否し、タスクの継続を可能にします。これにより、プロンプト待ちによる中断を避け、同時にv2.1.319では読み取り専用コマンドに対する不要な権限プロンプトも解消されています。",
-    "category": "AI・生成AI",
-    "content_type": "article",
-    "collected_at": "2026-11-07T01:26:57.275826"
   }
 ]
